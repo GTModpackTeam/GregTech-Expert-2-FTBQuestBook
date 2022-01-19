@@ -1,0 +1,29 @@
+{
+	title: "筐体共有",
+	x: 18.0d,
+	y: 0.0d,
+	description: "Multiblock Sharing",
+	text: [
+		""
+	],
+	dependencies: [
+		"586e87b4"
+	],
+	hide: true,
+	min_width: 300,
+	tasks: [{
+		uid: "dd95ab21",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 8"
+		}],
+		count: 20L
+	},
+	{
+		uid: "c17c73eb",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1017"
+		}]
+	}]
+}

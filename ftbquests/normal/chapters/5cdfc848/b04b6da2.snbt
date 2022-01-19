@@ -1,0 +1,17 @@
+{
+	x: 2.0d,
+	y: 2.0d,
+	dependencies: [
+		"c530fc4e"
+	],
+	tasks: [{
+		uid: "094b4d41",
+		type: "item",
+		items: [{
+			id: "enderio:block_cap_bank",
+			tag: {
+				"enderio:energy": 50000000
+			}
+		}]
+	}]
+}

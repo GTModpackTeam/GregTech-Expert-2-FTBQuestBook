@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: 2.0d,
+	dependencies: [
+		"c530fc4e"
+	],
+	tasks: [{
+		uid: "090da696",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:creative_storage_cell",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

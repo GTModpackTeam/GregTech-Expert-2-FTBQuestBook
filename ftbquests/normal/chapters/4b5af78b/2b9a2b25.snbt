@@ -1,0 +1,22 @@
+{
+	title: "[重要]鉱石生成について",
+	icon: "gregtech:ore_vanadium_magnetite_0",
+	x: 4.0d,
+	y: -2.0d,
+	shape: "diamond",
+	text: [
+		"modpack側が調整中なので後々要加筆",
+		"",
+		"このクエストをクリアとすることでOre_Veinsタブが解放されます"
+	],
+	dependencies: [
+		"37835f75"
+	],
+	dependency_requirement: "all_started",
+	min_width: 300,
+	tasks: [{
+		uid: "2503b9f8",
+		type: "checkmark",
+		title: "読んだら押しましょう"
+	}]
+}

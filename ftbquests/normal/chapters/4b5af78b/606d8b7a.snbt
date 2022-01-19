@@ -1,0 +1,20 @@
+{
+	title: "流体力学",
+	x: 12.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "Fluid Handling",
+	text: [
+		""
+	],
+	dependencies: [
+		"3ac887a1"
+	],
+	min_width: 300,
+	or_tasks: true,
+	tasks: [{
+		uid: "20a6ae57",
+		type: "checkmark",
+		title: "読んだら押しましょう"
+	}]
+}

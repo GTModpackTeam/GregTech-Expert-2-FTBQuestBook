@@ -1,0 +1,18 @@
+{
+	icon: "gregtech:machine 1 7",
+	x: -11.0d,
+	y: 4.0d,
+	dependencies: [
+		"7ae7f404"
+	],
+	tasks: [{
+		uid: "5a6d2f74",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 7"
+		},
+		{
+			item: "gregtech:machine 1 8"
+		}]
+	}]
+}

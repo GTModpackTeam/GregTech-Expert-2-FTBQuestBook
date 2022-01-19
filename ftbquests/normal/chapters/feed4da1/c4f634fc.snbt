@@ -1,0 +1,21 @@
+{
+	title: "Upgrade Steam",
+	x: -5.0d,
+	y: -2.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"76b62977"
+	],
+	tasks: [{
+		uid: "d33d5c45",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 18"
+		},
+		{
+			item: "gregtech:machine 1 12"
+		}]
+	}]
+}

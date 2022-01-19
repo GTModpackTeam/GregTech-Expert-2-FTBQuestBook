@@ -1,0 +1,34 @@
+{
+	icon: "minecraft:piston",
+	x: -11.0d,
+	y: 2.0d,
+	shape: "diamond",
+	dependencies: [
+		"4da6c35f",
+		"1d8fbe1d"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "be8673fe",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 2517"
+		}],
+		count: 2L
+	},
+	{
+		uid: "7aadacdc",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_gear_small 1 51"
+		}],
+		count: 2L
+	},
+	{
+		uid: "1cb8ca32",
+		type: "item",
+		items: [{
+			item: "minecraft:piston"
+		}]
+	}]
+}

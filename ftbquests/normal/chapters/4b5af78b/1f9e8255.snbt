@@ -1,0 +1,23 @@
+{
+	title: "工場の汚水が出てくるところについてないやつ",
+	x: 12.0d,
+	y: 6.0d,
+	description: "Potin Fluid Pipe",
+	text: [
+		""
+	],
+	dependencies: [
+		"cf2213f6",
+		"39f52b04"
+	],
+	dependency_requirement: "all_started",
+	min_width: 300,
+	tasks: [{
+		uid: "36c8869b",
+		type: "item",
+		items: [{
+			item: "gregtech:fluid_pipe_normal 1 2037"
+		}],
+		count: 2L
+	}]
+}

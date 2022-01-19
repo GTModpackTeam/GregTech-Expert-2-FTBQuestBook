@@ -1,0 +1,19 @@
+{
+	title: "Ore Processing 1",
+	icon: "gregtech:meta_crushed 1 2064",
+	x: -3.0d,
+	y: 4.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"41b1f4ca"
+	],
+	tasks: [{
+		uid: "09258ef8",
+		type: "item",
+		items: [{
+			item: "minecraft:cauldron"
+		}]
+	}]
+}

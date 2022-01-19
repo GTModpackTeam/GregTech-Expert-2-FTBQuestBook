@@ -1,0 +1,21 @@
+{
+	title: "露天風呂のお湯が出てくるところについてるやつ",
+	x: 12.0d,
+	y: 4.0d,
+	description: "Small Wood Fluid Pipe",
+	text: [
+		""
+	],
+	dependencies: [
+		"606d8b7a"
+	],
+	dependency_requirement: "all_started",
+	min_width: 300,
+	tasks: [{
+		uid: "484c3fd5",
+		type: "item",
+		items: [{
+			item: "gregtech:fluid_pipe_small 1 1617"
+		}]
+	}]
+}

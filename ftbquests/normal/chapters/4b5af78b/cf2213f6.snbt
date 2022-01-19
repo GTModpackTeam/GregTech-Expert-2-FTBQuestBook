@@ -1,0 +1,33 @@
+{
+	title: "ポチっとな",
+	icon: "gregtech:meta_ingot 1 2037",
+	x: 10.0d,
+	y: 6.0d,
+	description: "Potin Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"13bc06e8",
+		"04d3ff01",
+		"aeba6ad5"
+	],
+	min_width: 300,
+	or_tasks: true,
+	tasks: [{
+		uid: "cbe0afb2",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 2037"
+		}],
+		count: 9L
+	},
+	{
+		uid: "ad68fdc0",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 2037"
+		}],
+		count: 9L
+	}]
+}

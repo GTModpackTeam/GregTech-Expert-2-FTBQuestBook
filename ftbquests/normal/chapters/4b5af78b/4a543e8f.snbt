@@ -1,0 +1,33 @@
+{
+	title: "Modpack Infomation & Credits",
+	icon: "gregtech:meta_item_1 1 9",
+	x: -2.0d,
+	y: -2.0d,
+	shape: "square",
+	text: [
+		"Gregtech Expert 2(以下GTE2)はGregtech Community Edition unofficial (以下GTCEu)を基にしたmodpackですが、",
+		"過去に存在した多くのGregtechをテーマにしたmodpackの集合体のようなものとも言われています。",
+		"以下にそれらの簡単な紹介を載せておきますので、もし興味がある方は是非プレイしてみて下さい。",
+		"",
+		"・Gregtech Expert(初代)(当クエストブックではGTE1と呼称)",
+		"(以下要加筆)",
+		"",
+		"・GT New Horizons(当クエストブックではGTNHと呼称)",
+		"(以下要加筆)",
+		"",
+		"・Omnifactory(当クエストブックではOmnifactoryと呼称)",
+		"(以下要加筆)",
+		"",
+		"・IMPACT GT EDITION(当クエストブックではIMPACTと呼称)",
+		"(以下要加筆)",
+		"",
+		"このクエストはGregTech-Community-Packのクエスト文をLGPL3.0 Licenseに基づき一部使用しています",
+		"この場を借りて感謝申し上げます。"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1be3bcfc",
+		type: "checkmark",
+		title: "読んだら押しましょう"
+	}]
+}

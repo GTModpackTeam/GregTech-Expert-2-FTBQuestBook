@@ -1,0 +1,37 @@
+{
+	title: "五十年もののワイン専用",
+	x: 14.0d,
+	y: 4.0d,
+	description: "Wooden Multiblock Tank",
+	text: [
+		""
+	],
+	dependencies: [
+		"606d8b7a"
+	],
+	dependency_requirement: "all_started",
+	min_width: 300,
+	tasks: [{
+		uid: "96d3c921",
+		type: "item",
+		items: [{
+			item: "gregtech:steam_casing 1 5"
+		}],
+		count: 26L
+	},
+	{
+		uid: "4b58fdf4",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1597"
+		}]
+	},
+	{
+		uid: "d890701e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1596"
+		}],
+		count: 2L
+	}]
+}

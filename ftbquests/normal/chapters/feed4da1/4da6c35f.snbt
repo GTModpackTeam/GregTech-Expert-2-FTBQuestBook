@@ -1,0 +1,25 @@
+{
+	icon: "gregtech:machine 1 17",
+	x: -13.0d,
+	y: 2.0d,
+	shape: "diamond",
+	dependencies: [
+		"b91c9314"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "69a479b1",
+		type: "item",
+		items: [{
+			item: "gregtech:fluid_pipe_small 1 260"
+		}],
+		count: 6L
+	},
+	{
+		uid: "29f6d9a4",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 17"
+		}]
+	}]
+}

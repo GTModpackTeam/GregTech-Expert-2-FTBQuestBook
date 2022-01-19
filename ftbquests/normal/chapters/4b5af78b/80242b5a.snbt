@@ -1,0 +1,44 @@
+{
+	title: "地盤沈下不可避",
+	x: 14.0d,
+	y: 6.0d,
+	description: "Primitive Water Pump",
+	text: [
+		"地下水を汲み上げるポンプを作りましょう"
+	],
+	dependencies: [
+		"39f52b04"
+	],
+	min_width: 300,
+	or_tasks: true,
+	tasks: [{
+		uid: "3af6b1d4",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1648"
+		}]
+	},
+	{
+		uid: "55bb9b8e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1649"
+		}]
+	},
+	{
+		uid: "b6437206",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_block_frame_103"
+		}],
+		count: 10L
+	},
+	{
+		uid: "2242fd0e",
+		type: "item",
+		items: [{
+			item: "gregtech:steam_casing 1 4"
+		}],
+		count: 10L
+	}]
+}

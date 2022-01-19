@@ -1,0 +1,32 @@
+{
+	icon: "gregtech:meta_plate 1 1068",
+	x: -11.0d,
+	y: 6.0d,
+	dependencies: [
+		"03dbc8d7",
+		"27568894"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "5781608d",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 1002"
+		}],
+		count: 3L
+	},
+	{
+		uid: "fa3cd33d",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 1068"
+		}]
+	},
+	{
+		uid: "135b6e5e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_plate 1 1068"
+		}]
+	}]
+}

@@ -5,7 +5,8 @@
 	y: 6.0d,
 	description: "Potin Ingot",
 	text: [
-		""
+		"potinは銅と錫と鉛で作ることのできる合金です。",
+		"主にパイプの材料として使われます。"
 	],
 	dependencies: [
 		"13bc06e8",

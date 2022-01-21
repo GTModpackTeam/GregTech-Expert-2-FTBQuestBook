@@ -5,7 +5,7 @@
 	y: 2.0d,
 	description: "Coke Oven",
 	text: [
-		""
+		"[マルチブロックの説明]"
 	],
 	dependencies: [
 		"606d8b7a"

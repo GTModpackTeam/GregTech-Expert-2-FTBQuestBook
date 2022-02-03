@@ -8,6 +8,7 @@
 		"bdd3b785",
 		"1817159c"
 	],
+	min_width: 300,
 	or_tasks: true,
 	tasks: [{
 		uid: "ec41d1a0",

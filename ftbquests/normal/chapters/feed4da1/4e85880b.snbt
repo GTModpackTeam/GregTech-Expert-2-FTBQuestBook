@@ -6,6 +6,7 @@
 		"9d8289f6",
 		"cf2213f6"
 	],
+	min_width: 300,
 	or_tasks: true,
 	tasks: [{
 		uid: "68779d50",

@@ -14,6 +14,7 @@
 		"c23bf222",
 		"4da6c35f"
 	],
+	min_width: 300,
 	or_tasks: true,
 	tasks: [{
 		uid: "e57e7eb6",

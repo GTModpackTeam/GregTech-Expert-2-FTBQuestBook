@@ -1,7 +1,7 @@
 {
-	title: "ポチっとな",
+	title: "ポチん",
 	icon: "gregtech:meta_ingot 1 2037",
-	x: 10.0d,
+	x: 12.0d,
 	y: 6.0d,
 	description: "Potin Ingot",
 	text: [

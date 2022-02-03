@@ -4,7 +4,9 @@
 	y: 2.0d,
 	description: "Coke",
 	text: [
-		""
+		"コークスは石炭より高性能な燃料です。",
+		"",
+		"余談：GTCEuではなぜかコークスの結晶が実装されている"
 	],
 	dependencies: [
 		"586e87b4",

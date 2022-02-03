@@ -10,13 +10,13 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 30s,
 			tag: {
 				Charge: 1600000L,
 				GT.ToolStats: {
 					Material: "neutronium"
 				}
-			},
-			Damage: 30s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

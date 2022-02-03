@@ -2,12 +2,12 @@
 	title: "HammerXもどき",
 	icon: {
 		id: "gregtech:meta_tool",
+		Damage: 19s,
 		tag: {
 			GT.ToolStats: {
 				Material: "neutronium"
 			}
-		},
-		Damage: 19s
+		}
 	},
 	x: 10.0d,
 	y: -2.0d,
@@ -30,30 +30,30 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 19s,
 			tag: {
 				GT.ToolStats: {
 					Material: "iron"
 				}
-			},
-			Damage: 19s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 19s,
 			tag: {
 				GT.ToolStats: {
 					Material: "bronze"
 				}
-			},
-			Damage: 19s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 19s,
 			tag: {
 				GT.ToolStats: {
 					Material: "wrought_iron"
 				}
-			},
-			Damage: 19s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

@@ -48,16 +48,16 @@
 		uid: "175fc78a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "craftingToolCrowbar",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolCrowbar"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolCrowbar"
 				}
 			}
 		}],
@@ -67,16 +67,16 @@
 		uid: "3bf8d83b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "craftingToolWireCutter",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolWireCutter"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolWireCutter"
 				}
 			}
 		}],
@@ -87,30 +87,30 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 17s,
 			tag: {
 				GT.ToolStats: {
 					Material: "iron"
 				}
-			},
-			Damage: 17s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 17s,
 			tag: {
 				GT.ToolStats: {
 					Material: "bronze"
 				}
-			},
-			Damage: 17s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 17s,
 			tag: {
 				GT.ToolStats: {
 					Material: "wrought_iron"
 				}
-			},
-			Damage: 17s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -119,6 +119,7 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 16s,
 			tag: {
 				ench: [{
 					lvl: 3s,
@@ -127,11 +128,11 @@
 				GT.ToolStats: {
 					Material: "iron"
 				}
-			},
-			Damage: 16s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 16s,
 			tag: {
 				ench: [{
 					lvl: 3s,
@@ -140,11 +141,11 @@
 				GT.ToolStats: {
 					Material: "bronze"
 				}
-			},
-			Damage: 16s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 16s,
 			tag: {
 				ench: [{
 					lvl: 3s,
@@ -153,8 +154,7 @@
 				GT.ToolStats: {
 					Material: "wrought_iron"
 				}
-			},
-			Damage: 16s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -163,30 +163,30 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 15s,
 			tag: {
 				GT.ToolStats: {
 					Material: "iron"
 				}
-			},
-			Damage: 15s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 15s,
 			tag: {
 				GT.ToolStats: {
 					Material: "bronze"
 				}
-			},
-			Damage: 15s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 15s,
 			tag: {
 				GT.ToolStats: {
 					Material: "wrought_iron"
 				}
-			},
-			Damage: 15s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -194,16 +194,16 @@
 		uid: "74318471",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "craftingToolBranchCutter",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolBranchCutter"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolBranchCutter"
 				}
 			}
 		}],
@@ -213,16 +213,16 @@
 		uid: "2b4b0ba7",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "craftingToolPlunger",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolPlunger"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolPlunger"
 				}
 			}
 		}],

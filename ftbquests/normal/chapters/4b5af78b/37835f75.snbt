@@ -18,7 +18,7 @@
 		"バニラで存在したツールは全て耐久値が1にされているので、序盤はこれを使うしかありません。",
 		"しかし一括破壊があるので斧とシャベルは作らなくてもいいかもしれません。",
 		"",
-		"余談：作業台などの多くのバニラレシピはGTNHから輸入されている"
+		"余談：作業台などの多くのバニラレシピはGT:NHから輸入されている"
 	],
 	dependencies: [
 		"b6814711"
@@ -52,12 +52,12 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 12s,
 			tag: {
 				GT.ToolStats: {
 					Material: "flint"
 				}
-			},
-			Damage: 12s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -66,12 +66,12 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 1s,
 			tag: {
 				GT.ToolStats: {
 					Material: "flint"
 				}
-			},
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

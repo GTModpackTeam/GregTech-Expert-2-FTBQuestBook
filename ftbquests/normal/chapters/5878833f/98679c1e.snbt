@@ -9,13 +9,13 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 21s,
 			tag: {
 				Charge: 400000L,
 				GT.ToolStats: {
 					Material: "vanadium_steel"
 				}
-			},
-			Damage: 21s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

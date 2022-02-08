@@ -1,6 +1,6 @@
 {
 	title: "お母さんが使ってそうな道具ベスト8",
-	x: 14.0d,
+	x: 16.0d,
 	y: 0.0d,
 	description: "NotSoImportantTools",
 	text: [
@@ -8,36 +8,36 @@
 		"modpack全体を通じて需要の小さいツールです。",
 		"必要な時に必要なものを作るといいでしょう。",
 		"",
-		"・Crowbar",
-		"クロウバーは機械に取り付けたカバーを機械を壊すことなく撤去できるツールです。",
+		"・バール",
+		"バールは機械に取り付けたカバーを機械を壊すことなく撤去できるツールです。",
 		"カバーに対して右クリックするだけで使用できます。",
 		"",
-		"・Wire_Cutter",
+		"・ワイヤーカッター",
 		"ワイヤーカッターはワイヤーをクラフトしたり撤去したり接続したりするツールです。",
 		"GTCEuの仕様でワイヤーとケーブルはレンチでも撤去できてしまうのでその面であまり価値はありませんが、",
 		"ワイヤーとケーブルはデフォルトで他のワイヤーとケーブルや機械に繋がらないという仕様が追加されているので、",
 		"手動で接続できるワイヤーカッターは電気時代に入った後は必要不可欠なツールです。",
 		"",
-		"・Sense",
+		"・センス",
 		"鎌のような見た目のセンスは左クリックで広範囲の作物やサトウキビを一括伐採することができます。",
 		"",
-		"・Butchery_Knife",
-		"バッチェリーナイフで敵を倒すとより多くのアイテムがドロップします。",
+		"・肉切り包丁",
+		"肉切り包丁で敵を倒すとより多くのアイテムがドロップします。",
 		"革を集める時に最も活躍します。",
 		"",
-		"・Knife",
+		"・ナイフ",
 		"ナイフはゴムをリングにしたりなどいくつかのレシピで要求されます。",
 		"主に電気時代以降に出番があります。",
 		"",
-		"・Branch Cutter",
+		"・枝切りばさみ",
 		"ブランチカッターは葉ブロックを高速で破壊することができます。",
 		"",
-		"・Plunger",
-		"プランガーは機械に右クリックすることで使用でき、",
+		"・ラバーカップ",
+		"ラバーカップは機械に右クリックすることで使用でき、",
 		"機械の入力スロットに入っている液体を廃棄することができます。",
 		"",
-		"・Shears",
-		"はさみです。"
+		"・ハサミ",
+		"ハサミです。"
 	],
 	dependencies: [
 		"3ac887a1"
@@ -48,16 +48,16 @@
 		uid: "175fc78a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "craftingToolCrowbar",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolCrowbar"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolCrowbar"
 				}
 			}
 		}],
@@ -67,16 +67,16 @@
 		uid: "3bf8d83b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "craftingToolWireCutter",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolWireCutter"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolWireCutter"
 				}
 			}
 		}],
@@ -87,30 +87,30 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 17s,
 			tag: {
 				GT.ToolStats: {
 					Material: "iron"
 				}
-			},
-			Damage: 17s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 17s,
 			tag: {
 				GT.ToolStats: {
 					Material: "bronze"
 				}
-			},
-			Damage: 17s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 17s,
 			tag: {
 				GT.ToolStats: {
 					Material: "wrought_iron"
 				}
-			},
-			Damage: 17s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -119,6 +119,7 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 16s,
 			tag: {
 				ench: [{
 					lvl: 3s,
@@ -127,11 +128,11 @@
 				GT.ToolStats: {
 					Material: "iron"
 				}
-			},
-			Damage: 16s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 16s,
 			tag: {
 				ench: [{
 					lvl: 3s,
@@ -140,11 +141,11 @@
 				GT.ToolStats: {
 					Material: "bronze"
 				}
-			},
-			Damage: 16s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 16s,
 			tag: {
 				ench: [{
 					lvl: 3s,
@@ -153,8 +154,7 @@
 				GT.ToolStats: {
 					Material: "wrought_iron"
 				}
-			},
-			Damage: 16s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -163,30 +163,30 @@
 		type: "item",
 		items: [{
 			id: "gregtech:meta_tool",
+			Damage: 15s,
 			tag: {
 				GT.ToolStats: {
 					Material: "iron"
 				}
-			},
-			Damage: 15s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 15s,
 			tag: {
 				GT.ToolStats: {
 					Material: "bronze"
 				}
-			},
-			Damage: 15s
+			}
 		},
 		{
 			id: "gregtech:meta_tool",
+			Damage: 15s,
 			tag: {
 				GT.ToolStats: {
 					Material: "wrought_iron"
 				}
-			},
-			Damage: 15s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -194,16 +194,16 @@
 		uid: "74318471",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "craftingToolBranchCutter",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolBranchCutter"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolBranchCutter"
 				}
 			}
 		}],
@@ -213,16 +213,16 @@
 		uid: "2b4b0ba7",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "craftingToolPlunger",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolPlunger"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolPlunger"
 				}
 			}
 		}],

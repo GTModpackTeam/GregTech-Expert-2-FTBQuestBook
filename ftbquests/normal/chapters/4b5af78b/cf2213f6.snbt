@@ -1,11 +1,11 @@
 {
-	title: "ポチっとな",
+	title: "ポチん",
 	icon: "gregtech:meta_ingot 1 2037",
-	x: 10.0d,
+	x: 12.0d,
 	y: 6.0d,
 	description: "Potin Ingot",
 	text: [
-		"potinは銅と錫と鉛で作ることのできる合金です。",
+		"ポティンは銅と錫と鉛で作ることのできる合金です。",
 		"主にパイプの材料として使われます。"
 	],
 	dependencies: [

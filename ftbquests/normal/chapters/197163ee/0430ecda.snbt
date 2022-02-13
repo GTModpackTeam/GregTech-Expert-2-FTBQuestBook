@@ -8,14 +8,14 @@
 		uid: "43d25469",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_gem 1 314"
+			item: "gregtech:meta_dust 1 314"
 		}]
 	},
 	{
 		uid: "deede8b0",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_gem 1 281"
+			item: "gregtech:meta_dust 1 281"
 		}]
 	}]
 }

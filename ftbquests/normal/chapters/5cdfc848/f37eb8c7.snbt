@@ -2,13 +2,13 @@
 	x: 0.0d,
 	y: 2.0d,
 	dependencies: [
-		"c530fc4e"
+		"b04b6da2"
 	],
 	tasks: [{
-		uid: "951d3db5",
+		uid: "55321eb6",
 		type: "item",
 		items: [{
-			item: "appliedenergistics2:creative_energy_cell"
+			item: "contenttweaker:creativecomponent"
 		}]
 	}]
 }

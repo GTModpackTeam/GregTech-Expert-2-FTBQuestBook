@@ -2,7 +2,7 @@
 	x: 2.0d,
 	y: 2.0d,
 	dependencies: [
-		"c530fc4e"
+		"5d388d48"
 	],
 	tasks: [{
 		uid: "094b4d41",
@@ -12,6 +12,13 @@
 			tag: {
 				"enderio:energy": 50000000
 			}
+		}]
+	},
+	{
+		uid: "c1b9d22e",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:creative_energy_cell"
 		}]
 	}]
 }

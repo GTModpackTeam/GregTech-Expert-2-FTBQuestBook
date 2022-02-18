@@ -1,6 +1,13 @@
 {
+	title: "Magnetite Vein",
 	x: 4.0d,
 	y: 16.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"2b9a2b25"
+	],
 	tasks: [{
 		uid: "f3a8b009",
 		type: "item",

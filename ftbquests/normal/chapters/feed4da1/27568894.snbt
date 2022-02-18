@@ -1,7 +1,13 @@
 {
+	title: "有作為抽出",
 	icon: "gregtech:machine 1 7",
 	x: -11.0d,
 	y: 4.0d,
+	description: "Steam Extractor",
+	text: [
+		"蒸気式抽出機を使うと粘性樹脂やゴムの原木から未加工ゴムのパルプを抽出することができます。",
+		"初めてのゴムを入手するためには必須の機械です。"
+	],
 	dependencies: [
 		"7ae7f404"
 	],

@@ -1,8 +1,15 @@
 {
+	title: "1ブロックの乾式製錬炉",
 	icon: "gregtech:machine 1 17",
 	x: -13.0d,
 	y: 2.0d,
 	shape: "diamond",
+	description: "Alloy Smelter",
+	text: [
+		"合金かまどでは蒸気で合金を焼くことができます。",
+		"今まで銅の粉3つと錫の粉1つで青銅の粉3つがクラフトできましたが、",
+		"合金かまどを使うことで同じコストで4つ焼けるようになります。"
+	],
 	dependencies: [
 		"b91c9314"
 	],

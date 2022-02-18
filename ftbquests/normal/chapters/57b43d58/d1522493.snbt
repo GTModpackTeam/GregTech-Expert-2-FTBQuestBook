@@ -9,12 +9,6 @@
 		type: "item",
 		items: [{
 			item: "gregtech:meta_item_1 1 290"
-		},
-		{
-			item: "gregtech:meta_item_1 1 292"
-		},
-		{
-			item: "gregtech:meta_item_1 1 293"
 		}]
 	}]
 }

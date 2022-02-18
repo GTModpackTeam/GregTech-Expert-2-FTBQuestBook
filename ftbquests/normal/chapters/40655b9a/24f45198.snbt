@@ -2,13 +2,13 @@
 	x: 0.0d,
 	y: 2.0d,
 	dependencies: [
-		"c530fc4e"
+		"798d57e7"
 	],
 	tasks: [{
-		uid: "951d3db5",
+		uid: "b8b1d9f2",
 		type: "item",
 		items: [{
-			item: "appliedenergistics2:creative_energy_cell"
+			item: "gregtech:machine 1 472"
 		}]
 	}]
 }

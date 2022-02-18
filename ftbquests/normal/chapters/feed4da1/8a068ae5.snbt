@@ -1,0 +1,14 @@
+{
+	x: -13.0d,
+	y: 6.0d,
+	dependencies: [
+		"b4a568df"
+	],
+	tasks: [{
+		uid: "8958d5e5",
+		type: "item",
+		items: [{
+			item: "ezstorage:crafting_box"
+		}]
+	}]
+}

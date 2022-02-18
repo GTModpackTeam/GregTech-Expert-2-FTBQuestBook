@@ -1,0 +1,14 @@
+{
+	x: -9.0d,
+	y: 8.0d,
+	dependencies: [
+		"390f03f3"
+	],
+	tasks: [{
+		uid: "61cbe960",
+		type: "item",
+		items: [{
+			item: "ezstorage:hyper_storage_box"
+		}]
+	}]
+}

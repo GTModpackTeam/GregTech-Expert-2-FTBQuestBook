@@ -1,0 +1,14 @@
+{
+	x: -15.0d,
+	y: 4.0d,
+	dependencies: [
+		"b91c9314"
+	],
+	tasks: [{
+		uid: "32d53eb9",
+		type: "item",
+		items: [{
+			item: "ezstorage:storage_core"
+		}]
+	}]
+}

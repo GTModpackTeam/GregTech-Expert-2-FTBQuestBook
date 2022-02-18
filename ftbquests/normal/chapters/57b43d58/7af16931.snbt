@@ -7,7 +7,7 @@
 			}
 		}
 	},
-	x: 7.5d,
+	x: 9.5d,
 	y: 6.0d,
 	dependencies: [
 		"b75f94e8"

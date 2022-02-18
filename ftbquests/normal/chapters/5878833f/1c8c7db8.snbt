@@ -1,12 +1,13 @@
 {
 	x: 6.0d,
-	y: -2.0d,
+	y: -4.0d,
 	dependencies: [
 		"dc6100c2",
 		"14b3e498",
 		"d5c11215",
 		"579e8f8b"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "db5d20a8",
 		type: "item",

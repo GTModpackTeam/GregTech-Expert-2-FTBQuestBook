@@ -1,14 +1,14 @@
 {
-	x: 5.5d,
-	y: 8.0d,
+	x: 7.5d,
+	y: 10.0d,
 	dependencies: [
-		"b75f94e8"
+		"5cb7702a"
 	],
 	tasks: [{
-		uid: "5e8c4d10",
+		uid: "71c85e6f",
 		type: "item",
 		items: [{
-			item: "gregtech:gt_armor 1 2"
+			item: "danknull:dank_null_3"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

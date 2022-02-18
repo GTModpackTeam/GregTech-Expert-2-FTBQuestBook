@@ -1,14 +1,14 @@
 {
-	x: 11.5d,
+	x: -13.0d,
 	y: 6.0d,
 	dependencies: [
-		"b75f94e8"
+		"b4a568df"
 	],
 	tasks: [{
-		uid: "52d62462",
+		uid: "8958d5e5",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_item_1 1 247"
+			item: "ezstorage:crafting_box"
 		}]
 	}]
 }

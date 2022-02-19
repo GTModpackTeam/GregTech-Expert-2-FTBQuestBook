@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	dependencies: [
+		"2589efac"
+	],
+	tasks: [{
+		uid: "fb23536a",
+		type: "fluid",
+		fluid: "polytetrafluoroethylene"
+	},
+	{
+		uid: "63cb5b93",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_plate 1 1016"
+		}]
+	}]
+}

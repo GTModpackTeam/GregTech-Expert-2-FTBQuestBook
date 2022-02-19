@@ -1,5 +1,5 @@
 {
-	x: -4.0d,
+	x: -2.0d,
 	y: 0.0d,
 	hide_dependency_lines: true,
 	dependencies: [
@@ -8,6 +8,6 @@
 	tasks: [{
 		uid: "6c370625",
 		type: "checkmark",
-		title: "Coming Soon™"
+		title: "Epoxy Resin Coming Soon™"
 	}]
 }

@@ -1,6 +1,11 @@
 {
+	title: "null",
 	x: 6.0d,
 	y: -4.0d,
+	description: "/dank/null",
+	text: [
+		"執筆中"
+	],
 	dependencies: [
 		"2b9a2b25"
 	],

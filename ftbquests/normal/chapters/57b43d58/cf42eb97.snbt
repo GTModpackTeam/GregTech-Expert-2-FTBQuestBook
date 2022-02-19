@@ -1,6 +1,6 @@
 {
 	x: 13.5d,
-	y: -10.0d,
+	y: -8.0d,
 	dependencies: [
 		"e2169e27"
 	],
@@ -9,6 +9,13 @@
 		type: "item",
 		items: [{
 			item: "gregtech:machine 1 1316"
+		}]
+	},
+	{
+		uid: "0eb30c07",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1376"
 		}]
 	}]
 }

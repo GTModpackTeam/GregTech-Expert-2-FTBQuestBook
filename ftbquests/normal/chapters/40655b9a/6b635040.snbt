@@ -4,6 +4,7 @@
 	dependencies: [
 		"2589efac"
 	],
+	or_tasks: true,
 	tasks: [{
 		uid: "b49a9913",
 		type: "fluid",

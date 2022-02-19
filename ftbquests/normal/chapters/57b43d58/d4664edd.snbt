@@ -6,13 +6,6 @@
 	],
 	or_tasks: true,
 	tasks: [{
-		uid: "b31b0e37",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 301"
-		}]
-	},
-	{
 		uid: "7555c62a",
 		type: "item",
 		items: [{

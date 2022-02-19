@@ -4,7 +4,7 @@
 	y: 8.0d,
 	description: "Condensed Storage Box",
 	text: [
-		"Condensed_Storage_BoxはStorage Coreの容量を4,000増加させます。"
+		"Condensed_Storage_BoxはStorage_Coreの容量を4,000増加させます。"
 	],
 	dependencies: [
 		"0b6fa366"

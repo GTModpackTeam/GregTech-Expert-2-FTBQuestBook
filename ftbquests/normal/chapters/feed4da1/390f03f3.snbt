@@ -4,7 +4,7 @@
 	y: 8.0d,
 	description: "Ultra Storage Box",
 	text: [
-		"Ultra_Storage_BoxはStorage Coreの容量を80,000増加させます。"
+		"Ultra_Storage_BoxはStorage_Coreの容量を80,000増加させます。"
 	],
 	dependencies: [
 		"718274c4"

@@ -4,7 +4,7 @@
 	y: 8.0d,
 	description: "Super Storage Box",
 	text: [
-		"Super_Storage_BoxはStorage Coreの容量を20,000増加させます。"
+		"Super_Storage_BoxはStorage_Coreの容量を20,000増加させます。"
 	],
 	dependencies: [
 		"53d86de2"

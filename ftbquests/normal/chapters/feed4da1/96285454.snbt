@@ -1,8 +1,12 @@
 {
+	title: "スチールの処理に最適",
 	icon: "gregtech:machine 1 1000",
 	x: -7.0d,
 	y: 0.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"afa140d7",
 		"bdd3b785",

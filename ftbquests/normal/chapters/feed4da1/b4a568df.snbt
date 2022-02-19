@@ -1,5 +1,6 @@
 {
 	title: "ME Controller(偽)",
+	icon: "ezstorage:storage_core",
 	x: -15.0d,
 	y: 4.0d,
 	description: "Storage Core",
@@ -16,8 +17,23 @@
 		"b91c9314"
 	],
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
-		uid: "32d53eb9",
+		uid: "a6369f78",
+		type: "item",
+		items: [{
+			item: "ezstorage:blank_box"
+		}]
+	},
+	{
+		uid: "1cd2ef0c",
+		type: "item",
+		items: [{
+			item: "ezstorage:storage_box"
+		}]
+	},
+	{
+		uid: "eefe3095",
 		type: "item",
 		items: [{
 			item: "ezstorage:storage_core"

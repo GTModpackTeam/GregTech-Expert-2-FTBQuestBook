@@ -1,4 +1,5 @@
 {
+	title: "人間の処理に最適(やっちゃダメ)",
 	icon: {
 		id: "forge:bucketfilled",
 		tag: {
@@ -8,6 +9,10 @@
 	},
 	x: -9.0d,
 	y: 0.0d,
+	description: "Concrete Bucket",
+	text: [
+		""
+	],
 	dependencies: [
 		"4dd0e874"
 	],

@@ -15,7 +15,7 @@
 		"溶岩ボイラーが液体燃料ボイラーに名称変更された時についでに変更された。"
 	],
 	dependencies: [
-		"a887d7d6"
+		"3ac887a1"
 	],
 	min_width: 300,
 	or_tasks: true,

@@ -8,7 +8,14 @@
 		uid: "c84a3919",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_dust 1 285"
+			item: "gregtech:meta_dust 1 286"
+		}]
+	},
+	{
+		uid: "f9a25db4",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 284"
 		}]
 	}]
 }

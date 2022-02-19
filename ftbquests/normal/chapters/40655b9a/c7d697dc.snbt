@@ -1,14 +1,14 @@
 {
-	x: -4.0d,
+	x: 6.0d,
 	y: -2.0d,
 	dependencies: [
-		"798d57e7"
+		"2589efac"
 	],
 	tasks: [{
-		uid: "01005196",
+		uid: "119d3c05",
 		type: "item",
 		items: [{
-			item: "gregtech:machine 1 427"
+			item: "minecraft:blaze_powder"
 		}]
 	}]
 }

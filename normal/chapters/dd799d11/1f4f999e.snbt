@@ -14,7 +14,7 @@
 			item: "appliedenergistics2:material 1 1"
 		},
 		{
-			item: "contenttweaker:dustchargedcertusquartz"
+			item: "gregtech:meta_dust 1 32118"
 		}]
 	},
 	{
@@ -24,7 +24,7 @@
 			item: "appliedenergistics2:material 1 7"
 		},
 		{
-			item: "contenttweaker:dustfluix"
+			item: "gregtech:meta_dust 1 32117"
 		}]
 	}]
 }

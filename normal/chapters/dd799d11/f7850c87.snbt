@@ -1,15 +1,17 @@
 {
-	x: 14.0d,
-	y: 0.0d,
+	x: 20.0d,
+	y: -4.0d,
 	dependencies: [
 		"eb1959d9"
 	],
 	tasks: [{
-		uid: "b462d57b",
+		uid: "637fb36e",
 		type: "item",
 		items: [{
-			id: "extracells:terminal.fluid.wireless",
-			tag: {}
+			id: "wit:wit",
+			tag: {
+				InfinityEnergy: 0
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

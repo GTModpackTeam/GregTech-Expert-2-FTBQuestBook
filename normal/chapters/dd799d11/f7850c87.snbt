@@ -1,9 +1,10 @@
 {
-	x: 20.0d,
-	y: -4.0d,
+	x: 22.0d,
+	y: 0.0d,
 	dependencies: [
-		"eb1959d9"
+		"811a1952"
 	],
+	dependency_requirement: "one_started",
 	tasks: [{
 		uid: "637fb36e",
 		type: "item",

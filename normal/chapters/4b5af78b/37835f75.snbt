@@ -75,5 +75,12 @@
 			}
 		}],
 		ignore_nbt: 1b
+	},
+	{
+		uid: "0794e463",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}]
 	}]
 }

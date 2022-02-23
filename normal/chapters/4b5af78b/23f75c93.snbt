@@ -1,7 +1,7 @@
 {
 	title: "五十年もののワイン専用",
-	x: 16.0d,
-	y: 4.0d,
+	x: 18.0d,
+	y: -2.0d,
 	description: "Wooden Multiblock Tank",
 	text: [
 		"木製マルチブロックタンクには一度に沢山のクレオソートを貯めておくことができます。",

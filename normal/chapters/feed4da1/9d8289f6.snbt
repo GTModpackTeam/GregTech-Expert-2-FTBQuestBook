@@ -1,8 +1,8 @@
 {
 	title: "鉱石処理うんぬん",
 	icon: "gregtech:meta_crushed 1 2064",
-	x: -3.0d,
-	y: 4.0d,
+	x: 1.0d,
+	y: 2.0d,
 	description: "Ore Processing 1",
 	text: [
 		"#ハンマーで鉱石を壊すと砕いた鉱石となる。",

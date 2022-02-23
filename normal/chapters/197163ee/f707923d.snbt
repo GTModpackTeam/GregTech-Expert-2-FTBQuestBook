@@ -1,7 +1,7 @@
 {
 	title: "デフォルトの生成確率が低すぎる鉱脈",
-	x: 10.0d,
-	y: 4.0d,
+	x: 4.0d,
+	y: 0.0d,
 	description: "Mineral Sand Vein",
 	text: [
 		""

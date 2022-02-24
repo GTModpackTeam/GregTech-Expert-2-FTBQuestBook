@@ -1,6 +1,11 @@
 {
-	x: 8.0d,
+	title: "ネザー温泉の素",
+	x: 10.0d,
 	y: 6.0d,
+	description: "Sulfur Dust",
+	text: [
+		""
+	],
 	dependencies: [
 		"1abcd71a"
 	],

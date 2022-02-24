@@ -2,7 +2,7 @@
 	title: "死体の処理に最適(やっていい)",
 	icon: "gregtech:machine 1 1000",
 	x: -7.0d,
-	y: 0.0d,
+	y: 2.0d,
 	shape: "diamond",
 	description: "primitive blast furnace",
 	text: [

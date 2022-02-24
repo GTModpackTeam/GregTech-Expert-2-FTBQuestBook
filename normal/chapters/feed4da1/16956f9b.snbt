@@ -1,8 +1,8 @@
 {
 	title: "ポケットを叩くとビスケットが粉々",
 	icon: "gregtech:machine 1 13",
-	x: -7.0d,
-	y: 4.0d,
+	x: -9.0d,
+	y: 0.0d,
 	description: "Steam Forge Hammer",
 	text: [
 		"鉄ブロックを圧縮して金床を作ることで解禁される蒸気式鍛造機はアイテムに自動でハンマー処理を施してくれる機械です。",

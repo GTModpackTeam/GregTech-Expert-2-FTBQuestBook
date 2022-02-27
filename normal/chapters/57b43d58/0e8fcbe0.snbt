@@ -37,7 +37,6 @@
 	tasks: [{
 		uid: "930a0f54",
 		type: "fluid",
-		fluid: "oxygen",
-		amount: 1
+		fluid: "oxygen"
 	}]
 }

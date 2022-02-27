@@ -1,9 +1,9 @@
 {
 	icon: "gregtech:machine 1 95",
 	x: 5.5d,
-	y: -6.0d,
+	y: -8.0d,
 	dependencies: [
-		"58037203"
+		"0e8fcbe0"
 	],
 	dependency_requirement: "all_started",
 	min_width: 300,
@@ -14,10 +14,5 @@
 		items: [{
 			item: "gregtech:machine 1 95"
 		}]
-	},
-	{
-		uid: "9be795b8",
-		type: "fluid",
-		fluid: "oxygen"
 	}]
 }

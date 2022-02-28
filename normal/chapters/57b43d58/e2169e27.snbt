@@ -1,22 +1,33 @@
 {
+	title: "カドミウムがかなり不憫",
 	icon: "gregtech:meta_item_1 1 735",
 	x: 11.5d,
 	y: -8.0d,
+	description: "Battery",
+	text: [
+		""
+	],
 	dependencies: [
-		"837ea586",
-		"0e480fd6"
+		"837ea586"
 	],
 	min_width: 300,
 	or_tasks: true,
 	tasks: [{
-		uid: "69a78b65",
+		uid: "559f247f",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 256"
+		}]
+	},
+	{
+		uid: "a10e9118",
 		type: "item",
 		items: [{
 			item: "gregtech:meta_item_1 1 717"
 		}]
 	},
 	{
-		uid: "c5e8fbaa",
+		uid: "53ac332d",
 		type: "item",
 		items: [{
 			item: "gregtech:meta_item_1 1 735"

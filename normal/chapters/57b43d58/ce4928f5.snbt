@@ -1,6 +1,6 @@
 {
 	title: "窒素がこんな色だったら私達は世界が全く見えないだろう",
-	x: 15.5d,
+	x: 19.5d,
 	y: -4.0d,
 	description: "Nitrogen",
 	text: [
@@ -15,6 +15,6 @@
 		uid: "0c824f7c",
 		type: "fluid",
 		fluid: "nitrogen",
-		amount: 1
+		amount: 3900
 	}]
 }

@@ -1,6 +1,6 @@
 {
 	title: "なんで作るのにポンプが要らないかって...?それを有効にするconfigがなかったからだよ...",
-	x: 13.5d,
+	x: 17.5d,
 	y: 0.0d,
 	description: "1x Manganese Phosphide Wire",
 	text: [
@@ -16,7 +16,7 @@
 		"なのでOmnifactoryなど一部のmodpackでは独自の物を実装していた"
 	],
 	dependencies: [
-		"79d5f843"
+		"3d238ac5"
 	],
 	min_width: 300,
 	tasks: [{

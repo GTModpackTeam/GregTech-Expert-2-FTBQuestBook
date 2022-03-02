@@ -1,6 +1,6 @@
 {
 	title: "変わらない安心感",
-	x: 13.5d,
+	x: 17.5d,
 	y: -4.0d,
 	shape: "diamond",
 	description: "Aluminium",
@@ -13,8 +13,8 @@
 		"ただし、MV機械を作るのにはアルミの他にMV回路も必要です。"
 	],
 	dependencies: [
-		"79d5f843",
-		"cd5ac370"
+		"cd5ac370",
+		"3d238ac5"
 	],
 	min_width: 300,
 	tasks: [{

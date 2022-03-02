@@ -1,6 +1,13 @@
 {
+	title: "ポータブル虚空",
 	x: 7.5d,
 	y: 6.0d,
+	description: "/dank/null/MK II",
+	text: [
+		"/dank/null/MK IIはLVの組立機で作ることのできるほぼ最初の実用的な新アイテムです。",
+		"",
+		"MK IIより増えた収容量とスロット数で採掘をより楽にしてくれます。"
+	],
 	dependencies: [
 		"b75f94e8"
 	],

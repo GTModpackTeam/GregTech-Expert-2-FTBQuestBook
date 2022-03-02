@@ -1,6 +1,11 @@
 {
+	title: "[調査中]液体燃料式インペラージェットパック",
 	x: 5.5d,
 	y: 8.0d,
+	description: "Liquid-Fueled Impeller Jetpack",
+	text: [
+		""
+	],
 	dependencies: [
 		"b75f94e8"
 	],

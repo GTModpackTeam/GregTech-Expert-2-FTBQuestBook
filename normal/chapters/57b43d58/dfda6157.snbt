@@ -1,6 +1,11 @@
 {
+	title: "[調査中]電動スラスター型ジェットパック",
 	x: 11.5d,
 	y: 6.0d,
+	description: "Electric Thruster Jetpack",
+	text: [
+		"このアイテムを執筆者が利用したことがないので調査中です。"
+	],
 	dependencies: [
 		"e72ae98e"
 	],

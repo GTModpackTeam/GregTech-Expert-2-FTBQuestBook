@@ -4,7 +4,7 @@
 	y: 8.0d,
 	description: "Liquid-Fueled Impeller Jetpack",
 	text: [
-		""
+		"このアイテムを執筆者が利用したことがないので調査中です。"
 	],
 	dependencies: [
 		"b75f94e8"

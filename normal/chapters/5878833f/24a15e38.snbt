@@ -5,6 +5,7 @@
 		"d5c11215",
 		"dc6100c2"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "69b6249d",
 		type: "item",

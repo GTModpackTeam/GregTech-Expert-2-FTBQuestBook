@@ -8,6 +8,7 @@
 	dependencies: [
 		"be6da410"
 	],
+	min_width: 300,
 	or_tasks: true,
 	tasks: [{
 		uid: "499dc177",

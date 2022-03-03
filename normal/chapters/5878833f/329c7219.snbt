@@ -1,0 +1,17 @@
+{
+	title: "Overclocking",
+	icon: "minecraft:clock",
+	x: 0.0d,
+	y: -4.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"92af1e10"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3d8f2770",
+		type: "checkmark"
+	}]
+}

@@ -1,15 +1,15 @@
 {
 	x: 4.0d,
-	y: 12.0d,
+	y: 2.0d,
 	dependencies: [
-		"06cc2fc2"
+		"be6da410"
 	],
 	min_width: 300,
 	tasks: [{
-		uid: "707eeb2f",
+		uid: "bebb3899",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_item_1 1 627"
+			item: "gregtech:meta_item_1 1 81"
 		}]
 	}]
 }

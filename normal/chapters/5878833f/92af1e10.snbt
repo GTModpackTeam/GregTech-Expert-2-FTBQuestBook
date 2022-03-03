@@ -1,0 +1,17 @@
+{
+	title: "Voltage and more Energy Concepts",
+	icon: "minecraft:tnt",
+	x: 0.0d,
+	y: -2.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"4ca7718b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8d67b469",
+		type: "checkmark"
+	}]
+}

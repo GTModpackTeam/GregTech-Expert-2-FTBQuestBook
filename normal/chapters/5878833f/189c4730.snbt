@@ -16,9 +16,6 @@
 		type: "item",
 		items: [{
 			item: "gregtech:meta_lens 1 278"
-		},
-		{
-			item: "gregtech:meta_item_1 1 833"
 		}]
 	},
 	{

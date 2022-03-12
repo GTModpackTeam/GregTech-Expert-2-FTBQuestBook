@@ -1,6 +1,10 @@
 {
+	title: "くさいくさい",
 	x: 2.0d,
 	y: 10.0d,
+	text: [
+		""
+	],
 	dependencies: [
 		"48efd238"
 	],

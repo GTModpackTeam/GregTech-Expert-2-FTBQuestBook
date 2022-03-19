@@ -1,10 +1,8 @@
 {
-	x: 8.0d,
+	x: 10.0d,
 	y: 2.0d,
 	dependencies: [
-		"c870c231",
-		"2589efac",
-		"8db0249b"
+		"5d8e504e"
 	],
 	min_width: 300,
 	tasks: [{

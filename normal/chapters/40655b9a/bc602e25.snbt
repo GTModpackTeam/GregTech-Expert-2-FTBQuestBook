@@ -1,0 +1,35 @@
+{
+	title: "自動建築講座(執筆予定)",
+	icon: "gregtech:meta_item_1 1 504",
+	x: 2.0d,
+	y: 4.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"ff348005"
+	],
+	tasks: [{
+		uid: "8a32898b",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 504"
+		}]
+	},
+	{
+		uid: "e5637733",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 219"
+		}],
+		count: 4L
+	},
+	{
+		uid: "b59754ef",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 630"
+		}],
+		count: 2L
+	}]
+}

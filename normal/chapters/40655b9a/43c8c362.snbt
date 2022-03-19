@@ -1,7 +1,7 @@
 {
 	title: "Universal Macerator",
-	x: -2.0d,
-	y: -8.0d,
+	x: 0.0d,
+	y: -4.0d,
 	description: "Advanced Macerator II",
 	text: [
 		"HV粉砕機はJEIに表示されている副産物スロットのうち一つ目と二つ目を解禁します。",

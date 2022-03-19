@@ -1,6 +1,6 @@
 {
 	title: "楽しいね",
-	x: 2.0d,
+	x: 0.0d,
 	y: 4.0d,
 	description: "HV Components",
 	text: [
@@ -17,6 +17,7 @@
 		"798d57e7"
 	],
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "3508e46e",
 		type: "item",

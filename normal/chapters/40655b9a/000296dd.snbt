@@ -1,0 +1,19 @@
+{
+	title: "コイル講座(執筆予定)",
+	icon: "gregtech:wire_coil 1 7",
+	x: 6.0d,
+	y: 6.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	dependencies: [
+		"2f9dcb81"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3567f5ac",
+		type: "checkmark",
+		title: "読んだら押しましょう"
+	}]
+}

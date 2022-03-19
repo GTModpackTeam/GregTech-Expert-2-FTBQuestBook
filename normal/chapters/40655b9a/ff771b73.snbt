@@ -1,7 +1,7 @@
 {
 	title: "Cleanroomのクエスト予定地",
-	x: 6.0d,
-	y: 4.0d,
+	x: -8.0d,
+	y: 0.0d,
 	text: [
 		""
 	],

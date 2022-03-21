@@ -2,6 +2,7 @@
 	title: "キミの素敵なメインフレーム",
 	x: -8.0d,
 	y: 2.0d,
+	shape: "diamond",
 	description: "Mainframe",
 	text: [
 		"最初のIV回路です。おめでとうございます。",

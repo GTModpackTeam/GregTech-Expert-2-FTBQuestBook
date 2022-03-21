@@ -2,6 +2,7 @@
 	title: "特徴なし",
 	x: 2.0d,
 	y: -4.0d,
+	shape: "diamond",
 	description: "Advanced Wiremill II",
 	text: [
 		"HVワイヤー作製機はクォーツファイバーを作るために使います。",

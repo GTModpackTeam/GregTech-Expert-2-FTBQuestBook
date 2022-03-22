@@ -1,4 +1,8 @@
 {
+	icon: {
+		id: "appliedenergistics2:wireless_terminal",
+		tag: {}
+	},
 	x: 16.0d,
 	y: 0.0d,
 	dependencies: [

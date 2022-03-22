@@ -1,7 +1,8 @@
 {
 	title: "ME Export Bus, ME Import Busを使わないで",
-	x: 10.0d,
-	y: -6.0d,
+	x: 14.0d,
+	y: -10.0d,
+	shape: "square",
 	text: [
 		"ME_Export_BusとME_Import_Busは使用するとワールドに莫大な負荷がかかります。",
 		"使わないようにしましょう。",

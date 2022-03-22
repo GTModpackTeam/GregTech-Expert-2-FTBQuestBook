@@ -1,6 +1,8 @@
 {
+	icon: "appliedenergistics2:crafting_storage_1k",
 	x: 18.0d,
 	y: 4.0d,
+	shape: "diamond",
 	dependencies: [
 		"379106f4"
 	],

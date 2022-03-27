@@ -2,6 +2,10 @@
 	x: 16.0d,
 	y: -2.0d,
 	shape: "diamond",
+	description: "ME Fluid Terminal",
+	text: [
+		""
+	],
 	dependencies: [
 		"7443243a"
 	],

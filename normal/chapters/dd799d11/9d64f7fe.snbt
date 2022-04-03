@@ -1,0 +1,19 @@
+{
+	title: "自動クラフト講座その5",
+	icon: "gregtech:machine 1 1001",
+	x: 18.0d,
+	y: 6.0d,
+	text: [
+		"ここではマルチブロックの建材を一回の自動クラフトの注文で全て要求して、",
+		"マルチブロックを楽に建てられるようにする方法を紹介します。"
+	],
+	dependencies: [
+		"e7bd7fe1"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "318da83d",
+		type: "checkmark",
+		title: "読んだら押しましょう"
+	}]
+}

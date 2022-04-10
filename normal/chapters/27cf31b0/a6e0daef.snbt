@@ -2,6 +2,7 @@
 	icon: "minecraft:nether_star",
 	x: -4.0d,
 	y: 6.0d,
+	shape: "diamond",
 	dependencies: [
 		"a2d4136d",
 		"5f54f72d"

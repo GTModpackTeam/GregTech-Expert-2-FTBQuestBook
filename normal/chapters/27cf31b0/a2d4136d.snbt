@@ -2,6 +2,7 @@
 	icon: "gregtech:meta_ingot 1 50",
 	x: 0.0d,
 	y: 4.0d,
+	shape: "diamond",
 	dependencies: [
 		"a86813e2"
 	],

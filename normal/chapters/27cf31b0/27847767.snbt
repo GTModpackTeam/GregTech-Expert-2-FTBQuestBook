@@ -1,6 +1,7 @@
 {
 	x: 4.0d,
 	y: 4.0d,
+	shape: "diamond",
 	dependencies: [
 		"8dc33126"
 	],
@@ -9,6 +10,7 @@
 		type: "item",
 		items: [{
 			item: "gregtech:meta_item_1 1 748"
-		}]
+		}],
+		ignore_nbt: 1b
 	}]
 }

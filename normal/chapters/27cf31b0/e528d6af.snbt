@@ -2,6 +2,7 @@
 	icon: "gregtech:meta_dust 1 1598",
 	x: 2.0d,
 	y: 0.0d,
+	shape: "diamond",
 	dependencies: [
 		"33845a9f"
 	],

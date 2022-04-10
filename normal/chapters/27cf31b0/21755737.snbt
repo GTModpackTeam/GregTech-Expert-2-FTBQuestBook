@@ -1,13 +1,15 @@
 {
 	title: "鉱石大量処理の方法",
-	x: -4.0d,
-	y: -2.0d,
+	x: -2.0d,
+	y: -6.0d,
+	shape: "square",
 	text: [
 		""
 	],
 	dependencies: [
 		"26f4d197"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "883b6e7b",
 		type: "checkmark",

@@ -3,6 +3,7 @@
 	y: 0.0d,
 	shape: "diamond",
 	hide: true,
+	min_width: 300,
 	tasks: [{
 		uid: "cfa14a2e",
 		type: "item",

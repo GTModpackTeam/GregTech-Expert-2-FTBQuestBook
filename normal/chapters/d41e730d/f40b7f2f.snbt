@@ -4,6 +4,7 @@
 	dependencies: [
 		"9da2c3aa"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "97772816",
 		type: "item",

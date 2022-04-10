@@ -6,6 +6,7 @@
 		"331de251",
 		"af8baf2f"
 	],
+	min_width: 300,
 	or_tasks: true,
 	tasks: [{
 		uid: "79ea4b41",

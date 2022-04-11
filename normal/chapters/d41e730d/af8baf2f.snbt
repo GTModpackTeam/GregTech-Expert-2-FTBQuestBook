@@ -1,7 +1,12 @@
 {
+	title: "現実で銅以外をコイルにすることはあるのだろうか",
 	x: 2.0d,
 	y: 4.0d,
 	shape: "diamond",
+	description: "Extreme Voltage Coil",
+	text: [
+		"Extreme_Voltage_コイルはエネルギーハッチとダイナモハッチの中間素材です。"
+	],
 	dependencies: [
 		"027279df",
 		"99548f33"

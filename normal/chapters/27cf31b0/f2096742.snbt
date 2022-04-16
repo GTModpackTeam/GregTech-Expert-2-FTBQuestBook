@@ -3,8 +3,9 @@
 	y: -2.0d,
 	shape: "diamond",
 	dependencies: [
-		"33845a9f"
+		"7a014b0b"
 	],
+	min_width: 300,
 	or_tasks: true,
 	tasks: [{
 		uid: "feb8f200",

@@ -1,7 +1,11 @@
 {
+	title: "Advanced SMD Transistor",
 	x: 4.0d,
 	y: 0.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"a50e93fa",
 		"324f4306"

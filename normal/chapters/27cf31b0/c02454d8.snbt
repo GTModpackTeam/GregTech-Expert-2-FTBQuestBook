@@ -1,7 +1,11 @@
 {
+	title: "Quantumprocessor Mainframe",
 	x: 6.0d,
 	y: 6.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"f2454d72"
 	],

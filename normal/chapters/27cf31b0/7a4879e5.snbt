@@ -1,8 +1,12 @@
 {
+	title: "Indium Dust",
 	icon: "gregtech:meta_dust 1 48",
 	x: -6.0d,
 	y: 2.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"33845a9f"
 	],

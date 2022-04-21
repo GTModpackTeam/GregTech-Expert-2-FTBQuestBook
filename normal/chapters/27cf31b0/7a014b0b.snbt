@@ -1,7 +1,11 @@
 {
+	title: "Laminated Glass",
 	x: -4.0d,
 	y: -2.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"33845a9f"
 	],

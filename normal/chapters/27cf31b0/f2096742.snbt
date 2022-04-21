@@ -1,7 +1,11 @@
 {
+	title: "Elite Assembling Machine",
 	x: -6.0d,
 	y: -2.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"7a014b0b"
 	],

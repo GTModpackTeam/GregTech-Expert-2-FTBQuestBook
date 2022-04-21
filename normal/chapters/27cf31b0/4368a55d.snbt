@@ -1,8 +1,12 @@
 {
+	title: "HSS-G Dust",
 	icon: "gregtech:meta_ingot 1 2516",
-	x: 0.0d,
+	x: 2.0d,
 	y: -2.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"33845a9f"
 	],

@@ -1,7 +1,11 @@
 {
+	title: "Qubit CPU",
 	x: -4.0d,
 	y: 2.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"7a4879e5"
 	],

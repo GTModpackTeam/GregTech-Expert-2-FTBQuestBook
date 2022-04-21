@@ -1,7 +1,11 @@
 {
-	x: 2.0d,
+	title: "16x HSS-G Coil Block",
+	x: 4.0d,
 	y: -2.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"4368a55d"
 	],

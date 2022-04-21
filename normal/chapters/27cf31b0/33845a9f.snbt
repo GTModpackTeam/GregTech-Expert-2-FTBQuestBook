@@ -1,7 +1,11 @@
 {
+	title: "IV Machine Hull",
 	x: 0.0d,
 	y: 0.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	hide: true,
 	min_width: 300,
 	tasks: [{

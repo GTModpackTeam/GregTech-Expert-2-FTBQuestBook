@@ -1,8 +1,12 @@
 {
+	title: "Iridium",
 	icon: "gregtech:meta_ingot 1 50",
 	x: 0.0d,
 	y: 4.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"a86813e2"
 	],

@@ -1,7 +1,11 @@
 {
+	title: "Extreme Circuit Board",
 	x: 2.0d,
 	y: 4.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"62084b27"
 	],

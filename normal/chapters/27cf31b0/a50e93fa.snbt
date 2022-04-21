@@ -1,8 +1,12 @@
 {
+	title: "PBI",
 	icon: "gregtech:meta_ingot 1 1010",
 	x: 2.0d,
-	y: 2.0d,
+	y: 0.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"33845a9f"
 	],

@@ -1,7 +1,11 @@
 {
+	title: "HSS-E",
 	x: 2.0d,
-	y: -4.0d,
+	y: -6.0d,
 	shape: "diamond",
+	text: [
+		""
+	],
 	dependencies: [
 		"324f4306"
 	],

@@ -1,6 +1,10 @@
 {
+	title: "Rocket Fuel",
 	x: -2.0d,
 	y: 2.0d,
+	text: [
+		""
+	],
 	dependencies: [
 		"33845a9f"
 	],

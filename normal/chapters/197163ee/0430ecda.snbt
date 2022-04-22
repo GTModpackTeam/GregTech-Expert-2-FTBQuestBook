@@ -1,10 +1,10 @@
 {
-	title: "現実では価値があろうとGregでは関係ない",
+	title: "{gte2.q.01-003.name}",
 	x: 6.0d,
 	y: 10.0d,
 	description: "Sapphire Dust",
 	text: [
-		""
+		"{gte2.q.01-003.desc}"
 	],
 	dependencies: [
 		"196ef01e"

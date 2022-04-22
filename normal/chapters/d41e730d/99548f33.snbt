@@ -1,11 +1,11 @@
 {
-	title: "IVの活躍ぶりと比べるとかなり影が薄い",
+	title: "{gte2.q.10-029.name}",
 	x: 2.0d,
 	y: 2.0d,
 	shape: "diamond",
 	description: "Advanced Assembling Machine III",
 	text: [
-		"これを作ることで次の中間素材が作れるようになります。"
+		"{gte2.q.10-029.desc}"
 	],
 	dependencies: [
 		"c02ff32f"

@@ -1,10 +1,10 @@
 {
-	title: "IV Energy Hatch",
+	title: "{gte2.q.02-036.name}",
 	x: -8.0d,
 	y: 4.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-036.desc}"
 	],
 	dependencies: [
 		"a2d4136d",

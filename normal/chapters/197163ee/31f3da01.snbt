@@ -1,10 +1,10 @@
 {
-	title: "Gregに交易要素を持ち込んではいけない理由",
+	title: "{gte2.q.01-021.name}",
 	x: 8.0d,
 	y: 14.0d,
 	description: "Emerald",
 	text: [
-		""
+		"{gte2.q.01-021.desc}"
 	],
 	dependencies: [
 		"fd672e87"

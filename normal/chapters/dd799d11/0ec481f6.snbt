@@ -1,15 +1,11 @@
 {
-	title: "もつれを安定化",
+	title: "{gte2.q.11-003.name}",
 	icon: "appliedenergistics2:quantum_link",
 	x: 10.0d,
 	y: -8.0d,
 	description: "Quantum Tunnel",
 	text: [
-		"量子トンネルを使うことでMEネットワークを拡張することができます。",
-		"",
-		"拠点を移動したいときや大型採掘機を設置したいときやなにか色々したいときに入用になるでしょう。",
-		"",
-		"量子トンネルは高価ですがこれを使いたいときには安くなっていると信じています。"
+		"{gte2.q.11-003.desc}"
 	],
 	dependencies: [
 		"3b518fb2"

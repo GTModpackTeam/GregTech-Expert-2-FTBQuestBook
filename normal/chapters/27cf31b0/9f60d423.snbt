@@ -1,10 +1,10 @@
 {
-	title: "Quantumprocessor",
+	title: "{gte2.q.02-018.name}",
 	x: 0.0d,
 	y: 6.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-018.desc}"
 	],
 	dependencies: [
 		"8dc33126",

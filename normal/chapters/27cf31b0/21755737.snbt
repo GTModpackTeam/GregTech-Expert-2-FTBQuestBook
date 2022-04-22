@@ -1,10 +1,10 @@
 {
-	title: "鉱石大量処理の方法",
+	title: "{gte2.q.02-002.name}",
 	x: -2.0d,
 	y: -4.0d,
 	shape: "square",
 	text: [
-		""
+		"{gte2.q.02-002.desc}"
 	],
 	dependencies: [
 		"26f4d197"

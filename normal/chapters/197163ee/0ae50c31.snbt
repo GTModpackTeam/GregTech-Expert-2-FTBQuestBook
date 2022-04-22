@@ -1,10 +1,10 @@
 {
-	title: "核融合炉MK1...筐体...うっ頭が",
+	title: "{gte2.q.01-007.name}",
 	x: 6.0d,
 	y: 14.0d,
 	description: "Ruby Dust",
 	text: [
-		""
+		"{gte2.q.01-007.desc}"
 	],
 	dependencies: [
 		"dd4949d8"

@@ -1,10 +1,10 @@
 {
-	title: "16k ME Storage Cell未満",
+	title: "{gte2.q.13-007.name}",
 	x: -11.0d,
 	y: 8.0d,
 	description: "Ultra Storage Box",
 	text: [
-		"Ultra_Storage_BoxはStorage_Coreの容量を80,000増加させます。"
+		"{gte2.q.13-007.desc}"
 	],
 	dependencies: [
 		"718274c4"

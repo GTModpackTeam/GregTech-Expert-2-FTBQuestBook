@@ -1,12 +1,11 @@
 {
-	title: "食品の料理は料理用組立機でどうぞ",
+	title: "{gte2.q.03-040.name}",
 	x: -6.0d,
 	y: 2.0d,
 	shape: "diamond",
 	description: "Advanced Circuit Assembler II",
 	text: [
-		"これが次の回路組立機です。",
-		"これはメインフレームと呼ばれる1種類の回路を作るためだけに要求されます。"
+		"{gte2.q.03-040.desc}"
 	],
 	dependencies: [
 		"798d57e7"

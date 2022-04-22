@@ -1,10 +1,10 @@
 {
-	title: "青レンジャー",
+	title: "{gte2.q.11-047.name}",
 	x: 18.0d,
 	y: 0.0d,
 	description: "Wireless Fluid Terminal",
 	text: [
-		"ワイヤレス液体ターミナルは液体ターミナルのワイヤレス版です。"
+		"{gte2.q.11-047.desc}"
 	],
 	dependencies: [
 		"eb1959d9"

@@ -1,10 +1,10 @@
 {
-	title: "スウェーデン語で「重い石」",
+	title: "{gte2.q.10-049.name}",
 	x: 4.0d,
 	y: 0.0d,
 	description: "Tungsten Ingot",
 	text: [
-		"タングステンはIVのケーブルの素材になりますが、他の用途で使うこともあります。"
+		"{gte2.q.10-049.desc}"
 	],
 	dependencies: [
 		"9da2c3aa"

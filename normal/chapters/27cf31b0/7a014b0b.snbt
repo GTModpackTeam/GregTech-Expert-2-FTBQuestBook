@@ -1,10 +1,10 @@
 {
-	title: "Laminated Glass",
+	title: "{gte2.q.02-014.name}",
 	x: -4.0d,
 	y: -2.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-014.desc}"
 	],
 	dependencies: [
 		"33845a9f"

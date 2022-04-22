@@ -1,9 +1,9 @@
 {
-	title: "Solar Panel",
+	title: "{gte2.q.07-007.name}",
 	x: 0.0d,
 	y: 4.0d,
 	text: [
-		""
+		"{gte2.q.07-007.desc}"
 	],
 	tasks: [{
 		uid: "a1e22813",

@@ -1,11 +1,11 @@
 {
-	title: "Ruthenium",
+	title: "{gte2.q.02-034.name}",
 	icon: "gregtech:meta_ingot 1 93",
 	x: -4.0d,
 	y: 0.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-034.desc}"
 	],
 	dependencies: [
 		"a86813e2"

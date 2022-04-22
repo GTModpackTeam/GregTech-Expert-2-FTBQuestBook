@@ -1,10 +1,10 @@
 {
-	title: "最近バニラで実装されたやつ",
+	title: "{gte2.q.01-040.name}",
 	x: 6.0d,
 	y: 0.0d,
 	description: "Copper Vein",
 	text: [
-		""
+		"{gte2.q.01-040.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

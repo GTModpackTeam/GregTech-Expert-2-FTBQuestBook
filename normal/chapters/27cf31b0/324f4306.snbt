@@ -1,10 +1,10 @@
 {
-	title: "16x HSS-G Coil Block",
+	title: "{gte2.q.02-005.name}",
 	x: 4.0d,
 	y: -2.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-005.desc}"
 	],
 	dependencies: [
 		"4368a55d"

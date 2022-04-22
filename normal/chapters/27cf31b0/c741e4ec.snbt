@@ -1,10 +1,10 @@
 {
-	title: "HSS-E",
+	title: "{gte2.q.02-026.name}",
 	x: 2.0d,
 	y: -6.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-026.desc}"
 	],
 	dependencies: [
 		"324f4306"

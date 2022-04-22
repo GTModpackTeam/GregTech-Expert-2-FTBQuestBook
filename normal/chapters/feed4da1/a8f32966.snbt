@@ -1,5 +1,5 @@
 {
-	title: "ヴァー",
+	title: "{gte2.q.13-026.name}",
 	icon: {
 		id: "gregtech:meta_tool",
 		Damage: 19s,
@@ -13,9 +13,7 @@
 	y: 0.0d,
 	description: "Invar",
 	text: [
-		"インバーは鉄とニッケルから精錬できる合金です",
-		"この合金をツールの材料にした時スチールと同等の性能を発揮するので、",
-		"スチールがまだ入手できない時の代用品として使うことができます。"
+		"{gte2.q.13-026.desc}"
 	],
 	dependencies: [
 		"c23bf222",

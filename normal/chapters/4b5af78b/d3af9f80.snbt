@@ -1,13 +1,10 @@
 {
-	title: "壊れた時の演出が心臓に悪い",
+	title: "{gte2.q.04-048.name}",
 	x: 12.0d,
 	y: -4.0d,
 	description: "Chisel",
 	text: [
-		"チゼルを使うことでブロックの模様を変えることができます。",
-		"",
-		"このmodによって新たな建築用ブロックも追加されています。",
-		"大規模な工場を作る時にはFactory BlockやLaboratory Blockが有用です。"
+		"{gte2.q.04-048.desc}"
 	],
 	dependencies: [
 		"3ac887a1"

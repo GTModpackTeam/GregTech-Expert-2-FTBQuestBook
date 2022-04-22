@@ -1,11 +1,11 @@
 {
-	title: "うん、そーナノ",
+	title: "{gte2.q.10-009.name}",
 	x: 2.0d,
 	y: -8.0d,
 	shape: "diamond",
 	description: "Nano Supercomputer",
 	text: [
-		"この回路でIV時代に突入するのはそれほど大変でもないでしょう。"
+		"{gte2.q.10-009.desc}"
 	],
 	dependencies: [
 		"e29d9148",

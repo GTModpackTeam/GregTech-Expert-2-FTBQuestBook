@@ -1,11 +1,15 @@
 {
+	title: "{gte2.q.01-062.name}",
 	x: 2.0d,
 	y: 22.0d,
+	text: [
+		"{gte2.q.01-062.desc}"
+	],
 	dependencies: [
 		"83352dec"
 	],
 	tasks: [{
-		uid: "321fbb40",
+		uid: "04543cdf",
 		type: "item",
 		items: [{
 			item: "gregtech:meta_ingot 1 66"

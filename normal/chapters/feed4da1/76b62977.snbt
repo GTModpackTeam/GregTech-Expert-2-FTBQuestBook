@@ -1,11 +1,11 @@
 {
-	title: "Refined Iron Ingot",
+	title: "{gte2.q.13-016.name}",
 	x: -3.0d,
 	y: 2.0d,
 	shape: "diamond",
 	description: "Steel Ingot",
 	text: [
-		"鋼鉄は高圧蒸気時代と電気時代に入るためのキーアイテムです。"
+		"{gte2.q.13-016.desc}"
 	],
 	dependencies: [
 		"96285454"

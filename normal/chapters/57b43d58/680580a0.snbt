@@ -1,14 +1,12 @@
 {
-	title: "何からするべきか迷った人へ",
+	title: "{gte2.q.05-045.name}",
 	icon: "opencomputers:waypoint",
 	x: 3.5d,
 	y: 0.0d,
 	shape: "square",
 	description: "LV Age Progression",
 	text: [
-		"LVでできることが多すぎて困ったら、一つ先の電圧に進むためには何が必要かを考えてみましょう。",
-		"MVに進むためにはアルミが必要で、アルミを作るためには電気高炉を作るためにはコイルを作るためには...",
-		"LVの機械はMVに進むためだけに存在すると捉えてもらって構いません。"
+		"{gte2.q.05-045.desc}"
 	],
 	dependencies: [
 		"34d03450"

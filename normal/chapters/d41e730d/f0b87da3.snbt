@@ -1,11 +1,11 @@
 {
-	title: "ナノです！",
+	title: "{gte2.q.10-047.name}",
 	x: 0.0d,
 	y: -8.0d,
 	shape: "diamond",
 	description: "NanoProcessor Assembly",
 	text: [
-		"精密で、良質で、高速で、強靭です。"
+		"{gte2.q.10-047.desc}"
 	],
 	dependencies: [
 		"3260b323"

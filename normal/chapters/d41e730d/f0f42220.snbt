@@ -1,11 +1,11 @@
 {
-	title: "こんナノ誰が使うの？",
+	title: "{gte2.q.10-048.name}",
 	x: 4.0d,
 	y: -8.0d,
 	shape: "diamond",
 	description: "Nanoprocessor Mainframe",
 	text: [
-		"この回路は高価ですがLuVに進むときに二枚必要になります。"
+		"{gte2.q.10-048.desc}"
 	],
 	dependencies: [
 		"36c645af"

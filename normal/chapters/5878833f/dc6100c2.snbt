@@ -1,12 +1,11 @@
 {
-	title: "スーパークロム",
+	title: "{gte2.q.06-055.name}",
 	x: 4.0d,
 	y: -6.0d,
 	shape: "diamond",
 	description: "chrome",
 	text: [
-		"クロムはルビーを電解することで獲得できることが知られていますが、",
-		"実はルビーを鉱石洗浄することで得るのが一番効率がいいです。"
+		"{gte2.q.06-055.desc}"
 	],
 	dependencies: [
 		"0ae50c31",

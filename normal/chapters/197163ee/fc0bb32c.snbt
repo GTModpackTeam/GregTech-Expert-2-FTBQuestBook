@@ -1,10 +1,9 @@
 {
-	title: "Tier 0",
+	title: "{gte2.q.01-060.name}",
 	x: 0.0d,
 	y: 0.0d,
 	text: [
-		"Tierはあくまで目安となっています。",
-		"プレイスタイルによっては先のTierの金属を使用する場合もあります。"
+		"{gte2.q.01-060.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

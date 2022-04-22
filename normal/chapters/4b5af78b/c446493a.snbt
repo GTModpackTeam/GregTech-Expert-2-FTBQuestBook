@@ -1,5 +1,5 @@
 {
-	title: "バイブレーション機能付きツルハシ",
+	title: "{gte2.q.04-043.name}",
 	icon: {
 		id: "minecraft:enchanted_book",
 		tag: {
@@ -14,18 +14,7 @@
 	shape: "square",
 	description: "GTCEu Enchant",
 	text: [
-		"HammeringとDisjunctionはGTCEuで新たに追加されたエンチャントです。",
-		"",
-		"Hammeringエンチャントを採掘ハンマー含めた任意のツールに取り付けると、",
-		"そのツールでブロックを壊したとき(ツールの)ハンマーでブロックを壊したときと同じ挙動を示すようになります。",
-		"ちなみに、Hammeringで壊した鉱石には幸運エンチャントが乗ります。",
-		"幸運IIIエンチャントをツールに付与することで砕いた鉱石が二倍になります。",
-		"",
-		"Disjunctionエンチャントを任意のツールに取り付けると、",
-		"そのツールがエンダーマンやエンダードラゴンに特攻を持つようになります。",
-		"EnderIOのジ・エンダーにつけてあげると強いでしょう",
-		"",
-		"余談：Disjunctionエンチャントの元ネタはThaumcraftの同名エンチャントと思われる"
+		"{gte2.q.04-043.desc}"
 	],
 	dependencies: [
 		"d0403759"

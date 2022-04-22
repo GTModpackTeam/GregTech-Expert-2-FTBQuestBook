@@ -1,17 +1,11 @@
 {
-	title: "ME Controller(偽)",
+	title: "{gte2.q.13-030.name}",
 	icon: "ezstorage:storage_core",
 	x: -15.0d,
 	y: 4.0d,
 	description: "Storage Core",
 	text: [
-		"Storage_CoreはEZStorage_2のストレージシステムを利用するために必須のブロックです。",
-		"これ単体では使い道がありませんが、Storage_Boxを隣接させることで",
-		"右クリックでGUIを開いた時に電力不要の大容量ストレージとして使用することができるようになります。",
-		"Storage_Boxの隣に更にStorage_Boxを繋げる事でもStorage_Coreの容量を増やすことができます。",
-		"",
-		"余談：GTE1では初代EZStorageが倉庫modとして採用されていた",
-		"EZStorage周りのバグが多いのもそのときからである"
+		"{gte2.q.13-030.desc}"
 	],
 	dependencies: [
 		"b91c9314"

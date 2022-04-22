@@ -1,13 +1,10 @@
 {
-	title: "カラフル絆創膏その2",
+	title: "{gte2.q.03-003.name}",
 	x: -8.0d,
 	y: -6.0d,
 	description: "More SMD Components",
 	text: [
-		"SMDダイオードで必要なプラチナについてはEVのタブに専用のクエストがあります。",
-		"",
-		"余談：SMDインダクタはGTCEuで初めて登場した",
-		"全ての回路素材にSMDバージョンが存在した方が一貫性が保たれて尚且つ便利だからである"
+		"{gte2.q.03-003.desc}"
 	],
 	dependencies: [
 		"3dcc4dc4"

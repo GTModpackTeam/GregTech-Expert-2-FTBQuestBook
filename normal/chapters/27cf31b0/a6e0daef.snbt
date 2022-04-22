@@ -1,11 +1,11 @@
 {
-	title: "Nether Star Dust",
+	title: "{gte2.q.02-022.name}",
 	icon: "minecraft:nether_star",
 	x: -4.0d,
 	y: 6.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-022.desc}"
 	],
 	dependencies: [
 		"a2d4136d",

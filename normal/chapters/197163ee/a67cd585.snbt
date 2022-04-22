@@ -2,7 +2,7 @@
 	x: 0.0d,
 	y: 12.0d,
 	text: [
-		""
+		"{gte2.q.01-042.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

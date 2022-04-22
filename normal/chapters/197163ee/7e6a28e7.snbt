@@ -1,11 +1,15 @@
 {
+	title: "{gte2.q.01-063.name}",
 	x: 6.0d,
 	y: 22.0d,
+	text: [
+		"{gte2.q.01-063.desc}"
+	],
 	dependencies: [
 		"d5bacb25"
 	],
 	tasks: [{
-		uid: "f53aa17a",
+		uid: "34108526",
 		type: "item",
 		items: [{
 			item: "gregtech:meta_dust 1 332"

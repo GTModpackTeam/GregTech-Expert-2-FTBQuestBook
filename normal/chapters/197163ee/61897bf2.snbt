@@ -1,10 +1,10 @@
 {
-	title: "Raw Coal",
+	title: "{gte2.q.01-032.name}",
 	x: 18.0d,
 	y: 2.0d,
 	description: "Coal",
 	text: [
-		""
+		"{gte2.q.01-032.desc}"
 	],
 	dependencies: [
 		"086cf6e6"

@@ -1,16 +1,11 @@
 {
-	title: "キミの素敵なメインフレーム",
+	title: "{gte2.q.03-037.name}",
 	x: -8.0d,
 	y: 2.0d,
 	shape: "diamond",
 	description: "Mainframe",
 	text: [
-		"最初のIV回路です。おめでとうございます。",
-		"",
-		"この回路はEV時代で使います。",
-		"",
-		"余談：メインフレームのテクスチャはIBM zEnterpriseのメインフレームの画像が元ネタである。",
-		"https://www.datacenterknowledge.com/archives/2010/07/22/roundup-ibms-new-zenterprise-mainframe"
+		"{gte2.q.03-037.desc}"
 	],
 	dependencies: [
 		"ac9b7b50"

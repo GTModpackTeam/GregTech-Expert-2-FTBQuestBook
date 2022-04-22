@@ -1,10 +1,10 @@
 {
-	title: "とりあえず赤い鉱石まとめてみました",
+	title: "{gte2.q.01-057.name}",
 	x: 2.0d,
 	y: 4.0d,
 	description: "Redstone Vein",
 	text: [
-		""
+		"{gte2.q.01-057.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

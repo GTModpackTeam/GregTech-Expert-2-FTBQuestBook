@@ -1,9 +1,9 @@
 {
-	title: "Solar Panel(HV)",
+	title: "{gte2.q.07-002.name}",
 	x: -4.0d,
 	y: 0.0d,
 	text: [
-		""
+		"{gte2.q.07-002.desc}"
 	],
 	dependencies: [
 		"15e0ee20"

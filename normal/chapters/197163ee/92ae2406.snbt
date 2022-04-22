@@ -1,10 +1,10 @@
 {
-	title: "モニーの信者を攻撃するもの",
+	title: "{gte2.q.01-039.name}",
 	x: 14.0d,
 	y: 10.0d,
 	description: "Antimony",
 	text: [
-		""
+		"{gte2.q.01-039.desc}"
 	],
 	dependencies: [
 		"0e4dd360"

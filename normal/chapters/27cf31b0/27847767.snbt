@@ -1,10 +1,10 @@
 {
-	title: "Lapotronic Energy Orb",
+	title: "{gte2.q.02-004.name}",
 	x: 4.0d,
 	y: 4.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-004.desc}"
 	],
 	dependencies: [
 		"8dc33126"

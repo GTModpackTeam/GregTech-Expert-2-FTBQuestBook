@@ -1,9 +1,9 @@
 {
-	title: "Creative Quantum Tank",
+	title: "{gte2.q.07-005.name}",
 	x: -2.0d,
 	y: 0.0d,
 	text: [
-		""
+		"{gte2.q.07-005.desc}"
 	],
 	dependencies: [
 		"30a82488"

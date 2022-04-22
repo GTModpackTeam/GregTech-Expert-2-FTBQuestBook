@@ -1,11 +1,10 @@
 {
-	title: "赤レンジャー",
+	title: "{gte2.q.11-049.name}",
 	x: 24.0d,
 	y: 0.0d,
 	description: "Wireless Crafting Terminal",
 	text: [
-		"無線クラフティングターミナルはクラフティングターミナルのワイヤレス版です。",
-		"無線ターミナル系の中で特に需要が高いでしょう。"
+		"{gte2.q.11-049.desc}"
 	],
 	dependencies: [
 		"f7850c87"

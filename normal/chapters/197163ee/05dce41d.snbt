@@ -1,10 +1,10 @@
 {
-	title: "いらないかも...",
+	title: "{gte2.q.01-005.name}",
 	x: 16.0d,
 	y: 0.0d,
 	description: "Garnet Tin Vein",
 	text: [
-		""
+		"{gte2.q.01-005.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

@@ -1,15 +1,12 @@
 {
-	title: "いつものパターン",
+	title: "{gte2.q.03-025.name}",
 	icon: "gregtech:machine 1 1213",
 	x: -4.0d,
 	y: -4.0d,
 	shape: "diamond",
 	description: "HV Energy Hatch",
 	text: [
-		"HVエネルギーハッチはマルチブロックを直接HV電源で動かすのに使います。",
-		"主に工業用電気炉と大型化学反応炉で使うでしょう。",
-		"",
-		"工業用電気炉を2つのエネルギーハッチでEVにアップグレードするのは今回は必要ありません。"
+		"{gte2.q.03-025.desc}"
 	],
 	dependencies: [
 		"3dcc4dc4",

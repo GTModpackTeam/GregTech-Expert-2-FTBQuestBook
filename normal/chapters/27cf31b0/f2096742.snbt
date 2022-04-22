@@ -1,10 +1,10 @@
 {
-	title: "Elite Assembling Machine",
+	title: "{gte2.q.02-032.name}",
 	x: -6.0d,
 	y: -2.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-032.desc}"
 	],
 	dependencies: [
 		"7a014b0b"

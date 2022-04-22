@@ -1,11 +1,10 @@
 {
-	title: "bruh",
+	title: "{gte2.q.05-010.name}",
 	x: 3.5d,
 	y: -6.0d,
 	description: "brass dust",
 	text: [
-		"真鍮の粉はクラフト素材です。",
-		"影が薄いですが色んな合金のレシピに用いられます。"
+		"{gte2.q.05-010.desc}"
 	],
 	dependencies: [
 		"dec90b31",

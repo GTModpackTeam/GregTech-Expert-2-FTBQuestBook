@@ -1,10 +1,10 @@
 {
-	title: "古参のバッテリー",
+	title: "{gte2.q.03-030.name}",
 	x: -4.0d,
 	y: 6.0d,
 	description: "Energium Crystal",
 	text: [
-		"エナジウムクリスタルは莫大な量のEUを貯蔵する上に間違いなく安いです。"
+		"{gte2.q.03-030.desc}"
 	],
 	dependencies: [
 		"71c38db6"

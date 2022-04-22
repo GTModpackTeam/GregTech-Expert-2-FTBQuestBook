@@ -1,13 +1,11 @@
 {
-	title: "The R in The LCR",
+	title: "{gte2.q.05-050.name}",
 	x: -8.5d,
 	y: 2.0d,
 	shape: "diamond",
 	description: "Resistor",
 	text: [
-		"レジスタは電子回路を作るために必要な比較的楽に作れる素材です。",
-		"2つレシピが表示されていますが極細のワイヤーを使って作った方が効率的です。",
-		"LVに進めば更に効率的になります。"
+		"{gte2.q.05-050.desc}"
 	],
 	dependencies: [
 		"d5b3f792",

@@ -1,11 +1,10 @@
 {
-	title: "stdio.h",
+	title: "{gte2.q.05-020.name}",
 	x: 15.5d,
 	y: -4.0d,
 	description: "Multiblock Buses",
 	text: [
-		"蒸気マルチブロックと同じく、電気マルチブロックも材料の搬入出をバスを通じて行わなければいけません。",
-		"液体の場合はハッチが必要です。"
+		"{gte2.q.05-020.desc}"
 	],
 	dependencies: [
 		"8f097e59"

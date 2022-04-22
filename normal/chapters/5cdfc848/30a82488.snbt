@@ -1,9 +1,9 @@
 {
-	title: "Infinite GT Energy Unit Emitter",
+	title: "{gte2.q.07-003.name}",
 	x: -2.0d,
 	y: 2.0d,
 	text: [
-		""
+		"{gte2.q.07-003.desc}"
 	],
 	dependencies: [
 		"f37eb8c7"

@@ -1,10 +1,10 @@
 {
-	title: "この中に一人仲間はずれがいます",
+	title: "{gte2.q.01-048.name}",
 	x: 2.0d,
 	y: 8.0d,
 	description: "Nickel Vein",
 	text: [
-		""
+		"{gte2.q.01-048.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

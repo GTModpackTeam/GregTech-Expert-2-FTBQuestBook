@@ -1,12 +1,10 @@
 {
-	title: "セル結合",
+	title: "{gte2.q.06-047.name}",
 	x: 4.0d,
 	y: 2.0d,
 	description: "Aluminium Cell",
 	text: [
-		"アルミニウムのセルは鋼鉄製のセルや万能セルの上位互換です。",
-		"",
-		"アルミセルは32バケツまでの液体を1mb単位で保持することができます。"
+		"{gte2.q.06-047.desc}"
 	],
 	dependencies: [
 		"be6da410"

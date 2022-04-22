@@ -1,11 +1,11 @@
 {
-	title: "Indium Dust",
+	title: "{gte2.q.02-015.name}",
 	icon: "gregtech:meta_dust 1 48",
 	x: -6.0d,
 	y: 2.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-015.desc}"
 	],
 	dependencies: [
 		"33845a9f"

@@ -1,5 +1,5 @@
 {
-	title: "Ore Veins",
+	title: "{gte2.q.01-052.name}",
 	icon: "gregtech:ore_vanadium_magnetite_0",
 	always_invisible: false,
 	group: 0,

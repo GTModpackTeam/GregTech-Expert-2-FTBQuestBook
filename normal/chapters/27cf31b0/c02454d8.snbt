@@ -1,10 +1,10 @@
 {
-	title: "Quantumprocessor Mainframe",
+	title: "{gte2.q.02-025.name}",
 	x: 6.0d,
 	y: 6.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-025.desc}"
 	],
 	dependencies: [
 		"f2454d72"

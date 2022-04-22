@@ -1,10 +1,10 @@
 {
-	title: "ほぼ高炉専用",
+	title: "{gte2.q.01-045.name}",
 	x: 8.0d,
 	y: 6.0d,
 	description: "Gypsum Dust",
 	text: [
-		""
+		"{gte2.q.01-045.desc}"
 	],
 	dependencies: [
 		"f707923d"

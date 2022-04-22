@@ -1,11 +1,10 @@
 {
-	title: "緑レンジャー(リーダー)",
+	title: "{gte2.q.11-046.name}",
 	x: 20.0d,
 	y: -2.0d,
 	description: "Wireless Ultimate Terminal",
 	text: [
-		"無線アルティメットターミナルは色んなターミナルの合体版です。",
-		"GUIまたはシフト右クリックからどのターミナルを起動するかが選択できます。"
+		"{gte2.q.11-046.desc}"
 	],
 	dependencies: [
 		"811a1952",

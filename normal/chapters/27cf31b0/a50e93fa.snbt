@@ -1,11 +1,11 @@
 {
-	title: "PBI",
+	title: "{gte2.q.02-021.name}",
 	icon: "gregtech:meta_ingot 1 1010",
 	x: 2.0d,
 	y: 0.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-021.desc}"
 	],
 	dependencies: [
 		"33845a9f"

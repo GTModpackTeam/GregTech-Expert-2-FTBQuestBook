@@ -1,9 +1,9 @@
 {
-	title: "Processing Array",
+	title: "{gte2.q.02-031.name}",
 	x: -6.0d,
 	y: 6.0d,
 	text: [
-		""
+		"{gte2.q.02-031.desc}"
 	],
 	dependencies: [
 		"a6e0daef"

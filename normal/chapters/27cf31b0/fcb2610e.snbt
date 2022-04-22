@@ -1,9 +1,9 @@
 {
-	title: "IV Components",
+	title: "{gte2.q.02-035.name}",
 	x: 2.0d,
 	y: 2.0d,
 	text: [
-		""
+		"{gte2.q.02-035.desc}"
 	],
 	dependencies: [
 		"33845a9f"

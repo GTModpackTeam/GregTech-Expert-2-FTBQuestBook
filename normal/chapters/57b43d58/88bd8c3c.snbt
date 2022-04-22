@@ -1,14 +1,12 @@
 {
-	title: "ねばねば基盤",
+	title: "{gte2.q.05-056.name}",
 	icon: "gregtech:meta_item_1 1 401",
 	x: -8.5d,
 	y: -2.0d,
 	shape: "diamond",
 	description: "Coated Circuit Board",
 	text: [
-		"コーティング回路基板は回路基盤の基盤です。",
-		"木のプレートに粘性樹脂を塗りたくることでできます。",
-		"これに今は高価な銅のワイヤーをふんだんに用いることでようやく回路基板ができます。"
+		"{gte2.q.05-056.desc}"
 	],
 	dependencies: [
 		"bdd3b785"

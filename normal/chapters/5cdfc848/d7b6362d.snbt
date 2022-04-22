@@ -1,9 +1,9 @@
 {
-	title: "Solar Panel(8V)",
+	title: "{gte2.q.07-014.name}",
 	x: -2.0d,
 	y: 4.0d,
 	text: [
-		""
+		"{gte2.q.07-014.desc}"
 	],
 	dependencies: [
 		"6e8736db"

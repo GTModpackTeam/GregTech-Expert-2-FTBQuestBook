@@ -1,10 +1,10 @@
 {
-	title: "触媒の王",
+	title: "{gte2.q.01-053.name}",
 	x: 4.0d,
 	y: 22.0d,
 	description: "Platinum Ingot",
 	text: [
-		""
+		"{gte2.q.01-053.desc}"
 	],
 	dependencies: [
 		"c3814c1e"

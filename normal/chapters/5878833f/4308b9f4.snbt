@@ -1,14 +1,11 @@
 {
-	title: "まだかっこよくない",
+	title: "{gte2.q.06-016.name}",
 	x: 10.0d,
 	y: 2.0d,
 	shape: "diamond",
 	description: "Advanced Integrated Circuit",
 	text: [
-		"HV回路とステンレス鋼が出そろったので厳密にはもうHVに進めますが、まだ焦って進むときではありません。",
-		"",
-		"この回路を使って最初に作るべきものはすぐ側にある新しいレベルの回路を解禁するためのMV回路組立機でしょう。",
-		"作って本当に得しかありません。"
+		"{gte2.q.06-016.desc}"
 	],
 	dependencies: [
 		"189c4730",

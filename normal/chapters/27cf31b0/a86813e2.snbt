@@ -1,11 +1,11 @@
 {
-	title: "Aqua Regia",
+	title: "{gte2.q.02-023.name}",
 	icon: "gregtech:meta_dust 1 364",
 	x: -2.0d,
 	y: 0.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-023.desc}"
 	],
 	dependencies: [
 		"33845a9f"

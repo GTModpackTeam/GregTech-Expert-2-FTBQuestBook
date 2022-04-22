@@ -1,11 +1,10 @@
 {
-	title: "どこでもじゃぐち",
+	title: "{gte2.q.03-036.name}",
 	x: -6.0d,
 	y: -2.0d,
 	description: "Infinite Water Cover",
 	text: [
-		"初歩的な揚水ポンプを捨てる時がやってきました。",
-		"このカバーを機械の面に貼り付けると秒間16バケツの水が供給されます。"
+		"{gte2.q.03-036.desc}"
 	],
 	dependencies: [
 		"3dcc4dc4"

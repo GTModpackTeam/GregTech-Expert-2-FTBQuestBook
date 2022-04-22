@@ -1,11 +1,11 @@
 {
-	title: "HSS-G Dust",
+	title: "{gte2.q.02-009.name}",
 	icon: "gregtech:meta_ingot 1 2516",
 	x: 2.0d,
 	y: -2.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-009.desc}"
 	],
 	dependencies: [
 		"33845a9f"

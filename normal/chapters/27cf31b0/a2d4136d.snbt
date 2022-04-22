@@ -1,11 +1,11 @@
 {
-	title: "Iridium",
+	title: "{gte2.q.02-020.name}",
 	icon: "gregtech:meta_ingot 1 50",
 	x: 0.0d,
 	y: 4.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-020.desc}"
 	],
 	dependencies: [
 		"a86813e2"

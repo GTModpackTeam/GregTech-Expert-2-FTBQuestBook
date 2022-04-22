@@ -1,10 +1,10 @@
 {
-	title: "ポータブルスーパータンク",
+	title: "{gte2.q.05-027.name}",
 	x: 11.5d,
 	y: 8.0d,
 	description: "/dank/null MK V",
 	text: [
-		"/dank/nullMK_VはMK_IVより増えた収容量とスロット数で採掘をより楽にしてくれます。"
+		"{gte2.q.05-027.desc}"
 	],
 	dependencies: [
 		"e0fdf259"

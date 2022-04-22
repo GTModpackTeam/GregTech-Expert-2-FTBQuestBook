@@ -1,12 +1,11 @@
 {
-	title: "ピストン内蔵型圧縮機",
+	title: "{gte2.q.13-033.name}",
 	x: -9.0d,
 	y: 2.0d,
 	shape: "diamond",
 	description: "Steam Compressor",
 	text: [
-		"蒸気式圧縮機は蒸気で色んなものを圧縮します。",
-		"金属ブロックなどがこの機械によって解禁されます。"
+		"{gte2.q.13-033.desc}"
 	],
 	dependencies: [
 		"7ae7f404"

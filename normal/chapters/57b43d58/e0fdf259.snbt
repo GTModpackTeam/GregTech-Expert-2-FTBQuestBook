@@ -1,10 +1,10 @@
 {
-	title: "ポータブルAnnihilation_Plane",
+	title: "{gte2.q.05-082.name}",
 	x: 9.5d,
 	y: 8.0d,
 	description: "/dank/nullMK IV",
 	text: [
-		"/dank/nullMK_IVはMK_IIIより増えた収容量とスロット数で採掘をより楽にしてくれます。"
+		"{gte2.q.05-082.desc}"
 	],
 	dependencies: [
 		"5cb7702a"

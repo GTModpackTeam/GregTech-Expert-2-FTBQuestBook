@@ -1,9 +1,9 @@
 {
-	title: "Elite Macerator",
+	title: "{gte2.q.02-003.name}",
 	x: -2.0d,
 	y: -2.0d,
 	text: [
-		""
+		"{gte2.q.02-003.desc}"
 	],
 	dependencies: [
 		"33845a9f"

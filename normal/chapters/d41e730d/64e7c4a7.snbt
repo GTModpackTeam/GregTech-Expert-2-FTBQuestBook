@@ -1,12 +1,10 @@
 {
-	title: "Gregicality-Multiblockのクエスト追加予定地",
+	title: "{gte2.q.10-019.name}",
 	icon: "gregtech:machine 1 1031",
 	x: 6.0d,
 	y: 6.0d,
 	text: [
-		"※このクエストブックではややこしくなるため一旦Gregicality Multiblockはないものとして扱います。",
-		"なので、今後マルチブロック版の機械でスキップできる工程でもシングルブロックの機械を作ることをクエストで要求されるかもしれません。",
-		"気に入らない場合は/ftbquests editing_modeで飛ばしてしまいましょう。"
+		"{gte2.q.10-019.desc}"
 	],
 	dependencies: [
 		"6735403d"

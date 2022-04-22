@@ -1,14 +1,10 @@
 {
-	title: "グーグルのロゴの下にある長方形の箱",
+	title: "{gte2.q.13-006.name}",
 	x: -13.0d,
 	y: 4.0d,
 	description: "Search Box",
 	text: [
-		"検索ボックスをStorage_CoreもしくはStorage_Boxに繋ぐことで",
-		"Storage_Coreの中身を検索することができるようになります。",
-		"",
-		"実はこの段階でStorage_Coreの中身をソートできるSorting_Boxを作ることができるようになりますが、",
-		"Storage_CoreのUIを占領してJEIのブックマークを圧迫するので作成は推奨されません。"
+		"{gte2.q.13-006.desc}"
 	],
 	dependencies: [
 		"b4a568df"

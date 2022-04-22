@@ -1,9 +1,9 @@
 {
-	title: "GTExpert ME Fake Component",
+	title: "{gte2.q.07-016.name}",
 	x: 0.0d,
 	y: 2.0d,
 	text: [
-		""
+		"{gte2.q.07-016.desc}"
 	],
 	dependencies: [
 		"b04b6da2"

@@ -1,10 +1,10 @@
 {
-	title: "Fiber-Reinforced Epoxy Resin Sheet",
+	title: "{gte2.q.02-012.name}",
 	x: 0.0d,
 	y: 2.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-012.desc}"
 	],
 	dependencies: [
 		"33845a9f"

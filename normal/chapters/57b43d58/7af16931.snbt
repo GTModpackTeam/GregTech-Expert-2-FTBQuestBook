@@ -1,5 +1,5 @@
 {
-	title: "[優先度低]建設ガジェット",
+	title: "{gte2.q.05-053.name}",
 	icon: {
 		id: "buildinggadgets:buildingtool",
 		tag: {
@@ -12,10 +12,7 @@
 	y: 6.0d,
 	description: "Building Gadgets",
 	text: [
-		"ガジェットは建設や破壊に用いられる工具です。",
-		"詳細な説明を書くと非常に長くなるのでGregTech関連のクエストがひと段落ついた後に執筆する予定です。",
-		"",
-		"現時点で使う場合はサードパーティーの解説を参照してください。"
+		"{gte2.q.05-053.desc}"
 	],
 	dependencies: [
 		"b75f94e8"

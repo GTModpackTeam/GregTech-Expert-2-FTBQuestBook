@@ -1,10 +1,10 @@
 {
-	title: "チェスト未満",
+	title: "{gte2.q.13-001.name}",
 	x: -15.0d,
 	y: 6.0d,
 	description: "Storage Box",
 	text: [
-		"Storage_BoxはStorage_Coreの容量を400増加させます。"
+		"{gte2.q.13-001.desc}"
 	],
 	dependencies: [
 		"b4a568df"

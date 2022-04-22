@@ -1,9 +1,9 @@
 {
-	title: "Extreme Combution Engine",
+	title: "{gte2.q.02-028.name}",
 	x: -8.0d,
 	y: -6.0d,
 	text: [
-		""
+		"{gte2.q.02-028.desc}"
 	],
 	dependencies: [
 		"c741e4ec",

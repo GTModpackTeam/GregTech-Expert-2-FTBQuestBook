@@ -1,10 +1,10 @@
 {
-	title: "Quantum Supercomputer",
+	title: "{gte2.q.02-033.name}",
 	x: 4.0d,
 	y: 6.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-033.desc}"
 	],
 	dependencies: [
 		"5ed85ae6"

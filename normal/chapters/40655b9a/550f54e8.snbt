@@ -1,10 +1,10 @@
 {
-	title: "今NANDは何度？",
+	title: "{gte2.q.03-018.name}",
 	x: 0.0d,
 	y: -8.0d,
 	description: "NAND Chip",
 	text: [
-		"ULV回路はAE2の1K MEストレージコンポーネントでそれなりに使います。"
+		"{gte2.q.03-018.desc}"
 	],
 	dependencies: [
 		"bfdb6d9e"

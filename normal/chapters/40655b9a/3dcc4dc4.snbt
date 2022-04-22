@@ -1,12 +1,11 @@
 {
-	title: "アッセンブラ",
+	title: "{gte2.q.03-012.name}",
 	x: -6.0d,
 	y: -4.0d,
 	shape: "diamond",
 	description: "Advanced Assebling Mahcine II",
 	text: [
-		"HV組立機は進行に必須な次なるステップです。",
-		"次の電圧以外にも色んな便利なアイテムを解禁します。"
+		"{gte2.q.03-012.desc}"
 	],
 	dependencies: [
 		"798d57e7"

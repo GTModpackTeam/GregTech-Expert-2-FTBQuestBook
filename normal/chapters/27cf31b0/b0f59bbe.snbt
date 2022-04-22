@@ -1,10 +1,10 @@
 {
-	title: "Qubit CPU",
+	title: "{gte2.q.02-024.name}",
 	x: -4.0d,
 	y: 2.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-024.desc}"
 	],
 	dependencies: [
 		"7a4879e5"

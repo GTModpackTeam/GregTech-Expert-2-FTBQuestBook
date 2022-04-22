@@ -1,12 +1,11 @@
 {
-	title: "エポキシ三銃士を連れてきたよ",
+	title: "{gte2.q.10-026.name}",
 	x: -6.0d,
 	y: 0.0d,
 	shape: "diamond",
 	description: "HV Chemical Reactor (again)",
 	text: [
-		"HVの化学反応器を増産しましょう。エポキシの自動化に大量に使います。",
-		"大型化学反応炉でも大丈夫です。"
+		"{gte2.q.10-026.desc}"
 	],
 	dependencies: [
 		"c02ff32f"

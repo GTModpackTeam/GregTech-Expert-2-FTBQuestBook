@@ -1,9 +1,9 @@
 {
-	title: "Rocket Fuel",
+	title: "{gte2.q.02-011.name}",
 	x: -2.0d,
 	y: 2.0d,
 	text: [
-		""
+		"{gte2.q.02-011.desc}"
 	],
 	dependencies: [
 		"33845a9f"

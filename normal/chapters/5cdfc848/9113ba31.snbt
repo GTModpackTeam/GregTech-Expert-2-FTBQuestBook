@@ -1,9 +1,9 @@
 {
-	title: "Creative Quantum Chest",
+	title: "{gte2.q.07-010.name}",
 	x: 0.0d,
 	y: 0.0d,
 	text: [
-		""
+		"{gte2.q.07-010.desc}"
 	],
 	dependencies: [
 		"63f6deb5"

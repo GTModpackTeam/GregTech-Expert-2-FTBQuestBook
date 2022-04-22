@@ -1,10 +1,10 @@
 {
-	title: "錬金術の暗黒時代",
+	title: "{gte2.q.01-001.name}",
 	x: 4.0d,
 	y: 18.0d,
 	description: "Gold Ingot",
 	text: [
-		""
+		"{gte2.q.01-001.desc}"
 	],
 	dependencies: [
 		"64914cac",

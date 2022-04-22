@@ -1,11 +1,11 @@
 {
-	title: "現実で銅以外をコイルにすることはあるのだろうか",
+	title: "{gte2.q.10-035.name}",
 	x: 2.0d,
 	y: 4.0d,
 	shape: "diamond",
 	description: "Extreme Voltage Coil",
 	text: [
-		"Extreme_Voltage_コイルはエネルギーハッチとダイナモハッチの中間素材です。"
+		"{gte2.q.10-035.desc}"
 	],
 	dependencies: [
 		"027279df",

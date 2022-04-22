@@ -1,10 +1,10 @@
 {
-	title: "IV Machine Hull",
+	title: "{gte2.q.02-006.name}",
 	x: 0.0d,
 	y: 0.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-006.desc}"
 	],
 	hide: true,
 	min_width: 300,

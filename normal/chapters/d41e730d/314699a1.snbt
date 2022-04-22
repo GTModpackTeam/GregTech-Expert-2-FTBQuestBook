@@ -1,10 +1,10 @@
 {
-	title: "えすおーしー",
+	title: "{gte2.q.10-006.name}",
 	x: -2.0d,
 	y: -4.0d,
 	description: "SoC",
 	text: [
-		"システムオンチップはLV回路の最後のレシピを解放します。"
+		"{gte2.q.10-006.desc}"
 	],
 	dependencies: [
 		"63c8b620"

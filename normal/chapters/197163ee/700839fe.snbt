@@ -1,10 +1,10 @@
 {
-	title: "偽ダイヤ鉱脈",
+	title: "{gte2.q.01-035.name}",
 	x: 6.0d,
 	y: 16.0d,
 	description: "Saltpeter Vein",
 	text: [
-		""
+		"{gte2.q.01-035.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

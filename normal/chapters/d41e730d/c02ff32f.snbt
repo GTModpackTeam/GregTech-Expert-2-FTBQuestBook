@@ -1,14 +1,11 @@
 {
-	title: "Hull研究所",
+	title: "{gte2.q.10-037.name}",
 	x: 0.0d,
 	y: 0.0d,
 	shape: "diamond",
 	description: "EV Machine Hull",
 	text: [
-		"恒例のマシン筐体です。",
-		"",
-		"EVはGTCEuで最も内容の薄い電圧とよく言われますが、気を抜かずに進めていきましょう。",
-		"原子炉が来れば一気に充実するかもしれません。"
+		"{gte2.q.10-037.desc}"
 	],
 	hide: true,
 	min_width: 300,

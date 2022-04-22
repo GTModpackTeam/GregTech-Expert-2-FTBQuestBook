@@ -1,10 +1,10 @@
 {
-	title: "Super Chest I未満",
+	title: "{gte2.q.13-015.name}",
 	x: -9.0d,
 	y: 8.0d,
 	description: "Hyper Storage Box",
 	text: [
-		"Hyper_Storage_BoxはStorage_Coreの容量を320,000増加させます。"
+		"{gte2.q.13-015.desc}"
 	],
 	dependencies: [
 		"390f03f3"

@@ -1,10 +1,10 @@
 {
-	title: "ウラニウムトリケラトプスワイヤー",
+	title: "{gte2.q.10-042.name}",
 	x: 4.0d,
 	y: 4.0d,
 	description: "Uranium Triplatinum Wire",
 	text: [
-		"このワイヤーは1倍で6アンペアを流せます。"
+		"{gte2.q.10-042.desc}"
 	],
 	dependencies: [
 		"6735403d",

@@ -1,10 +1,10 @@
 {
-	title: "Advanced SMD Transistor",
+	title: "{gte2.q.02-030.name}",
 	x: 4.0d,
 	y: 0.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-030.desc}"
 	],
 	dependencies: [
 		"a50e93fa",

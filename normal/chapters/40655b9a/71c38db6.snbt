@@ -1,13 +1,11 @@
 {
-	title: "宝石用温室",
+	title: "{gte2.q.03-026.name}",
 	x: -4.0d,
 	y: 4.0d,
 	shape: "diamond",
 	description: "Advanced Autoclace II",
 	text: [
-		"HVオートクレーブは一応作製が任意ではあるものの必ず欲しい機械でしょう。",
-		"",
-		"オートクレーブは通常のバッテリーより抜群の蓄電量を誇る特殊なバッテリーを解禁することができます。"
+		"{gte2.q.03-026.desc}"
 	],
 	dependencies: [
 		"798d57e7"

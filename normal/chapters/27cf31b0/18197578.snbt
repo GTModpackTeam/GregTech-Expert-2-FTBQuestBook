@@ -1,10 +1,10 @@
 {
-	title: "Assembly Line",
+	title: "{gte2.q.02-001.name}",
 	x: -10.0d,
 	y: 0.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-001.desc}"
 	],
 	dependencies: [
 		"7ccb04e8"

@@ -1,13 +1,11 @@
 {
-	title: "電気100倍",
+	title: "{gte2.q.10-034.name}",
 	x: 2.0d,
 	y: 6.0d,
 	shape: "diamond",
 	description: "EV Energy Hatch",
 	text: [
-		"EVのエネルギーハッチは工業用電気炉のアップグレードに使います。",
-		"",
-		"このあたりでネザーの空気を蒸留塔で処理することが現実的になってきます。"
+		"{gte2.q.10-034.desc}"
 	],
 	dependencies: [
 		"331de251",

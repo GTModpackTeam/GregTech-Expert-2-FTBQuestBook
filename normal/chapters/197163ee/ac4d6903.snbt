@@ -1,10 +1,10 @@
 {
-	title: "TinとTinと二倍TinとTin",
+	title: "{gte2.q.01-043.name}",
 	x: 14.0d,
 	y: 0.0d,
 	description: "Cassiterite Vein",
 	text: [
-		""
+		"{gte2.q.01-043.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

@@ -1,12 +1,12 @@
 {
-	title: "Crafting Calculatorの詳細な解説",
+	title: "{gte2.q.04-003.name}",
 	icon: "jecalculation:item_calculator 1 1",
 	x: 8.0d,
 	y: -6.0d,
 	shape: "square",
 	description: "How to use the Crafting Calculator (advanced)",
 	text: [
-		"執筆中"
+		"{gte2.q.04-003.desc}"
 	],
 	dependencies: [
 		"831fd07e"

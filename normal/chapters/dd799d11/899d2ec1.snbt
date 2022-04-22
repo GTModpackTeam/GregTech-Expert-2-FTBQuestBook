@@ -1,13 +1,10 @@
 {
-	title: "もっと速くしよう",
+	title: "{gte2.q.11-028.name}",
 	x: 20.0d,
 	y: 2.0d,
 	description: "Acceleration Card",
 	text: [
-		"加速カードは分子組立室の加工速度を上げることができます。",
-		"とりあえず挿しておいて損はないでしょう。",
-		"",
-		"その他にも使い道があるのですが実用的な使い方はこのmodpackでは全て封じられています。"
+		"{gte2.q.11-028.desc}"
 	],
 	dependencies: [
 		"e27585b7"

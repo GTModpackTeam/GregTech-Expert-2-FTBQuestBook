@@ -1,14 +1,12 @@
 {
-	title: "砂上の鋼鉄",
+	title: "{gte2.q.13-019.name}",
 	icon: "minecraft:glass",
 	x: 1.0d,
 	y: 2.0d,
 	shape: "diamond",
 	description: "Glass",
 	text: [
-		"ガラスは砂を砕いてできたクォーツサンドと極小の火打石の粉を混ぜて、",
-		"合金かまどで焼くことで作成できます。",
-		"板ガラスなどのガラス関連製品はレシピが軒並み難化しているので、まだ作れないかもしれません。"
+		"{gte2.q.13-019.desc}"
 	],
 	dependencies: [
 		"a9f0f009"

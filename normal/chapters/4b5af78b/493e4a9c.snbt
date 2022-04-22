@@ -1,12 +1,11 @@
 {
-	title: "MineAllSMPもどき",
+	title: "{gte2.q.04-014.name}",
 	x: 2.0d,
 	y: -2.0d,
 	shape: "square",
 	description: "Change Veinmining Mode",
 	text: [
-		"Shiftキーと一括破壊キーを押しながらスクロールすることでFTB Ultimineの採掘モードを変えることができます。",
-		"3*3を破壊するモードや直線を掘りぬくモードなど色々あるので使いこなせると便利です"
+		"{gte2.q.04-014.desc}"
 	],
 	dependencies: [
 		"b6814711"

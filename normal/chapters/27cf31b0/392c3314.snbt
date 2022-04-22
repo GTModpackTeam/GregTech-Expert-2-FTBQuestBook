@@ -1,12 +1,11 @@
 {
-	title: "割と量産できるようになってくる",
+	title: "{gte2.q.02-007.name}",
 	x: 2.0d,
 	y: -4.0d,
 	shape: "diamond",
 	description: "Samarium Iron Arsenic Oxide",
 	text: [
-		"この超電導ワイヤーはLuVを進めるのに必要になってきます。",
-		"何故かと思ったらJEIで検索してみましょう。"
+		"{gte2.q.02-007.desc}"
 	],
 	dependencies: [
 		"324f4306",

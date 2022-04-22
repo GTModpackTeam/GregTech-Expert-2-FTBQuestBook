@@ -3,7 +3,7 @@
 	y: 20.0d,
 	description: "Monazite Vein",
 	text: [
-		""
+		"{gte2.q.01-037.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

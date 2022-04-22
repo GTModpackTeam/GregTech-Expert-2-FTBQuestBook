@@ -1,9 +1,9 @@
 {
-	title: "Tier 2",
+	title: "{gte2.q.01-056.name}",
 	x: 0.0d,
 	y: 8.0d,
 	text: [
-		""
+		"{gte2.q.01-056.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

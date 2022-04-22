@@ -1,18 +1,10 @@
 {
-	title: "手作りの箱",
+	title: "{gte2.q.13-020.name}",
 	x: -13.0d,
 	y: 6.0d,
 	description: "Crafting Box",
 	text: [
-		"Crafting_BoxをStorage_CoreもしくはStorage_Boxに繋ぐことで",
-		"Storage_CoreのUIにクラフティンググリッドが追加されます。",
-		"",
-		"しかし、このグリッドにJEIで検索したレシピを展開した時",
-		"Gregtechのツールが展開されません。",
-		"更にバグでシフトクリックでまとめてクラフトすることができません。",
-		"Crafting_StationならGregtechのツールが展開されたりまとめてクラフトができたりしますが、",
-		"StationはStorage_Coreをインベントリとして認識しません。",
-		"どちらの作業台をメインで使うかはプレイヤーの好みに委ねられます。"
+		"{gte2.q.13-020.desc}"
 	],
 	dependencies: [
 		"b4a568df"

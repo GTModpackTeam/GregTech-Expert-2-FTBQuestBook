@@ -1,10 +1,10 @@
 {
-	title: "Extreme Circuit Board",
+	title: "{gte2.q.02-017.name}",
 	x: 2.0d,
 	y: 4.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-017.desc}"
 	],
 	dependencies: [
 		"62084b27"

@@ -1,15 +1,11 @@
 {
-	title: "Inscriver解雇",
+	title: "{gte2.q.11-023.name}",
 	x: 6.0d,
 	y: 0.0d,
 	shape: "diamond",
 	description: "Inscriber Presses",
 	text: [
-		"第二の中間素材である4種類の金型を作っていきましょう。",
-		"",
-		"金型は隕石からではなくレーザー刻印機から入手できます。",
-		"レンズには先ほど作ったクリスタルを使いましょう。",
-		"100秒*4かかるので面倒かもしれませんが、プログラム回路と同様一度作れば二度と作らなくていいです。"
+		"{gte2.q.11-023.desc}"
 	],
 	dependencies: [
 		"bfdb6d9e",

@@ -1,14 +1,11 @@
 {
-	title: "アベンジャーズ組立機",
+	title: "{gte2.q.06-003.name}",
 	x: 4.0d,
 	y: -2.0d,
 	shape: "diamond",
 	description: "Advanced Assembling Machine",
 	text: [
-		"発展型組立機は全ての電圧のメイン機械であり、",
-		"更なるレシピを解禁して上の電圧を目指すための重要な目標です。",
-		"",
-		"MV組立機は次のレベルの回路を作るためのトランジスタ、キャパシタとインダクタのレシピを解禁します。"
+		"{gte2.q.06-003.desc}"
 	],
 	dependencies: [
 		"4ca7718b"

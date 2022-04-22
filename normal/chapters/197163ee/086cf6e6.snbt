@@ -1,10 +1,10 @@
 {
-	title: "Pyanodon modの代名詞といえば？",
+	title: "{gte2.q.01-006.name}",
 	x: 18.0d,
 	y: 0.0d,
 	description: "Coal Vein",
 	text: [
-		""
+		"{gte2.q.01-006.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

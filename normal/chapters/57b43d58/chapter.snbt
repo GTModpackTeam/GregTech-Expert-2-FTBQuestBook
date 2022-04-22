@@ -1,5 +1,5 @@
 {
-	title: "Tier 2 -LV",
+	title: "{gte2.q.05-077.name}",
 	icon: "gregtech:machine 1 620",
 	always_invisible: false,
 	group: 0,

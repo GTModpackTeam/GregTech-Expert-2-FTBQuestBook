@@ -1,14 +1,11 @@
 {
-	title: "最高じゃないHV回路",
+	title: "{gte2.q.06-011.name}",
 	x: 8.0d,
 	y: 12.0d,
 	shape: "diamond",
 	description: "Processor Assembly",
 	text: [
-		"処理演算装置は前のレベルの回路よりとても安く簡単に作れる回路です。",
-		"",
-		"ここまで作ったらもうHVのタブに移動するべきでしょう。",
-		"ただ電力供給を更に増大するならもうしばらくはMV時代にいても大丈夫です。"
+		"{gte2.q.06-011.desc}"
 	],
 	dependencies: [
 		"c21685a9"

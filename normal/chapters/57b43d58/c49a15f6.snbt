@@ -1,11 +1,11 @@
 {
-	title: "その他大勢",
+	title: "{gte2.q.05-068.name}",
 	x: 1.5d,
 	y: -6.0d,
 	shape: "diamond",
 	description: "LV Components",
 	text: [
-		"ピストン、エミッター、センサーはどれもLV機械を作るために必要な中間素材です。"
+		"{gte2.q.05-068.desc}"
 	],
 	dependencies: [
 		"2bef72fb"

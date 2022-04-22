@@ -1,14 +1,11 @@
 {
-	title: "更に熱くなってきた",
+	title: "{gte2.q.10-020.name}",
 	x: 6.0d,
 	y: 4.0d,
 	shape: "diamond",
 	description: "Tungstensteel Coil",
 	text: [
-		"タングステンスチールコイルは工業用電気炉の熱限界を4,500Kにまで引き上げます。",
-		"",
-		"これはIV時代に初めて必要になりますが、",
-		"これを早く獲得することでコイルボーナスの恩恵を享受できるので今作りましょう。"
+		"{gte2.q.10-020.desc}"
 	],
 	dependencies: [
 		"027279df",

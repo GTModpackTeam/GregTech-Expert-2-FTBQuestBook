@@ -1,10 +1,10 @@
 {
-	title: "橙レンジャー",
+	title: "{gte2.q.11-026.name}",
 	x: 20.0d,
 	y: 0.0d,
 	description: "Wireless Pattern Terminal",
 	text: [
-		"無線パターンターミナルはパターンターミナルのワイヤレス版です。"
+		"{gte2.q.11-026.desc}"
 	],
 	dependencies: [
 		"f49e45c9"

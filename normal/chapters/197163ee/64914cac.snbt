@@ -1,10 +1,10 @@
 {
-	title: "鉱脈生成をいじらないとエンドはこいつで埋め尽くされる",
+	title: "{gte2.q.01-033.name}",
 	x: 4.0d,
 	y: 16.0d,
 	description: "Magnetite Vein",
 	text: [
-		""
+		"{gte2.q.01-033.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

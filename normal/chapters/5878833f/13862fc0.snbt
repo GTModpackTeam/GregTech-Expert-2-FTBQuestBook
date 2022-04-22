@@ -1,13 +1,11 @@
 {
-	title: "中空のキャパシタ",
+	title: "{gte2.q.06-004.name}",
 	x: 8.0d,
 	y: 8.0d,
 	shape: "diamond",
 	description: "Inductor",
 	text: [
-		"インダクタはMV組立機によって作ることのできる回路の素材です。",
-		"",
-		"もし安く作りたければニッケル亜鉛フェライトを精錬しましょう。"
+		"{gte2.q.06-004.desc}"
 	],
 	dependencies: [
 		"ac8a1743"

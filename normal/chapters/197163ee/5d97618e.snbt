@@ -1,10 +1,10 @@
 {
-	title: "冷えたレッドストーン",
+	title: "{gte2.q.01-031.name}",
 	x: 6.0d,
 	y: 18.0d,
 	description: "Electrotine Dust",
 	text: [
-		""
+		"{gte2.q.01-031.desc}"
 	],
 	dependencies: [
 		"700839fe"

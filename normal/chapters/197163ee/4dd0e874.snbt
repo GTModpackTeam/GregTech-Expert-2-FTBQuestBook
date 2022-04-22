@@ -1,10 +1,10 @@
 {
-	title: "肥料・バイオマス・コンクリートの素",
+	title: "{gte2.q.01-026.name}",
 	x: 4.0d,
 	y: 6.0d,
 	description: "Calcite Dust",
 	text: [
-		""
+		"{gte2.q.01-026.desc}"
 	],
 	dependencies: [
 		"72de3530"

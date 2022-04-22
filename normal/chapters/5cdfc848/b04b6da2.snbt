@@ -1,9 +1,9 @@
 {
-	title: "Creative Capacitor Bank",
+	title: "{gte2.q.07-011.name}",
 	x: 2.0d,
 	y: 2.0d,
 	text: [
-		""
+		"{gte2.q.07-011.desc}"
 	],
 	dependencies: [
 		"5d388d48"

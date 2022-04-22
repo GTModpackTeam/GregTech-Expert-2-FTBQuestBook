@@ -1,11 +1,11 @@
 {
-	title: "木炭の満員電車",
+	title: "{gte2.q.04-052.name}",
 	icon: "gregtech:machine 1 19",
 	x: 6.0d,
 	y: 2.0d,
 	description: "Charcoal Pit Igniter",
 	text: [
-		"Charcoal Pit Igniterが実装されたら加筆します。"
+		"{gte2.q.04-052.desc}"
 	],
 	dependencies: [
 		"a887d7d6"

@@ -1,14 +1,11 @@
 {
-	title: "高電圧大浴場",
+	title: "{gte2.q.03-051.name}",
 	x: -2.0d,
 	y: -4.0d,
 	shape: "diamond",
 	description: "Advanced Chemical Bath II",
 	text: [
-		"HV化学槽は化学染料でレンズを染めるために必要です。",
-		"色付きレンズを使えば色んな種類のウェハーを彫刻できます。",
-		"",
-		"エンダーアイの作製にも必要です。"
+		"{gte2.q.03-051.desc}"
 	],
 	dependencies: [
 		"798d57e7"

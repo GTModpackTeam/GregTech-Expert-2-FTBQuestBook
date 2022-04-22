@@ -1,10 +1,10 @@
 {
-	title: "Rhodium Plated Palladium",
+	title: "{gte2.q.02-013.name}",
 	x: -6.0d,
 	y: 0.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-013.desc}"
 	],
 	dependencies: [
 		"fa25d6bf"

@@ -1,10 +1,10 @@
 {
-	title: "HPIC",
+	title: "{gte2.q.02-016.name}",
 	x: -8.0d,
 	y: 0.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-016.desc}"
 	],
 	dependencies: [
 		"7a4879e5",

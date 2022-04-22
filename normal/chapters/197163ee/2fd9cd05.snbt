@@ -1,10 +1,10 @@
 {
-	title: "工業用じゃないけど工業用",
+	title: "{gte2.q.01-020.name}",
 	x: 14.0d,
 	y: 6.0d,
 	description: "Diamond",
 	text: [
-		""
+		"{gte2.q.01-020.desc}"
 	],
 	dependencies: [
 		"18622cec"

@@ -1,13 +1,11 @@
 {
-	title: "実は初代IndustrialCraftの時代から存在する",
+	title: "{gte2.q.10-024.name}",
 	x: -2.0d,
 	y: 4.0d,
 	shape: "diamond",
 	description: "Lapotron Crystal",
 	text: [
-		"ラポトロンクリスタルはEV時代の最高のバッテリーのようななにかです。",
-		"",
-		"加工手順が若干面倒なのでまとめて作るかAE2で自動化しましょう。"
+		"{gte2.q.10-024.desc}"
 	],
 	dependencies: [
 		"99548f33"

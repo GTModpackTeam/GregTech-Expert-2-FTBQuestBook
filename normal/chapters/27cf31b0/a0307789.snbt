@@ -1,10 +1,10 @@
 {
-	title: "Elite Circuit Assembler",
+	title: "{gte2.q.02-019.name}",
 	x: -2.0d,
 	y: 6.0d,
 	shape: "diamond",
 	text: [
-		""
+		"{gte2.q.02-019.desc}"
 	],
 	dependencies: [
 		"a6e0daef"

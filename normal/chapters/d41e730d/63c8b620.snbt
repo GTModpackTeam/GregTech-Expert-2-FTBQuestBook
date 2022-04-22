@@ -1,13 +1,11 @@
 {
-	title: "焦らずに目指そう",
+	title: "{gte2.q.10-017.name}",
 	x: 0.0d,
 	y: -4.0d,
 	shape: "diamond",
 	description: "Advanced Circuit Assembler",
 	text: [
-		"EV回路組立機を作るころには拠点のインフラが粗方EVに対応しているべきです。",
-		"",
-		"EV回路組立機は次のレベルの回路、ナノを解禁します。"
+		"{gte2.q.10-017.desc}"
 	],
 	dependencies: [
 		"c02ff32f",

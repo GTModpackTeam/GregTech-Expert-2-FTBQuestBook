@@ -1,10 +1,10 @@
 {
-	title: "ブロンズ鉱脈",
+	title: "{gte2.q.01-012.name}",
 	x: 12.0d,
 	y: 0.0d,
 	description: "Copper Tin Vein",
 	text: [
-		""
+		"{gte2.q.01-012.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

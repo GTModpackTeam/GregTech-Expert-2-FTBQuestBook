@@ -3,7 +3,7 @@
 	y: 20.0d,
 	description: "Pitchblende Vein",
 	text: [
-		""
+		"{gte2.q.01-054.desc}"
 	],
 	dependencies: [
 		"2b9a2b25"

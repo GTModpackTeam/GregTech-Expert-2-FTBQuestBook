@@ -1,14 +1,11 @@
 {
-	title: "脱リンゴ食",
+	title: "{gte2.q.04-007.name}",
 	icon: "gregtech:machine 1 8516",
 	x: 14.0d,
 	y: -2.0d,
 	description: "primitive baking oven",
 	text: [
-		"primitive_baking_ovenを建てると小麦からパンが焼けるようになります。",
-		"マルチブロックの組み立て方はコークス炉のクエストを参照してください。",
-		"",
-		"余談：オーブンのUIに\"要メンテナンス\"が表示される不具合があったが修正された"
+		"{gte2.q.04-007.desc}"
 	],
 	dependencies: [
 		"3ac887a1"

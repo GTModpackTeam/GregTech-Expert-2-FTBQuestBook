@@ -1,11 +1,11 @@
 {
-	title: "ムーアの法則",
+	title: "{gte2.q.06-006.name}",
 	x: 8.0d,
 	y: 4.0d,
 	shape: "diamond",
 	description: "Transistor",
 	text: [
-		"トランジスタはMV組立機によって作ることのできる回路の素材です。"
+		"{gte2.q.06-006.desc}"
 	],
 	dependencies: [
 		"ac8a1743"

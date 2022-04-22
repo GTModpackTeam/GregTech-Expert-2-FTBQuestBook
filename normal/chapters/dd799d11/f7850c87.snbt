@@ -1,11 +1,10 @@
 {
-	title: "紫レンジャー",
+	title: "{gte2.q.11-050.name}",
 	x: 22.0d,
 	y: 0.0d,
 	description: "Wireless Interface Terminal",
 	text: [
-		"無線インターフェースターミナルはインターフェースターミナルのワイヤレス版です。",
-		"検索機能が一部失われてしまっていますが仕様です。"
+		"{gte2.q.11-050.desc}"
 	],
 	dependencies: [
 		"811a1952"

@@ -1,9 +1,9 @@
 {
-	title: "Solar Panel(ZPM)",
+	title: "{gte2.q.07-009.name}",
 	x: 2.0d,
 	y: -2.0d,
 	text: [
-		""
+		"{gte2.q.07-009.desc}"
 	],
 	dependencies: [
 		"7db56dd6"

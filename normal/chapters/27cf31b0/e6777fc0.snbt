@@ -1,10 +1,15 @@
 {
-	title: "Advanced SMD Transistor",
+	title: "赤い絆創膏",
 	x: 4.0d,
 	y: 0.0d,
 	shape: "diamond",
+	description: "Advanced SMD",
 	text: [
-		""
+		"このSMDでより複雑な回路を安く作れるようになります。",
+		"",
+		"これらを作るためにはまだ作っていない、LuVより先の時代の合金が必要です。",
+		"",
+		"クリスタル回路を作るにはこのSMDが必須になります。"
 	],
 	dependencies: [
 		"a50e93fa",

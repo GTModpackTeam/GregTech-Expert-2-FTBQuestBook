@@ -1,0 +1,9 @@
+{
+	x: -6.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "995864b6",
+		type: "checkmark",
+		title: "水気厳禁、火気厳禁"
+	}]
+}

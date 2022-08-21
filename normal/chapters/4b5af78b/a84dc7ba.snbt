@@ -1,0 +1,53 @@
+{
+	title: "リビングユニット収納シリーズ",
+	x: 12.0d,
+	y: -6.0d,
+	description: "Drawers",
+	text: [
+		"ドロワーを設置すると一種類のアイテムを沢山収納することができます。",
+		"",
+		"作り方についてはJEIがややこしいのですが、まずドロワーの骨組みをクラフトする必要があります。",
+		"そして、チゼルのGUIに骨組みを入れて好きな種類のドロワーを作りましょう。"
+	],
+	engText: [
+		""
+	],
+	dependencies: [
+		"d3af9f80"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "01034375",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "spruce"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "birch"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "jungle"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "dark_oak"
+			}
+		}]
+	}]
+}

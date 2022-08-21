@@ -27,7 +27,26 @@
 		"余談：このクエストブックはGTE2のv1.x系統で一度完成しており、v2.x系統になるにあたり多くの箇所が書き直されている"
 	],
 	engText: [
-		""
+		"Welcome to §9 Gregtech Expert 2 §f (hereafter referred to as GTE2)!",
+		"This modpack is called Gregtech Community Edition Unofficial (or GTCEu or simply CEu)",
+		"The main theme is to advance science with mod, the successor of GTCE, and its add-on Gregicality-Science.",
+		"We also add some additional mods to adjust the balance.",
+		"",
+		"The GTCEu is loaded with more voltage than the GTCE, up to the UV used by the former GregTech.",
+		"Gregicality-Science is being developed by the same developers as GTCEu, modifying the GTCEu's existing voltage and implementing a voltage beyond UV.",
+		"Of course, a lot of QoL content has been added besides voltage.",
+		"",
+		"This Quest Book contains content written by several developers in GTCEu.",
+		"It also includes an explanation of internal specifications that cannot be known in normal play.",
+		"So gregtech experienced readers will enjoy it.",
+		"",
+		"This Quest Book contains an enormous amount of information.",
+		"Don't try to read it all at once. It is good to read it little by little when you have free time by leaving grinding machine and blast furnace.",
+		"",
+		"By the way : Gregtech Expert 2 doesn't have magic mod.",
+		"The reason why magic mod existed in GTE1 was that there was a player which had already been used and could not be deleted.",
+		"",
+		"As an aside : This quest book was completed once in the v1. x series of GTE2, and many parts have been rewritten for the v2. x series."
 	],
 	min_width: 300,
 	tasks: [{

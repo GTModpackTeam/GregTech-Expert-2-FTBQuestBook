@@ -1,9 +1,12 @@
 {
-	title: "TinとTinと二倍TinとTin",
-	x: 14.0d,
+	title: "TinとTinと二分の一倍TinとTin",
+	x: 12.0d,
 	y: 0.0d,
 	description: "Cassiterite Vein",
 	text: [
+		""
+	],
+	engText: [
 		""
 	],
 	dependencies: [

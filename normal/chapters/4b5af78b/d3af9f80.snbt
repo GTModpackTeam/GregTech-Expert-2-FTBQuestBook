@@ -5,9 +5,13 @@
 	description: "Chisel",
 	text: [
 		"チゼルを使うことでブロックの模様を変えることができます。",
+		"modpackによって耐久値がブーストされているので壊れにくいです。",
 		"",
 		"このmodによって新たな建築用ブロックも追加されています。",
 		"大規模な工場を作る時にはFactory BlockやLaboratory Blockが有用です。"
+	],
+	engText: [
+		""
 	],
 	dependencies: [
 		"3ac887a1"

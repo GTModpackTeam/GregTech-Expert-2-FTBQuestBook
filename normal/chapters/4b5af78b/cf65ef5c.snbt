@@ -13,7 +13,12 @@
 		"余談：FTB Ultimineの採掘範囲は松の原木破壊の為に128ブロックに設定されている"
 	],
 	engText: [
-		""
+		"Let's get 4 spruce saplings and grow big trees.",
+		"If you use mass destruction, you can get a large amount of raw wood at one time, and it is much easier to produce steam.",
+		"",
+		"If you can't find spruce saplings, you can use dark oak, but ultimately spruce saplings are more efficient.",
+		"",
+		"Digression : The mining range of the FTB Ultimine is set at 128 blocks due to the destruction of spruce logs."
 	],
 	dependencies: [
 		"493e4a9c"

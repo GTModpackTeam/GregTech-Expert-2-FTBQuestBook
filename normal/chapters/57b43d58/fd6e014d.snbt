@@ -1,0 +1,16 @@
+{
+	title: "液体の属性講座",
+	x: -6.5d,
+	y: 6.0d,
+	description: "About fluid attributes",
+	text: [
+		""
+	],
+	engText: [
+		""
+	],
+	tasks: [{
+		uid: "200d7e23",
+		type: "checkmark"
+	}]
+}

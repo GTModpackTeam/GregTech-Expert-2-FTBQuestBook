@@ -1,9 +1,12 @@
 {
-	title: "Raw Coal",
-	x: 18.0d,
+	title: "人工ダイヤモンドの栄光はどこへ",
+	x: 16.0d,
 	y: 2.0d,
 	description: "Coal",
 	text: [
+		""
+	],
+	engText: [
 		""
 	],
 	dependencies: [

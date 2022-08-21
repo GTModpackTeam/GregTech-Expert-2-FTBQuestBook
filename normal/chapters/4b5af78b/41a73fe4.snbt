@@ -30,7 +30,29 @@
 		"ハンマーで鉱石を砕いて粉にする必要があった"
 	],
 	engText: [
-		""
+		"Here are some of Gregtech's tools :",
+		"You may be confused that JEI has only tools made by Neutroneum.",
+		"Actually, tools can be made with various materials.",
+		"Of course, the quest can be accomplished with tools made of any material unless otherwise specified.",
+		"Let's make the first tool with iron. If you have it, you can make it with wrought iron.",
+		"",
+		"A lot of hammers are used in the early recipe.",
+		"Metal can be processed into plate shape.",
+		"Some original items from Gregtech using metal plates",
+		"Let's make other tools.",
+		"",
+		"If you right-click the machine with a hammer, you can switch whether the machine is operating sound or not.",
+		"This is especially useful for automation in small locations.",
+		"",
+		"When you break stones and ores with a hammer, you drop them in a state where they are crushed in one stage.",
+		"This will be discussed further in the Ore Processing Quest, but it is important to remember that coal ore can be used as fuel when it is broken.",
+		"",
+		"As is common to all GregTech tools, a anvil can be repaired like a vanilla tool.",
+		"It is also possible to make several pieces because it consumes experience value.",
+		"We can't fix by crafting two of the same tools.",
+		"",
+		"Digression : Redstone ore could not be directly refined in gregtech5u",
+		"The ore had to be crushed into powder with a hammer"
 	],
 	dependencies: [
 		"a887d7d6",

@@ -27,6 +27,20 @@
 		"",
 		"余談：Disjunctionエンチャントの元ネタはThaumcraftの同名エンチャントと思われる"
 	],
+	engText: [
+		"Hammering and Disjunction are new GTCEu enchantments.",
+		"",
+		"You can attach a Hammering Enchant to any tool, including a mining hammer.",
+		"If you break the block with that tool, it will behave the same as if you broke the block with a hammer (of the tool).",
+		"By the way, a lucky enchant will ride on the ore destroyed by Hammering.",
+		"By adding Lucky III enchant to the tool, the crushed ore is doubled.",
+		"",
+		"The Disjunction enchant can be attached to any tool.",
+		"The tool will have a special attack on Ender Man and Ender Dragon.",
+		"IF YOU PUT IT ON THE \"ENDER\" OF THE EnderIO, IT'LL BE STRONG.",
+		"",
+		"Digression : Disjunction Enchant Seems To Be Based On Thaumcraft Enchant of Same Name"
+	],
 	dependencies: [
 		"d0403759"
 	],

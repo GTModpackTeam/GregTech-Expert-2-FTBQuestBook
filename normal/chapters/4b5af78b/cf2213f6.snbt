@@ -8,6 +8,10 @@
 		"ポティンは銅と錫と鉛で作ることのできる合金です。",
 		"主にパイプの材料として使われます。"
 	],
+	engText: [
+		"Potin is an alloy that can be made of copper, tin and lead.",
+		"It is mainly used as a material for pipes."
+	],
 	dependencies: [
 		"13bc06e8",
 		"04d3ff01",

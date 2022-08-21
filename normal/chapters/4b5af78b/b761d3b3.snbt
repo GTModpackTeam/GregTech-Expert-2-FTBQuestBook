@@ -15,7 +15,14 @@
 		"このmodpackは導管のレシピを変更しているため使えません。"
 	],
 	engText: [
-		""
+		"Clay is one of the materials used in large quantities before the electric age.",
+		"While you are waiting for the ore to burn, let's gather it.",
+		"",
+		"We also use a large amount to advance the Clayium.",
+		"This quest is also a premise to start Clayium, so let's finish it early.",
+		"",
+		"Clay is famous for its ability to be used as a conduit joint material in EnderIO.",
+		"This modpack cannot be used because the recipe of the conduit has been changed."
 	],
 	dependencies: [
 		"37835f75"

@@ -24,7 +24,23 @@
 		"余談：錬鉄を有用な資源とみなすか作る労力に見合わないハズレ金属としてみなすかは海外でもかなり意見が割れている"
 	],
 	engText: [
-		""
+		"* Note : This quest will be released after the completion of the Steel Ingot Quest in the Ore _ Veins tab.",
+		"You can always confirm the prerequisites for releasing the quest by pressing the triangle at the top left of the quest screen.",
+		"",
+		"Let's make wrought iron, which is a useful metal.",
+		"They craft iron into a mass of iron, and burn it in a furnace into a mass of wrought iron ;",
+		"You can make it by collecting 4 of them.",
+		"",
+		"Although it takes time and effort to make wrought iron, there is a corresponding reward.",
+		"First of all, a tool made of wrought iron has a durability value 1.5 times that of iron, making it hard to break.",
+		"Also, if you use wrought iron when you bake steel, the time required for baking will be less than half.",
+		"",
+		"There are uses for unburnt iron",
+		"Let's try not to convert all the iron in the base into wrought iron.",
+		"",
+		"Digression : Originally made by refining iron nuggets into full-iron nuggets, but it was relaxed by the recent appude",
+		"",
+		"After-story : Opinions are divided even in foreign countries on whether to regard wrought iron as a useful resource or as a metal that is not worth the effort to make it."
 	],
 	dependencies: [
 		"58ddd38f"

@@ -27,6 +27,29 @@
 		"",
 		"余談：GTCEuではなぜかコークスの結晶が実装されている"
 	],
+	engText: [
+		"Coke ovens are multi-blocks that most players will be building first.",
+		"Charcoal is obtained by processing raw wood in a coke oven, and coke, a high-performance fuel, is obtained by processing coal.",
+		"It also provides the creosote needed to make embalmed wood.",
+		"If you burn creosote in a furnace, you can refine the item 32 times, so let's use it positively.",
+		"",
+		"We need 117 pieces of clay and 195 pieces of sand to make this multi-block.",
+		"(The task shows the total number of bricks needed including the controller recipe.)",
+		"Once you've built the controller, place it one block above the ground and shift right click.",
+		"You should see a preview of the multiblock.",
+		"It can be assembled easily just by installing bricks according to it.",
+		"Of course, you can also use JEI multiblock preview.",
+		"",
+		"The coke oven GUI has a liquid gauge.",
+		"You can pump out the liquid inside by clicking the gauge with a bucket or a cell.",
+		"",
+		"By connecting an item pipe to the core of a coke oven, delivery of fuel can be automated.",
+		"Once the conveyor module is available, unloading can be automated.",
+		"",
+		"Digression : Minecraft's ancient multi-block, originated from the coke oven being implemented in the Railcraft mod in version 1.4.7 of Minecraft.",
+		"",
+		"Digression : In GTCEu, for some reason, crystals of coke are mounted."
+	],
 	dependencies: [
 		"606d8b7a"
 	],

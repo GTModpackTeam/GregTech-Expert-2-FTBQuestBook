@@ -7,6 +7,9 @@
 	text: [
 		"Charcoal Pit Igniterが実装されたら加筆します。"
 	],
+	engText: [
+		"When the Charcoal Pit Igniter is implemented, it will be added."
+	],
 	dependencies: [
 		"a887d7d6"
 	],

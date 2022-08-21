@@ -35,7 +35,34 @@
 		"液体の流量が多い箇所だけ太いパイプを繋げるなど工夫しましょう。"
 	],
 	engText: [
-		""
+		"In gregtech, there is no distinction between liquid and gas, and both move forward, backward, up, left and right along liquid pipes.",
+		"Let's learn how to use a simple liquid pipe here.",
+		"",
+		"If you place the liquid pipe in an empty place, it becomes a cube.",
+		"This cube shows that all the faces of the pipe are not connected to anything.",
+		"Remember that this is the initial state of the pipe.",
+		"I think it will be a cube even if you install a pipe on the next floor.",
+		"Remember that Gregtech's pipes don't connect to neighbors when they're installed.",
+		"",
+		"But pipes don't make sense unless they are connected.",
+		"Hold the wrench and hover the cursor over the pipe to display nine grids.",
+		"Then right-click the center mass with a wrench to make a hole in front of the pipe.",
+		"This means that the front of the pipe is connected to the next block.",
+		"Right-click the upper, lower, left, and right mass with the wrench to the upper, lower, left, and right of the pipe.",
+		"Right-click the diagonal mass to open a hole in the back of the pipe, each of which has the same meaning as front.",
+		"Let's use this specification to connect the pipe to the next pipe or block.",
+		"For convenience, the pipe connected to the block will be referred to as the carry-out port (carry-in entrance) of the pipe.",
+		"",
+		"It is troublesome to connect pipes with wrenches each time, so Gregtech has a simple automatic connection function for pipes.",
+		"When a pipe is installed toward a pipe or a connectable machine, the installed pipe is automatically connected to other pipes or machines.",
+		"Another useful trick is to hold the wrench and shift the pipe right-click to close the clicked face of the pipe.",
+		"",
+		"The liquid pipe does not have an automatic delivery function.",
+		"Fortunately, however, boilers and multi-block tanks can carry out liquids automatically, although they are limited.",
+		"It would be a good idea to build a liquid network with these as a starting point in the early stage before obtaining items such as pumps that can be carried out automatically.",
+		"",
+		"Pipes of different sizes can be connected to each other.",
+		"Try to connect a thick pipe only where the flow rate of liquid is high."
 	],
 	dependencies: [
 		"3ac887a1"

@@ -18,7 +18,16 @@
 		"余談：最近までサトウキビには水の代わりに原油を与えられても育ってしまう不具合があった。"
 	],
 	engText: [
-		""
+		"Collect paper that will be used in large quantities in the register.",
+		"Paper can be made by grinding a book or sugar cane and stretching it with a rolling pin.",
+		"If there is no village nearby, let's expand the sugar cane field.",
+		"",
+		"As an aside : In Gregicality, which was the origin of GTCEu, there was a recipe to make it using paper and water bucket.",
+		"Probably because it was unpopular that it took a lot of time and effort, it is now gone.",
+		"",
+		"Digression : There used to be a recipe for making paper directly from books in this modpack, but it was removed without realizing it.",
+		"",
+		"Digression : Until recently, sugar cane had a problem of growing even if it was fed with crude oil instead of water."
 	],
 	dependencies: [
 		"3ac887a1"

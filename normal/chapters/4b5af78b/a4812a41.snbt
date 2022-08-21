@@ -15,7 +15,15 @@
 		"コークス炉ハッチにはツールチップが存在しませんが、筐体共有できません。"
 	],
 	engText: [
-		""
+		"Many multiblocks, such as coke ovens, can share components with neighboring multiblocks.",
+		"In other words, it can operate even if another coke oven is installed next to the coke oven so that it overlaps.",
+		"Installing many coke ovens using this is one of the tips to get through the early stage quickly.",
+		"",
+		"Note that if you try to share a specific block for each multi-block, such as a hatch",
+		"There are cases where it is not shared normally (liquid discharge hatch is a typical example) or multi-block is not recognized (maintenance hatch is a typical example).",
+		"The tooltip states whether the building blocks can be shared with the enclosure.",
+		"",
+		"Coke oven The hatch does not have a tooltip, but cannot share the housing."
 	],
 	dependencies: [
 		"586e87b4"

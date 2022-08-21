@@ -21,7 +21,19 @@
 		"代わりにChickenChunksのチャンクローダーを使いましょう"
 	],
 	engText: [
-		""
+		"With FTB _ Utilities you can telereport between veins and sites across dimensions.",
+		"",
+		"By typing \"/ sethome <any character string>\" into the chat column, you can register your Imadate in the system.",
+		"You can telereport to that point with \"/ home <any string>\".",
+		"You can see the list of registered points in \"/ home list\".",
+		"You can delete points with \"/ delhome <any string>\"",
+		"",
+		"The maximum number of registered points is 30.",
+		"",
+		"If you forget the name of home, you can click / home list or press shift + ↑ in the command input screen to call up the old command.",
+		"",
+		"FTB _ Utilities also comes with chunk protection, but the section c chunk loading feature is disabled in the config.",
+		"Let's use the ChickenChunks chunkloader instead."
 	],
 	dependencies: [
 		"2b9a2b25"

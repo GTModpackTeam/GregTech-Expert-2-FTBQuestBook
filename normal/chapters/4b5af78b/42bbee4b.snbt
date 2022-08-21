@@ -14,6 +14,15 @@
 		"この画面では先ほど登録したwaypointの管理ができます。",
 		"また、死んだときに出るビーコンもここで削除できます。"
 	],
+	engText: [
+		"By default, you can register a mine as a waypoint by pressing the B key.",
+		"It is very convenient, so let's use it by all means.",
+		"",
+		"By default, you can open the Journeymap (map) by pressing the J key.",
+		"There are various menus, but the most important one is the item called waypoints. in the lower left.",
+		"On this screen, you can manage the waypoint you registered earlier.",
+		"You can also delete the beacon that appears when you die here."
+	],
 	dependencies: [
 		"2b9a2b25"
 	],

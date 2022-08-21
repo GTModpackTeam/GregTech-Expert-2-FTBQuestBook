@@ -22,6 +22,25 @@
 		"",
 		"余談：クリエアイテムの要求素材を計算させるとフリーズするのでAE2の自動クラフトの材料計算機能を使いましょう"
 	],
+	engText: [
+		"The Crafting Calculator is a tool for creating multiple arbitrary items.",
+		"A calculator that displays the total number of intermediate materials.",
+		"It also supports Gregtech machining and is mainly used for multi-block construction.",
+		"",
+		"Here's a quick way to use it :",
+		"① Right-click the computer to open the GUI.",
+		"② Place the item you want to make in the slot displayed at the top, and specify the number of items you want to make in the box on the right.",
+		"③ The item as an intermediate material appears in the bottom grid, so press the R key on the item.",
+		"When the liquid comes out, instead of pressing the R key on the liquid, search for the liquid of the same name with JEI and press the R key on it.",
+		"④ The recipe of the item will be displayed, so press the + button at the bottom right of the recipe you want to use.",
+		"⑤ The recipe is read on the computer. At this time, the upper slot is output and the lower slot is input.",
+		"⑥ Rewrite the recipe so that the calculator does not behave strangely.",
+		"For example, if you include a Programmed _ Circuit or Lens in your recipe that you don't consume, you will be asked for a lot in later calculations.",
+		"⑦ Press the second floppy disk from the upper left to save the recipe.",
+		"If you repeat the ③~⑦, you can list all necessary intermediate materials.",
+		"",
+		"Digression : If you calculate the required material of the Crie item, it will freeze, so let's use the material calculation function of the automatic craft of AE2."
+	],
 	dependencies: [
 		"58ddd38f"
 	],

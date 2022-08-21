@@ -14,13 +14,18 @@
 		"",
 		"この世界では原木から木材が1つしかクラフトできません。",
 		"原木をとったら早速木材にクラフトしたいところですが、多くのレシピが変更されているこの環境では使い道がそれほどありません。",
-		"次のクエストに進みましょう。",
-		"",
-		"§m余談：GTE2では当初原木から木材を1個しか作れないようにしていたが、",
-		"バグで実装出来ないということで2個の形に緩和された。§r"
+		"次のクエストに進みましょう。"
 	],
 	engText: [
-		""
+		"Let's gather the logs.",
+		"By breaking the wood with bare hands while pressing the FTB _ Ultimine bulk destruction key which is set to the Grave key by default",
+		"Connected logs can be destroyed at once.",
+		"Difficulty level You should be careful because other than peaceful, you will consume a little satiety.",
+		"You can change the bulk destruction key by opening control. in options. and entering \"FTB Ultimine\" in the search bar.",
+		"",
+		"In this world, you can craft only one piece of wood from a raw wood.",
+		"I want to craft to wood as soon as I take the raw wood, but it is not so useful in this environment where many recipes have been changed.",
+		"Let's move on to the next quest."
 	],
 	dependencies: [
 		"d55d8909"

@@ -11,7 +11,11 @@
 		"大規模な工場を作る時にはFactory BlockやLaboratory Blockが有用です。"
 	],
 	engText: [
-		""
+		"You can change the pattern of the block by using a chisel.",
+		"It is hard to break because the durability value is boosted by the modpack.",
+		"",
+		"This mod also adds a new building block.",
+		"Factory Block and Laboratory Block are useful when building a large-scale factory."
 	],
 	dependencies: [
 		"3ac887a1"

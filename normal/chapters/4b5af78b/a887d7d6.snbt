@@ -23,13 +23,27 @@
 		"昔のGregtechではブロンズを焼く為の高炉を作るために大量に必要だった",
 		"",
 		"余談：現実でのブロンズは銅7対錫1に近い比率をしているが、",
-		"殆どのminecraftのmodではゲームバランスを重視するために3:1に変更されている",
-		"",
-		"余談：このクエストの元のタイトルは「GregもApexもブロンズから始まる」であったが、",
-		"Apex_Legendsというゲームにブロンズランクの下のルーキーランクが実装されたことで急遽変更になった"
+		"殆どのminecraftのmodではゲームバランスを重視するために3:1に変更されている"
 	],
 	engText: [
-		""
+		"* Note : This Quest will be released after the completion of the Copper Ingot and Tin Ingot Quest in the Ore Veins tab.",
+		"You can always confirm the prerequisites for releasing the quest by pressing the triangle at the top left of the quest screen.",
+		"",
+		"Let's make bronze, our first alloy.",
+		"Bronze can be made by grinding 3 pieces of copper and 1 piece of tin with a mortar, crafting and baking.",
+		"",
+		"Let's make a lot of bronze. It is the main material of the steam age, so a moderate number is required.",
+		"The alloy furnace recipe is efficient, but it can't be used for the time being due to the operating speed and required steam quantity.",
+		"At GregTech, making materials by hand is more costly than making them by machine.",
+		"",
+		"For your information : bronze is not very much required in this modpack.",
+		"If you play un-complicated raw GTCEu, It is reasonably required as a material for a steam oven or a steam grinder.",
+		"",
+		"Side story : Bronze is required only to a certain extent in GTCEu.",
+		"The old Gregtech needed a lot to build a blast furnace to bake bronze.",
+		"",
+		"By the way : In reality, bronze has a ratio close to 7 copper to 1 tin.",
+		"Most minecraft mods have been changed to 3 : 1 to focus on game balance"
 	],
 	dependencies: [
 		"04d3ff01",

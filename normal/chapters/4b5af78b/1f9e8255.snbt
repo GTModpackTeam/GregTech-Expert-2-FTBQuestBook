@@ -18,7 +18,18 @@
 		"現実ではコインの材料として使われている"
 	],
 	engText: [
-		""
+		"Potine liquid pipe is a very good pipe for the time of availability.",
+		"It can transport large volumes of relatively high-temperature fluids.",
+		"You can make a bronze pipe at this stage, but if you are not particular about it, let's use this one.",
+		"",
+		"There is no doubt if all the steam is transported by this pipe.",
+		"It is a small size in the steam age, and it is smooth if you switch to a large pipe in the middle of the LV age.",
+		"",
+		"As a point to note, if you touch the pipe carrying high-temperature liquid, you will get a big damage.",
+		"Let's be careful because there is a liquid which causes death by one blow.",
+		"",
+		"Extras : Potin was first added in a 1.7.10 add-on mod called GT + +",
+		"Actually used as material for coins"
 	],
 	dependencies: [
 		"cf2213f6",

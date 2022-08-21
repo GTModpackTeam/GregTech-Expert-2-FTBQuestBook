@@ -25,7 +25,16 @@
 		"当アイテムが実装されたためGTE2では廃止された。"
 	],
 	engText: [
-		""
+		"You can make your own mining hammers that were included in the initial distribution item.",
+		"This hammer can mine an area of 3x3 at a time.",
+		"You can mine only one block by sneaking and using it.",
+		"However, before plates can be made efficiently, the mining efficiency per metal ingot is inferior to that of Tsuruhashi.",
+		"",
+		"Until the steam age, let's use either iron or wrought iron as the material of the hammer.",
+		"Bronze has value of bronze is too low to a hammer.",
+		"",
+		"By the way : GTE1 introduced a mod called HammerX due to a lack of mining tools.",
+		"It was deprecated in GTE2 because this item was implemented."
 	],
 	dependencies: [
 		"41a73fe4"

@@ -29,7 +29,29 @@
 		"余談：ドラムはGregTech6から輸入された"
 	],
 	engText: [
-		""
+		"A barrel can store liquid of low temperature.",
+		"Even if you break it, the contents will be retained, so you can carry it.",
+		"",
+		"The drum can store many of the liquids present in Gregtech.",
+		"The storage amount varies depending on the metal",
+		"The contents will be retained even if you break any metal drum.",
+		"",
+		"There may be liquids that cannot be carried into the drum.",
+		"It is because the drum does not correspond to the attribute of the liquid.",
+		"This will be covered in earnest later.",
+		"",
+		"Liquid can be delivered to the machine by left-clicking the container containing the liquid in the inner tank of the future machine.",
+		"It is convenient for hand craft.",
+		"",
+		"If you craft a barrel or drum separately, you can empty the contents.",
+		"",
+		"If you right-click a barrel or drum in screwdriver, the mode of automatic unloading to a tank connected downward will be turned on.",
+		"Suitable for long-term operation of liquid boilers.",
+		"",
+		"It is not recommended to store steam in a drum.",
+		"The volume of steam is so large that it doesn't provide much of a buffer.",
+		"",
+		"Digression : Drums were imported from GregTech6"
 	],
 	dependencies: [
 		"606d8b7a"

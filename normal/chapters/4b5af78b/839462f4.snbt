@@ -2,6 +2,7 @@
 	title: "自動装填機構T1",
 	x: 18.0d,
 	y: 4.0d,
+	description: "Coke Oven Hatch",
 	text: [
 		"コークス炉ハッチはコークス炉の任意の箇所にとりつけられる専用のハッチです。",
 		"内部的には最大五個まで取り付けられます。",
@@ -9,6 +10,14 @@
 		"ホッパーを使えばアイテムも自動搬入出することができます。",
 		"",
 		"それでもクレオソートが余った場合はコークス炉のコントローラーを壊すことでもクレオソートを捨てることができます。"
+	],
+	engText: [
+		"A coke oven hatch is a dedicated hatch installed at any place in the coke oven.",
+		"Internally, up to five can be installed.",
+		"It is recommended to connect a liquid container next to the coke oven and carry out the automatic discharge, because the coke oven becomes inoperable if the creosote is stored too much.",
+		"If you use a hopper, items can be carried in and out automatically.",
+		"",
+		"If creosote remains, it can be disposed of by breaking the controller of the coke oven."
 	],
 	dependencies: [
 		"586e87b4"

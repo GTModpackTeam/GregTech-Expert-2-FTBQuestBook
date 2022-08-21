@@ -19,6 +19,22 @@
 		"",
 		"余談：/dank/null/はGregTechの採掘を快適にしたいという強い要望によってこのmodpackに開発中盤で導入された。"
 	],
+	engText: [
+		"§c/dank/null / has a bug that makes it impossible to retrieve it forever if it is put into ME warehouse. §r",
+		"",
+		"/ dank/null / is a backpack that holds 128 items in 9 slots and automatically disposes of overflowing items.",
+		"There is a lot of soil and Maruishi left when I go for mining at the beginning, but by registering these items in / dank/null /",
+		"/ dank/null / will automatically erase the remaining amount.",
+		"",
+		"Items registered in / dank/null / can only be taken out leaving one item.",
+		"A few crtl-clicks on the slot will take all of it out.",
+		"Also, you can erase all contents by crafting / dank/null / separately.",
+		"",
+		"If you don't want to destroy the Maruishi, you can use a drawer instead of / dunk / null /.",
+		"In this modpack, even if the drawer is broken, the contents will be retained, so it can be used as a backpack.",
+		"",
+		"By the way : / dank/null / was introduced to the modpack in mid-development due to GregTech's strong desire to make mining more comfortable."
+	],
 	dependencies: [
 		"2b9a2b25"
 	],

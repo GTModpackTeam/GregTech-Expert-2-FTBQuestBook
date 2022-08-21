@@ -21,6 +21,26 @@
 		"",
 		"余談：溶岩ダイブで死んだときは./backコマンドが効かないのでネザーの探索は慎重にしよう"
 	],
+	engText: [
+		"Let's go to Netherland to secure ore.",
+		"(wtf is Netherland)",
+		"",
+		"There are many ores which are indispensable for progress such as sulphur, stibnite and sphalerite in Netherland, so it cannot be avoided.",
+		"",
+		"The fastest way to ignite a gate is by lava ignition.",
+		"He should have no particular business until the end of the Steam Age ;",
+		"It doesn't matter if you light it after you get the Hiuchiishi and uchigane.",
+		"",
+		"When we process ores dug with Nizer or Endo, we can get twice as much metal as when we process ordinary ores.",
+		"However, it is more difficult than the overworld to find the vein of Nizer because the generation range is wide.",
+		"In addition, there is a risk of lava dripping during mining, so the ores that can be mined both in the Netherworld and in the Overworld",
+		"You will dig in the overworld.",
+		"",
+		"By the way : In GTE1, Nether _ Ores mod was introduced, so Netherer was an even more dangerous place than now.",
+		"At the same time, it was also a pathetic place where lava was pulled out by a large number of pumps from the beginning.",
+		"",
+		"Digression : When you die in a lava dive, the. / back command doesn't work, so we'll be careful in our search for Netherer."
+	],
 	dependencies: [
 		"9e820dda"
 	],

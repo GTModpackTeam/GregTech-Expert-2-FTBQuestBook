@@ -12,7 +12,12 @@
 		"余談：Mega_Tochのデフォルトの湧きつぶし範囲は64ブロックだがコンフィグで調整された"
 	],
 	engText: [
-		""
+		"Mega Torch fills up the 128 block range.",
+		"It doesn't secure the brightness, so let's use other means.",
+		"",
+		"You should be careful because a lot of enemy mobs may be generated at the boundary of 128 blocks due to a defect.",
+		"",
+		"Digression : Mega _ Toch's default pumping range is 64 blocks, but it's tuned in config"
 	],
 	dependencies: [
 		"41a73fe4"

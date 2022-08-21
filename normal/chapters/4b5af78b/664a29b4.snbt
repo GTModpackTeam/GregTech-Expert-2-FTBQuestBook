@@ -14,7 +14,13 @@
 		"精錬速度の遅さは上位機械を作ることで改善されます。"
 	],
 	engText: [
-		""
+		"When the voltage of GregTech goes up, you can barely fill your stomach with vanilla food.",
+		"Let's try to eat other food as soon as possible.",
+		"The first recommendation is the Roasted _ Potato _ on _ a _ Stick which is not caught by the satiety penalty.",
+		"",
+		"You can make bread by crushing wheat, coating it with salt to make bread dough, shaping it and baking it.",
+		"There are many other recipes at primitive _ baking _ oven, so please try them out.",
+		"The slow refining speed can be improved by making a higher-level machine."
 	],
 	dependencies: [
 		"38fde206"

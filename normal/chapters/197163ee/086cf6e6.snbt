@@ -1,9 +1,12 @@
 {
-	title: "Pyanodon modの代名詞といえば？",
-	x: 18.0d,
+	title: "微妙に使い道がない鉱脈第一位",
+	x: 16.0d,
 	y: 0.0d,
 	description: "Coal Vein",
 	text: [
+		""
+	],
+	engText: [
 		""
 	],
 	dependencies: [

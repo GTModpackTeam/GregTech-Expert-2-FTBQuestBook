@@ -4,7 +4,10 @@
 	y: 2.0d,
 	description: "Tin Ingot",
 	text: [
-		"水銀には勝てる"
+		"余談：水銀には勝てる"
+	],
+	engText: [
+		""
 	],
 	dependencies: [
 		"05dce41d",

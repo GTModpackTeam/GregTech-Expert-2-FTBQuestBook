@@ -27,6 +27,30 @@
 		"",
 		"余談：このマルチブロックはIMACTから輸入された最も象徴的な要素として知られている。"
 	],
+	engText: [
+		"Build an elementary water pump to pump (underground) water.",
+		"As with coke ovens, the structure can be understood by referring to JEI.",
+		"The confusion between the embalmed timber frame and the timber frame ;",
+		"Be sure to place the pump delivery hatch at the center of the pump.",
+		"You can make it without any problem.",
+		"",
+		"Pumps do not need to be located adjacent to the water source.",
+		"Water can be pumped once a second (underground) from the desert or from anywhere.",
+		"The amount of water pumped at a time varies from biome to biome and is the largest in marine biomes.",
+		"In addition, by installing an ulv discharge hatch or lv _ discharge hatch in the center of the pump instead of the pump discharge hatch",
+		"The water to be pumped is multiplied.",
+		"Specific biome and hatch magnification can be found on the JEI pump infomation tab in the scrolled area.",
+		"But you don't need to worry about it now because the boiler which consumes water only consumes a small amount of water.",
+		"",
+		"Since the pump delivery hatch has an automatic delivery function to the surface with a hole",
+		"Water can be easily drawn out from the pump by using wooden liquid pipes, etc.",
+		"",
+		"As an aside, the wooden framework can be used as a ladder",
+		"It has a specification that if you right-click at the bottom of the overlapping framework, the new framework will be placed at the top.",
+		"It is suitable for use in architecture.",
+		"",
+		"Digression : This multi-block is known as the most symbolic factor imported from IMACT."
+	],
 	dependencies: [
 		"39f52b04",
 		"586e87b4"

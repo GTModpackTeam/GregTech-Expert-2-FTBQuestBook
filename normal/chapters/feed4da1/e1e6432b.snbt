@@ -1,0 +1,31 @@
+{
+	title: "急減圧します ご注意ください",
+	x: -5.0d,
+	y: -2.0d,
+	description: "Steam Ejector & Small Vacuum Chamber",
+	text: [
+		""
+	],
+	engText: [
+		""
+	],
+	dependencies: [
+		"76b62977"
+	],
+	min_width: 300,
+	or_tasks: true,
+	tasks: [{
+		uid: "7f9ea9f6",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2100"
+		}]
+	},
+	{
+		uid: "480cb924",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2101"
+		}]
+	}]
+}

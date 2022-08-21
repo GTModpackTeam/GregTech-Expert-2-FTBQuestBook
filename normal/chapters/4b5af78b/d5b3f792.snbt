@@ -13,6 +13,15 @@
 		"",
 		"余談：GregTech5では(厳密には当時のIC2exでは)ゴムの木にツリータップを使うことでしかゴムを入手できなかった。"
 	],
+	engText: [
+		"Let's cut the rubber tree and make the first torch.",
+		"Since the recipe for burning charcoal from logs has been removed, the first torch can be obtained either by this method or by digging near the surface to get coal ores.",
+		"",
+		"Rubber trees are produced in forests, wetlands, and jungle biomes, and they differ from ordinary trees in that \"the leaf block at the top of the tree is two blocks higher.\"",
+		"When the rubber tree is cut, the raw rubber tree and the rubber are removed. Both can be used later to make rubber sheets, but now it is recommended to use them as materials for torch.",
+		"",
+		"Digression : In GregTech5 (strictly speaking, in IC2ex at that time), rubber could only be obtained by using tree tap on rubber tree."
+	],
 	dependencies: [
 		"b6814711"
 	],

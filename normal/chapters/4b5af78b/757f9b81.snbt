@@ -7,9 +7,23 @@
 		"クレートはチェストの上位互換で、同じブロックの中により多くのアイテムを詰められます。",
 		"そして容量が小さめの木製クレートも上部にブロックがあっても開けられるチェストとして機能します。",
 		"コンベヤーなどのカバーが取り付けられるという利点もあるので、簡単な機械のバッファーとして使ってもいいでしょう。",
+		"後々LV機械を並べた時に自動搬出先にクレートを並べると綺麗になります。",
+		"",
+		"ソート機能はないので多用には気を付けましょう。",
 		"",
 		"余談：クレートはShadows_of_GregというGregtechのアドオンに既に存在していたが、",
 		"Shadows _of_Gregを採用した最も有名なmodpackであるOmnifactoryで削除されていたためか知名度が低い"
+	],
+	engText: [
+		"Crate is upward compatible with chest and allows you to pack more items into the same block.",
+		"And a wooden crate with a smaller capacity also functions as a chest that can be opened even if there is a block at the top.",
+		"You can also use it as a buffer for a simple machine because it has an advantage that covers such as conveyor can be attached.",
+		"When you arrange the LV machine later, it will be clean if you arrange the crate in the automatic delivery destination.",
+		"",
+		"There is no sorting function, so please be careful not to use it too much.",
+		"",
+		"By the way : Crate already existed in a Gregtech add-on called Shadows _ of _ Greg.",
+		"Omnifactory, the most famous modpack that adopted Shadows _ of _ Greg, probably because it had been deleted."
 	],
 	dependencies: [
 		"3ac887a1"

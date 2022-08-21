@@ -5,12 +5,22 @@
 	y: -4.0d,
 	description: "bread",
 	text: [
-		"※AppleCore_modの導入によりバニラの食べ物は食べれば食べるほど満腹度回復量が減るようになりました。",
+		"GregTechの電圧が上昇するとバニラの食べ物では殆ど腹を満たせなくなります。",
 		"早めに別の食品を食べるようにしましょう。",
 		"序盤のおすすめは満腹度ペナルティにひっかからないRoasted_Potato_on_a_Stickです。",
 		"",
 		"小麦を砕いて塩をまぶしてパン生地にし、整形して焼き上げればようやくパンができます。",
-		"primitive_baking_ovenにはこれ以外にも沢山のレシピがあるので是非試してみて下さい。"
+		"primitive_baking_ovenにはこれ以外にも沢山のレシピがあるので是非試してみて下さい。",
+		"精錬速度の遅さは上位機械を作ることで改善されます。"
+	],
+	engText: [
+		"When the voltage of GregTech goes up, you can barely fill your stomach with vanilla food.",
+		"Let's try to eat other food as soon as possible.",
+		"The first recommendation is the Roasted _ Potato _ on _ a _ Stick which is not caught by the satiety penalty.",
+		"",
+		"You can make bread by crushing wheat, coating it with salt to make bread dough, shaping it and baking it.",
+		"There are many other recipes at primitive _ baking _ oven, so please try them out.",
+		"The slow refining speed can be improved by making a higher-level machine."
 	],
 	dependencies: [
 		"38fde206"

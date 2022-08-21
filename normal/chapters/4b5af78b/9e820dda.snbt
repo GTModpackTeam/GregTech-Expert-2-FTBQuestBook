@@ -13,6 +13,15 @@
 		"",
 		"余談：昔のGregtechでは溶岩を入れたバケツを持つと火傷していた"
 	],
+	engText: [
+		"Plates are materials used throughout GregTech and can be made by crafting two ingots and a hammer.",
+		"In the steam age, better recipes will be released.",
+		"",
+		"You can make a bucket by combining three iron plates.",
+		"It has almost the same function as the bucket used in vanilla.",
+		"",
+		"Digression : In the old Gregtech, if you hold a bucket of lava, you get burned."
+	],
 	dependencies: [
 		"41a73fe4"
 	],

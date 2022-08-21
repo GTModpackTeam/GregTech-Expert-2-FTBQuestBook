@@ -10,6 +10,13 @@
 		"",
 		"余談：Feral_Flare_Lanternのデフォルトの湧きつぶし範囲は16ブロックだがコンフィグで調整できる"
 	],
+	engText: [
+		"When the Feral _ Flare _ Lantern is placed, an invisible light source of less than 10 brightness block with a circumference of 32 squares is placed and brightens.",
+		"Since pine torch continues to exert a load on industrial sites with particles",
+		"If you can get a Growstone, let's transfer to this way as soon as possible.",
+		"",
+		"Digression : Feral _ Flare _ Lantern has a default fill range of 16 blocks, but can be adjusted in config"
+	],
 	dependencies: [
 		"e5b5946b"
 	],

@@ -1,10 +1,10 @@
 {
-	title: "レシピの海で溺れないために",
+	title: "レシピの海で溺れないためにJEIを活用しましょう",
 	icon: "minecraft:compass",
 	x: -2.0d,
 	y: -2.0d,
 	shape: "square",
-	description: "JEIを活用しましょう",
+	description: "Use JEI wisely",
 	text: [
 		"同じアイテムにも複数のレシピが存在することがよくあるので、",
 		"最初に表示されたページでスクロールをやめないようにしましょう。",
@@ -14,7 +14,18 @@
 		"複数の加工方法が提示された複雑なレシピのアイテムを作らなければいけなくなった時、",
 		"このクエストブックは最良の道筋を案内します。",
 		"",
-		"余談：実はこのmodpackにJEIは導入されていない(modsディレクトリを確認してみよう)"
+		"余談：実はこのmodpackに導入されているJEIはHEIという非公式の改良版である"
+	],
+	engText: [
+		"There are often several recipes for the same item.",
+		"Don't stop scrolling on the first page you see.",
+		"Don't be fooled by being able to distinguish between the features of an auto-generated recipe and other recipes.",
+		"(For example, all the recipes for making steel ingots into bars, bolts and plates are automatically generated.)",
+		"",
+		"When you have to make an item of a complicated recipe with multiple processing methods",
+		"This Quest Book guides you through the best path.",
+		"",
+		"Digression : Actually, the JEI introduced in this modpack is an unofficial improvement called HEI."
 	],
 	dependencies: [
 		"d55d8909"

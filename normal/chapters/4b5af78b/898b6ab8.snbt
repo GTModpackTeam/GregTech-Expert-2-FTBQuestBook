@@ -4,13 +4,20 @@
 	y: 2.0d,
 	description: "Unlit Mega Torch",
 	text: [
-		"§mUnlit_Mega_Torchを火打石と打ち金やライターで点火すると、",
-		"128ブロックの範囲を湧きつぶししてくれるMega Torchに変化します。",
-		"一度着火すれば消えることはありません。§r",
-		"",
 		"Mega Torchは128ブロックの範囲を湧きつぶししてくれます。",
+		"明るさは確保してくれないので他の手段を使いましょう。",
+		"",
+		"不具合で128ブロックの境界に敵mobが大量に湧いてしまうことがあるので気を付けましょう。",
 		"",
 		"余談：Mega_Tochのデフォルトの湧きつぶし範囲は64ブロックだがコンフィグで調整された"
+	],
+	engText: [
+		"Mega Torch fills up the 128 block range.",
+		"It doesn't secure the brightness, so let's use other means.",
+		"",
+		"You should be careful because a lot of enemy mobs may be generated at the boundary of 128 blocks due to a defect.",
+		"",
+		"Digression : Mega _ Toch's default pumping range is 64 blocks, but it's tuned in config"
 	],
 	dependencies: [
 		"41a73fe4"

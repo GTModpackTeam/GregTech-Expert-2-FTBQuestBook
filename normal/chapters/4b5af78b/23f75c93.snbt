@@ -17,6 +17,20 @@
 		"余談：このマルチブロックはあまりにも使い道が少ないので",
 		"ガスを貯蔵できるようにしようという意見も出ている"
 	],
+	engText: [
+		"A wooden multi-block tank can store 250 buckets of creosote at a time.",
+		"You can't store hot liquid such as lava or gas such as steam or oxygen.",
+		"See the Coke Oven Quest for assembly and GUI.",
+		"",
+		"Wooden tank valves can be installed anywhere in the tank.",
+		"If the tank is placed downward on the lowest layer of the tank, the liquid in the tank is automatically discharged.",
+		"It would be good to think carefully and install it.",
+		"",
+		"Unlike drums, if you break a multi-block tank, its contents will be discarded.",
+		"",
+		"By the way : This multiblock is so unwieldy",
+		"There is an opinion to make it possible to store gas."
+	],
 	dependencies: [
 		"606d8b7a"
 	],

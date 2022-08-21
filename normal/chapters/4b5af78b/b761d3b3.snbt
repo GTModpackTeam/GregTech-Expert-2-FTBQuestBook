@@ -1,15 +1,28 @@
 {
-	title: "Clayiumの序盤再来",
+	title: "非現実工場の幕開け",
 	x: 4.0d,
 	y: 2.0d,
 	shape: "diamond",
 	description: "Clay",
 	text: [
-		"粘土は機械で製作できるようになる前の時代に大量に使用する材料の一つです。",
+		"粘土は電気時代より前に大量に使用する材料の一つです。",
 		"鉱石が焼けるのを待っている間などにどんどん集めましょう。",
 		"",
+		"また、Clayiumを進めるためにも大量に使います。",
+		"このクエストはClayiumを始める前提でもあるので早めにクリアしておきましょう。",
+		"",
 		"粘土はEnderIOの導管接合材の素材にできることで有名ですが、",
-		"全ての導管の素材はTier 4 -HVで解禁されるので今は使うことは出来ません。"
+		"このmodpackは導管のレシピを変更しているため使えません。"
+	],
+	engText: [
+		"Clay is one of the materials used in large quantities before the electric age.",
+		"While you are waiting for the ore to burn, let's gather it.",
+		"",
+		"We also use a large amount to advance the Clayium.",
+		"This quest is also a premise to start Clayium, so let's finish it early.",
+		"",
+		"Clay is famous for its ability to be used as a conduit joint material in EnderIO.",
+		"This modpack cannot be used because the recipe of the conduit has been changed."
 	],
 	dependencies: [
 		"37835f75"

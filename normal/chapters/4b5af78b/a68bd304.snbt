@@ -13,6 +13,14 @@
 		"するとNONEと表示されると思いますので、そこをクリックして好きなキーを設定してください。",
 		"そうすることで、そのキーを押すことでいつでもクエスト画面を開くことができます。"
 	],
+	engText: [
+		"This Quest screen can be accessed using methods other than the Quest Book.",
+		"",
+		"As well as pressing the Quest button at the top left of the inventory, you can also open it by setting a key binding.",
+		"Open Controls. in Options. in the pose menu, and type Open Quests in the search bar at the lower left.",
+		"Then, NONE will appear, so click it and set the key you like.",
+		"By doing so, you can open the quest screen at any time by pressing the key."
+	],
 	dependencies: [
 		"9ac73ca6"
 	],

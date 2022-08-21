@@ -2,7 +2,7 @@
 	title: "アイテムパイプ講座",
 	x: 16.0d,
 	y: -2.0d,
-	description: "Small Tin Item Pipe",
+	description: "About item pipes",
 	text: [
 		"アイテムパイプは搬入されたアイテムを搬出口までテレポート輸送することができます。",
 		"アイテムパイプ同士はデフォルトで繋がらないようになっています。",
@@ -30,6 +30,34 @@
 		"余談：アイテムパイプはGT5uからGTCEが作られる際に何故か実装されず、",
 		"長らく日の目を見ることがなかったが、",
 		"GTCEuになって数年ぶりに復活した。"
+	],
+	engText: [
+		"The Item Pipe can teleport delivered items to carry-out port.",
+		"Item pipes are not connected to each other by default.",
+		"See the \"Fluid _ Handling\" quest for more information on pipes.",
+		"",
+		"The item pipe has a limit on the amount of transportation per second, but even the cheapest tin pipe is very loose.",
+		"You don't need to upgrade until late in the game.",
+		"This is a rare specification found in industrial mods.",
+		"",
+		"The item pipe does not have automatic delivery function.",
+		"Parts such as motors and conveyors can be attached to the carry-in entrance of the pipe to enable automatic delivery.",
+		"You need to push the items into the pipe with a hopper in the beginning when they are not available.",
+		"Shift the Hopper to the carry-in entrance of the Item Pipe (where there is a hole in the pipe that can be set with a wrench) Let's connect it by right clicking.",
+		"If you can see the items disappear from the hopper, you are successful.",
+		"To automate the smelting of wrought iron requires a large number of hoppers connected to the furnace.",
+		"You can save money by using this technique.",
+		"",
+		"The item pipe carries delivered items out from the nearest carry-out port.",
+		"First of all, when an item is delivered, each carry-out port is assigned a value called Routing Value.",
+		"This value is the sum of the unique routing values of each pipe between the item and the carry-out port.",
+		"The item is then teleported to the carry-out port with the lowest routing value.",
+		"Because the Restricted Item pipe has a large routing value, the carry-out port beyond the Restricted Item pipe will have a lower shipping priority.",
+		"The conveyor module allows items to be shipped to every carry-out port in order, ignoring routing values.",
+		"",
+		"Digression : Item pipe is somehow not implemented when GTCE is created from GT5u.",
+		"He had not seen the light of day for a long time",
+		"It was revived after several years in GTCEu."
 	],
 	dependencies: [
 		"3ac887a1"

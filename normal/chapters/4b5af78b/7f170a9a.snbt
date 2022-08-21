@@ -4,9 +4,6 @@
 	y: -2.0d,
 	description: "Crafting Station",
 	text: [
-		"§m※現在クラフティングステーションをソートすると中のアイテムが消滅するバグがあります。§r",
-		"v1.0.0で修正されました",
-		"",
 		"金属ツールで作業台クラフトを行うとインベントリが圧迫される問題は",
 		"クラフティングステーションを作ることで解決することができます。",
 		"",
@@ -32,7 +29,35 @@
 		"(RFToolsが導入されていれば)最大1500スロットからアイテムを引っ張り出せる",
 		"",
 		"余談：昔Omnifactoryにはこのブロックの代替品のワークベンチを実装するためだけにForestry modが導入されていたが、",
-		"GTCEにこのブロックが実装されたことに伴いmodごと削除されようとしている"
+		"GTCEにこのブロックが実装されたことに伴いmodごと削除された"
+	],
+	engText: [
+		"The problem of inventory pressure when you craft a workbench with metal tools",
+		"It can be solved by making a Clough station.",
+		"",
+		"This block has a performance that can be called an enhanced workbench.",
+		"It has an inventory of 18 slots and a tool storage space of 9 slots.",
+		"The workbench grid can hold ghosts of items manually placed or called from the JEI + button.",
+		"When you actually craft, items are consumed from the internal inventory and tool store.",
+		"Items that are missing when you craft are displayed in red on the grid.",
+		"",
+		"This block has a simple recipe memory function and stores the past 9 kinds of recipes on the right side of the screen.",
+		"You can always call up the stored recipe by clicking it and use it in the craft.",
+		"",
+		"The biggest feature of this block is to recognize adjacent storage such as chest as an item storage space.",
+		"In other words, when crafting, items are automatically carried out from adjacent storage and consumed.",
+		"It can be considered as a simplified version of the AE2 Clough terminal.",
+		"Open the Storage tab on the screen to see a list of items available for consumption.",
+		"If you make good use of this function, you can use a Clough station as a simple warehouse.",
+		"",
+		"As with other mod Clough stations",
+		"GregTech's Clough Ting Station also has a left-click shift recipe lock function.",
+		"",
+		"Side story : Clough Ting Station recognizes RFTools modular storage as an inventory",
+		"Items can be pulled out of up to 1500 slots (if RFTools is installed)",
+		"",
+		"For your information : In the past, Omnifactory introduced the Forest mod only to implement a workbench for an alternative to this block.",
+		"With the implementation of this block in GTCE, the mod was removed."
 	],
 	dependencies: [
 		"3ac887a1"

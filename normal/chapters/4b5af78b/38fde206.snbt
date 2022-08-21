@@ -6,9 +6,11 @@
 	description: "primitive baking oven",
 	text: [
 		"primitive_baking_ovenを建てると小麦からパンが焼けるようになります。",
-		"マルチブロックの組み立て方はコークス炉のクエストを参照してください。",
-		"",
-		"余談：オーブンのUIに\"要メンテナンス\"が表示される不具合があったが修正された"
+		"マルチブロックの組み立て方はコークス炉のクエストを参照してください。"
+	],
+	engText: [
+		"You can build primitive _ baking _ oven to bake bread from wheat.",
+		"Refer to the Quest of Coke Oven for how to assemble the multi-block."
 	],
 	dependencies: [
 		"3ac887a1"

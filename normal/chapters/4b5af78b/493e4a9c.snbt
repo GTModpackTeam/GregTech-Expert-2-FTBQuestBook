@@ -8,6 +8,10 @@
 		"Shiftキーと一括破壊キーを押しながらスクロールすることでFTB Ultimineの採掘モードを変えることができます。",
 		"3*3を破壊するモードや直線を掘りぬくモードなど色々あるので使いこなせると便利です"
 	],
+	engText: [
+		"You can change the mining mode of the FTB Ultimine by scrolling while holding down the Shift key and the bulk destruction key.",
+		"There are various modes such as destroying 3 * 3 and digging straight lines, so it is convenient if you can use it well."
+	],
 	dependencies: [
 		"b6814711"
 	],

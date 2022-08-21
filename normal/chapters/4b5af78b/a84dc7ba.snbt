@@ -1,0 +1,60 @@
+{
+	title: "リビングユニット収納シリーズ",
+	x: 12.0d,
+	y: -6.0d,
+	description: "Drawers",
+	text: [
+		"ドロワーを設置すると一種類のアイテムを沢山収納することができます。",
+		"",
+		"作り方についてはJEIがややこしいのですが、まずドロワーの骨組みをクラフトする必要があります。",
+		"そして、チゼルのGUIに骨組みを入れて好きな種類のドロワーを作りましょう。",
+		"",
+		"ドロワーコントローラなども同様にして作ります。"
+	],
+	engText: [
+		"If you install a drawer, you can store many items of one kind.",
+		"",
+		"JEI is complicated about how to make it, but first you need to craft the framework of the drawer.",
+		"Then add the framework to the chisel GUI to create the drawer of your choice.",
+		"",
+		"You make a drawer controller in the same way."
+	],
+	dependencies: [
+		"d3af9f80"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "01034375",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "spruce"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "birch"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "jungle"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "dark_oak"
+			}
+		}]
+	}]
+}

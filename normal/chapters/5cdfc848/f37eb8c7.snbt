@@ -9,10 +9,10 @@
 		"b04b6da2"
 	],
 	tasks: [{
-		uid: "55321eb6",
+		uid: "608ed653",
 		type: "item",
 		items: [{
-			item: "contenttweaker:creativecomponent"
+			item: "gtexpert:meta_item_1"
 		}]
 	}]
 }

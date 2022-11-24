@@ -16,11 +16,19 @@
 		"ac9b7b50"
 	],
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
-		uid: "71c3aca4",
+		uid: "bf72638d",
 		type: "item",
 		items: [{
-			item: "minecraft:snow"
+			item: "gregtech:machine 1 1035"
+		}]
+	},
+	{
+		uid: "928444dd",
+		type: "item",
+		items: [{
+			item: "gregtech:transparent_casing 1 3"
 		}]
 	}]
 }

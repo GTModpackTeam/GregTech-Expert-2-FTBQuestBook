@@ -1,0 +1,19 @@
+{
+	title: "[予定地]何もない部屋は好きですか？",
+	x: -4.0d,
+	y: 0.0d,
+	description: "Void Portal",
+	text: [
+		""
+	],
+	dependencies: [
+		"798d57e7"
+	],
+	tasks: [{
+		uid: "fd2fb4b6",
+		type: "item",
+		items: [{
+			item: "utilityworlds:portal_void"
+		}]
+	}]
+}

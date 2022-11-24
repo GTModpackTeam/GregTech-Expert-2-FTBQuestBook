@@ -1,0 +1,19 @@
+{
+	title: "[予定地]世界平面説",
+	x: -6.0d,
+	y: 0.0d,
+	description: "Garden Portal",
+	text: [
+		""
+	],
+	dependencies: [
+		"62cf18e8"
+	],
+	tasks: [{
+		uid: "5de2fde2",
+		type: "item",
+		items: [{
+			item: "utilityworlds:portal_garden"
+		}]
+	}]
+}

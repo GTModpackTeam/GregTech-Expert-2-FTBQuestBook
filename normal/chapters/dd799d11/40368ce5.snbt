@@ -19,9 +19,19 @@
 		"e7bd7fe1"
 	],
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
-		uid: "47d75d61",
-		type: "checkmark",
-		title: "読んだら押しましょう"
+		uid: "fa3e89c8",
+		type: "item",
+		items: [{
+			item: "ae2fc:part_fluid_pattern_terminal"
+		}]
+	},
+	{
+		uid: "5125d205",
+		type: "item",
+		items: [{
+			item: "ae2fc:part_fluid_pattern_ex_terminal"
+		}]
 	}]
 }

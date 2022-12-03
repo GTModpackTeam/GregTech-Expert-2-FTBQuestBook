@@ -64,5 +64,12 @@
 		items: [{
 			item: "appliedenergistics2:fluid_interface"
 		}]
+	},
+	{
+		uid: "47b6e2b0",
+		type: "item",
+		items: [{
+			item: "ae2fc:dual_interface"
+		}]
 	}]
 }

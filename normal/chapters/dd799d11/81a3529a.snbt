@@ -3,7 +3,7 @@
 	x: 14.0d,
 	y: -6.0d,
 	shape: "diamond",
-	description: "ME Interface / ME Fluid Interface",
+	description: "ME Interface / ME Fluid Interface / ME Dual Interface",
 	text: [
 		"§c※警告：MEインターフェースをクラフトで作るためには非常に大量のダイヤモンドを消費します。",
 		"事前に大量にダイヤ鉱脈を潰すか、IVまで待って組立機で作るようにしましょう。§r",

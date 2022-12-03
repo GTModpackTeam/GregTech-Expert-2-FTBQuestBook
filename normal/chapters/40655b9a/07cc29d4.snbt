@@ -1,0 +1,80 @@
+{
+	title: "自動化の試練",
+	x: -4.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Cleanroom",
+	text: [
+		""
+	],
+	dependencies: [
+		"798d57e7"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a0ec5fd7",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1035"
+		}]
+	},
+	{
+		uid: "50d6d544",
+		type: "item",
+		items: [{
+			item: "gregtech:cleanroom_casing 1 1"
+		}],
+		count: 8L
+	},
+	{
+		uid: "9d5d0edf",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_door"
+		}]
+	},
+	{
+		uid: "bf18b26b",
+		type: "item",
+		items: [{
+			item: "gregtech:cleanroom_casing"
+		}],
+		count: 40L
+	},
+	{
+		uid: "3ae2cc59",
+		type: "item",
+		items: [{
+			item: "gregtech:transparent_casing 1 3"
+		}],
+		count: 10L
+	},
+	{
+		uid: "7ca80421",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1211"
+		}]
+	},
+	{
+		uid: "6ce659c2",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1303"
+		}]
+	},
+	{
+		uid: "c6826c88",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1402"
+		}]
+	},
+	{
+		uid: "3c0d0308",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1403"
+		}]
+	}]
+}

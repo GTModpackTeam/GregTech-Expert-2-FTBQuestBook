@@ -1,7 +1,7 @@
 {
 	title: "クォーツの多様化",
 	icon: "appliedenergistics2:material 1 7",
-	x: 4.0d,
+	x: 2.0d,
 	y: 0.0d,
 	shape: "diamond",
 	description: "Charged Certus Quartz Crystal / Fluix Crystal",

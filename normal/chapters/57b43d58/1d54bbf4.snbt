@@ -1,0 +1,20 @@
+{
+	title: "[仮設置] 翼は授からない",
+	x: 13.5d,
+	y: -10.0d,
+	description: "Piston Boots",
+	text: [
+		"執筆中"
+	],
+	dependencies: [
+		"cf42eb97"
+	],
+	tasks: [{
+		uid: "a8eca5c6",
+		type: "item",
+		items: [{
+			item: "gtexpert:gte_armor 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

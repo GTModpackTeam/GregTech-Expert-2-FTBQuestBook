@@ -1,11 +1,27 @@
 {
 	title: "ビットコインも掘れる",
 	icon: {
-		id: "gregtech:meta_tool",
-		Damage: 19s,
+		id: "gregtech:mining_hammer",
 		tag: {
-			GT.ToolStats: {
-				Material: "neutronium"
+			DisallowContainerItem: 0b,
+			GT.Tool: {
+				Material: "iron",
+				MaxDurability: 256,
+				Durability: 0,
+				ToolSpeed: 4.8f,
+				HarvestLevel: 2,
+				AttackDamage: 3.5f,
+				AttackSpeed: -3.2f
+			},
+			HideFlags: 2,
+			GT.Behaviours: {
+				TorchPlacing: 1b,
+				MaxAoEColumn: 1,
+				MaxAoERow: 1,
+				MaxAoELayer: 0,
+				AoEColumn: 1,
+				AoERow: 1,
+				AoELayer: 0
 			}
 		}
 	},
@@ -32,29 +48,77 @@
 		uid: "2028a064",
 		type: "item",
 		items: [{
-			id: "gregtech:meta_tool",
-			Damage: 19s,
+			id: "gregtech:mining_hammer",
 			tag: {
-				GT.ToolStats: {
-					Material: "iron"
+				DisallowContainerItem: 0b,
+				GT.Tool: {
+					Material: "iron",
+					MaxDurability: 256,
+					Durability: 0,
+					ToolSpeed: 4.8f,
+					HarvestLevel: 2,
+					AttackDamage: 3.5f,
+					AttackSpeed: -3.2f
+				},
+				HideFlags: 2,
+				GT.Behaviours: {
+					TorchPlacing: 1b,
+					MaxAoEColumn: 1,
+					MaxAoERow: 1,
+					MaxAoELayer: 0,
+					AoEColumn: 1,
+					AoERow: 1,
+					AoELayer: 0
 				}
 			}
 		},
 		{
-			id: "gregtech:meta_tool",
-			Damage: 19s,
+			id: "gregtech:mining_hammer",
 			tag: {
-				GT.ToolStats: {
-					Material: "bronze"
+				DisallowContainerItem: 0b,
+				GT.Tool: {
+					Material: "wrought_iron",
+					MaxDurability: 384,
+					Durability: 0,
+					ToolSpeed: 4.8f,
+					HarvestLevel: 2,
+					AttackDamage: 3.5f,
+					AttackSpeed: -3.4f
+				},
+				HideFlags: 2,
+				GT.Behaviours: {
+					TorchPlacing: 1b,
+					MaxAoEColumn: 1,
+					MaxAoERow: 1,
+					MaxAoELayer: 0,
+					AoEColumn: 1,
+					AoERow: 1,
+					AoELayer: 0
 				}
 			}
 		},
 		{
-			id: "gregtech:meta_tool",
-			Damage: 19s,
+			id: "gregtech:mining_hammer",
 			tag: {
-				GT.ToolStats: {
-					Material: "wrought_iron"
+				DisallowContainerItem: 0b,
+				GT.Tool: {
+					Material: "bronze",
+					MaxDurability: 192,
+					Durability: 0,
+					ToolSpeed: 5.2f,
+					HarvestLevel: 2,
+					AttackDamage: 3.5f,
+					AttackSpeed: -3.2f
+				},
+				HideFlags: 2,
+				GT.Behaviours: {
+					TorchPlacing: 1b,
+					MaxAoEColumn: 1,
+					MaxAoERow: 1,
+					MaxAoELayer: 0,
+					AoEColumn: 1,
+					AoERow: 1,
+					AoELayer: 0
 				}
 			}
 		}],

@@ -38,6 +38,23 @@
 	tasks: [{
 		uid: "e2e492e5",
 		type: "item",
+		icon: {
+			id: "gregtech:hammer",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Tool: {
+					Material: "iron",
+					MaxDurability: 256,
+					Durability: 0,
+					ToolSpeed: 6.0f,
+					HarvestLevel: 2,
+					AttackDamage: 3.0f,
+					AttackSpeed: -2.8f
+				},
+				HideFlags: 2,
+				GT.Behaviours: {}
+			}
+		},
 		items: [{
 			id: "itemfilters:filter",
 			tag: {

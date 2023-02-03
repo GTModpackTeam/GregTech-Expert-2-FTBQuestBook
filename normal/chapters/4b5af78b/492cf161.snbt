@@ -218,48 +218,17 @@
 		uid: "2004f2ca",
 		type: "item",
 		items: [{
-			id: "gregtech:knife",
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "iron",
-					MaxDurability: 256,
-					Durability: 0,
-					AttackDamage: 2.0f,
-					AttackSpeed: 3.0f
-				},
-				HideFlags: 2,
-				GT.Behaviours: {}
-			}
-		},
-		{
-			id: "gregtech:knife",
-			tag: {
-				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "wrought_iron",
-					MaxDurability: 384,
-					Durability: 0,
-					AttackDamage: 2.0f,
-					AttackSpeed: 2.8f
-				},
-				HideFlags: 2,
-				GT.Behaviours: {}
-			}
-		},
-		{
-			id: "gregtech:knife",
-			tag: {
-				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "bronze",
-					MaxDurability: 192,
-					Durability: 0,
-					AttackDamage: 2.0f,
-					AttackSpeed: 3.0f
-				},
-				HideFlags: 2,
-				GT.Behaviours: {}
+				display: {
+					Name: "Any craftingToolCrowbar"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolKnife"
+				}
 			}
 		}],
 		ignore_nbt: 1b

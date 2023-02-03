@@ -1,30 +1,5 @@
 {
 	title: "ビットコインも掘れる",
-	icon: {
-		id: "gregtech:mining_hammer",
-		tag: {
-			DisallowContainerItem: 0b,
-			GT.Tool: {
-				Material: "iron",
-				MaxDurability: 256,
-				Durability: 0,
-				ToolSpeed: 4.8f,
-				HarvestLevel: 2,
-				AttackDamage: 3.5f,
-				AttackSpeed: -3.2f
-			},
-			HideFlags: 2,
-			GT.Behaviours: {
-				TorchPlacing: 1b,
-				MaxAoEColumn: 1,
-				MaxAoERow: 1,
-				MaxAoELayer: 0,
-				AoEColumn: 1,
-				AoERow: 1,
-				AoELayer: 0
-			}
-		}
-	},
 	x: 10.0d,
 	y: -2.0d,
 	description: "Mining Hammer",

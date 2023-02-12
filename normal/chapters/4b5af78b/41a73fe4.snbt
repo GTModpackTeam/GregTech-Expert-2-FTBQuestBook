@@ -38,13 +38,13 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any craftingToolCrowbar"
+					Name: "Any craftingToolHardHammer"
 				}
 			},
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
-					data: "craftingToolHammer"
+					data: "craftingToolHardHammer"
 				}
 			}
 		}]

@@ -91,74 +91,16 @@
 		uid: "f2876961",
 		type: "item",
 		items: [{
-			id: "gregtech:scythe",
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "iron",
-					MaxDurability: 256,
-					Durability: 0,
-					AttackDamage: 7.0f,
-					AttackSpeed: -3.0f,
-					ToolSpeed: 6.0f,
-					HarvestLevel: 2
-				},
-				HideFlags: 2,
-				GT.Behaviours: {
-					MaxAoEColumn: 2,
-					MaxAoERow: 2,
-					MaxAoELayer: 2,
-					AoEColumn: 2,
-					AoERow: 2,
-					AoELayer: 2
+				display: {
+					Name: "Any toolScythe"
 				}
-			}
-		},
-		{
-			id: "gregtech:scythe",
-			tag: {
-				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "wrought_iron",
-					MaxDurability: 384,
-					Durability: 0,
-					AttackDamage: 7.0f,
-					AttackSpeed: -3.2f,
-					ToolSpeed: 6.0f,
-					HarvestLevel: 2
-				},
-				HideFlags: 2,
-				GT.Behaviours: {
-					MaxAoEColumn: 2,
-					MaxAoERow: 2,
-					MaxAoELayer: 2,
-					AoEColumn: 2,
-					AoERow: 2,
-					AoELayer: 2
-				}
-			}
-		},
-		{
-			id: "gregtech:scythe",
-			tag: {
-				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "bronze",
-					MaxDurability: 192,
-					Durability: 0,
-					AttackDamage: 7.0f,
-					AttackSpeed: -3.0f,
-					ToolSpeed: 7.0f,
-					HarvestLevel: 2
-				},
-				HideFlags: 2,
-				GT.Behaviours: {
-					MaxAoEColumn: 2,
-					MaxAoERow: 2,
-					MaxAoELayer: 2,
-					AoEColumn: 2,
-					AoERow: 2,
-					AoELayer: 2
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "toolScythe"
 				}
 			}
 		}],
@@ -168,48 +110,17 @@
 		uid: "946ce753",
 		type: "item",
 		items: [{
-			id: "gregtech:butchery_knife",
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "iron",
-					MaxDurability: 256,
-					Durability: 0,
-					AttackDamage: 3.5f,
-					AttackSpeed: -1.3f
-				},
-				HideFlags: 2,
-				GT.Behaviours: {}
-			}
-		},
-		{
-			id: "gregtech:butchery_knife",
-			tag: {
-				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "wrought_iron",
-					MaxDurability: 384,
-					Durability: 0,
-					AttackDamage: 3.5f,
-					AttackSpeed: -1.5f
-				},
-				HideFlags: 2,
-				GT.Behaviours: {}
-			}
-		},
-		{
-			id: "gregtech:butchery_knife",
-			tag: {
-				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "bronze",
-					MaxDurability: 192,
-					Durability: 0,
-					AttackDamage: 3.5f,
-					AttackSpeed: -1.3f
-				},
-				HideFlags: 2,
-				GT.Behaviours: {}
+				display: {
+					Name: "Any craftingToolButcheryKnife"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolButcheryKnife"
+				}
 			}
 		}],
 		ignore_nbt: 1b
@@ -221,13 +132,13 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any craftingToolCrowbar"
+					Name: "Any craftingToolButcheryKnife"
 				}
 			},
 			ForgeCaps: {
 				Parent: {
 					id: "ore",
-					data: "craftingToolKnife"
+					data: "craftingToolButcheryKnife"
 				}
 			}
 		}],
@@ -237,19 +148,17 @@
 		uid: "2b4b0ba7",
 		type: "item",
 		items: [{
-			id: "gregtech:plunger",
+			id: "itemfilters:filter",
 			tag: {
-				GT.Tool: {
-					Material: "rubber",
-					MaxDurability: 256,
-					HarvestLevel: 1,
-					ToolSpeed: 4.0f,
-					AttackDamage: 0.0f,
-					Durability: 0,
-					AttackSpeed: -2.4f
-				},
-				GT.Behaviours: {},
-				HideFlags: 2
+				display: {
+					Name: "Any toolPlunger"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "toolPlunger"
+				}
 			}
 		}],
 		ignore_nbt: 1b
@@ -258,7 +167,18 @@
 		uid: "67a1e0f8",
 		type: "item",
 		items: [{
-			item: "minecraft:shears"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any toolShears"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "toolShears"
+				}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

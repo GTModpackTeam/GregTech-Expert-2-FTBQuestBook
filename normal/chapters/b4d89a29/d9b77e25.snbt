@@ -1,0 +1,55 @@
+{
+	title: "Awakened Draconium",
+	icon: "draconicevolution:draconic_block",
+	x: 7.5d,
+	y: 2.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"d7e74cae"
+	],
+	tasks: [{
+		uid: "0c337683",
+		type: "item",
+		items: [{
+			item: "draconicevolution:dragon_heart"
+		}]
+	},
+	{
+		uid: "7eb1e847",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockDraconium"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockDraconium"
+				}
+			}
+		}]
+	},
+	{
+		uid: "8d09e11f",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockAwakenedDraconium"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockAwakenedDraconium"
+				}
+			}
+		}]
+	}]
+}

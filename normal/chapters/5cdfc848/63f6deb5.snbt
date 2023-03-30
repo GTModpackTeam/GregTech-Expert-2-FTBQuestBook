@@ -1,7 +1,7 @@
 {
 	title: "Creative Quantum Tank",
-	x: 2.0d,
-	y: 0.0d,
+	x: 4.0d,
+	y: 2.0d,
 	text: [
 		""
 	],

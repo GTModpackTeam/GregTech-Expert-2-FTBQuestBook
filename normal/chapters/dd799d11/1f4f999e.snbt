@@ -23,14 +23,36 @@
 		uid: "497591d9",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_dust 1 24151"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustChargedCertusQuartz"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustChargedCertusQuartz"
+				}
+			}
 		}]
 	},
 	{
 		uid: "693a4a28",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_dust 1 24152"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustFluix"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustFluix"
+				}
+			}
 		}]
 	}]
 }

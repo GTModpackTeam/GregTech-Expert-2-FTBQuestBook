@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "cb4f3071",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_core"
+		}]
+	}]
+}

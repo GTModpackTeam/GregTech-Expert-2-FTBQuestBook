@@ -1,0 +1,47 @@
+{
+	title: "Draconium Dust",
+	icon: "gregtech:meta_dust 1 24180",
+	x: 7.5d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "1cfe76bb",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustDragon"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustDragon"
+				}
+			}
+		}],
+		consume_items: false,
+		only_from_crafting: false
+	},
+	{
+		uid: "f2c9c43b",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustDraconium"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustDraconium"
+				}
+			}
+		}]
+	}]
+}

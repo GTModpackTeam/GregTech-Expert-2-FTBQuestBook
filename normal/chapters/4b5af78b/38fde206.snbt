@@ -21,15 +21,14 @@
 		items: [{
 			item: "gregtechfoodoption:gtfo_casing"
 		}],
-		count: 34L
+		count: 15L
 	},
 	{
 		uid: "ec19a9d5",
 		type: "item",
 		items: [{
 			item: "gregtech:meta_block_frame_3 1 3"
-		}],
-		count: 4L
+		}]
 	},
 	{
 		uid: "473190cd",

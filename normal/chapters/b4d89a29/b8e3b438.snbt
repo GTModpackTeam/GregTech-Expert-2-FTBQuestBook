@@ -1,0 +1,34 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	dependencies: [
+		"94ce3b0f"
+	],
+	tasks: [{
+		uid: "cdf8337c",
+		type: "item",
+		items: [{
+			id: "draconicevolution:draconic_staff_of_power",
+			tag: {
+				Profile_0: {
+					attackAOE: 2.0d,
+					digSpeed: 100,
+					aoeSafeMode: 0b,
+					showDigAOE: 0b,
+					digAOE: 0,
+					digDepth: 0,
+					enableJunkFilter: 1b,
+					junkNbtSens: 1b
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 27
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

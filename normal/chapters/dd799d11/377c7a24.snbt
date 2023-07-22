@@ -1,0 +1,27 @@
+{
+	title: "P2Pの管理者",
+	x: 10.0d,
+	y: 2.0d,
+	description: "Advanced Memory Card",
+	text: [
+		"発展型メモリーカードはP2Pのリンク状態を視覚的に管理できるツールです。",
+		"またリンクの設定変更やP2Pを名前で管理している場合、その名前を検索して表示することもできます。"
+	],
+	dependencies: [
+		"bb72e8ff"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "1edb96f3",
+		type: "item",
+		items: [{
+			id: "betterp2p_plusplus:advanced_memory_card",
+			tag: {
+				selectedIndex: -1
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

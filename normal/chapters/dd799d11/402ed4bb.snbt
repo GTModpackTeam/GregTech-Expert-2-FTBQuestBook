@@ -1,0 +1,37 @@
+{
+	title: "パターンコーチ",
+	x: 12.0d,
+	y: 4.0d,
+	description: "Pattern Multi-Tool",
+	text: [
+		"パターンマルチツールはエンコードされたパターンの設定変更を効率化するために作られたデバイスです。",
+		"パターンをセットすると材料の乗算や除算、加算、減算、エンコード解除などを一括して行うことができます。",
+		"",
+		"通常これらの操作を個別に行う必要がありましたが、その煩わしい事をする必要性がなくなります。",
+		"またマルチツールをインベントリに居れたままパターンターミナルを触ると、設定項目が増えて便利にもなるので持ち歩いておきましょう。"
+	],
+	dependencies: [
+		"c9216726"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "00dc398c",
+		type: "item",
+		items: [{
+			id: "nae2:pattern_multiplier",
+			tag: {
+				inv: {
+					Items: [],
+					Size: 36
+				},
+				upgrades: {
+					Items: [],
+					Size: 3
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

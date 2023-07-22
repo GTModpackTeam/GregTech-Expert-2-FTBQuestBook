@@ -12,7 +12,6 @@
 		"",
 		"最終的には亜空間型鉱石採掘機にて鉱石の在庫管理で複数台設置しているでしょう。"
 	],
-	min_required_dependencies: 44,
 	dependencies: [
 		"6e97bf53"
 	],

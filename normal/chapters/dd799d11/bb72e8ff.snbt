@@ -37,7 +37,6 @@
 		"7443243a"
 	],
 	min_width: 300,
-	or_tasks: true,
 	tasks: [{
 		uid: "a39a3b2a",
 		type: "item",

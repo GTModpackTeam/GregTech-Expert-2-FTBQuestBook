@@ -13,7 +13,18 @@
 		uid: "395b7a4c",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_dust 1 24179"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Chaos Dust"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustChaos"
+				}
+			}
 		}]
 	},
 	{

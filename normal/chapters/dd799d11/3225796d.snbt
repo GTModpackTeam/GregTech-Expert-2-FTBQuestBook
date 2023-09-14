@@ -14,6 +14,7 @@
 	dependencies: [
 		"e27585b7"
 	],
+	optional: true,
 	min_width: 300,
 	tasks: [{
 		uid: "9645c08e",

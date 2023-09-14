@@ -16,6 +16,7 @@
 		"b19db4db",
 		"09d2eb6d"
 	],
+	optional: true,
 	min_width: 300,
 	tasks: [{
 		uid: "645a315f",

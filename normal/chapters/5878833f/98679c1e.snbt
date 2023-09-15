@@ -15,8 +15,8 @@
 		"これは電動ツールに採掘時に電力を消費して耐久値の減りを押さえる機能があるからです。",
 		"更に電動ツールには耐久値を上げるエンチャントを上乗せすることができます。",
 		"",
-		"ドリルを採掘中にバッテリーで充電しないで下さい。",
-		"ドリルの状態がアップデートされ続けて採掘状態がリセットされ続けてしまいます。",
+		"アップデートによりドリルの採掘範囲はそれまでの全てのtierのドリルのものに変更することができるようになりました。",
+		"例：HVドリルは5x5x5だけではなく1x1x1, 3x3x3掘れるモードに切り替えられる",
 		"",
 		"余談：GTCEまでは電動ツールは作製にステンレス鋼を要求していたのでHVまで作れなかった"
 	],
@@ -31,26 +31,26 @@
 			id: "gregtech:drill_mv",
 			tag: {
 				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "vanadium_steel",
-					MaxDurability: 1536,
-					Durability: 0,
-					ToolSpeed: 7.0f,
-					HarvestLevel: 3,
-					AttackDamage: 4.0f,
-					AttackSpeed: -3.4f
+				GT.Behaviours: {
+					AoELayer: 2,
+					MaxAoELayer: 2,
+					TorchPlacing: 1b,
+					AoERow: 1,
+					AoEColumn: 1,
+					MaxAoERow: 1,
+					MaxAoEColumn: 1
 				},
 				HideFlags: 2,
-				GT.Behaviours: {
-					TorchPlacing: 1b,
-					MaxAoEColumn: 1,
-					MaxAoERow: 1,
-					MaxAoELayer: 2,
-					AoEColumn: 1,
-					AoERow: 1,
-					AoELayer: 2
-				},
 				MaxCharge: 400000L,
+				GT.Tool: {
+					MaxDurability: 1536,
+					ToolSpeed: 7.0f,
+					AttackDamage: 4.0f,
+					Durability: 0,
+					Material: "vanadium_steel",
+					HarvestLevel: 3,
+					AttackSpeed: -3.4f
+				},
 				Charge: 0L
 			}
 		}],

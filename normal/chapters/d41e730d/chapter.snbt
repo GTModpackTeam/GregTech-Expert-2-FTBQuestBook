@@ -1,6 +1,6 @@
 {
-	title: "Tier 5 -EV",
-	icon: "gregtech:machine 1 68",
+	title: "Tier 5 - EV",
+	icon: "gregtech:meta_item_1 1 130",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

@@ -1,6 +1,6 @@
 {
-	title: "Tier 2 -LV",
-	icon: "gregtech:machine 1 620",
+	title: "Tier 2 - LV",
+	icon: "gregtech:meta_item_1 1 127",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

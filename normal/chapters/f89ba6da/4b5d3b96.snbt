@@ -1,9 +1,15 @@
 {
+	title: "最高のバッテリー",
 	x: 2.5d,
 	y: 0.5d,
+	description: "Ultimate Battery",
+	text: [
+		""
+	],
 	dependencies: [
 		"c530fc4e"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "83ce2bdf",
 		type: "item",

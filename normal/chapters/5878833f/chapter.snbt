@@ -1,6 +1,6 @@
 {
-	title: "Tier 3 -MV",
-	icon: "gregtech:machine 1 561",
+	title: "Tier 3 - MV",
+	icon: "gregtech:meta_item_1 1 128",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

@@ -3,12 +3,8 @@
 	x: 14.0d,
 	y: 2.0d,
 	shape: "diamond",
-	description: "Certus Quartz Wrench",
+	description: "Network Tool / Network Visualization Tool",
 	text: [
-		"ケルタスクォーツレンチはAE2のレンチです。",
-		"MEインターフェースを回転させるのに必要になるので1本は持っておきましょう。",
-		"GregTechのレンチでインターフェースを回転できるようになったら不要になるかもしれません。",
-		"",
 		"ネットワークツールでAE2のデバイスを右クリックするとMEネットワークの現在の消費電力が見れます。",
 		"§cMEネットワークが電力不足に陥った時このツールがネットワークの外にないと何故停電しているのか分からずに最悪詰みます。",
 		"必ず別の場所で保管してください。§r",
@@ -22,15 +18,6 @@
 	min_width: 300,
 	or_tasks: true,
 	tasks: [{
-		uid: "082eb39a",
-		type: "item",
-		items: [{
-			item: "appliedenergistics2:certus_quartz_wrench"
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
 		uid: "575e0615",
 		type: "item",
 		items: [{

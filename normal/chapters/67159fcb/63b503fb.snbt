@@ -1,7 +1,13 @@
 {
+	title: "ココまでは研修です",
 	x: 0.0d,
 	y: 0.0d,
+	description: "LuV Machine Hull",
+	text: [
+		""
+	],
 	hide: true,
+	min_width: 300,
 	tasks: [{
 		uid: "3f88d2af",
 		type: "item",

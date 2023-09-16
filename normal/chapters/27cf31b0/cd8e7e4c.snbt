@@ -1,0 +1,13 @@
+{
+	title: "搬入順序について",
+	icon: "gregtech:machine 1 1150",
+	x: -10.0d,
+	y: 2.0d,
+	dependencies: [
+		"18197578"
+	],
+	tasks: [{
+		uid: "3aaf39a7",
+		type: "checkmark"
+	}]
+}

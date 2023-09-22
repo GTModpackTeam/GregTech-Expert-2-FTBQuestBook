@@ -1,0 +1,18 @@
+{
+	title: "MV回路の生産強化",
+	x: -9.5d,
+	y: -4.5d,
+	text: [
+		"IV機械を用いることでより多く生産できるようになりました。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"eeab3460",
+		"9c2d5bba"
+	],
+	tasks: [{
+		uid: "b0d15829",
+		type: "checkmark",
+		icon: "gregtech:meta_item_1 1 628"
+	}]
+}

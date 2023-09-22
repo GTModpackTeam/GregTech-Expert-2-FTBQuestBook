@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"74f14ca8"
+	],
+	optional: true,
+	tasks: [{
+		uid: "a317dd92",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_single 1 430"
+		}]
+	}]
+}

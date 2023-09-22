@@ -1,0 +1,12 @@
+{
+	x: 3.5d,
+	y: -7.5d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "9af1d720",
+		type: "item",
+		items: [{
+			item: "gregtech:cable_single 1 2517"
+		}]
+	}]
+}

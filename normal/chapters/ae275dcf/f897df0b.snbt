@@ -1,0 +1,15 @@
+{
+	title: "EVの素材",
+	x: -18.5d,
+	y: -1.5d,
+	shape: "square",
+	text: [
+		"この行のアイテムは、EV時代の素材です"
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "7e85533f",
+		type: "checkmark",
+		icon: "gregtech:machine 1 989"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "LV時代",
+	x: -15.5d,
+	y: -9.0d,
+	shape: "square",
+	text: [
+		"この列の回路は、LV時代に作成できます。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"3b265338"
+	],
+	tasks: [{
+		uid: "82fcd343",
+		type: "checkmark",
+		title: "到達したら押しましょう",
+		icon: "gregtech:machine 1 986"
+	}]
+}

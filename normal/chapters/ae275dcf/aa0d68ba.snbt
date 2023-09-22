@@ -1,0 +1,15 @@
+{
+	icon: "gregtech:meta_item_1 1 627",
+	x: -14.0d,
+	y: -6.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"4b3f08d7",
+		"35112b87"
+	],
+	tasks: [{
+		uid: "afeb2f04",
+		type: "checkmark",
+		title: "LV回路 Tier 3"
+	}]
+}

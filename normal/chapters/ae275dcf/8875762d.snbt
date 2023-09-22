@@ -1,0 +1,19 @@
+{
+	icon: "gregtech:meta_item_1 1 644",
+	x: -5.0d,
+	y: 1.5d,
+	text: [
+		"UV機械を用いることでより多く生産できるようになりました。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"64aaff2e",
+		"541f5d59"
+	],
+	tasks: [{
+		uid: "9abf34ee",
+		type: "checkmark",
+		title: "LuV回路の生産強化",
+		icon: "gregtech:meta_item_1 2 644"
+	}]
+}

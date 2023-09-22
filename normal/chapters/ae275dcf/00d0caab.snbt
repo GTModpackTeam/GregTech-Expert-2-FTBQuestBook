@@ -1,0 +1,15 @@
+{
+	title: "ZPMの素材",
+	x: -18.5d,
+	y: 3.0d,
+	shape: "square",
+	text: [
+		"この行のアイテムは、ZPM時代の素材です"
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "1b0cbb11",
+		type: "checkmark",
+		icon: "gregtech:machine_casing 1 7"
+	}]
+}

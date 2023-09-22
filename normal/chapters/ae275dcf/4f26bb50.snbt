@@ -1,0 +1,13 @@
+{
+	x: -8.0d,
+	y: 1.5d,
+	dependencies: [
+		"7ac5da3e"
+	],
+	tasks: [{
+		uid: "038fb69c",
+		type: "checkmark",
+		title: "LuV回路 Tier 3",
+		icon: "gregtech:meta_item_1 1 641"
+	}]
+}

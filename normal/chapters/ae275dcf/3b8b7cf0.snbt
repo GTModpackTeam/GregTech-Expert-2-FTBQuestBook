@@ -1,0 +1,19 @@
+{
+	x: 0.5d,
+	y: -1.5d,
+	or_tasks: true,
+	tasks: [{
+		uid: "09b091eb",
+		type: "item",
+		items: [{
+			item: "gregtech:cable_double 1 2"
+		}]
+	},
+	{
+		uid: "e77700ff",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_double 1 288"
+		}]
+	}]
+}

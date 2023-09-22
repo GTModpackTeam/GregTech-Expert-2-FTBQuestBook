@@ -1,0 +1,19 @@
+{
+	title: "LV回路の生産強化",
+	x: -11.0d,
+	y: -6.0d,
+	text: [
+		"EV機械を用いることでより多く生産できるようになりました。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"98615d12",
+		"9c2d5bba"
+	],
+	tasks: [{
+		uid: "83f6ee6a",
+		type: "checkmark",
+		title: "LV回路のコストダウン",
+		icon: "gregtech:meta_item_1 1 627"
+	}]
+}

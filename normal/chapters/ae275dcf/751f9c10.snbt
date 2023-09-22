@@ -1,0 +1,16 @@
+{
+	title: "UHVの素材",
+	x: -18.5d,
+	y: 6.0d,
+	shape: "square",
+	text: [
+		"この行のアイテムは、UHV時代の素材です"
+	],
+	can_repeat: true,
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "13729438",
+		type: "checkmark",
+		icon: "gregtech:machine_casing 1 9"
+	}]
+}

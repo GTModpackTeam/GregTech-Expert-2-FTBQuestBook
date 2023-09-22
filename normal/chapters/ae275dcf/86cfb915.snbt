@@ -1,0 +1,14 @@
+{
+	x: -15.5d,
+	y: -10.5d,
+	text: [
+		"主にLV時代に作成可能な回路に要求されます。"
+	],
+	tasks: [{
+		uid: "543ade9f",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 402"
+		}]
+	}]
+}

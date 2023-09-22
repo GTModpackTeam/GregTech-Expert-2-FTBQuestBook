@@ -1,0 +1,13 @@
+{
+	x: -15.5d,
+	y: -3.0d,
+	dependencies: [
+		"d4a33298"
+	],
+	tasks: [{
+		uid: "39471120",
+		type: "checkmark",
+		title: "HV回路 Tier 1",
+		icon: "gregtech:meta_item_1 1 625"
+	}]
+}

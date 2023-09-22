@@ -1,0 +1,13 @@
+{
+	x: -11.0d,
+	y: -1.5d,
+	dependencies: [
+		"c113c020"
+	],
+	tasks: [{
+		uid: "3fb5cd84",
+		type: "checkmark",
+		title: "EV回路 Tier 2",
+		icon: "gregtech:meta_item_1 1 633"
+	}]
+}

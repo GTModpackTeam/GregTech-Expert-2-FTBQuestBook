@@ -1,0 +1,14 @@
+{
+	title: "各電圧の素材たち",
+	x: -3.0d,
+	y: -9.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "f4172a43",
+		type: "checkmark",
+		icon: "minecraft:iron_ingot"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "MV時代",
+	x: -14.0d,
+	y: -9.0d,
+	shape: "square",
+	text: [
+		"この列の回路は、MV時代に作成できます。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"a0076c53"
+	],
+	tasks: [{
+		uid: "90bce2ba",
+		type: "checkmark",
+		title: "到達したら押しましょう",
+		icon: "gregtech:machine 1 987"
+	}]
+}

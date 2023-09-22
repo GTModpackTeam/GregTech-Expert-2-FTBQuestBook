@@ -1,0 +1,14 @@
+{
+	x: -14.0d,
+	y: -1.5d,
+	description: "クリーンルームの用意はできましたか？",
+	dependencies: [
+		"aa0ed183"
+	],
+	tasks: [{
+		uid: "592137e9",
+		type: "checkmark",
+		title: "EV回路 Tier 1",
+		icon: "gregtech:meta_item_1 1 630"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -15.5d,
+	y: -6.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"cefd9da4",
+		"7680c6f1"
+	],
+	tasks: [{
+		uid: "16495dd1",
+		type: "checkmark",
+		title: "LV回路 Tier 2",
+		icon: "gregtech:meta_item_1 1 623"
+	}]
+}

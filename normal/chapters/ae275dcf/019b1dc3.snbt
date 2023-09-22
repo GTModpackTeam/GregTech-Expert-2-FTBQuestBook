@@ -1,0 +1,14 @@
+{
+	title: "ULV回路 Tier 1",
+	x: -17.0d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "6568a678",
+		type: "checkmark",
+		icon: "gregtech:meta_item_1 1 516"
+	}]
+}

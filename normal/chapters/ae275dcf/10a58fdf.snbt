@@ -1,0 +1,15 @@
+{
+	title: "HVの素材",
+	x: -18.5d,
+	y: -3.0d,
+	shape: "square",
+	text: [
+		"この行のアイテムは、HV時代の素材です"
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "3e64c46d",
+		type: "checkmark",
+		icon: "gregtech:machine_casing 1 3"
+	}]
+}

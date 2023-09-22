@@ -1,0 +1,13 @@
+{
+	icon: "gregtech:meta_item_1 1 634",
+	x: -11.0d,
+	y: 0.0d,
+	dependencies: [
+		"7086c642"
+	],
+	tasks: [{
+		uid: "4fbe6e6f",
+		type: "checkmark",
+		title: "IV回路 Tier 2"
+	}]
+}

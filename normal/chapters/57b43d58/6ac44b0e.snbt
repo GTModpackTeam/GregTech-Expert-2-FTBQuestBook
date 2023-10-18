@@ -1,8 +1,8 @@
 {
 	title: "ガリガリガリウム",
 	icon: "gregtech:meta_dust 1 351",
-	x: 9.5d,
-	y: -2.0d,
+	x: 13.5d,
+	y: 0.0d,
 	shape: "diamond",
 	description: "Gallium Arsenide",
 	text: [

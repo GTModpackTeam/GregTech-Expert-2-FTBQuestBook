@@ -1,0 +1,20 @@
+{
+	title: "ワイヤーのロスよりも大型蓄電器やP2Pトンネルのロスの方が大きい",
+	x: 8.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Enriched Naquadah Trinium Europium Duranium Wire",
+	text: [
+		""
+	],
+	dependencies: [
+		"a1f8d019"
+	],
+	tasks: [{
+		uid: "87a20ce4",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_single 1 431"
+		}]
+	}]
+}

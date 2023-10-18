@@ -19,7 +19,6 @@
 		"cc773cf6"
 	],
 	min_width: 300,
-	or_tasks: true,
 	tasks: [{
 		uid: "6437da1a",
 		type: "item",

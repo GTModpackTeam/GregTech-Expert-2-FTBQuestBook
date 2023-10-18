@@ -1,0 +1,20 @@
+{
+	title: "スキップ？そんなものないよ",
+	x: 0.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "Elite Assembling Machine III",
+	text: [
+		""
+	],
+	dependencies: [
+		"5f2c3da3"
+	],
+	tasks: [{
+		uid: "1f0b0e0b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 116"
+		}]
+	}]
+}

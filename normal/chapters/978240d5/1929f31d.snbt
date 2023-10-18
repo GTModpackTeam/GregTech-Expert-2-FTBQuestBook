@@ -1,0 +1,25 @@
+{
+	title: "ひき肉（由来）です！",
+	x: -8.0d,
+	y: 8.0d,
+	shape: "diamond",
+	description: "Sterilized Growth Medium",
+	text: [
+		"まずはひき肉からコラーゲンを作りましょう。",
+		"なんやかんやすると寒天の粉ができます。",
+		"",
+		"次にバイオチャフからバクテリアを作りましょう。",
+		"うまいことやると変異原ができます。",
+		"",
+		"後はいい感じにすれば加熱処理をした培養地ができます。"
+	],
+	dependencies: [
+		"411cdfcb"
+	],
+	tasks: [{
+		uid: "cfb76884",
+		type: "fluid",
+		fluid: "sterilized_growth_medium",
+		amount: 100
+	}]
+}

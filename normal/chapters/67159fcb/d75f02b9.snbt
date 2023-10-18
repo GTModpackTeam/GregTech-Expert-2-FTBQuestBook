@@ -1,0 +1,27 @@
+{
+	title: "おなじみの金属",
+	x: -2.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Naquadah Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"63b503fb"
+	],
+	tasks: [{
+		uid: "e2a1a02e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 124"
+		}]
+	},
+	{
+		uid: "44ebfc0b",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 124"
+		}]
+	}]
+}

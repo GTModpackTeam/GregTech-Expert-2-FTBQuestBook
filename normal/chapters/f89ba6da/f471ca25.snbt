@@ -1,0 +1,19 @@
+{
+	title: "マルチブロック大暴れ",
+	x: 22.0d,
+	y: -4.0d,
+	description: "Super Parallel Control Hatch",
+	text: [
+		""
+	],
+	dependencies: [
+		"d16bd72f"
+	],
+	tasks: [{
+		uid: "48407bb9",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2053"
+		}]
+	}]
+}

@@ -11,6 +11,7 @@
 	],
 	dependency_requirement: "one_started",
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "7d1aa9c4",
 		type: "item",
@@ -19,6 +20,16 @@
 			tag: {
 				InfinityEnergy: 0
 			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "116d6e76",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:wireless_pattern_terminal",
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,0 +1,43 @@
+{
+	title: "さすがに合金高炉を使った方が良い",
+	x: 2.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "Alloy Blast Smelter is highly recomennded",
+	text: [
+		"LuVでよく使う金属たちをまとめてみました。",
+		"Samarium以外は合金高炉を使った方が速いので合金高炉をまだ作ってない人はとっとと作りましょう。"
+	],
+	dependencies: [
+		"63b503fb"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "80769ee5",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 95"
+		}]
+	},
+	{
+		uid: "c4113c56",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 310"
+		}]
+	},
+	{
+		uid: "d74e427b",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 344"
+		}]
+	},
+	{
+		uid: "cbc0e905",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 2520"
+		}]
+	}]
+}

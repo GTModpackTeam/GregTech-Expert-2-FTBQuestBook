@@ -1,0 +1,22 @@
+{
+	title: "火もプラズマなので火力発電も実質プラズマ発電",
+	x: 14.0d,
+	y: 2.0d,
+	description: "Iron Plasma | Nickel Plasma",
+	text: [
+		""
+	],
+	dependencies: [
+		"29ba2200"
+	],
+	tasks: [{
+		uid: "49b5ce15",
+		type: "fluid",
+		fluid: "plasma.iron"
+	},
+	{
+		uid: "1d415298",
+		type: "fluid",
+		fluid: "plasma.nickel"
+	}]
+}

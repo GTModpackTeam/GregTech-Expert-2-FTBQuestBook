@@ -1,0 +1,19 @@
+{
+	title: "ロマン2",
+	x: 24.0d,
+	y: -4.0d,
+	description: "Rotary Hearth Furnace",
+	text: [
+		""
+	],
+	dependencies: [
+		"d16bd72f"
+	],
+	tasks: [{
+		uid: "3f2dee24",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2025"
+		}]
+	}]
+}

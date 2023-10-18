@@ -1,0 +1,22 @@
+{
+	title: "アルゴンプラズマだけ使い道が設定されていない",
+	x: -8.0d,
+	y: 2.0d,
+	description: "Nitrogen Plasma | Oxygen Plasma",
+	text: [
+		""
+	],
+	dependencies: [
+		"cda3a601"
+	],
+	tasks: [{
+		uid: "f1785965",
+		type: "fluid",
+		fluid: "plasma.nitrogen"
+	},
+	{
+		uid: "207d4670",
+		type: "fluid",
+		fluid: "plasma.oxygen"
+	}]
+}

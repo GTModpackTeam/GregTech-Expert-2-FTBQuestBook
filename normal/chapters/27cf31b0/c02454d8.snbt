@@ -1,6 +1,6 @@
 {
 	title: "最初のZPM回路",
-	x: 6.0d,
+	x: -10.0d,
 	y: 6.0d,
 	shape: "diamond",
 	description: "Quantumprocessor Mainframe",

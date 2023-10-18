@@ -1,13 +1,12 @@
 {
-	title: "現状の最高Tier",
-	x: 0.5d,
-	y: 0.5d,
-	description: "UV Machine Hull",
+	title: "槍斧Hullバード",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
 	text: [
 		""
 	],
 	hide: true,
-	min_width: 300,
 	tasks: [{
 		uid: "3a736bcd",
 		type: "item",

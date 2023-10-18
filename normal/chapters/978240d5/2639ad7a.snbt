@@ -1,0 +1,70 @@
+{
+	title: "色も見た目もかっこいいが音は",
+	x: 0.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "Research Station",
+	text: [
+		"データオーブ以上を使うアイテムを研究する場合に使う専用設備です。",
+		"オブジェクトホルダーの向きに気を付けて設置してください。",
+		"",
+		"スキャンするアイテムとデータオーブを入れると研究が始まります。",
+		"必要な計算力が供給されていないと進捗は進みませんので、HPCAが正しく接続されているかや正しく動作しているかを確認してください。"
+	],
+	dependencies: [
+		"c38047b8",
+		"cff4e141"
+	],
+	tasks: [{
+		uid: "e5108b6d",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1038"
+		}]
+	},
+	{
+		uid: "22b3ae8d",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 262"
+		}]
+	},
+	{
+		uid: "9e59d838",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1411"
+		}]
+	},
+	{
+		uid: "30c66fa2",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1409"
+		}]
+	},
+	{
+		uid: "30ecfbed",
+		type: "item",
+		items: [{
+			item: "gregtech:computer_casing"
+		}],
+		count: 58L
+	},
+	{
+		uid: "25259a6f",
+		type: "item",
+		items: [{
+			item: "gregtech:computer_casing 1 3"
+		}],
+		count: 23L
+	},
+	{
+		uid: "afe97e9e",
+		type: "item",
+		items: [{
+			item: "gregtech:computer_casing 1 1"
+		}],
+		count: 14L
+	}]
+}

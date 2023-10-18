@@ -1,0 +1,20 @@
+{
+	title: "UV回路はおあずけ",
+	x: 2.0d,
+	y: 6.0d,
+	shape: "diamond",
+	description: "Crystal Supercomputer",
+	text: [
+		""
+	],
+	dependencies: [
+		"770c0134"
+	],
+	tasks: [{
+		uid: "eef99b0a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 642"
+		}]
+	}]
+}

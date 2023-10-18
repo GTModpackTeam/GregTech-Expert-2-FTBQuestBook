@@ -21,8 +21,7 @@
 		items: [{
 			item: "gregtech:meta_item_1 1 472"
 		}],
-		ignore_damage: true,
 		ignore_nbt: 1b,
-		only_from_crafting: true
+		only_from_crafting: false
 	}]
 }

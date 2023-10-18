@@ -1,0 +1,20 @@
+{
+	title: "（素材としてなら）作る価値あり",
+	x: 6.0d,
+	y: -2.0d,
+	description: "Advanced Ore Drilling Plant II",
+	text: [
+		"亜空間型鉱石採掘機の素材になります。",
+		"なんなら研究と本体作成で計2個必要です。"
+	],
+	dependencies: [
+		"ed9cdebc"
+	],
+	tasks: [{
+		uid: "b576bf86",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1028"
+		}]
+	}]
+}

@@ -1,7 +1,7 @@
 {
 	title: "おなじみの切り口",
 	icon: "gregtech:machine 1 250",
-	x: -2.0d,
+	x: 4.0d,
 	y: 4.0d,
 	shape: "diamond",
 	description: "Elite Cutting Machine II",

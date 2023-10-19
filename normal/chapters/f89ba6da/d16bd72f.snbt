@@ -3,7 +3,7 @@
 	x: 22.0d,
 	y: -2.0d,
 	shape: "diamond",
-	description: "UHV Components2",
+	description: "UV Components2",
 	text: [
 		""
 	],

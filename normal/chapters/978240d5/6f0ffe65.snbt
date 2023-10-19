@@ -1,6 +1,6 @@
 {
 	title: "複数のデータをまとめられる便利なヤツだと思ってた",
-	x: -6.0d,
+	x: -8.0d,
 	y: 10.0d,
 	shape: "diamond",
 	description: "Data Module",

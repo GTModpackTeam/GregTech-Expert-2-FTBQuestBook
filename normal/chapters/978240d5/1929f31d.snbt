@@ -1,6 +1,6 @@
 {
 	title: "ひき肉（由来）です！",
-	x: -8.0d,
+	x: -6.0d,
 	y: 8.0d,
 	shape: "diamond",
 	description: "Sterilized Growth Medium",

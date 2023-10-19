@@ -2,7 +2,7 @@
 	title: "希少な地球",
 	icon: "gregtech:meta_dust 1 1598",
 	x: 0.0d,
-	y: -4.0d,
+	y: -2.0d,
 	shape: "diamond",
 	description: "Rare Earth",
 	text: [

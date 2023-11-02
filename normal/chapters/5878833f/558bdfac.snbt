@@ -3,6 +3,7 @@
 	icon: "gregtech:warning_sign 1 6",
 	x: 2.0d,
 	y: 12.0d,
+	shape: "square",
 	description: "Acidic Fluid",
 	text: [
 		"既に気づいていると思いますが、硫酸などの特定の液体には\"Acidic\"と書かれています。",

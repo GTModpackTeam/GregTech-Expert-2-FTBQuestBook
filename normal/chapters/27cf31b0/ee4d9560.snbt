@@ -1,5 +1,6 @@
 {
 	title: "第陸次産業革命",
+	icon: "gregtech:machine 1 1030",
 	x: -6.0d,
 	y: 6.0d,
 	description: "Processing Array",
@@ -20,7 +21,7 @@
 		"・プロセッシングアレイは最大10個の搬入バスを同時に認識します。",
 		"つまりアレイ一台で全ての押出器やレーザー刻印機のレシピをAE2で自動化できます。",
 		"",
-		"Gregicality_Multiblocksの特殊なマルチブロックを使うのであれば、プロセッシングアレイは完全に無視出来ます。",
+		"Gregicality_Multiblocksのマルチブロックを使うのであれば、プロセッシングアレイは完全に無視出来ます。",
 		"3x3x3の青い箱が気に入らない場合や低い電圧の機械を大量に作るのを快く思わない場合はそちらを使いましょう。",
 		"ただし、ZPM時代後半までGCY:Mのマルチブロックはプロセッシングアレイの下位互換です。",
 		"",
@@ -31,11 +32,19 @@
 		"a6e0daef"
 	],
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "fa893d97",
 		type: "item",
 		items: [{
 			item: "gregtech:machine 1 1030"
+		}]
+	},
+	{
+		uid: "fc22c0ac",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1398"
 		}]
 	}]
 }

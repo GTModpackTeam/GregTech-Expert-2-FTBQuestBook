@@ -1,0 +1,21 @@
+{
+	title: "2,147,483,648EUの1024分の1",
+	x: 26.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "UHV Energy Hatch",
+	text: [
+		""
+	],
+	dependencies: [
+		"9c70a65e",
+		"e2a1838b"
+	],
+	tasks: [{
+		uid: "436e32af",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1219"
+		}]
+	}]
+}

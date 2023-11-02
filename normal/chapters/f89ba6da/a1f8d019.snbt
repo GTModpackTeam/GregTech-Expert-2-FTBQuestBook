@@ -1,0 +1,20 @@
+{
+	title: "太陽の表面温度よりも熱い",
+	x: 6.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Tritanium Coil Block",
+	text: [
+		"太陽の内部温度は1600万℃(もしくはK)と言われています。"
+	],
+	dependencies: [
+		"4f18ce04"
+	],
+	tasks: [{
+		uid: "de7e08d0",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_coil 1 7"
+		}]
+	}]
+}

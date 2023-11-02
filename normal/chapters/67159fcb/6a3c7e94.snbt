@@ -1,0 +1,37 @@
+{
+	title: "超電導ワイヤーはどうしてこうも名前が長いのか",
+	icon: "gregtech:meta_ingot 1 429",
+	x: -6.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "Indium Tin Barium Titanium Cuprate Ingot",
+	text: [
+		"核融合炉作成のために大量生産が必要です。",
+		"どうせ大量生産するので拠点のLuVの電線を全てこれにしてしまうのも手です。"
+	],
+	dependencies: [
+		"78d38273"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "2bb58018",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 429"
+		}]
+	},
+	{
+		uid: "4836b81a",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_single 1 429"
+		}]
+	},
+	{
+		uid: "c45def3b",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_double 1 429"
+		}]
+	}]
+}

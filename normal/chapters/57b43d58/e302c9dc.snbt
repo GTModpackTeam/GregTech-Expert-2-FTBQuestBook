@@ -3,6 +3,7 @@
 	icon: "gregtech:cable_quadruple 1 112",
 	x: 13.5d,
 	y: -6.0d,
+	shape: "square",
 	text: [
 		"このクエストはgregを深堀りしたい方向けにアンペアの内部仕様を解説します。",
 		"興味のない場合概要以外を読む必要はありません。",

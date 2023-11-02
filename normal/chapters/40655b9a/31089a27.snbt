@@ -1,0 +1,20 @@
+{
+	title: "絶対今じゃない",
+	x: -10.0d,
+	y: 2.0d,
+	description: "Large Packaging Machine",
+	text: [
+		"Gregicality_Multiblocksで追加された梱包機のマルチブロックだけがHVで作れるようになります。",
+		"Gregicality_Multiblocksの詳細はIVタブにありますので必要になるまでは見なかったことにしておきましょう。"
+	],
+	dependencies: [
+		"dff93393"
+	],
+	tasks: [{
+		uid: "86cac9b3",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2018"
+		}]
+	}]
+}

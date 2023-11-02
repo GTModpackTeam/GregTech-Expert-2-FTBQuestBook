@@ -1,0 +1,40 @@
+{
+	title: "Substationは直訳すると変電所",
+	icon: "gregtech:machine 1 1041",
+	x: -10.0d,
+	y: 4.0d,
+	description: "Power Substaion",
+	text: [
+		"マルチブロックの大型蓄電装置を作れるようになります。",
+		"この大型蓄電器だけが使える専用の64Aエネルギーハッチやダイナモハッチがあります。",
+		"また、入力や出力を複数ブロックにすることもできるので以外と柔軟性が高いです。",
+		"",
+		"JEIの表示では蓄電ブロック段が最低2層必要だと勘違いしたり、64Aと1Aのエネルギー・ダイナモハッチをそれぞれ組み込む必要があると勘違いしがちですが、このマルチブロックはもっと気軽に使えますのでまずは試しに組み立ててみましょう。"
+	],
+	dependencies: [
+		"ff943643"
+	],
+	tasks: [{
+		uid: "9709ceef",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1041"
+		}]
+	},
+	{
+		uid: "2d066ef9",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 11"
+		}],
+		count: 44L
+	},
+	{
+		uid: "e91649b5",
+		type: "item",
+		items: [{
+			item: "gregtech:transparent_casing 1 2"
+		}],
+		count: 57L
+	}]
+}

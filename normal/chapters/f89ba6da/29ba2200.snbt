@@ -1,0 +1,31 @@
+{
+	title: "本当のトカマク型はドーナツの中心が空ではなくぶっといコイルがある",
+	x: 14.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Fusion Reactor Conputer Mark 3",
+	text: [
+		""
+	],
+	dependencies: [
+		"b8052f39",
+		"326c9ca5",
+		"812522b6"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "2ba88fe6",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1022"
+		}]
+	},
+	{
+		uid: "f721b998",
+		type: "item",
+		items: [{
+			item: "gregtech:fusion_casing 1 4"
+		}],
+		count: 48L
+	}]
+}

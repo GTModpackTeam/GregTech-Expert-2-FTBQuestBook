@@ -1,0 +1,19 @@
+{
+	title: "ロマン1",
+	x: 24.0d,
+	y: -6.0d,
+	description: "Void Ore Miner",
+	text: [
+		""
+	],
+	dependencies: [
+		"d16bd72f"
+	],
+	tasks: [{
+		uid: "1e9767da",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 12003"
+		}]
+	}]
+}

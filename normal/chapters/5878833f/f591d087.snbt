@@ -1,6 +1,6 @@
 {
 	title: "クエスト文が長かったので裁断してもらった",
-	x: 4.0d,
+	x: 2.0d,
 	y: 0.0d,
 	shape: "diamond",
 	description: "Advanced Cutting Machine",
@@ -11,7 +11,7 @@
 		"潤滑油の作り方については醸造機のクエストを参照してください。"
 	],
 	dependencies: [
-		"c7db5d6e"
+		"4ca7718b"
 	],
 	min_width: 300,
 	tasks: [{

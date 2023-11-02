@@ -1,0 +1,18 @@
+{
+	title: "Large Brewing Vat",
+	x: 14.0d,
+	y: -5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	tasks: [{
+		uid: "73fc8623",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2006"
+		}]
+	}]
+}

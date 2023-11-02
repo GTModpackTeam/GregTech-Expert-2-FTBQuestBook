@@ -9,6 +9,7 @@
 		"また、これで最高効率でMV回路を作れるようになります。"
 	],
 	dependencies: [
+		"fcb2610e",
 		"a6e0daef"
 	],
 	min_width: 300,

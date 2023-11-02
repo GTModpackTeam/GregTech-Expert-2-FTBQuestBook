@@ -1,7 +1,7 @@
 {
 	title: "そして、伝熱へ...",
 	x: 4.0d,
-	y: -2.0d,
+	y: -4.0d,
 	shape: "diamond",
 	description: "HSS-G Coil Block",
 	text: [

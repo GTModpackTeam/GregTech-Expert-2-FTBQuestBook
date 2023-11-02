@@ -1,6 +1,6 @@
 {
 	title: "最高のEV回路",
-	x: 0.0d,
+	x: -4.0d,
 	y: 6.0d,
 	shape: "diamond",
 	description: "Quantumprocessor",

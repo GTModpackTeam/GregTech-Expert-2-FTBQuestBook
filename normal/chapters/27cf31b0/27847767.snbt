@@ -1,7 +1,7 @@
 {
 	title: "スマホのバッテリーによく使われる",
-	x: 4.0d,
-	y: 4.0d,
+	x: -2.0d,
+	y: 8.0d,
 	shape: "diamond",
 	description: "Lapotronic Energy Orb",
 	text: [

@@ -1,7 +1,7 @@
 {
 	title: "第陸次産業革命",
 	icon: "gregtech:machine 1 1030",
-	x: -6.0d,
+	x: 4.0d,
 	y: 6.0d,
 	description: "Processing Array",
 	text: [

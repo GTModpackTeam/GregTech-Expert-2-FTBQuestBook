@@ -1,7 +1,7 @@
 {
 	title: "Epoxy v2.0",
-	x: 0.0d,
-	y: 2.0d,
+	x: 2.0d,
+	y: 6.0d,
 	shape: "diamond",
 	description: "Fiber-Reinforced Epoxy Resin Sheet",
 	text: [

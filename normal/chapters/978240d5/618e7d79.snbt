@@ -1,0 +1,27 @@
+{
+	title: "名前紛らわしいよねほんと",
+	x: -8.0d,
+	y: 6.0d,
+	shape: "diamond",
+	description: "Tritanium Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"cda3a601",
+		"06a87d9e"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "2d377beb",
+		type: "fluid",
+		fluid: "tritanium"
+	},
+	{
+		uid: "94e09e00",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 128"
+		}]
+	}]
+}

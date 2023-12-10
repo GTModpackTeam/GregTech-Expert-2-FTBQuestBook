@@ -1,0 +1,21 @@
+{
+	title: "実質UV時代",
+	x: -6.0d,
+	y: 6.0d,
+	shape: "diamond",
+	description: "Sterilizing Filter Casing",
+	text: [
+		"クリーンルームの天井をこれで置き換えることで殺菌クリーンルームを作ることができます。"
+	],
+	dependencies: [
+		"618e7d79",
+		"f3448207"
+	],
+	tasks: [{
+		uid: "0873c351",
+		type: "item",
+		items: [{
+			item: "gregtech:cleanroom_casing 1 2"
+		}]
+	}]
+}

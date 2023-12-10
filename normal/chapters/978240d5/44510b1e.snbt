@@ -1,0 +1,20 @@
+{
+	title: "グラフィック性能はどうなんだろうか",
+	x: -2.0d,
+	y: 10.0d,
+	shape: "diamond",
+	description: "Wetware Assembly",
+	text: [
+		""
+	],
+	dependencies: [
+		"23ff2585"
+	],
+	tasks: [{
+		uid: "49f451fd",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 645"
+		}]
+	}]
+}

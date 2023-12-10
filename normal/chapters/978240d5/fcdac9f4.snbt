@@ -1,0 +1,21 @@
+{
+	title: "1と6が同時に見えてるのはおかしいね",
+	x: -4.0d,
+	y: 8.0d,
+	shape: "diamond",
+	description: "HPCA Advanced Computation Component",
+	text: [
+		"これを使わずにUVのモーター等を作るのはさすがにゴリ押しが過ぎるでしょう。"
+	],
+	dependencies: [
+		"1064833b",
+		"f3448207"
+	],
+	tasks: [{
+		uid: "0ae91fe2",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1414"
+		}]
+	}]
+}

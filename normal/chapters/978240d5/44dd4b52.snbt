@@ -1,0 +1,20 @@
+{
+	title: "ここまで来たら脳筋（プレイヤーが）",
+	x: 0.0d,
+	y: 10.0d,
+	shape: "diamond",
+	description: "Wetware Supercomputer",
+	text: [
+		""
+	],
+	dependencies: [
+		"44510b1e"
+	],
+	tasks: [{
+		uid: "b254b8a9",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 646"
+		}]
+	}]
+}

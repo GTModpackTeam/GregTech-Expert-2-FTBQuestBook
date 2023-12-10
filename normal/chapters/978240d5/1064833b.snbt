@@ -1,0 +1,20 @@
+{
+	title: "オススメ構成を使っていれば16CWU/t達成できるはず",
+	x: -2.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "Crystal Processor Mainframe",
+	text: [
+		"UV回路がやっと解禁されます。"
+	],
+	dependencies: [
+		"2639ad7a"
+	],
+	tasks: [{
+		uid: "775721c5",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 643"
+		}]
+	}]
+}

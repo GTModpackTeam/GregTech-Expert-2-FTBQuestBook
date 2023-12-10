@@ -1,0 +1,19 @@
+{
+	title: "僕の考えた最強の合金",
+	x: -2.0d,
+	y: -2.0d,
+	description: "Noble-Metal High-Entropy-Alloy Nanoparticles Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"30d1652b"
+	],
+	tasks: [{
+		uid: "54223522",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 24002"
+		}]
+	}]
+}

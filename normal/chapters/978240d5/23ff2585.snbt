@@ -1,0 +1,21 @@
+{
+	title: "光に反応する部品なんて入れてないのに",
+	x: -4.0d,
+	y: 10.0d,
+	shape: "diamond",
+	description: "Wetware Processor",
+	text: [
+		""
+	],
+	dependencies: [
+		"66c15da5",
+		"2ab277de"
+	],
+	tasks: [{
+		uid: "f5d1716f",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 644"
+		}]
+	}]
+}

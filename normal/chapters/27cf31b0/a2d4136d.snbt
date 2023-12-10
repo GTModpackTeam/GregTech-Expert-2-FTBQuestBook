@@ -1,7 +1,7 @@
 {
 	title: "ダンジョンチェストにはもう入っていない",
 	icon: "gregtech:meta_ingot 1 50",
-	x: 0.0d,
+	x: -2.0d,
 	y: 4.0d,
 	shape: "diamond",
 	description: "Iridium",

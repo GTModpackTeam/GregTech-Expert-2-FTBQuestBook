@@ -1,7 +1,7 @@
 {
 	title: "おつかれ！今回は新しいポリマーは不要だよ！",
-	x: -2.0d,
-	y: 6.0d,
+	x: 0.0d,
+	y: 4.0d,
 	shape: "diamond",
 	description: "Elite Circuit Assembler",
 	text: [
@@ -9,6 +9,7 @@
 		"また、これで最高効率でMV回路を作れるようになります。"
 	],
 	dependencies: [
+		"fcb2610e",
 		"a6e0daef"
 	],
 	min_width: 300,

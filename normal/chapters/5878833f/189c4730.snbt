@@ -8,7 +8,7 @@
 		"ランダムアクセスメモリーはより発展的な電子部品を作るのに必要です。"
 	],
 	dependencies: [
-		"f591d087"
+		"c7db5d6e"
 	],
 	min_width: 300,
 	or_tasks: true,

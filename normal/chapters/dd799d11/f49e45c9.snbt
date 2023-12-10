@@ -10,6 +10,7 @@
 		"eb1959d9"
 	],
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "b462d57b",
 		type: "item",
@@ -18,6 +19,16 @@
 			tag: {
 				InfinityEnergy: 0
 			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5ec53248",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:wireless_fluid_terminal",
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

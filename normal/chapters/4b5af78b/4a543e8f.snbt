@@ -18,7 +18,8 @@
 		"2014年にDreamMasterXXL氏の主導で開発されたgregtech5uのmodpack。",
 		"サバイバル要素と工業魔術要素共に難易度が高く、そしてバランスもとれているため、",
 		"Gregtechといえばコレ、と言われる程に知名度が高い。",
-		"このpackで改変されたバニラレシピの多くがGTCEuに輸入されている",
+		"このpackで改変されたバニラレシピの多くがGTCEuに輸入されている。",
+		"逆にGTCEuからいくつかの仕様が逆輸入されもした。",
 		"",
 		"・Omnifactory(当クエストブックではOmnifactoryと呼称)",
 		"2019年にdamien_reave氏の主導で開発されたgregtech Community Editionのmodpack。",
@@ -35,7 +36,10 @@
 		"GTCEuを紹介するためにGTCEuの開発者が立ち上げた軽量modpack。",
 		"GTCEuの仕様について物凄く細かく記述されている。",
 		"このクエストはGregTech-Community-Packのクエスト文をLGPL3.0 Licenseに基づき一部使用しています",
-		"この場を借りて感謝申し上げます。"
+		"この場を借りて感謝申し上げます。",
+		"",
+		"余談：初代と違ってこのmodpackは普通にクリア可能です。",
+		"このクエストを書いている時点で既に何人かがクリアしています。"
 	],
 	min_width: 300,
 	tasks: [{

@@ -1,7 +1,13 @@
 {
+	title: "現状の最高Tier",
 	x: 0.5d,
 	y: 0.5d,
+	description: "UV Machine Hull",
+	text: [
+		""
+	],
 	hide: true,
+	min_width: 300,
 	tasks: [{
 		uid: "3a736bcd",
 		type: "item",

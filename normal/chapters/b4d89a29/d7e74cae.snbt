@@ -10,16 +10,16 @@
 		uid: "1cfe76bb",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustDragon",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any dustDragon"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "dustDragon"
 				}
 			}
 		}],
@@ -30,16 +30,16 @@
 		uid: "f2c9c43b",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustDraconium",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any dustDraconium"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "dustDraconium"
 				}
 			}
 		}]

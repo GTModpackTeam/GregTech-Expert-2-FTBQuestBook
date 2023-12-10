@@ -1,7 +1,12 @@
 {
 	x: 0.0d,
 	y: 0.0d,
+	description: "ZPM Machine Hull",
+	text: [
+		""
+	],
 	hide: true,
+	min_width: 300,
 	tasks: [{
 		uid: "f8240518",
 		type: "item",

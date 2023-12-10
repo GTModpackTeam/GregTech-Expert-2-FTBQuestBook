@@ -1,0 +1,21 @@
+{
+	title: "防御力高そうだよね",
+	x: 4.0d,
+	y: 4.0d,
+	description: "IV Field Generator",
+	text: [
+		"核融合炉本体の素材になります。",
+		"また、上位のアーマーを作成するのにも使います。"
+	],
+	dependencies: [
+		"392c3314",
+		"a6e0daef"
+	],
+	tasks: [{
+		uid: "d778dac0",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 206"
+		}]
+	}]
+}

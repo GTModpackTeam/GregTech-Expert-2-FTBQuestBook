@@ -3,7 +3,7 @@
 	x: 12.0d,
 	y: 0.0d,
 	shape: "diamond",
-	description: "ME glass cable",
+	description: "Quartz Fiber / ME Cable",
 	text: [
 		"AE2のケーブルは非常に奥の深いコンテンツですが、",
 		"このmodpackではチャンネルが無効化されているので、単にAE2のデバイスとエネルギーセルを繋ぐ用途でしか使いません。",
@@ -35,72 +35,72 @@
 		uid: "16166ade",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftGlassCable",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftGlassCable"
 				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftGlassCable"
-				}
 			}
 		},
 		{
+			ForgeCaps: {
+				Parent: {
+					data: "craftCoveredCable",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftCoveredCable"
 				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftCoveredCable"
-				}
 			}
 		},
 		{
+			ForgeCaps: {
+				Parent: {
+					data: "craftSmartCable",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftSmartCable"
 				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftSmartCable"
-				}
 			}
 		},
 		{
+			ForgeCaps: {
+				Parent: {
+					data: "craftDenseCoveredCable",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftDenseCoveredCable"
 				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftDenseCoveredCable"
-				}
 			}
 		},
 		{
+			ForgeCaps: {
+				Parent: {
+					data: "craftDenseSmartCable",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftDenseSmartCable"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftDenseSmartCable"
 				}
 			}
 		}]

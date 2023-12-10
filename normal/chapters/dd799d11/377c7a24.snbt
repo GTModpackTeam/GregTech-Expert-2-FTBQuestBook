@@ -13,10 +13,10 @@
 	optional: true,
 	min_width: 300,
 	tasks: [{
-		uid: "1edb96f3",
+		uid: "39c0e0fe",
 		type: "item",
 		items: [{
-			id: "betterp2p_plusplus:advanced_memory_card",
+			id: "betterp2p:advanced_memory_card",
 			tag: {
 				selectedIndex: -1
 			}

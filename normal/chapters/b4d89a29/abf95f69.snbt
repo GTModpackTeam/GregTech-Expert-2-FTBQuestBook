@@ -13,16 +13,16 @@
 		uid: "395b7a4c",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustChaos",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Chaos Dust"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "dustChaos"
 				}
 			}
 		}]

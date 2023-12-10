@@ -1,0 +1,24 @@
+{
+	title: "ちらし寿司食べたくなってきた",
+	x: 2.0d,
+	y: 4.0d,
+	description: "Energy Module",
+	text: [
+		""
+	],
+	dependencies: [
+		"2639ad7a"
+	],
+	tasks: [{
+		uid: "b870aee9",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			Damage: 750s,
+			tag: {
+				Charge: 4000000000L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

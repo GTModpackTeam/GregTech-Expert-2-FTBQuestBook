@@ -1,0 +1,20 @@
+{
+	title: "不安定な放射性同位体らしい",
+	x: -4.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Naquadria Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"30d1652b"
+	],
+	tasks: [{
+		uid: "d5485efc",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 126"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "pHに応じて色変わりそう",
+	x: -2.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Trinium Coil Block",
+	text: [
+		""
+	],
+	dependencies: [
+		"28f2409c"
+	],
+	tasks: [{
+		uid: "2abad1df",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_coil 1 6"
+		}]
+	}]
+}

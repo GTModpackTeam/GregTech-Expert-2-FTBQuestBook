@@ -1,0 +1,19 @@
+{
+	title: "なんで箱に入れただけで容量増えるんだろうね",
+	x: 4.0d,
+	y: 4.0d,
+	description: "ZPM Lapotronic Capacitor",
+	text: [
+		""
+	],
+	dependencies: [
+		"64764056"
+	],
+	tasks: [{
+		uid: "7accd560",
+		type: "item",
+		items: [{
+			item: "gregtech:battery_block 1 5"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "Stem細胞は、あります",
+	x: -8.0d,
+	y: 8.0d,
+	shape: "diamond",
+	description: "Stem Cells",
+	text: [
+		""
+	],
+	dependencies: [
+		"1929f31d"
+	],
+	tasks: [{
+		uid: "c1da8898",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 709"
+		}]
+	}]
+}

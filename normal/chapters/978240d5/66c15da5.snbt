@@ -1,0 +1,20 @@
+{
+	title: "住み心地は良いのだろうか",
+	x: -6.0d,
+	y: 10.0d,
+	shape: "diamond",
+	description: "Master Circuit Board",
+	text: [
+		""
+	],
+	dependencies: [
+		"1929f31d"
+	],
+	tasks: [{
+		uid: "33fc8895",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 407"
+		}]
+	}]
+}

@@ -1,6 +1,6 @@
 {
 	title: "紫レンジャー",
-	x: 22.0d,
+	x: 24.0d,
 	y: 0.0d,
 	description: "Wireless Interface Terminal",
 	text: [
@@ -8,7 +8,7 @@
 		"検索機能が一部失われてしまっていますが仕様です。"
 	],
 	dependencies: [
-		"811a1952"
+		"f57c8629"
 	],
 	dependency_requirement: "one_started",
 	min_width: 300,

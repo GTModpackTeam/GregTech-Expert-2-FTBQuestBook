@@ -1,0 +1,21 @@
+{
+	title: "スタック単位で処理してく",
+	x: -2.0d,
+	y: 6.0d,
+	description: "Ultimate Parallel Control Hatch",
+	text: [
+		"これを使えば64並列まで可能になります。"
+	],
+	dependencies: [
+		"1064833b",
+		"f3448207"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "01e8dae0",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2052"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "もうちょっと安い素材で作れないの",
+	x: 16.0d,
+	y: 2.0d,
+	description: "Empty Tier III Capacitor",
+	text: [
+		""
+	],
+	dependencies: [
+		"0318eb1f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "12c6f7b4",
+		type: "item",
+		items: [{
+			item: "gregtech:battery_block 1 6"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "複数のデータをまとめられる便利なヤツだと思ってた",
+	x: -8.0d,
+	y: 10.0d,
+	shape: "diamond",
+	description: "Data Module",
+	text: [
+		"より上位のアイテムを研究するために必要です。"
+	],
+	dependencies: [
+		"66c15da5"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "80bc9ef4",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 263"
+		}]
+	}]
+}

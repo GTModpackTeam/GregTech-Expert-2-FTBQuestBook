@@ -1,0 +1,36 @@
+{
+	title: "こっちの研究は楽",
+	x: -4.0d,
+	y: 6.0d,
+	shape: "diamond",
+	description: "ZPM Components2",
+	text: [
+		"作るには相応の素材が必要です。"
+	],
+	dependencies: [
+		"2639ad7a"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "3cb1848c",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 208"
+		}]
+	},
+	{
+		uid: "5431ba65",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 223"
+		}]
+	},
+	{
+		uid: "baa2ddb5",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 238"
+		}]
+	}]
+}

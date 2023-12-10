@@ -1,0 +1,25 @@
+{
+	title: "影薄い悲しきバッテリー",
+	x: 10.0d,
+	y: -4.0d,
+	description: "Energy Cluster",
+	text: [
+		""
+	],
+	dependencies: [
+		"812522b6"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "91d339d3",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			Damage: 751s,
+			tag: {
+				Charge: 20000000000L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

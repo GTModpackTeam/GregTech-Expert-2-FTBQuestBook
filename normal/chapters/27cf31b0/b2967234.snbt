@@ -1,0 +1,65 @@
+{
+	title: "狭い拠点だとむしろ要らない",
+	x: 2.0d,
+	y: 8.0d,
+	description: "QuarkTech™ Suites",
+	text: [
+		"NanoMuscle™スーツの上位版です。",
+		"守備力が上がっていたり追加効果が付いています。",
+		"NanoMuscle™スーツの時同様、ジェットパック付きのものはまだ利用できませんのでチェストプレートだけはNanoMuscle™スーツのものを使い続けることになるかもしれません。"
+	],
+	dependencies: [
+		"b028009c",
+		"a2d4136d",
+		"27847767"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "11d8f605",
+		type: "item",
+		items: [{
+			id: "gregtech:gt_armor",
+			Damage: 40s,
+			tag: {
+				Charge: 100000000L
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cf1bb5c3",
+		type: "item",
+		items: [{
+			id: "gregtech:gt_armor",
+			Damage: 41s,
+			tag: {
+				Charge: 100000000L
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e15160f6",
+		type: "item",
+		items: [{
+			id: "gregtech:gt_armor",
+			Damage: 42s,
+			tag: {
+				Charge: 100000000L
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f68bbaf3",
+		type: "item",
+		items: [{
+			id: "gregtech:gt_armor",
+			Damage: 43s,
+			tag: {
+				Charge: 100000000L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

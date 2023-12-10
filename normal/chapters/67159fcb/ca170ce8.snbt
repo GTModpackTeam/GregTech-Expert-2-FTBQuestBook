@@ -1,0 +1,20 @@
+{
+	title: "脳みそが16個",
+	x: 6.0d,
+	y: 0.0d,
+	description: "Master Parallel Control Hatch",
+	text: [
+		""
+	],
+	dependencies: [
+		"ed9cdebc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b267fb2c",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2051"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Large Extrusion Machine",
+	x: 10.0d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c57649ec",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2015"
+		}]
+	}]
+}

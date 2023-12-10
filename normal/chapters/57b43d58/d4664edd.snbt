@@ -48,13 +48,6 @@
 		}]
 	},
 	{
-		uid: "b9703cda",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 308"
-		}]
-	},
-	{
 		uid: "3c4393a5",
 		type: "item",
 		items: [{

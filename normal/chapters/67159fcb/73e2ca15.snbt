@@ -1,0 +1,59 @@
+{
+	title: "ﾋﾟﾛﾋﾟﾛ",
+	icon: "gregtech:machine 1 1037",
+	x: -8.0d,
+	y: -2.0d,
+	shape: "circle",
+	description: "Data Bank",
+	text: [
+		"アセンブリライン用のデータを1まとめにして接続できるようにする設備です。",
+		"データアクセスハッチを気が済むまで埋め込みましょう。",
+		"",
+		"1アセンブリラインにつき1つ光学データ伝送ハッチが必要になります。",
+		"",
+		"データバンク同士を接続すると消費電力が跳ね上がるので無理はしないでください。"
+	],
+	dependencies: [
+		"6a3c7e94"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "b9f07b47",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1037"
+		}]
+	},
+	{
+		uid: "d498a60f",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1408"
+		}]
+	},
+	{
+		uid: "ceb7ab9c",
+		type: "item",
+		items: [{
+			item: "gregtech:computer_casing 1 1"
+		}],
+		count: 18L
+	},
+	{
+		uid: "1c24fdc3",
+		type: "item",
+		items: [{
+			item: "gregtech:computer_casing 1 2"
+		}],
+		count: 6L
+	},
+	{
+		uid: "5cc56475",
+		type: "item",
+		items: [{
+			item: "gregtech:computer_casing"
+		}],
+		count: 3L
+	}]
+}

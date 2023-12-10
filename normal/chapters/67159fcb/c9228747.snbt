@@ -1,0 +1,19 @@
+{
+	title: "今は製造・使用が禁止になっている",
+	x: 2.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "Dielectric PCB Coolant",
+	text: [
+		"大型変圧器の作成や、研究用のHPCAの冷却に使用します。"
+	],
+	dependencies: [
+		"63b503fb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "705bad29",
+		type: "fluid",
+		fluid: "pcb_coolant"
+	}]
+}

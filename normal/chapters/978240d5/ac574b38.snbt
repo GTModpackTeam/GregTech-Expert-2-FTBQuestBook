@@ -1,0 +1,21 @@
+{
+	title: "アプデまだか",
+	x: -4.0d,
+	y: -2.0d,
+	description: "Trinaquadalloy Ingot",
+	text: [
+		"現状使い道がありません。",
+		"原子マシン外装に使い道ができたら呼んでください。"
+	],
+	dependencies: [
+		"30d1652b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "055f1583",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 3005"
+		}]
+	}]
+}

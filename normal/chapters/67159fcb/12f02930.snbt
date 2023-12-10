@@ -1,0 +1,29 @@
+{
+	title: "あれ？サマリウムの棒が磁化されないぞ？",
+	x: 2.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Elite Polarizer / Elite Polarizer II",
+	text: [
+		"磁化サマリウムの棒を作るためにIV以上の磁化装置が必要です。"
+	],
+	dependencies: [
+		"63b503fb"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "6f693fda",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 549"
+		}]
+	},
+	{
+		uid: "dd87a181",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 550"
+		}]
+	}]
+}

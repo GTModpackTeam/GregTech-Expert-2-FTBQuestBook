@@ -1,0 +1,20 @@
+{
+	title: "大型変圧器（アプデ中）",
+	x: -10.0d,
+	y: -2.0d,
+	description: "Active Transformer",
+	text: [
+		"レーザーによる無損失長距離輸送と変圧を実現する装置ですが、現在進行中のアプデによって仕様が大幅に変化しますので作らない方が良いでしょう。"
+	],
+	dependencies: [
+		"f367f19b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "52ab2d32",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1042"
+		}]
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	title: "核融合炉の素材（構成ブロックとして）",
+	x: 0.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "LuV Energy Hatch",
+	text: [
+		""
+	],
+	dependencies: [
+		"2decdea1"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "664ecf95",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1216"
+		}]
+	},
+	{
+		uid: "139aea9e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1241"
+		}]
+	},
+	{
+		uid: "e7561d59",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1246"
+		}]
+	}]
+}

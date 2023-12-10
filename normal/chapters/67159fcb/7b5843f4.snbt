@@ -1,0 +1,25 @@
+{
+	title: "6チャンクって狭いようで実は広いようでそんなに広くないけど別に困らない",
+	x: -10.0d,
+	y: 4.0d,
+	description: "Electric Prospector's Scanner (LuV)",
+	text: [
+		""
+	],
+	dependencies: [
+		"63e34f54"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fd98d2a9",
+		type: "item",
+		items: [{
+			id: "gregtech:meta_item_1",
+			Damage: 468s,
+			tag: {
+				Charge: 1000000000L
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

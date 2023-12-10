@@ -1,0 +1,27 @@
+{
+	title: "原子番号0",
+	x: 16.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Neutronium",
+	text: [
+		""
+	],
+	dependencies: [
+		"29ba2200"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "02e5f359",
+		type: "fluid",
+		fluid: "neutronium"
+	},
+	{
+		uid: "a87c72f4",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 127"
+		}]
+	}]
+}

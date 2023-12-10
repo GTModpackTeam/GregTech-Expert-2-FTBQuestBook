@@ -1,0 +1,21 @@
+{
+	title: "もうロスレスとかどうでもよくない？",
+	x: 0.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "Uranium Rhodium Dinaquadide Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"30d1652b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "9fca9136",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 430"
+		}]
+	}]
+}

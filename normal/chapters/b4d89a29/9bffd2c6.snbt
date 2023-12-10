@@ -5,6 +5,7 @@
 		"b8e3b438",
 		"36e35a60"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "1db04326",
 		type: "item",
@@ -12,8 +13,8 @@
 			id: "draconicadditions:chaotic_staff_of_power",
 			ForgeCaps: {
 				Parent: {
-					Items: [],
-					Size: 36
+					Size: 36,
+					Items: []
 				}
 			}
 		}],

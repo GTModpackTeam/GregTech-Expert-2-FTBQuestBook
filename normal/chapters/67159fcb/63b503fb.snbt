@@ -1,7 +1,15 @@
 {
+	title: "Hull:人気映画、ドラマ、アニメが見放題！",
 	x: 0.0d,
 	y: 0.0d,
-	hide: true,
+	shape: "diamond",
+	description: "LuV Machine Hull",
+	text: [
+		"LuV電圧へようこそ！",
+		"核融合炉が解禁されます。",
+		"またGregicality_Multiblocksのマルチブロックを本格的に使うのもこの時代からになるでしょう。"
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "3f88d2af",
 		type: "item",

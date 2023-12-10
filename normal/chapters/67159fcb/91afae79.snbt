@@ -1,0 +1,28 @@
+{
+	title: "現実ではバストネス石やモナザイトに含まれる",
+	x: -6.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "Europium Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"7fde413a"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "e8418e0f",
+		type: "fluid",
+		fluid: "europium",
+		amount: 16
+	},
+	{
+		uid: "25609893",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 33"
+		}]
+	}]
+}

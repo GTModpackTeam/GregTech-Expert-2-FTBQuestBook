@@ -1,0 +1,20 @@
+{
+	title: "俺じゃなきゃ見逃しちゃうね",
+	x: 6.0d,
+	y: -4.0d,
+	description: "Tungstencarbide Ingot",
+	text: [
+		"ツールとして使うととんでもない速さの採掘速度を誇ります。"
+	],
+	dependencies: [
+		"5e4ac6ff"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "00fe72c8",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 396"
+		}]
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "おなじみの切り口",
+	icon: "gregtech:machine 1 250",
+	x: 4.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "Elite Cutting Machine II",
+	text: [
+		"同様にGregicality_Multiblocksを活用すればスキップできます。"
+	],
+	dependencies: [
+		"ed9cdebc"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "f8a742f3",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 250"
+		}]
+	},
+	{
+		uid: "4b4a983b",
+		type: "checkmark",
+		title: "スキップした方はこちら"
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "UVの基本素材",
+	x: -8.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "Darmstadtium Ingot",
+	text: [
+		"これとトリタニウムを手に入れた時点でUV時代にある程度突入できます。",
+		"具体的には、ネットワークスイッチまで進行できますので先にそこまで進んでから戻ってくるのも一つの選択肢です。"
+	],
+	dependencies: [
+		"cda3a601"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "01cb8e30",
+		type: "fluid",
+		fluid: "darmstadtium"
+	},
+	{
+		uid: "5b62f9d7",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 27"
+		}]
+	}]
+}

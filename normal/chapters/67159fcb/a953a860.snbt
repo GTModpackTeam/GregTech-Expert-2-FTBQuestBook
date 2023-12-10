@@ -1,0 +1,21 @@
+{
+	title: "核分裂炉の実装が待たれる",
+	x: -4.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "Plutonium 241 Dust",
+	text: [
+		"現状核融合炉Mark1の本体の材料しか使い道のない悲しい素材です。"
+	],
+	dependencies: [
+		"63b503fb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2ef5c2ea",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 82"
+		}]
+	}]
+}

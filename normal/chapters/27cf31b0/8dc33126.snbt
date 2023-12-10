@@ -1,7 +1,7 @@
 {
 	title: "極限回路王",
-	x: 2.0d,
-	y: 4.0d,
+	x: -2.0d,
+	y: 6.0d,
 	shape: "diamond",
 	description: "Extreme Circuit Board",
 	text: [

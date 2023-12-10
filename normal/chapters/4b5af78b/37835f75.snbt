@@ -61,15 +61,15 @@
 			id: "gregtech:mortar",
 			tag: {
 				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "flint",
-					MaxDurability: 64,
-					Durability: 0,
-					AttackDamage: 0.0f,
-					AttackSpeed: -2.4f
-				},
+				GT.Behaviours: {},
 				HideFlags: 2,
-				GT.Behaviours: {}
+				GT.Tool: {
+					MaxDurability: 64,
+					AttackDamage: 0.0f,
+					Durability: 0,
+					Material: "flint",
+					AttackSpeed: -2.4f
+				}
 			}
 		}],
 		ignore_nbt: 1b
@@ -81,18 +81,18 @@
 			id: "gregtech:pickaxe",
 			tag: {
 				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "flint",
-					MaxDurability: 64,
-					Durability: 0,
-					ToolSpeed: 4.0f,
-					HarvestLevel: 1,
-					AttackDamage: 2.0f,
-					AttackSpeed: -2.8f
-				},
-				HideFlags: 2,
 				GT.Behaviours: {
 					TorchPlacing: 1b
+				},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 64,
+					ToolSpeed: 4.0f,
+					AttackDamage: 2.0f,
+					Durability: 0,
+					Material: "flint",
+					HarvestLevel: 1,
+					AttackSpeed: -2.8f
 				}
 			}
 		}],

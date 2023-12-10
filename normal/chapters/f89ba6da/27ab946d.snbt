@@ -1,0 +1,50 @@
+{
+	title: "終わりなき楽しみ",
+	x: 2.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "UV Components1",
+	text: [
+		""
+	],
+	dependencies: [
+		"c530fc4e"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "2ed3293e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 134"
+		}]
+	},
+	{
+		uid: "300fb59e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 149"
+		}]
+	},
+	{
+		uid: "ae810e2d",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 164"
+		}]
+	},
+	{
+		uid: "fef11605",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 179"
+		}]
+	},
+	{
+		uid: "4cbea6ca",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 194"
+		}]
+	}]
+}

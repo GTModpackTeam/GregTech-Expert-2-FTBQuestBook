@@ -1,0 +1,37 @@
+{
+	title: "農業王に、俺はなる！",
+	x: 18.0d,
+	y: 2.0d,
+	description: "Neutronium Hoe",
+	text: [
+		""
+	],
+	dependencies: [
+		"0318eb1f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3f900c8c",
+		type: "item",
+		items: [{
+			id: "gregtech:hoe",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Tool: {
+					Material: "gregtech:neutronium",
+					MaxDurability: 65534,
+					Durability: 0,
+					AttackDamage: 0.0f,
+					AttackSpeed: -0.5f
+				},
+				HideFlags: 2,
+				Unbreakable: 1b,
+				GT.Behaviours: {
+					RelocateMinedBlocks: 1b
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

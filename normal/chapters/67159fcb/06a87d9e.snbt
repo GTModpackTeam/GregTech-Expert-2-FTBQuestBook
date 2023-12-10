@@ -1,0 +1,28 @@
+{
+	title: "デュって一発でローマ字入力できる？",
+	x: -8.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "Duranium Ingot",
+	text: [
+		"ツールとして使っても流体パイプとして使ってもとても強力な素材です。"
+	],
+	dependencies: [
+		"7fde413a"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "0f914a08",
+		type: "fluid",
+		fluid: "duranium",
+		amount: 16
+	},
+	{
+		uid: "eb1fa063",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 129"
+		}]
+	}]
+}

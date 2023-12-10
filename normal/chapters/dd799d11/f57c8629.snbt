@@ -1,6 +1,6 @@
 {
 	title: "赤レンジャー",
-	x: 24.0d,
+	x: 22.0d,
 	y: 0.0d,
 	description: "Wireless Crafting Terminal",
 	text: [
@@ -8,10 +8,11 @@
 		"無線ターミナル系の中で特に需要が高いでしょう。"
 	],
 	dependencies: [
-		"f7850c87"
+		"811a1952"
 	],
 	dependency_requirement: "one_started",
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "ec379448",
 		type: "item",
@@ -20,6 +21,16 @@
 			tag: {
 				InfinityEnergy: 0
 			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "15ddbf8b",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:wireless_crafting_terminal",
+			tag: {}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

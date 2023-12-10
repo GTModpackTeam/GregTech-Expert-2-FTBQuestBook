@@ -1,6 +1,6 @@
 {
-	title: "Tier 9 -UV and UHV",
-	icon: "gregtech:machine 1 1397",
+	title: "Tier 9 - UV / UHV",
+	icon: "gregtech:meta_item_1 1 134",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

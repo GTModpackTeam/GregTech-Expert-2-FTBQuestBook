@@ -1,0 +1,28 @@
+{
+	title: "実は最強のアイテムパイプ",
+	x: -6.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "Americium Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"cda3a601",
+		"ddaa6940"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "f3151c6e",
+		type: "fluid",
+		fluid: "americium"
+	},
+	{
+		uid: "c918a269",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 3"
+		}]
+	}]
+}

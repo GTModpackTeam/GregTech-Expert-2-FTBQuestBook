@@ -1,0 +1,21 @@
+{
+	title: "ちょっとコスト重いLuV回路",
+	x: 0.0d,
+	y: 6.0d,
+	shape: "diamond",
+	description: "Crystal Processor Assembly",
+	text: [
+		""
+	],
+	dependencies: [
+		"90d685fd"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "11aa9831",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 641"
+		}]
+	}]
+}

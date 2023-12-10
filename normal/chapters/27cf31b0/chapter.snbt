@@ -1,6 +1,6 @@
 {
-	title: "Tier 6 -IV",
-	icon: "gregtech:machine 1 1019",
+	title: "Tier 6 - IV",
+	icon: "gregtech:meta_item_1 1 131",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

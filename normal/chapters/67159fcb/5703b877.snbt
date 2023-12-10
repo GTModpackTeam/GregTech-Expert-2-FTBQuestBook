@@ -1,0 +1,29 @@
+{
+	title: "おなじみの機械",
+	icon: "gregtech:machine 1 115",
+	x: -2.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "Elite Assembling Machine II",
+	text: [
+		"実はマルチブロックをLuVの電圧に対応させるとスキップできてしまいます。"
+	],
+	dependencies: [
+		"ed9cdebc",
+		"63b503fb"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "bdf980a1",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 115"
+		}]
+	},
+	{
+		uid: "9c481f3b",
+		type: "checkmark",
+		title: "スキップした方はこちら"
+	}]
+}

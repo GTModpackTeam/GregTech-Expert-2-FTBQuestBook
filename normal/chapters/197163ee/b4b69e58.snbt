@@ -10,6 +10,7 @@
 		"2dd7178b"
 	],
 	or_tasks: true,
+	min_width: 300,
 	tasks: [{
 		uid: "c84a3919",
 		type: "item",

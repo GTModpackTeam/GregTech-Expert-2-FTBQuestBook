@@ -1,0 +1,37 @@
+{
+	title: "濃縮ナクアダやナクアドリアが余りだす",
+	x: -4.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Trinium Ingot",
+	text: [
+		"フルオロアンチモン酸でナクアダを処理してトリニウムを作りましょう。",
+		"",
+		"不足するフッ素はトパーズ鉱脈から、アンチモンは四面銅鉱脈から入手しましょう。",
+		"さまざまな副産物が得られますが当てにできるほどの量ではありません。"
+	],
+	dependencies: [
+		"d75f02b9"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "efd1be2b",
+		type: "fluid",
+		fluid: "fluoroantimonic_acid"
+	},
+	{
+		uid: "f7819afd",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 443"
+		}]
+	},
+	{
+		uid: "9c0073a0",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 130"
+		}]
+	}]
+}

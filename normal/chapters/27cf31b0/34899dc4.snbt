@@ -1,0 +1,19 @@
+{
+	title: "Large Electrolysis Plant",
+	x: 12.0d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "29b5497f",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2013"
+		}]
+	}]
+}

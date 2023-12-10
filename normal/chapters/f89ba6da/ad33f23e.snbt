@@ -1,0 +1,21 @@
+{
+	title: "クリーンルーム引退騒動",
+	x: 2.0d,
+	y: -2.0d,
+	description: "Automatic Filtration Maintenance Hatch",
+	text: [
+		"通常のクリーンルームの代わりをするメンテナンスハッチです。",
+		"滅菌の効果はありませんので滅菌クリーンルームは壊さないようにしましょう。"
+	],
+	dependencies: [
+		"27ab946d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5dfeb1e2",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1401"
+		}]
+	}]
+}

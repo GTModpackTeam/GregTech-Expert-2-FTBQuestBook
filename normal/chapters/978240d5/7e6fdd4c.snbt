@@ -1,0 +1,20 @@
+{
+	title: "タービン用に",
+	x: -10.0d,
+	y: 8.0d,
+	description: "Block of Awakened Draconium",
+	text: [
+		"ドラゴンハートはエンダードラゴンを倒すだけで手に入るので本当はStem_Cells経由で作る必要ありません"
+	],
+	dependencies: [
+		"2ab277de"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "95bcf1f5",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_block_compressed_1511 1 5"
+		}]
+	}]
+}

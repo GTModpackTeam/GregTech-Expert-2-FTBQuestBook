@@ -1,0 +1,21 @@
+{
+	title: "無限の彼方へ、さあ行くぞ！",
+	x: 8.0d,
+	y: -8.0d,
+	description: "Quantum Link Card",
+	text: [
+		"このカードは量子トンネルのアップグレード版で、ワイヤレス端末がAEネットワークへ無制限にアクセスできるようになります。"
+	],
+	dependencies: [
+		"0ec481f6"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "f7547f78",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 59"
+		}]
+	}]
+}

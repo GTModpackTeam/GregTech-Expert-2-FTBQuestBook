@@ -1,0 +1,20 @@
+{
+	title: "どんなに回転していても壊せば即停止",
+	x: 6.0d,
+	y: 2.0d,
+	description: "LuV Rotor Holder",
+	text: [
+		""
+	],
+	dependencies: [
+		"63b503fb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d3e65e58",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1643"
+		}]
+	}]
+}

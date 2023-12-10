@@ -1,7 +1,7 @@
 {
-	title: "AE2",
-	icon: "appliedenergistics2:part 1 341",
+	title: "Applied Energistics 2",
+	icon: "chisel:futura 1 2",
 	always_invisible: false,
-	group: 0,
+	group: 1080384410,
 	default_quest_shape: ""
 }

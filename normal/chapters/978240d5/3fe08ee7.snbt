@@ -1,0 +1,21 @@
+{
+	title: "たぶん過大評価",
+	x: 0.0d,
+	y: 6.0d,
+	description: "Large Circuit Assembler",
+	text: [
+		"回路組立機のマルチブロック版が解禁されました。",
+		"§m別にIVでも良くないか感はある。§r"
+	],
+	dependencies: [
+		"1064833b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0fc29b70",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2028"
+		}]
+	}]
+}

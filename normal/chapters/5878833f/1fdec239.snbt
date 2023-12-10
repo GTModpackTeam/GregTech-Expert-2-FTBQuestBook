@@ -1,7 +1,7 @@
 {
 	title: "中間点となる回路",
-	x: 8.0d,
-	y: 0.0d,
+	x: 10.0d,
+	y: -2.0d,
 	shape: "diamond",
 	description: "Integrated Logic Circuit",
 	text: [

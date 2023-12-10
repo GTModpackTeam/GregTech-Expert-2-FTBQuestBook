@@ -1,18 +1,64 @@
 {
-	title: "ココまでは研修です",
+	title: "Hull:人気映画、ドラマ、アニメが見放題！",
 	x: 0.0d,
 	y: 0.0d,
+	shape: "diamond",
 	description: "LuV Machine Hull",
 	text: [
-		""
+		"LuV電圧へようこそ！",
+		"核融合炉が解禁されます。",
+		"またGregicality_Multiblocksのマルチブロックを本格的に使うのもこの時代からになるでしょう。"
 	],
 	hide: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
-		uid: "3f88d2af",
+		uid: "9af01032",
 		type: "item",
 		items: [{
-			item: "gregtech:machine 1 991"
+			item: "gregtech:meta_item_1 1 132"
+		}]
+	},
+	{
+		uid: "ed478135",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 177"
+		}]
+	},
+	{
+		uid: "b65df1f5",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 147"
+		}]
+	},
+	{
+		uid: "22216637",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 162"
+		}]
+	},
+	{
+		uid: "4f72adb7",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 192"
+		}]
+	},
+	{
+		uid: "cee60369",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 237"
+		}]
+	},
+	{
+		uid: "11bdd0c6",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 222"
 		}]
 	}]
 }

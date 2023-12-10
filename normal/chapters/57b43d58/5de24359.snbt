@@ -12,8 +12,7 @@
 		"ポリエチレンを作れるようになるとより効率的にダイオードを作れるようになります。"
 	],
 	dependencies: [
-		"6ac44b0e",
-		"21fe0159"
+		"6ac44b0e"
 	],
 	dependency_requirement: "one_completed",
 	min_width: 300,

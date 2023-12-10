@@ -1,36 +1,25 @@
 {
-	title: "BetterQuestingのデフォルトアイコン",
-	icon: "minecraft:nether_star",
-	x: -4.0d,
-	y: 6.0d,
+	title: "ネザースターのときにあった輝きはどこへ",
+	x: 2.0d,
+	y: 4.0d,
 	shape: "diamond",
-	description: "Nether Star",
+	description: "Quantum Star",
 	text: [
-		"ネザースターは高い電圧のセンサ、エミッタ、空間発生器の作製に必要です。",
+		"IVのセンサやエミッタに使用します。",
+		"ネザースターを調達する一番のオススメは魂抽出器を使うことです。",
+		"ウィザーを魂の小瓶に捕え、電動スポナーで増やして使うのが良いでしょう。",
 		"",
-		"恒久的なポーション効果が欲しいなら、バニラのビーコンの材料として使用しても構いません。",
-		"",
-		"ネザーの空気がレシピに要求されているので、ついでにネザーの液体空気の蒸留に投資してもいいかもしれません。",
-		"PBIの作製が少し楽になります。"
+		"余談：電動スポナーが実装される前は、ネザースターを得る方法がウィザーを倒すかロケット燃料から作成するしかなかった。"
 	],
 	dependencies: [
-		"a2d4136d",
-		"5f54f72d"
+		"33845a9f"
 	],
 	min_width: 300,
-	or_tasks: true,
 	tasks: [{
-		uid: "31c6ef94",
+		uid: "f942b919",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_dust 1 1602"
-		}]
-	},
-	{
-		uid: "70f5f58a",
-		type: "item",
-		items: [{
-			item: "minecraft:nether_star"
+			item: "gregtech:meta_item_1 1 282"
 		}]
 	}]
 }

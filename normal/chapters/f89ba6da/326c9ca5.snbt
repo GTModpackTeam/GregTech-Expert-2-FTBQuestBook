@@ -1,0 +1,20 @@
+{
+	title: "とてもとてもゴリ押しすればネットワークスイッチが無くても作れなくはない",
+	x: 12.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "UV Enegry Hatch",
+	text: [
+		""
+	],
+	dependencies: [
+		"812522b6"
+	],
+	tasks: [{
+		uid: "a4152d7d",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1218"
+		}]
+	}]
+}

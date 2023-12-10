@@ -3,6 +3,7 @@
 	icon: "minecraft:ice",
 	x: -6.0d,
 	y: 8.0d,
+	shape: "square",
 	description: "Cryogenic Fluid",
 	text: [
 		"液体空気などの特定の液体にはCryogenicと書かれていますが、",

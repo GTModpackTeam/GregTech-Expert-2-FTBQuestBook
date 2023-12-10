@@ -22,16 +22,16 @@
 			id: "gregtechfoodoption:butchery_knife.hv",
 			tag: {
 				DisallowContainerItem: 0b,
+				GT.Behaviours: {},
+				HideFlags: 2,
+				MaxCharge: 2147483647L,
 				GT.Tool: {
-					Material: "iron",
 					MaxDurability: 256,
-					Durability: 0,
 					AttackDamage: 2.0f,
+					Durability: 0,
+					Material: "iron",
 					AttackSpeed: 0.0f
 				},
-				HideFlags: 2,
-				GT.Behaviours: {},
-				MaxCharge: 2147483647L,
 				Charge: 2147483647L
 			}
 		}],

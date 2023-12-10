@@ -1,0 +1,19 @@
+{
+	title: "第４の状態",
+	x: -8.0d,
+	y: 0.0d,
+	description: "Helium Plasma",
+	text: [
+		"スティーブの力があればプラズマすらもバケツに入れられます。",
+		"バケツやタンクの中であれば安全ですが、パイプに触れるととても痛いので注意しましょう。"
+	],
+	dependencies: [
+		"7fde413a"
+	],
+	tasks: [{
+		uid: "9dee3100",
+		type: "fluid",
+		fluid: "plasma.helium",
+		amount: 1
+	}]
+}

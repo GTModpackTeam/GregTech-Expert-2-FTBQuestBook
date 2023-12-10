@@ -1,0 +1,75 @@
+{
+	title: "おなじみの楽しさ",
+	x: 4.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "LuV Components",
+	text: [
+		"全ての作成に研究とアセンブリラインが必要になりました。",
+		"要求される金属も大量なので自動化必至です。",
+		"アセンブリラインを何度も詰まらせる原因になります。",
+		"",
+		"本当はLuVの空間発生器だけ現時点で作れませんが、使うときが来るのは核融合炉完成後なので気にする必要はありません。"
+	],
+	dependencies: [
+		"12f02930",
+		"2decdea1"
+	],
+	or_tasks: true,
+	tasks: [{
+		uid: "3eb62812",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 132"
+		}]
+	},
+	{
+		uid: "07964fb9",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 147"
+		}]
+	},
+	{
+		uid: "57268244",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 162"
+		}]
+	},
+	{
+		uid: "053b6146",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 177"
+		}]
+	},
+	{
+		uid: "ac3e0758",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 192"
+		}]
+	},
+	{
+		uid: "561cd027",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 222"
+		}]
+	},
+	{
+		uid: "97d9c1ff",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 237"
+		}]
+	},
+	{
+		uid: "6e93e873",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 207"
+		}]
+	}]
+}

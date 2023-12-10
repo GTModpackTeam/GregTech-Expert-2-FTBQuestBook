@@ -1,0 +1,22 @@
+{
+	title: "黒く光るわけじゃない",
+	x: -4.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "Naquadah Coil Block",
+	text: [
+		""
+	],
+	dependencies: [
+		"5703b877",
+		"d75f02b9"
+	],
+	tasks: [{
+		uid: "ec660f07",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_coil 1 5"
+		}],
+		count: 16L
+	}]
+}

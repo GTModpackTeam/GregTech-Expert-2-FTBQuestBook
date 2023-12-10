@@ -22,26 +22,26 @@
 			id: "gregtech:drill_hv",
 			tag: {
 				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "ultimet",
-					MaxDurability: 2048,
-					Durability: 0,
-					ToolSpeed: 14.0f,
-					HarvestLevel: 4,
-					AttackDamage: 8.0f,
-					AttackSpeed: -3.1000001f
+				GT.Behaviours: {
+					AoELayer: 4,
+					MaxAoELayer: 4,
+					TorchPlacing: 1b,
+					AoERow: 2,
+					AoEColumn: 2,
+					MaxAoERow: 2,
+					MaxAoEColumn: 2
 				},
 				HideFlags: 2,
-				GT.Behaviours: {
-					TorchPlacing: 1b,
-					MaxAoEColumn: 2,
-					MaxAoERow: 2,
-					MaxAoELayer: 4,
-					AoEColumn: 2,
-					AoERow: 2,
-					AoELayer: 4
-				},
 				MaxCharge: 1600000L,
+				GT.Tool: {
+					MaxDurability: 2048,
+					ToolSpeed: 14.0f,
+					AttackDamage: 8.0f,
+					Durability: 0,
+					Material: "ultimet",
+					HarvestLevel: 4,
+					AttackSpeed: -3.1000001f
+				},
 				Charge: 0L
 			}
 		}],

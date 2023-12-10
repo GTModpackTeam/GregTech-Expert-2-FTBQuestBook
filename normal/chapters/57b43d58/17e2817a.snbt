@@ -3,6 +3,7 @@
 	icon: "gregtech:metal_casing 1 7",
 	x: 19.5d,
 	y: -2.0d,
+	shape: "square",
 	text: [
 		"マルチブロックが組みあがったのに動作しない時は、",
 		"",

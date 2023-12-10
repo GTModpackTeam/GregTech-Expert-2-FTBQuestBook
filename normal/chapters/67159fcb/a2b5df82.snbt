@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -4.0d,
+	description: "Naquadah Chain",
+	text: [
+		""
+	],
+	dependencies: [
+		"48ef604c"
+	],
+	tasks: [{
+		uid: "3be2f2e6",
+		type: "fluid",
+		fluid: "fluoroantimonic_acid"
+	}]
+}

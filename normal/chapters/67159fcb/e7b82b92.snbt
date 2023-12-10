@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: -2.0d,
+	dependencies: [
+		"be121d2f",
+		"a2b5df82"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ae14d13e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 443"
+		}]
+	},
+	{
+		uid: "63a16e20",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 130"
+		}]
+	}]
+}

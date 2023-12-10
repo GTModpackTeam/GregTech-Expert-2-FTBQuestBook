@@ -1,0 +1,28 @@
+{
+	x: 8.0d,
+	y: -4.0d,
+	dependencies: [
+		"3764e3b0"
+	],
+	tasks: [{
+		uid: "ee636c26",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1420"
+		}]
+	},
+	{
+		uid: "8a0cc93a",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1421"
+		}]
+	},
+	{
+		uid: "f963cd57",
+		type: "item",
+		items: [{
+			item: "gregtech:laser_pipe_normal"
+		}]
+	}]
+}

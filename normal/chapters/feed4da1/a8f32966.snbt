@@ -4,28 +4,28 @@
 		id: "gregtech:mining_hammer",
 		tag: {
 			DisallowContainerItem: 0b,
-			GT.Tool: {
-				Material: "invar",
-				MaxDurability: 384,
-				Durability: 0,
-				ToolSpeed: 5.6f,
-				HarvestLevel: 2,
-				AttackDamage: 4.5f,
-				AttackSpeed: -3.2f
-			},
-			HideFlags: 2,
 			ench: [{
-				id: 32,
-				lvl: 1s
+				lvl: 1s,
+				id: 32
 			}],
 			GT.Behaviours: {
-				TorchPlacing: 1b,
-				MaxAoEColumn: 1,
-				MaxAoERow: 1,
+				AoELayer: 0,
 				MaxAoELayer: 0,
-				AoEColumn: 1,
+				TorchPlacing: 1b,
 				AoERow: 1,
-				AoELayer: 0
+				AoEColumn: 1,
+				MaxAoERow: 1,
+				MaxAoEColumn: 1
+			},
+			HideFlags: 2,
+			GT.Tool: {
+				MaxDurability: 384,
+				ToolSpeed: 5.6f,
+				AttackDamage: 4.5f,
+				Durability: 0,
+				Material: "invar",
+				HarvestLevel: 2,
+				AttackSpeed: -3.2f
 			}
 		}
 	},
@@ -34,8 +34,10 @@
 	description: "Invar",
 	text: [
 		"インバーは鉄とニッケルから精錬できる合金です",
-		"この合金をツールの材料にした時スチールと同等の性能を発揮するので、",
-		"スチールがまだ入手できない時の代用品として使うことができます。"
+		"",
+		"§mこの合金をツールの材料にした時鉄ツールの2倍の耐久値を発揮するので、",
+		"スチールがまだ入手できない時の代用品として使うことができます。§r",
+		"アプデで1.5倍にまでナーフされました。"
 	],
 	dependencies: [
 		"c23bf222",
@@ -58,28 +60,28 @@
 			id: "gregtech:mining_hammer",
 			tag: {
 				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "invar",
-					MaxDurability: 384,
-					Durability: 0,
-					ToolSpeed: 5.6f,
-					HarvestLevel: 2,
-					AttackDamage: 4.5f,
-					AttackSpeed: -3.2f
-				},
-				HideFlags: 2,
 				ench: [{
-					id: 32,
-					lvl: 1s
+					lvl: 1s,
+					id: 32
 				}],
 				GT.Behaviours: {
-					TorchPlacing: 1b,
-					MaxAoEColumn: 1,
-					MaxAoERow: 1,
+					AoELayer: 0,
 					MaxAoELayer: 0,
-					AoEColumn: 1,
+					TorchPlacing: 1b,
 					AoERow: 1,
-					AoELayer: 0
+					AoEColumn: 1,
+					MaxAoERow: 1,
+					MaxAoEColumn: 1
+				},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 384,
+					ToolSpeed: 5.6f,
+					AttackDamage: 4.5f,
+					Durability: 0,
+					Material: "invar",
+					HarvestLevel: 2,
+					AttackSpeed: -3.2f
 				}
 			}
 		}],

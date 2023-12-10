@@ -9,13 +9,13 @@
 		uid: "1db04326",
 		type: "item",
 		items: [{
-			id: "draconicadditions:chaotic_staff_of_power",
 			ForgeCaps: {
 				Parent: {
-					Items: [],
-					Size: 36
+					Size: 36,
+					Items: []
 				}
-			}
+			},
+			id: "draconicadditions:chaotic_staff_of_power"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

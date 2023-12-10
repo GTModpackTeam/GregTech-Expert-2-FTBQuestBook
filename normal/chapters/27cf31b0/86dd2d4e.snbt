@@ -1,0 +1,18 @@
+{
+	title: "Large Material Press",
+	x: 16.0d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	tasks: [{
+		uid: "f81fe2c1",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2005"
+		}]
+	}]
+}

@@ -13,8 +13,8 @@
 	dependencies: [
 		"d75f02b9"
 	],
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "efd1be2b",
 		type: "fluid",

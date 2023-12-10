@@ -11,8 +11,8 @@
 	dependencies: [
 		"cda3a601"
 	],
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "01cb8e30",
 		type: "fluid",

@@ -16,6 +16,7 @@
 	dependencies: [
 		"411cdfcb"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "cfb76884",
 		type: "fluid",

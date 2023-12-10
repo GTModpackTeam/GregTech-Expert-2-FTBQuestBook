@@ -11,6 +11,7 @@
 		"c530fc4e"
 	],
 	or_tasks: true,
+	min_width: 300,
 	tasks: [{
 		uid: "2ed3293e",
 		type: "item",

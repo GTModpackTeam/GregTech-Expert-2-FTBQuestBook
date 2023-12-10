@@ -13,6 +13,7 @@
 		"1064833b"
 	],
 	or_tasks: true,
+	min_width: 300,
 	tasks: [{
 		uid: "5086bcd4",
 		type: "item",

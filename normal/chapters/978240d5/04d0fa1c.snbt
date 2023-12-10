@@ -12,6 +12,7 @@
 		"ddaa6940"
 	],
 	or_tasks: true,
+	min_width: 300,
 	tasks: [{
 		uid: "f3151c6e",
 		type: "fluid",

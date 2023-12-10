@@ -5,6 +5,7 @@
 	text: [
 		""
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "a1e22813",
 		type: "item",

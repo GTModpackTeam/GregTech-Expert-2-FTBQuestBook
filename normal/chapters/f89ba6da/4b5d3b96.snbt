@@ -10,6 +10,7 @@
 		"d16bd72f",
 		"580c8a11"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "83ce2bdf",
 		type: "item",

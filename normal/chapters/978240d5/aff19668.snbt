@@ -10,6 +10,7 @@
 		"cda3a601"
 	],
 	or_tasks: true,
+	min_width: 300,
 	tasks: [{
 		uid: "f1785965",
 		type: "fluid",

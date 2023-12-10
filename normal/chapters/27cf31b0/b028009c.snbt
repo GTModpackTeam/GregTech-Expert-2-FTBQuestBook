@@ -11,6 +11,7 @@
 		"392c3314",
 		"a6e0daef"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "d778dac0",
 		type: "item",

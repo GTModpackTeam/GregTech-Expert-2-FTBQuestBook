@@ -9,7 +9,7 @@
 		"核融合炉が解禁されます。",
 		"またGregicality_Multiblocksのマルチブロックを本格的に使うのもこの時代からになるでしょう。"
 	],
-	hide: true,
+	min_width: 300,
 	tasks: [{
 		uid: "3f88d2af",
 		type: "item",

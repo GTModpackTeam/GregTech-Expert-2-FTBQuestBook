@@ -16,6 +16,7 @@
 		"2decdea1"
 	],
 	or_tasks: true,
+	min_width: 300,
 	tasks: [{
 		uid: "3eb62812",
 		type: "item",

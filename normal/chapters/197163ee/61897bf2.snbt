@@ -10,6 +10,7 @@
 		"086cf6e6"
 	],
 	dependency_requirement: "one_completed",
+	min_width: 300,
 	tasks: [{
 		uid: "9c60928f",
 		type: "item",

@@ -6,7 +6,7 @@
 	text: [
 		""
 	],
-	hide: true,
+	min_width: 300,
 	tasks: [{
 		uid: "3a736bcd",
 		type: "item",

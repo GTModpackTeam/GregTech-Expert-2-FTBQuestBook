@@ -14,6 +14,7 @@
 		"d75f02b9"
 	],
 	or_tasks: true,
+	min_width: 300,
 	tasks: [{
 		uid: "efd1be2b",
 		type: "fluid",

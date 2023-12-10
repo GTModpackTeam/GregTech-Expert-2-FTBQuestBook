@@ -1,0 +1,40 @@
+{
+	title: "ドリルで穴開けてしまった苦い経験がある",
+	x: 6.0d,
+	y: 6.0d,
+	description: "Alloy Blast Smelter",
+	text: [
+		"素材を焼き上げて合金の液体を作る設備です。",
+		"ミキサーしてからEBFするよりも時間とコストが安くなります。",
+		"使わずともUHVまでたどり着けますが、マルチブロックに使われる一部の合金はこれでしか作れません。",
+		"",
+		"焦って今すぐに作る必要はありません。",
+		"LuV突入前までに作っておくと良いでしょう。"
+	],
+	dependencies: [
+		"6735403d"
+	],
+	tasks: [{
+		uid: "ad4095bd",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2001"
+		}]
+	},
+	{
+		uid: "2696ce73",
+		type: "item",
+		items: [{
+			item: "gcym:large_multiblock_casing 1 1"
+		}],
+		count: 35L
+	},
+	{
+		uid: "a1cc4302",
+		type: "item",
+		items: [{
+			item: "gcym:unique_casing 1 3"
+		}],
+		count: 12L
+	}]
+}

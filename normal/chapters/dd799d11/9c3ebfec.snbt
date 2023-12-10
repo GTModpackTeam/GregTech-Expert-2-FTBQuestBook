@@ -27,7 +27,8 @@
 			tag: {
 				MagnetMode: 0
 			}
-		}]
+		}],
+		ignore_nbt: 1b
 	},
 	{
 		uid: "4a098e88",

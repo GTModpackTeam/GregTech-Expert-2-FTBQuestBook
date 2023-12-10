@@ -1,0 +1,20 @@
+{
+	title: "発電強化",
+	x: 0.0d,
+	y: -4.0d,
+	description: "IV Rotor Holder",
+	text: [
+		"EVの大型タービン講座に書いた通り、ローターホルダーは高いtierほど発電効率が上がります。",
+		"ローターホルダーを高いものにするデメリットはないので、どんどん強いものを使いましょう。"
+	],
+	dependencies: [
+		"4368a55d"
+	],
+	tasks: [{
+		uid: "f6b87e40",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1642"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "これでもエンチャント金リンゴまでの電圧に足りない",
+	x: 14.0d,
+	y: -2.0d,
+	description: "Infinite Voltage Control Unit",
+	text: [
+		""
+	],
+	dependencies: [
+		"0318eb1f"
+	],
+	tasks: [{
+		uid: "1d347661",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2063"
+		}]
+	}]
+}

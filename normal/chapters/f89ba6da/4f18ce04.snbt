@@ -1,0 +1,20 @@
+{
+	title: "長く付き合った相棒",
+	x: 4.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Ultimate Assembling Machine",
+	text: [
+		"いつの時代も組立機は必要です。"
+	],
+	dependencies: [
+		"27ab946d"
+	],
+	tasks: [{
+		uid: "ab9139b7",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 117"
+		}]
+	}]
+}

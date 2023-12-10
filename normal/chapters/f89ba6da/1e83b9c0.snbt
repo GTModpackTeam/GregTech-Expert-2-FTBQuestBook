@@ -1,0 +1,20 @@
+{
+	title: "だいたいの金属は白い",
+	x: 18.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "Ruthenium Trinium Americium Neutronate Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"0318eb1f"
+	],
+	tasks: [{
+		uid: "860f98b5",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 432"
+		}]
+	}]
+}

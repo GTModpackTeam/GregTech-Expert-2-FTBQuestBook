@@ -1,0 +1,12 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"be121d2f"
+	],
+	tasks: [{
+		uid: "522ca305",
+		type: "fluid",
+		fluid: "pcb_coolant"
+	}]
+}

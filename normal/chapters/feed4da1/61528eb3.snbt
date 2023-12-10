@@ -18,24 +18,24 @@
 			id: "gregtech:mining_hammer",
 			tag: {
 				DisallowContainerItem: 0b,
-				GT.Tool: {
-					Material: "steel",
-					MaxDurability: 512,
-					Durability: 0,
-					ToolSpeed: 6.0f,
-					HarvestLevel: 3,
-					AttackDamage: 4.5f,
-					AttackSpeed: -3.2f
+				GT.Behaviours: {
+					AoELayer: 0,
+					MaxAoELayer: 0,
+					TorchPlacing: 1b,
+					AoERow: 1,
+					AoEColumn: 1,
+					MaxAoERow: 1,
+					MaxAoEColumn: 1
 				},
 				HideFlags: 2,
-				GT.Behaviours: {
-					TorchPlacing: 1b,
-					MaxAoEColumn: 1,
-					MaxAoERow: 1,
-					MaxAoELayer: 0,
-					AoEColumn: 1,
-					AoERow: 1,
-					AoELayer: 0
+				GT.Tool: {
+					MaxDurability: 512,
+					ToolSpeed: 6.0f,
+					AttackDamage: 4.5f,
+					Durability: 0,
+					Material: "steel",
+					HarvestLevel: 3,
+					AttackSpeed: -3.2f
 				}
 			}
 		}],

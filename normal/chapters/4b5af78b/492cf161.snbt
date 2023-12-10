@@ -18,8 +18,9 @@
 		"ワイヤーとケーブルはデフォルトで他のワイヤーとケーブルや機械に繋がらないという仕様が追加されているので、",
 		"手動で接続できるワイヤーカッターは電気時代に入った後は必要不可欠なツールです。",
 		"",
-		"・センス",
-		"鎌のような見た目のセンスは左クリックで広範囲の作物やサトウキビを一括伐採することができます。",
+		"・鎌",
+		"左クリックで広範囲の作物やサトウキビを一括伐採+植えなおしすることができます。",
+		"武器としても優秀です。",
 		"",
 		"・肉切り包丁",
 		"肉切り包丁で敵を倒すとより多くのアイテムがドロップします。",
@@ -49,16 +50,16 @@
 		uid: "175fc78a",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolCrowbar",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolCrowbar"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftingToolCrowbar"
 				}
 			}
 		}],
@@ -68,16 +69,16 @@
 		uid: "3bf8d83b",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolWireCutter",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolWireCutter"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftingToolWireCutter"
 				}
 			}
 		}],
@@ -87,16 +88,16 @@
 		uid: "f2876961",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "toolScythe",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any toolScythe"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "toolScythe"
 				}
 			}
 		}],
@@ -106,16 +107,16 @@
 		uid: "946ce753",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolButcheryKnife",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolButcheryKnife"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftingToolButcheryKnife"
 				}
 			}
 		}],
@@ -125,16 +126,16 @@
 		uid: "2004f2ca",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolKnife",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftingToolKnife"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "craftingToolKnife"
 				}
 			}
 		}],
@@ -144,16 +145,16 @@
 		uid: "2b4b0ba7",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "toolPlunger",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any toolPlunger"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "toolPlunger"
 				}
 			}
 		}],
@@ -163,16 +164,16 @@
 		uid: "67a1e0f8",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "toolShears",
+					id: "ore"
+				}
+			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any toolShears"
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					id: "ore",
-					data: "toolShears"
 				}
 			}
 		}],

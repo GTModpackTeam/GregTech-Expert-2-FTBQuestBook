@@ -22,12 +22,12 @@
 			id: "nae2:pattern_multiplier",
 			tag: {
 				inv: {
-					Items: [],
-					Size: 36
+					Size: 36,
+					Items: []
 				},
 				upgrades: {
-					Items: [],
-					Size: 3
+					Size: 3,
+					Items: []
 				}
 			}
 		}],

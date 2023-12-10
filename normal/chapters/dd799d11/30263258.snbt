@@ -35,72 +35,72 @@
 		uid: "16166ade",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "craftGlassCable",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftGlassCable"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftGlassCable"
+				}
 			}
 		},
 		{
-			ForgeCaps: {
-				Parent: {
-					data: "craftCoveredCable",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftCoveredCable"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftCoveredCable"
+				}
 			}
 		},
 		{
-			ForgeCaps: {
-				Parent: {
-					data: "craftSmartCable",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftSmartCable"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftSmartCable"
+				}
 			}
 		},
 		{
-			ForgeCaps: {
-				Parent: {
-					data: "craftDenseCoveredCable",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftDenseCoveredCable"
 				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftDenseCoveredCable"
+				}
 			}
 		},
 		{
-			ForgeCaps: {
-				Parent: {
-					data: "craftDenseSmartCable",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any craftDenseSmartCable"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftDenseSmartCable"
 				}
 			}
 		}]

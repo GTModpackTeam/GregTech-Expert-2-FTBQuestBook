@@ -23,16 +23,16 @@
 		uid: "497591d9",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "dustChargedCertusQuartz",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any dustChargedCertusQuartz"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustChargedCertusQuartz"
 				}
 			}
 		}]
@@ -41,16 +41,16 @@
 		uid: "693a4a28",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "dustFluix",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any dustFluix"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dustFluix"
 				}
 			}
 		}]

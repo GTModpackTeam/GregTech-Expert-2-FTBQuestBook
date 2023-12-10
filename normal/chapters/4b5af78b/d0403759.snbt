@@ -23,16 +23,16 @@
 		uid: "2028a064",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "toolMiningHammer",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any toolMiningHammer"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "toolMiningHammer"
 				}
 			}
 		}],

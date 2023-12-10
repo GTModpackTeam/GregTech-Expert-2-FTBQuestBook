@@ -8,12 +8,6 @@
 		uid: "cdf8337c",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					Size: 27,
-					Items: []
-				}
-			},
 			id: "draconicevolution:draconic_staff_of_power",
 			tag: {
 				Profile_0: {
@@ -25,6 +19,12 @@
 					attackAOE: 2.0d,
 					junkNbtSens: 1b,
 					enableJunkFilter: 1b
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					Size: 27,
+					Items: []
 				}
 			}
 		}],

@@ -2,12 +2,12 @@
 	title: "< : GregOS™マニュアル_",
 	icon: {
 		id: "gregtech:meta_item_1",
+		Damage: 465s,
 		tag: {
 			terminal: {
 				_hw: {}
 			}
-		},
-		Damage: 465s
+		}
 	},
 	x: 0.0d,
 	y: -2.0d,

@@ -10,55 +10,11 @@
 		"またGregicality_Multiblocksのマルチブロックを本格的に使うのもこの時代からになるでしょう。"
 	],
 	hide: true,
-	min_width: 300,
-	or_tasks: true,
 	tasks: [{
-		uid: "9af01032",
+		uid: "3f88d2af",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_item_1 1 132"
-		}]
-	},
-	{
-		uid: "ed478135",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 177"
-		}]
-	},
-	{
-		uid: "b65df1f5",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 147"
-		}]
-	},
-	{
-		uid: "22216637",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 162"
-		}]
-	},
-	{
-		uid: "4f72adb7",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 192"
-		}]
-	},
-	{
-		uid: "cee60369",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 237"
-		}]
-	},
-	{
-		uid: "11bdd0c6",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_item_1 1 222"
+			item: "gregtech:machine 1 991"
 		}]
 	}]
 }

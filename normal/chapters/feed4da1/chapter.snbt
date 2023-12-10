@@ -1,6 +1,6 @@
 {
 	title: "Tier 1 - ULV",
-	icon: "gregtech:machine 1 1",
+	icon: "gtexpert:meta_item_1 1 11",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

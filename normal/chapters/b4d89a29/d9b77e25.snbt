@@ -20,16 +20,16 @@
 		uid: "7eb1e847",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "blockDraconium",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any blockDraconium"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockDraconium"
 				}
 			}
 		}]
@@ -38,16 +38,16 @@
 		uid: "8d09e11f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "blockAwakenedDraconium",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
 					Name: "Any blockAwakenedDraconium"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockAwakenedDraconium"
 				}
 			}
 		}]

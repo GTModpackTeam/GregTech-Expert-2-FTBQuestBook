@@ -24,8 +24,8 @@
 		"f367f19b",
 		"c681b375"
 	],
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "381d946a",
 		type: "item",

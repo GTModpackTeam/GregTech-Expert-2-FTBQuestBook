@@ -12,8 +12,8 @@
 		"ed9cdebc",
 		"63b503fb"
 	],
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "bdf980a1",
 		type: "item",

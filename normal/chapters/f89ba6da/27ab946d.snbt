@@ -10,8 +10,8 @@
 	dependencies: [
 		"c530fc4e"
 	],
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "2ed3293e",
 		type: "item",

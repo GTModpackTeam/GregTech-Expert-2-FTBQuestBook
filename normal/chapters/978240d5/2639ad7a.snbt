@@ -15,8 +15,8 @@
 		"c38047b8",
 		"cff4e141"
 	],
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "e5108b6d",
 		type: "item",

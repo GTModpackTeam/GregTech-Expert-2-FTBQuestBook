@@ -11,8 +11,8 @@
 		"cda3a601",
 		"06a87d9e"
 	],
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "2d377beb",
 		type: "fluid",

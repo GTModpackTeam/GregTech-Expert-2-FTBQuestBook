@@ -1,0 +1,21 @@
+{
+	title: "熔融金属を真空冷却機を通しても温度は下がらない",
+	x: -6.0d,
+	y: -4.0d,
+	shape: "diamond",
+	description: "Naquadah Alloy Ingot",
+	text: [
+		"ZPM電圧の基本素材です。"
+	],
+	dependencies: [
+		"78d38273",
+		"98df05b0"
+	],
+	tasks: [{
+		uid: "c103c93a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 2042"
+		}]
+	}]
+}

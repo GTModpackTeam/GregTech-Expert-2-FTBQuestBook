@@ -1,14 +1,13 @@
 {
-	x: -6.0d,
-	y: 2.0d,
-	description: "LuV Components",
+	title: "Hull:人気映画、ドラマ、アニメが見放題！",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "LuV Machine Hull",
 	text: [
-		""
-	],
-	dependencies: [
-		"b940a131",
-		"96504082",
-		"e5cb2f2e"
+		"LuV電圧へようこそ！",
+		"核融合炉が解禁されます。",
+		"またGregicality_Multiblocksのマルチブロックを本格的に使うのもこの時代からになるでしょう。"
 	],
 	hide: true,
 	min_width: 300,

@@ -1,0 +1,21 @@
+{
+	title: "砕きすぎて後悔しがち",
+	x: -4.0d,
+	y: 6.0d,
+	shape: "diamond",
+	description: "Raw Crystal Chip",
+	text: [
+		"粗クリスタルチップを鍛造機にかけると9つの疎クリスタルチップパーツになります。",
+		"砕いたものも宝石と同様にオートクレーブで増やせますのでエメラルドはあまり必要では無かったりします。"
+	],
+	dependencies: [
+		"91afae79"
+	],
+	tasks: [{
+		uid: "457c4b40",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 701"
+		}]
+	}]
+}

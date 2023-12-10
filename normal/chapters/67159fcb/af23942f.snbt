@@ -1,0 +1,19 @@
+{
+	title: "やっぱりGregicality Multiblocksの上位互換じゃないか",
+	x: 0.0d,
+	y: 2.0d,
+	description: "Advanced Processing Array",
+	text: [
+		"64個まで並列して動作できるプロセッシングアレイです。"
+	],
+	dependencies: [
+		"d75f02b9"
+	],
+	tasks: [{
+		uid: "81e83975",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1031"
+		}]
+	}]
+}

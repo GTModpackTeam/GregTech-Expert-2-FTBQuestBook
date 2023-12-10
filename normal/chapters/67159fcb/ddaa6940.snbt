@@ -1,0 +1,20 @@
+{
+	title: "ルテニウムじゃないよ",
+	x: -8.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "Lutetium",
+	text: [
+		"現時点での使い道はありません。",
+		"ニュートロニウム作成の布石となります。"
+	],
+	dependencies: [
+		"7fde413a"
+	],
+	tasks: [{
+		uid: "2ff8b68f",
+		type: "fluid",
+		fluid: "lutetium",
+		amount: 16
+	}]
+}

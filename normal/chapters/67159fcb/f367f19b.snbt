@@ -1,0 +1,21 @@
+{
+	title: "EBFには使えない",
+	x: -6.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Superconducting Coil Block",
+	text: [
+		"核融合炉の本体の材料で1つ使い、マルチブロックの構成要素で4つ使います。"
+	],
+	dependencies: [
+		"6a3c7e94",
+		"98df05b0"
+	],
+	tasks: [{
+		uid: "385f48d1",
+		type: "item",
+		items: [{
+			item: "gregtech:fusion_casing"
+		}]
+	}]
+}

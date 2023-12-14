@@ -1,6 +1,6 @@
 {
 	title: "貴金属ｘ貴金属",
-	x: -6.0d,
+	x: -2.0d,
 	y: 0.0d,
 	shape: "diamond",
 	description: "Rhodium Plated Palladium",

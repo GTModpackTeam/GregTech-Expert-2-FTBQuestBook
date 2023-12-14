@@ -1,0 +1,24 @@
+{
+	title: "このmodpackにはReal Train Modは入っていません",
+	x: 8.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "RTM Alloy Ingot",
+	text: [
+		"この合金はRuthenium、Tungsten、Molybdenumの3つの金属から成り、",
+		"それぞれの頭文字をとってRTM合金と呼ばれています。",
+		"CEu-2.8.0より4番目のコイル素材がタングステンスチールからRTM合金に変更になったため、",
+		"白金族処理機構の需要が高まりました。"
+	],
+	dependencies: [
+		"0d6c4f78",
+		"5e4ac6ff"
+	],
+	tasks: [{
+		uid: "0467b57c",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 451"
+		}]
+	}]
+}

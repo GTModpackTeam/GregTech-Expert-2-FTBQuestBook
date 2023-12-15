@@ -1,7 +1,12 @@
 {
+	title: "HullだけどEmpty",
 	x: 0.0d,
 	y: 0.0d,
-	hide: true,
+	shape: "diamond",
+	text: [
+		""
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "f8240518",
 		type: "item",

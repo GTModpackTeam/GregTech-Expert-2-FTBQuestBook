@@ -1,0 +1,21 @@
+{
+	title: "きょうだいな　もくひょうを　まえにして　ケツイがみなぎった",
+	x: 18.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "Gravi Star",
+	text: [
+		""
+	],
+	dependencies: [
+		"0318eb1f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "602edd57",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 283"
+		}]
+	}]
+}

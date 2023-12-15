@@ -1,9 +1,16 @@
 {
-	x: 2.5d,
-	y: 0.5d,
-	dependencies: [
-		"c530fc4e"
+	title: "開け口が…2つ！？",
+	x: 20.0d,
+	y: -6.0d,
+	description: "Ultimate Battery",
+	text: [
+		""
 	],
+	dependencies: [
+		"d16bd72f",
+		"580c8a11"
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "83ce2bdf",
 		type: "item",

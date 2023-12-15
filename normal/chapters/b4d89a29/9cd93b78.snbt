@@ -4,6 +4,7 @@
 	dependencies: [
 		"94ce3b0f"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "0eea54d8",
 		type: "item",
@@ -11,10 +12,10 @@
 			id: "draconicevolution:draconic_helm",
 			tag: {
 				Profile_0: {
-					armorNV: 0b,
 					armorNVLock: 0b,
+					hideArmor: 0b,
 					armorAutoFeed: 0b,
-					hideArmor: 0b
+					armorNV: 0b
 				}
 			}
 		}],
@@ -28,10 +29,10 @@
 			id: "draconicevolution:draconic_chest",
 			tag: {
 				Profile_0: {
-					armorFSpeedModifier: 0,
+					sprintBoost: 0b,
 					armorInertiaCancel: 0b,
 					armorFlightLock: 0b,
-					sprintBoost: 0b,
+					armorFSpeedModifier: 0,
 					hideArmor: 0b
 				}
 			}
@@ -46,9 +47,9 @@
 			id: "draconicevolution:draconic_legs",
 			tag: {
 				Profile_0: {
-					armorSpeedModifier: 0,
-					armorSpeedFOVWarp: 0b,
 					sprintBoost: 0b,
+					armorSpeedFOVWarp: 0b,
+					armorSpeedModifier: 0,
 					hideArmor: 0b
 				}
 			}
@@ -63,9 +64,9 @@
 			id: "draconicevolution:draconic_boots",
 			tag: {
 				Profile_0: {
+					sprintBoost: 0b,
 					armorJumpModifier: 0,
 					armorHillStep: 1b,
-					sprintBoost: 0b,
 					hideArmor: 0b
 				}
 			}

@@ -1,0 +1,23 @@
+{
+	title: "脳みその処理能力が上がります",
+	x: 6.0d,
+	y: -4.0d,
+	shape: "diamond",
+	description: "Voltage Control Unit",
+	text: [
+		"処理できるレシピの最大電圧がこれに依存します。",
+		"基本的に1段階上の回路が作れるようにならないと作成できません。",
+		"例えばZPM回路が作れるようにならない限りLuV用の電圧制御ユニットを作れません。"
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b010defd",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2059"
+		}]
+	}]
+}

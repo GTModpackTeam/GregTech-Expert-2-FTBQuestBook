@@ -1,0 +1,21 @@
+{
+	title: "おいしさイナズマ級！",
+	x: -4.0d,
+	y: 4.0d,
+	shape: "diamond",
+	description: "UHPIC",
+	text: [
+		"安くてうまい。"
+	],
+	dependencies: [
+		"955350d7"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "79c9e60a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 606"
+		}]
+	}]
+}

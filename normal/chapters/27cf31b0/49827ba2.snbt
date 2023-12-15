@@ -1,0 +1,33 @@
+{
+	title: "楽しい楽しい研究の始まり",
+	x: -10.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "Data Scanner & Data Stick",
+	text: [
+		"アセンブリラインのほとんどのレシピはスキャン済みのデータが必要です。",
+		"まずはスキャナーにアイテムとデータスティックを入れましょう。",
+		"データの入ったデータスティックが手に入るので、それをアセンブリラインのデータアクセスハッチに入れることでレシピを実行できるようになります。",
+		"",
+		"データスティックは消費されないので安心して入れっぱなしにできますが、大容量のデータアクセスハッチが手に入るまでは手動で入れ替えることになるでしょう。",
+		"§mAdvanced_Data_Access_Hatchを手に入れても手動なのは変わらない§r"
+	],
+	dependencies: [
+		"18197578"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ab9679e7",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 459"
+		}]
+	},
+	{
+		uid: "6fac4c1e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 261"
+		}]
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "コックさんが増えます",
+	x: 6.0d,
+	y: 0.0d,
+	description: "Parallel Control Hatch",
+	text: [
+		"並列制御ユニットは必須ではありませんが、マルチブロックを作る一番の動機になるとおもいます。",
+		"このブロックを組み込むことで一回で複数個の処理をできるようになります。",
+		"ただし、電力はその分消費しますので高電圧高電流のエネルギーハッチを使いましょう。"
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1a85955d",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2050"
+		}]
+	}]
+}

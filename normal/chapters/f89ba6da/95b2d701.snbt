@@ -1,0 +1,20 @@
+{
+	title: "ポンプの使い方ってコツが要るんだよね",
+	x: 22.0d,
+	y: -6.0d,
+	description: "UHV Ultimate Capacitor",
+	text: [
+		""
+	],
+	dependencies: [
+		"4b5d3b96"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d148eefb",
+		type: "item",
+		items: [{
+			item: "gregtech:battery_block 1 8"
+		}]
+	}]
+}

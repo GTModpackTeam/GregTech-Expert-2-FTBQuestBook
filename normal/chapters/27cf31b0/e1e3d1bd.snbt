@@ -1,0 +1,19 @@
+{
+	title: "Large Chemical Bath",
+	x: 8.0d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "28f5ec0a",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2008"
+		}]
+	}]
+}

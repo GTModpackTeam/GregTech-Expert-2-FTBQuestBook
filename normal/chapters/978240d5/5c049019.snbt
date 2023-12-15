@@ -1,0 +1,21 @@
+{
+	title: "核融合炉で16、EBFで1(か2)、合金高炉も1(か2)、LCRが何台あったっけ…",
+	x: -2.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "ZPM Energy Hatch",
+	text: [
+		""
+	],
+	dependencies: [
+		"2639ad7a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "cbf26c6d",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1217"
+		}]
+	}]
+}

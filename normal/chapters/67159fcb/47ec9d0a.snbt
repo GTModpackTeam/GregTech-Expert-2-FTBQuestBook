@@ -1,0 +1,20 @@
+{
+	title: "ソーラーパネル作るならこれ",
+	x: -2.0d,
+	y: 2.0d,
+	description: "Naquadah-doped Monocrystalline Silicon Boule",
+	text: [
+		""
+	],
+	dependencies: [
+		"d75f02b9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "cdbf09cf",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 363"
+		}]
+	}]
+}

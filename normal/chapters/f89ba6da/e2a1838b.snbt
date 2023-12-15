@@ -1,0 +1,21 @@
+{
+	title: "いつかUHVの機械も追加されるのだろう",
+	x: 22.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "UHV Machine Hull",
+	text: [
+		""
+	],
+	dependencies: [
+		"0318eb1f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e7a825d6",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 994"
+		}]
+	}]
+}

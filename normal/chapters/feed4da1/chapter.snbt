@@ -1,6 +1,6 @@
 {
-	title: "Tier 1 -Steam",
-	icon: "gregtech:machine 1 1",
+	title: "Tier 1 - ULV",
+	icon: "gtexpert:meta_item_1 1 11",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

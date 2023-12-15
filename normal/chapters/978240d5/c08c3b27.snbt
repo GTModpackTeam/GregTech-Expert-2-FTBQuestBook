@@ -1,0 +1,20 @@
+{
+	title: "縁の下の力持ち",
+	x: 2.0d,
+	y: -2.0d,
+	description: "ZPM Rotor Holder",
+	text: [
+		""
+	],
+	dependencies: [
+		"e2a1183f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "63f595cc",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1644"
+		}]
+	}]
+}

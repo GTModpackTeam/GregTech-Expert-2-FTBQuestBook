@@ -1,0 +1,21 @@
+{
+	title: "現実のスパコンは1000以上のCPUをネットワークで接続する",
+	x: 10.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "Network Switch",
+	text: [
+		""
+	],
+	dependencies: [
+		"141a24f3"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7018f424",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1040"
+		}]
+	}]
+}

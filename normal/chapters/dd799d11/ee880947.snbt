@@ -21,7 +21,6 @@
 		items: [{
 			id: "ae2wtlib:wut",
 			tag: {
-				InfinityEnergy: 0,
 				StoredTerminals: [{
 					id: "wit:wit",
 					Count: 1b,
@@ -42,6 +41,7 @@
 					Count: 1b,
 					Damage: 0s
 				}],
+				InfinityEnergy: 0,
 				SelectedTerminal: 0,
 				internalCurrentPower: 0.0d
 			}

@@ -1,0 +1,45 @@
+{
+	title: "新しいご友人...素敵だ...",
+	x: 12.0d,
+	y: -4.0d,
+	description: "ME Hatch / Bus",
+	text: [
+		"MEハッチやバスはAEネットワークに直接接続してアイテムや液体をやり取りできる画期的な物です。",
+		"これによりインプットやアウトプットにインターフェイスを配置する作業から開放してくれます。",
+		"",
+		"余談：このインターフェース達は元々GTNHに居たものだった。"
+	],
+	dependencies: [
+		"81a3529a"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "f63b5909",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1748"
+		}]
+	},
+	{
+		uid: "1366cf50",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1746"
+		}]
+	},
+	{
+		uid: "05236b2c",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1747"
+		}]
+	},
+	{
+		uid: "b62fb80e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1745"
+		}]
+	}]
+}

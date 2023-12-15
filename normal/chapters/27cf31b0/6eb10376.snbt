@@ -1,0 +1,19 @@
+{
+	title: "Large Oil Cracking Unit",
+	x: 10.0d,
+	y: 1.0d,
+	text: [
+		"よく見たらGTE2製"
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "14a54e65",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 12002"
+		}]
+	}]
+}

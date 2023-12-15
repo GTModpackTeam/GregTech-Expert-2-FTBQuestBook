@@ -1,0 +1,19 @@
+{
+	title: "Large Extracting Machine",
+	x: 8.0d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "886b33b9",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2010"
+		}]
+	}]
+}

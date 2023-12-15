@@ -1,0 +1,20 @@
+{
+	title: "作る価値あり",
+	x: 4.0d,
+	y: -2.0d,
+	description: "Adavanced Fluid Drilling Rig II",
+	text: [
+		""
+	],
+	dependencies: [
+		"ed9cdebc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5da5e06d",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1034"
+		}]
+	}]
+}

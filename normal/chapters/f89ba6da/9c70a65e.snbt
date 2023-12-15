@@ -1,0 +1,21 @@
+{
+	title: "ワイヤーによるロス絶対許すまじ",
+	x: 20.0d,
+	y: 2.0d,
+	shape: "diamond",
+	description: "Ruthenium Trinium Americium Neutronate Wire",
+	text: [
+		""
+	],
+	dependencies: [
+		"1e83b9c0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7c15630e",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_single 1 432"
+		}]
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	title: "楽しみは続くよどこまでも",
+	x: 22.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "UV Components2",
+	text: [
+		""
+	],
+	dependencies: [
+		"1bdee2f9"
+	],
+	min_width: 300,
+	or_tasks: true,
+	tasks: [{
+		uid: "e6534573",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 209"
+		}]
+	},
+	{
+		uid: "ee928e18",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 224"
+		}]
+	},
+	{
+		uid: "ae1220be",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 239"
+		}]
+	}]
+}

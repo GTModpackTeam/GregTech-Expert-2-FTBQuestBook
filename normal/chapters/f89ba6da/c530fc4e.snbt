@@ -1,7 +1,12 @@
 {
-	x: 0.5d,
-	y: 0.5d,
-	hide: true,
+	title: "槍斧Hullバード",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	text: [
+		""
+	],
+	min_width: 300,
 	tasks: [{
 		uid: "3a736bcd",
 		type: "item",

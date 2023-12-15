@@ -1,0 +1,20 @@
+{
+	title: "これのUHVがあってもいいよね",
+	x: 2.0d,
+	y: 2.0d,
+	description: "UV Rotor Holder",
+	text: [
+		""
+	],
+	dependencies: [
+		"c530fc4e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c2f014b5",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1645"
+		}]
+	}]
+}

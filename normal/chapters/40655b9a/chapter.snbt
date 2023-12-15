@@ -1,6 +1,6 @@
 {
-	title: "Tier 4 -HV",
-	icon: "gregtech:machine 1 1003",
+	title: "Tier 4 - HV",
+	icon: "gregtech:meta_item_1 1 129",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

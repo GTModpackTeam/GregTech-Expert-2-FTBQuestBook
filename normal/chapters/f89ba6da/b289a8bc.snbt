@@ -1,0 +1,21 @@
+{
+	title: "無限÷無限",
+	x: 16.0d,
+	y: -2.0d,
+	shape: "diamond",
+	description: "Certificate of Not Being a Noob Anymore",
+	text: [
+		"証明書の発行をしてください。"
+	],
+	dependencies: [
+		"0318eb1f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "aab444c8",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 1000"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Large Maceration Tower",
+	x: 14.0d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"f2d84ef0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "33cfb6a8",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2000"
+		}]
+	}]
+}

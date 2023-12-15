@@ -1,0 +1,50 @@
+{
+	title: "作り置きが唯一の楽しみ",
+	x: 2.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "ZPM Components1",
+	text: [
+		""
+	],
+	dependencies: [
+		"e2a1183f"
+	],
+	min_width: 300,
+	or_tasks: true,
+	tasks: [{
+		uid: "7b39c7b1",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 133"
+		}]
+	},
+	{
+		uid: "16d5a913",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 148"
+		}]
+	},
+	{
+		uid: "7c325ed2",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 163"
+		}]
+	},
+	{
+		uid: "74e12629",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 178"
+		}]
+	},
+	{
+		uid: "73d2cfd2",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 193"
+		}]
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	title: "GTE2限定マルチブロックその1",
+	x: -4.0d,
+	y: -6.0d,
+	description: "Sawmill",
+	text: [
+		"原木から木材を高速かつ最高効率で作れるようになります。",
+		"今作る必要は一切ありません。",
+		"いずれ木材が大量に必要になったときに思い出してくれれば良いです。"
+	],
+	dependencies: [
+		"4ca7718b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "bcf3aadf",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 12001"
+		}]
+	},
+	{
+		uid: "6d44e7e9",
+		type: "item",
+		items: [{
+			item: "gtexpert:gte_metal_casing"
+		}],
+		count: 15L
+	},
+	{
+		uid: "12d5c811",
+		type: "item",
+		items: [{
+			item: "gtexpert:sawmill_conveyor"
+		}],
+		count: 5L
+	}]
+}

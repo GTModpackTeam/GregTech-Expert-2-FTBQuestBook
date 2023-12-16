@@ -1,6 +1,6 @@
 {
 	title: "貴金属ｘ貴金属",
-	x: -6.0d,
+	x: -2.0d,
 	y: 0.0d,
 	shape: "diamond",
 	description: "Rhodium Plated Palladium",
@@ -15,7 +15,8 @@
 		"もし発電を大型タービンに頼っているのなら、LuVのローターホルダーがここで解禁されます。"
 	],
 	dependencies: [
-		"fa25d6bf"
+		"0d6c4f78",
+		"33845a9f"
 	],
 	min_width: 300,
 	tasks: [{

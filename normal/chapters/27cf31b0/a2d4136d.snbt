@@ -16,7 +16,8 @@
 		"イリジウムはIV時代を進めるのに必要です、なので...PGSライン全体を自動化しましょう!"
 	],
 	dependencies: [
-		"a86813e2"
+		"ccd34cab",
+		"33845a9f"
 	],
 	min_width: 300,
 	or_tasks: true,

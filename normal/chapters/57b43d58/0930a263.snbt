@@ -13,7 +13,7 @@
 		"梱包機に入れれれば錫とゴムが戻ってきます。",
 		"",
 		"余談：Gregicality-Legacyが登場するまでLVの超電導ワイヤーは存在しなかった",
-		"なのでOmnifactoryなど一部のmodpackでは独自の物を実装していた"
+		"なのでOmnifactoryなど一部のModPackでは独自の物を実装していた"
 	],
 	dependencies: [
 		"3d238ac5"

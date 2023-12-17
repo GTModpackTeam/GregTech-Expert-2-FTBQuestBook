@@ -1,6 +1,6 @@
 {
 	title: "本嫌い",
-	icon: "ftbquests:barrier",
+	icon: "FTB Quests:barrier",
 	x: 0.0d,
 	y: 4.0d,
 	shape: "square",

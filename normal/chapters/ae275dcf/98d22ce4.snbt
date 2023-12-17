@@ -1,0 +1,20 @@
+{
+	x: 0.5d,
+	y: 0.0d,
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "6ec4ff46",
+		type: "item",
+		items: [{
+			item: "gregtech:cable_double 1 115"
+		}]
+	},
+	{
+		uid: "c926714e",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_double 1 342"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "LuV時代",
+	x: -8.0d,
+	y: -9.0d,
+	shape: "square",
+	text: [
+		"この列の回路は、LuV時代に作成できます。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"eeab3460"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "cb498897",
+		type: "checkmark",
+		title: "到達したら押しましょう",
+		icon: "gregtech:machine 1 991"
+	}]
+}

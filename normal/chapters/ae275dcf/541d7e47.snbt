@@ -1,0 +1,16 @@
+{
+	title: "MVの素材",
+	x: -18.5d,
+	y: -4.5d,
+	shape: "square",
+	text: [
+		"この行のアイテムは、MV時代の素材です"
+	],
+	hide_dependency_lines: true,
+	min_width: 300,
+	tasks: [{
+		uid: "0f01f399",
+		type: "checkmark",
+		icon: "gregtech:machine_casing 1 2"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -17.0d,
+	y: -4.5d,
+	dependencies: [
+		"333b5d04"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d6ca8e3c",
+		type: "checkmark",
+		title: "MV回路 Tier 1",
+		icon: "gregtech:meta_item_1 1 622"
+	}]
+}

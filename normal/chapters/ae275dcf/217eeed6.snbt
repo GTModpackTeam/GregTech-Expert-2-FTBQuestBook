@@ -1,0 +1,20 @@
+{
+	title: "MV回路 Tier 3",
+	x: -14.0d,
+	y: -4.5d,
+	text: [
+		""
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"4b3f08d7",
+		"35112b87"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "92ad5a8d",
+		type: "checkmark",
+		title: "MV回路 Tier 2",
+		icon: "gregtech:meta_item_1 1 628"
+	}]
+}

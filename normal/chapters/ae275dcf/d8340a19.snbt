@@ -1,0 +1,12 @@
+{
+	x: 0.5d,
+	y: -4.5d,
+	min_width: 300,
+	tasks: [{
+		uid: "23e0860e",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_double 1 274"
+		}]
+	}]
+}

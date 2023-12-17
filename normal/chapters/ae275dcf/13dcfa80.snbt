@@ -1,0 +1,20 @@
+{
+	title: "HV回路の生産強化",
+	x: -8.0d,
+	y: -3.0d,
+	text: [
+		"LuV機械を用いることでより多く生産できるようになりました。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"5071d430",
+		"82284833"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e2b2a760",
+		type: "checkmark",
+		title: "HV回路のコストダウン",
+		icon: "gregtech:meta_item_1 1 632"
+	}]
+}

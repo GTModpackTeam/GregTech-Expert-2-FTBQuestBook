@@ -1,0 +1,16 @@
+{
+	title: "蒸気時代",
+	x: -17.0d,
+	y: -9.0d,
+	shape: "square",
+	text: [
+		"この列の回路は、蒸気時代からLV時代に作成できます。"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "89e2d1b7",
+		type: "checkmark",
+		title: "到達したら押しましょう",
+		icon: "gregtech:steam_casing"
+	}]
+}

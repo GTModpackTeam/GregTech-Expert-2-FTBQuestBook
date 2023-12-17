@@ -1,0 +1,15 @@
+{
+	title: "集積回路の部品たち",
+	x: -18.5d,
+	y: 8.5d,
+	text: [
+		"次の世代のシリコン単結晶では、前の世代のもので作成可能な部品を効率的に作成できます。"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1308e360",
+		type: "checkmark",
+		title: "集積回路に部品たち",
+		icon: "gregtech:meta_ingot 1 99"
+	}]
+}

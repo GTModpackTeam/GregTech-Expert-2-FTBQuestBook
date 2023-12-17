@@ -1,0 +1,14 @@
+{
+	x: -5.0d,
+	y: 6.0d,
+	dependencies: [
+		"29b56f77"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "73f41b11",
+		type: "checkmark",
+		title: "UHV回路 Tier 1",
+		icon: "gregtech:meta_item_1 1 647"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "LVの素材",
+	x: -18.5d,
+	y: -6.0d,
+	shape: "square",
+	text: [
+		"この行のアイテムは、LV時代の素材です"
+	],
+	hide_dependency_lines: true,
+	min_width: 300,
+	tasks: [{
+		uid: "13c7674f",
+		type: "checkmark",
+		icon: "gregtech:machine_casing 1 1"
+	}]
+}

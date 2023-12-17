@@ -1,0 +1,20 @@
+{
+	title: "UV時代",
+	x: -5.0d,
+	y: -9.0d,
+	shape: "square",
+	text: [
+		"この列の回路は、UV時代に作成できます。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"73c35385"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2443d301",
+		type: "checkmark",
+		title: "到達したら押しましょう",
+		icon: "gregtech:machine 1 993"
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "LuVの素材",
+	icon: "gregtech:machine_casing 1 6",
+	x: -18.5d,
+	y: 1.5d,
+	shape: "square",
+	min_width: 300,
+	text: [
+		"この行のアイテムは、LuV時代の素材です"
+	],
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "dbaf7dc1",
+		type: "checkmark",
+		icon: "gregtech:machine 1 991"
+	}]
+}

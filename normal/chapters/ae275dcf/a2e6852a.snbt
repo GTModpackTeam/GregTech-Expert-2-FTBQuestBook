@@ -1,0 +1,18 @@
+{
+	x: 2.0d,
+	y: 6.0d,
+	text: [
+		"このModPackオリジナルのコイルです。"
+	],
+	dependencies: [
+		"eae96d2b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "267f25a1",
+		type: "item",
+		items: [{
+			item: "gtexpert:gte_wire_coil"
+		}]
+	}]
+}

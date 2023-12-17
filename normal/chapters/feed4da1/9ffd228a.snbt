@@ -16,8 +16,9 @@
 		"GregTechの多くの機械は複数の成果物を出すので、アイテムフィルターは基本的にどんな場面でも使います。"
 	],
 	dependencies: [
-		"61359d11"
+		"f8f4b7b6"
 	],
+	optional: true,
 	min_width: 300,
 	tasks: [{
 		uid: "8510b5be",

@@ -25,6 +25,7 @@
 	dependencies: [
 		"58ddd38f"
 	],
+	optional: true,
 	min_width: 300,
 	tasks: [{
 		uid: "fc2395cf",

@@ -1,0 +1,24 @@
+{
+	title: "ベルトであるとは一言も書かれていない",
+	x: -7.0d,
+	y: 8.0d,
+	description: "Primitive Conveyor Module",
+	text: [
+		"コンベヤーモジュールは機械またはパイプに貼り付けるとカバーとしてアイテムを搬入出します。",
+		"また、アイテムパイプの優先度を無視して繋がった全てのコンテナに順番にアイテムを搬出する機能も備えています。",
+		"",
+		"コンベヤーモジュールにはアイテムフィルターを適用することが可能です。"
+	],
+	dependencies: [
+		"61359d11"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "6e335d58",
+		type: "item",
+		items: [{
+			item: "gtexpert:meta_item_1 1 13"
+		}]
+	}]
+}

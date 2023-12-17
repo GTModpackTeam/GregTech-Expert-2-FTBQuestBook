@@ -1,0 +1,23 @@
+{
+	title: "(ケーブルが繋がっているように見えるけど)電気がなくても動く",
+	x: -9.0d,
+	y: 6.0d,
+	description: "Primitive Pump",
+	text: [
+		"ポンプは機械またはパイプに貼り付けるとカバーとして液体を搬入出し、液体フィルターも挿入できます。",
+		"",
+		"余談：GregTech5のポンプやコンベヤーは貼り付けられた機械から電力を吸うことで稼働していた。"
+	],
+	dependencies: [
+		"61359d11"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "d0558fe8",
+		type: "item",
+		items: [{
+			item: "gtexpert:meta_item_1 1 12"
+		}]
+	}]
+}

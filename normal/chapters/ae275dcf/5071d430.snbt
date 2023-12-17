@@ -5,6 +5,7 @@
 		"6208e834"
 	],
 	or_tasks: true,
+	min_width: 300,
 	tasks: [{
 		uid: "783224b8",
 		type: "item",

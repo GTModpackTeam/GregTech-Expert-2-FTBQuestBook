@@ -6,6 +6,7 @@
 	text: [
 		"主に機械用"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "b8f4b01d",
 		type: "checkmark",

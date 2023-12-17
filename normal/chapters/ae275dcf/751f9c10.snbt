@@ -8,6 +8,7 @@
 	],
 	can_repeat: true,
 	hide_dependency_lines: true,
+	min_width: 300,
 	tasks: [{
 		uid: "13729438",
 		type: "checkmark",

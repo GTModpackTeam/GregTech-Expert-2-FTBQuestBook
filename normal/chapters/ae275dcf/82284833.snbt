@@ -10,6 +10,7 @@
 	dependencies: [
 		"eeab3460"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "cb498897",
 		type: "checkmark",

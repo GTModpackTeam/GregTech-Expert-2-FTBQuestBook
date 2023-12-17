@@ -4,6 +4,7 @@
 	text: [
 		"ZPM時代以降に作成可能な回路に要求されることがあります。"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "8699fcaf",
 		type: "item",

@@ -10,6 +10,7 @@
 		"eeab3460",
 		"9c2d5bba"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "b0d15829",
 		type: "checkmark",

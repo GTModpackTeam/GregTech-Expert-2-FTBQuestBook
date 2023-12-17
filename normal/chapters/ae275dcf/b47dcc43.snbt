@@ -4,6 +4,7 @@
 	text: [
 		"主にLuV時代に作成可能な回路に要求されます。"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "55c60ef4",
 		type: "item",

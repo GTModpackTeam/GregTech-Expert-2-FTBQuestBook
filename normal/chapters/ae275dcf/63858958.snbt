@@ -4,6 +4,7 @@
 	dependencies: [
 		"de72cb5a"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "1b42436e",
 		type: "checkmark",

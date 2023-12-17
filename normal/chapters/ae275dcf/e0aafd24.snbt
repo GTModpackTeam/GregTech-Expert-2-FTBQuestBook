@@ -7,6 +7,7 @@
 		"この行のアイテムは、UV時代の素材です"
 	],
 	hide_dependency_lines: true,
+	min_width: 300,
 	tasks: [{
 		uid: "9fa91ecf",
 		type: "checkmark",

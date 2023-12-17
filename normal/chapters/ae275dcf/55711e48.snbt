@@ -6,6 +6,7 @@
 	text: [
 		""
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "0d2a6dd4",
 		type: "checkmark",

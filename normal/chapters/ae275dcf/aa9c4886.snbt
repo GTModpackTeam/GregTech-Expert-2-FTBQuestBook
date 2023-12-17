@@ -1,6 +1,7 @@
 {
 	x: 0.5d,
 	y: -6.0d,
+	min_width: 300,
 	tasks: [{
 		uid: "23e0a21e",
 		type: "item",

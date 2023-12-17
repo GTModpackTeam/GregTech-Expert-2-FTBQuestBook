@@ -6,6 +6,7 @@
 		"0fda0ac7"
 	],
 	optional: true,
+	min_width: 300,
 	tasks: [{
 		uid: "4f71f979",
 		type: "item",

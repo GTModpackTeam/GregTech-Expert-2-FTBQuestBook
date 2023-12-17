@@ -8,6 +8,7 @@
 		"この行のアイテムは、IV時代の素材です"
 	],
 	hide_dependency_lines: true,
+	min_width: 300,
 	tasks: [{
 		uid: "49aa0b8b",
 		type: "checkmark",

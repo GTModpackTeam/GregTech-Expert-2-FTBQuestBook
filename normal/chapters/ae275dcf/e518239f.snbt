@@ -4,6 +4,7 @@
 	x: -18.5d,
 	y: 1.5d,
 	shape: "square",
+	min_width: 300,
 	text: [
 		"この行のアイテムは、LuV時代の素材です"
 	],

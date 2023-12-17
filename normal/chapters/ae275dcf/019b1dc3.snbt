@@ -6,6 +6,7 @@
 		""
 	],
 	hide_dependency_lines: true,
+	min_width: 300,
 	tasks: [{
 		uid: "6568a678",
 		type: "checkmark",

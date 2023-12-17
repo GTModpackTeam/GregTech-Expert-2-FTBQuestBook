@@ -5,6 +5,7 @@
 		"69395631"
 	],
 	or_tasks: true,
+	min_width: 300,
 	tasks: [{
 		uid: "feeabddd",
 		type: "item",

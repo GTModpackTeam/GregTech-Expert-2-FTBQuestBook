@@ -1,5 +1,5 @@
 {
-	title: "このmodpackにはReal Train Modは入っていません",
+	title: "このModPackにはReal Train Modは入っていません",
 	x: 8.0d,
 	y: 2.0d,
 	shape: "diamond",
@@ -12,6 +12,7 @@
 		"0d6c4f78",
 		"5e4ac6ff"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "0467b57c",
 		type: "item",

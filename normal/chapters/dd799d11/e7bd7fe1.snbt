@@ -53,6 +53,9 @@
 		type: "item",
 		items: [{
 			item: "appliedenergistics2:crafting_accelerator"
+		},
+		{
+			item: "nae2:coprocessor_64x"
 		}]
 	}]
 }

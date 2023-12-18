@@ -1,0 +1,12 @@
+{
+	x: -3.0d,
+	y: 4.5d,
+	min_width: 300,
+	tasks: [{
+		uid: "d66e5bfd",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 27"
+		}]
+	}]
+}

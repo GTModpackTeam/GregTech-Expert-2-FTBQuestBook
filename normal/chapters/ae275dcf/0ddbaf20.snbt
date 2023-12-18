@@ -1,0 +1,12 @@
+{
+	x: -0.5d,
+	y: 3.0d,
+	min_width: 300,
+	tasks: [{
+		uid: "11005a19",
+		type: "item",
+		items: [{
+			item: "gregtech:cable_single 1 334"
+		}]
+	}]
+}

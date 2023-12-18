@@ -1,0 +1,16 @@
+{
+	title: "EBFのコイル、どうしよう",
+	x: 2.0d,
+	y: -9.0d,
+	shape: "square",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0d2a6dd4",
+		type: "checkmark",
+		title: "各電圧で作成できるコイルです",
+		icon: "gregtech:machine 1 1001"
+	}]
+}

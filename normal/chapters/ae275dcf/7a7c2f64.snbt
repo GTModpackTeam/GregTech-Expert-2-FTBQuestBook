@@ -1,0 +1,16 @@
+{
+	title: "ULVの素材",
+	x: -18.5d,
+	y: -7.5d,
+	shape: "square",
+	text: [
+		"この行のアイテムは、ULV時代の素材です"
+	],
+	hide_dependency_lines: true,
+	min_width: 300,
+	tasks: [{
+		uid: "164981ca",
+		type: "checkmark",
+		icon: "gregtech:machine_casing"
+	}]
+}

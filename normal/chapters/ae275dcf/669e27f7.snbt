@@ -1,0 +1,16 @@
+{
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"4bb126ac"
+	],
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "7adcb605",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 115"
+		}]
+	}]
+}

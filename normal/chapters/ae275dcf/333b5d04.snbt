@@ -1,0 +1,14 @@
+{
+	x: -17.0d,
+	y: -6.0d,
+	dependencies: [
+		"019b1dc3"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b78b18dc",
+		type: "checkmark",
+		title: "LV回路 Tier 1",
+		icon: "gregtech:meta_item_1 1 621"
+	}]
+}

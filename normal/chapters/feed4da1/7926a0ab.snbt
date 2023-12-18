@@ -1,8 +1,8 @@
 {
-	title: "これがなかった時代はCircuit AssemblerにSoldering Alloyが64バケツ詰まっていた",
-	x: -0.5d,
-	y: -8.0d,
-	description: "LV Fluid Regulator",
+	title: "これがなかった時代ではCircuit AssemblerにSoldering Alloyが64バケツ詰まっていた",
+	x: -7.0d,
+	y: 6.0d,
+	description: "Primitive Fluid Regulator",
 	text: [
 		"流量制御器はロボットアームの液体版です。",
 		"ポンプとして液体を搬送できる上に二つの便利なモードを搭載しています：",
@@ -12,15 +12,15 @@
 		"余談：GregTech 5 時代と同じく流量制御器のテクスチャはポンプを左右反転にしたものである。"
 	],
 	dependencies: [
-		"0feead66"
+		"2a745f4d"
 	],
-	dependency_requirement: "one_started",
+	optional: true,
 	min_width: 300,
 	tasks: [{
-		uid: "52d62462",
+		uid: "41d26135",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_item_1 1 247"
+			item: "gtexpert:meta_item_1 1 16"
 		}]
 	}]
 }

@@ -1,0 +1,26 @@
+{
+	title: "GTCEu製ではない",
+	x: -9.0d,
+	y: 8.0d,
+	description: "Primitive Motor",
+	text: [
+		"初歩的なモーターはコンベヤーやポンプなどで要求され、様々な時代でもモーターは重要な中間素材です。",
+		"なので作り置きや複数個を纏めて作成して楽をしましょう。",
+		"§mただしこの時代では作り置きは不要です。§r",
+		"",
+		"余談：タイトルで書いてある通り、このクエストと派生のクエストで要求されているアイテムはGTCEu製ではなくGTExpert-Core製です。",
+		"またこのクエストと派生クエストはクリアは必須ではないので、飛ばしても構いません。"
+	],
+	dependencies: [
+		"f8f4b7b6"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "e463edf6",
+		type: "item",
+		items: [{
+			item: "gtexpert:meta_item_1 1 11"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "ZPM時代",
+	x: -6.5d,
+	y: -9.0d,
+	shape: "square",
+	text: [
+		"この列の回路は、ZPM時代に作成できます。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"82284833"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e2ba392b",
+		type: "checkmark",
+		title: "到達したら押しましょう",
+		icon: "gregtech:machine 1 992"
+	}]
+}

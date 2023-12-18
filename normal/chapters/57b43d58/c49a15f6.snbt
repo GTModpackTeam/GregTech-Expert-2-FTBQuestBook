@@ -1,11 +1,14 @@
 {
 	title: "その他大勢",
 	x: 1.5d,
-	y: -6.0d,
+	y: -4.0d,
 	shape: "diamond",
 	description: "LV Components",
 	text: [
-		"ピストン、エミッター、センサーはどれもLV機械を作るために必要な中間素材です。"
+		"ピストン、エミッター、センサーはどれもLV機械を作るために必要な中間素材です。",
+		"因みに空間発生器という名のアイテムも存在しますが、中間素材として要求され始めるのは実質IV時代からです。",
+		"",
+		"余談：元々はLV時代でモータやポンプなどが説明されていたがULVクエスト側に食われ、その他として纏められてしまった。"
 	],
 	dependencies: [
 		"2bef72fb"
@@ -13,21 +16,49 @@
 	dependency_requirement: "one_started",
 	min_width: 300,
 	tasks: [{
-		uid: "289f2e9b",
+		uid: "c3074de8",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 157"
+		}]
+	},
+	{
+		uid: "89e77b22",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 142"
+		}]
+	},
+	{
+		uid: "ca04c04d",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 187"
+		}]
+	},
+	{
+		uid: "f44f366e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 247"
+		}]
+	},
+	{
+		uid: "dc0952ed",
 		type: "item",
 		items: [{
 			item: "gregtech:meta_item_1 1 172"
 		}]
 	},
 	{
-		uid: "a0233de6",
+		uid: "f07bec37",
 		type: "item",
 		items: [{
 			item: "gregtech:meta_item_1 1 217"
 		}]
 	},
 	{
-		uid: "9f3da2f7",
+		uid: "605fc495",
 		type: "item",
 		items: [{
 			item: "gregtech:meta_item_1 1 232"

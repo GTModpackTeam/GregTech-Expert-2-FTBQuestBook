@@ -4,13 +4,12 @@
 	x: -0.5d,
 	y: -4.0d,
 	shape: "diamond",
-	description: "LV Electric motor",
+	description: "LV Electric Motor",
 	text: [
 		"LV電動モーターはLV時代に進むための最後の関門です。",
 		"これを6個作らないと蒸気タービンとワイヤー作製機が作れません。",
 		"",
-		"クエストでは中間素材をタスクとしてあまり要求しない傾向がありますが、",
-		"これはクエストを何度も参照する負担を減らすためです。",
+		"クエストでは中間素材をタスクとしてあまり要求しない傾向がありますが、これはクエストを何度も参照する負担を減らすためです。",
 		"中間素材を知りたい場合はJEIを参照しましょう。",
 		"",
 		"これと電子回路を作ればLV時代に入ることができます。",
@@ -24,14 +23,6 @@
 	min_width: 300,
 	or_tasks: true,
 	tasks: [{
-		uid: "b4d4644e",
-		type: "item",
-		items: [{
-			item: "gregtech:meta_stick 1 395"
-		}],
-		count: 6L
-	},
-	{
 		uid: "5ace26c0",
 		type: "item",
 		items: [{

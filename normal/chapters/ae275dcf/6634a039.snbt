@@ -1,0 +1,16 @@
+{
+	title: "夢の超伝導",
+	x: 3.5d,
+	y: -9.0d,
+	shape: "hexagon",
+	text: [
+		"各時代のロスレスワイヤーたち"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "6672fce4",
+		type: "checkmark",
+		icon: "gregtech:machine 1 620"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -8.0d,
+	y: 0.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"b47dcc43",
+		"7f377250"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "88db319f",
+		type: "checkmark",
+		title: "IV回路 Tier 4",
+		icon: "gregtech:meta_item_1 1 640"
+	}]
+}

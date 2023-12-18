@@ -1,7 +1,7 @@
 {
 	title: "Super Chest I未満",
-	x: -9.0d,
-	y: 8.0d,
+	x: -11.0d,
+	y: 10.0d,
 	description: "Hyper Storage Box",
 	text: [
 		"Hyper_Storage_BoxはStorage_Coreの容量を320,000増加させます。"

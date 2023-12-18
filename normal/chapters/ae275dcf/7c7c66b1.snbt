@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: 0.0d,
+	text: [
+		"ZPM機械を用いることでより多く生産できるようになりました。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"ab848eb8",
+		"73c35385"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "36de3fbd",
+		type: "checkmark",
+		title: "IV回路の生産強化",
+		icon: "gregtech:meta_item_1 1 640"
+	}]
+}

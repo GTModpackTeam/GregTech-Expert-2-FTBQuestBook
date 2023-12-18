@@ -1,0 +1,20 @@
+{
+	x: -0.5d,
+	y: -7.5d,
+	or_tasks: true,
+	min_width: 300,
+	tasks: [{
+		uid: "e9036c81",
+		type: "item",
+		items: [{
+			item: "gregtech:cable_single 1 2517"
+		}]
+	},
+	{
+		uid: "fc6e448c",
+		type: "item",
+		items: [{
+			item: "gregtech:cable_single 1 55"
+		}]
+	}]
+}

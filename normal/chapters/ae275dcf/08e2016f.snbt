@@ -1,0 +1,15 @@
+{
+	x: -9.5d,
+	y: -10.5d,
+	text: [
+		"主にIV時代に作成可能な回路に要求されます。"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "06d10b1f",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 405"
+		}]
+	}]
+}

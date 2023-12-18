@@ -1,0 +1,37 @@
+{
+	title: "居ないと違和感",
+	x: -7.0d,
+	y: 10.0d,
+	description: "LV Components",
+	text: [
+		"ピストン、エミッター、センサーはこの時代では要らない子ですが、居ないのも変なので追加された。",
+		"",
+		"ただしその他の時代では機械作成に利用されるようになります。"
+	],
+	dependencies: [
+		"61359d11"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "fbc2d83d",
+		type: "item",
+		items: [{
+			item: "gtexpert:meta_item_1 1 14"
+		}]
+	},
+	{
+		uid: "c315d905",
+		type: "item",
+		items: [{
+			item: "gtexpert:meta_item_1 1 18"
+		}]
+	},
+	{
+		uid: "7eec7978",
+		type: "item",
+		items: [{
+			item: "gtexpert:meta_item_1 1 19"
+		}]
+	}]
+}

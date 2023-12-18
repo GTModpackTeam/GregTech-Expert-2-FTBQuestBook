@@ -1,14 +1,11 @@
 {
 	title: "インサータ？",
-	x: -4.5d,
-	y: -6.0d,
-	shape: "diamond",
-	description: "Robot Arm",
+	x: -5.0d,
+	y: 8.0d,
+	description: "Primitive Robot Arm",
 	text: [
-		"LVロボットアームはコンベヤーモジュールの上位互換のカバーです。",
-		"Supply_Exactモードでアイテムを特定の数まとめて送ったり、",
-		"Keep_Exactモードで隣の機械のアイテムの在庫を一定に保てます。",
-		"(カバーと呼ばれるアイテム群の詳細な使い方は隣のクエストで説明されています。)",
+		"ロボットアームはコンベヤーモジュールの上位互換のカバーです。",
+		"Supply_Exactモードでアイテムを特定の数まとめて搬入したり、Keep_Exactモードでアイテムの在庫を一定に保てます。",
 		"",
 		"ロボットアームが持つ様々な機能は、ロボットアームが直接アイテムを搬送したときだけ機能します。",
 		"つまりロボットアーム以外の搬出器がロボットアームを経由してアイテムを搬送した場合は何も起こりません。",
@@ -17,15 +14,15 @@
 		"GTCEはそれらを全てロボットアームとフィルターというカバーに置換して省スペース化した"
 	],
 	dependencies: [
-		"2bef72fb"
+		"61359d11"
 	],
-	dependency_requirement: "one_started",
+	optional: true,
 	min_width: 300,
 	tasks: [{
-		uid: "bb97e672",
+		uid: "b84d5e9a",
 		type: "item",
 		items: [{
-			item: "gregtech:meta_item_1 1 187"
+			item: "gtexpert:meta_item_1 1 15"
 		}]
 	}]
 }

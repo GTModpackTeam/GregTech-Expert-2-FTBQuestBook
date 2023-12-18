@@ -1,7 +1,7 @@
 {
 	title: "16k ME Storage Cell未満",
-	x: -11.0d,
-	y: 8.0d,
+	x: -13.0d,
+	y: 10.0d,
 	description: "Ultra Storage Box",
 	text: [
 		"Ultra_Storage_BoxはStorage_Coreの容量を80,000増加させます。"

@@ -4,7 +4,8 @@
 	y: -4.0d,
 	description: "Rotary Hearth Furnace",
 	text: [
-		""
+		"並列に動作できるEBFです。",
+		"スチールなどの大量に焼く必要がある金属の処理に使いましょう。"
 	],
 	dependencies: [
 		"d16bd72f"

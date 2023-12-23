@@ -5,7 +5,7 @@
 	description: "Large Plasma Turbine",
 	text: [
 		"ついにプラズマ発電ができるようになります。",
-		"タービンローターの説明はHVにあるので省略します。"
+		"タービンローターの説明はEVにあるので省略します。"
 	],
 	dependencies: [
 		"da5898c6"

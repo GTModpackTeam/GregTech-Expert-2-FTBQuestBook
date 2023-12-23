@@ -1,0 +1,21 @@
+{
+	title: "満を持して登場",
+	x: -8.0d,
+	y: -4.0d,
+	description: "Advanced Chemical Plant",
+	text: [
+		"並列版のLCRがついにGTExpert Coreで実装されました。",
+		"爆発的に化学反応を加速しましょう。"
+	],
+	dependencies: [
+		"6a3c7e94"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "72ef6844",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 12006"
+		}]
+	}]
+}

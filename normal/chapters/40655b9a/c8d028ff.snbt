@@ -1,7 +1,7 @@
 {
 	title: "太陽の温度までまだ遠い",
-	x: 10.0d,
-	y: 4.0d,
+	x: 8.0d,
+	y: 2.0d,
 	shape: "diamond",
 	description: "Nichrome Coil Block",
 	text: [
@@ -13,7 +13,7 @@
 		"余談：GregTech5ではコイルは3種類しかなく、これが最後のコイルであった。"
 	],
 	dependencies: [
-		"2f9dcb81"
+		"8db0249b"
 	],
 	min_width: 300,
 	tasks: [{

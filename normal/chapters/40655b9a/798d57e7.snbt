@@ -2,6 +2,7 @@
 	title: "Sull - 9000",
 	x: 0.0d,
 	y: 0.0d,
+	shape: "diamond",
 	description: "HV Machine Hull",
 	text: [
 		"電力供給が許すのなら、HV機械は普段のオンデマンドの材料加工に最適です。",

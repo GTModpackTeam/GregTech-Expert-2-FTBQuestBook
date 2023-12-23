@@ -4,7 +4,10 @@
 	y: -6.0d,
 	description: "Void Ore Miner",
 	text: [
-		""
+		"投入した鉱石を倍増させる機械です。",
+		"意外にも消費電力は小さいのでガンガン使いましょう。",
+		"",
+		"よく見るとGTExpert Core製。"
 	],
 	dependencies: [
 		"d16bd72f"

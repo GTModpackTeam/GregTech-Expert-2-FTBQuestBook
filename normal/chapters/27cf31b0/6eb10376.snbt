@@ -3,7 +3,7 @@
 	x: 10.0d,
 	y: 1.0d,
 	text: [
-		"よく見たらGTE2製"
+		"よく見たらGTExpert Core製"
 	],
 	dependencies: [
 		"f2d84ef0"

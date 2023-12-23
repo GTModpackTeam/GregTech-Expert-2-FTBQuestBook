@@ -1,7 +1,7 @@
 {
 	title: "これを筐体に使ったところで雨で爆発するのは変わりなかった",
-	x: 6.0d,
-	y: -4.0d,
+	x: 8.0d,
+	y: -2.0d,
 	shape: "diamond",
 	description: "Stainless Steel",
 	text: [

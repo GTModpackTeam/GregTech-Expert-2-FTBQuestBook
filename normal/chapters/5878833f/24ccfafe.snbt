@@ -1,0 +1,52 @@
+{
+	title: "やーい！ お前んち、おっばけやーしきー！",
+	icon: "gregtech:meta_ingot 1 288",
+	x: 8.0d,
+	y: -4.0d,
+	shape: "diamond",
+	description: "Kanthal Ingot",
+	text: [
+		"上位のコイルブロックを作るためにカンタルインゴットを作成しましょう。",
+		"",
+		"熱いインゴットは持ってると§l本当に熱い§rので化学槽をできるだけ近くに置くか、輸送の自動化することをお勧めします。",
+		"§mけっして離席中のプレイヤーに投げつけてはいけない§r",
+		"",
+		"アプデ民向け：一部の熱いインゴットは化学槽と水で冷却することができるようになりました。",
+		"現状はカンタルとシリコンだけが冷却可能です。",
+		"真空冷却の方のレシピに変更はありません。"
+	],
+	dependencies: [
+		"d5c11215",
+		"dc6100c2"
+	],
+	min_width: 300,
+	or_tasks: true,
+	tasks: [{
+		uid: "b9df4f2a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 288"
+		}]
+	},
+	{
+		uid: "b77845e3",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot_hot 1 288"
+		}]
+	},
+	{
+		uid: "da50e5f5",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 201"
+		}]
+	},
+	{
+		uid: "db8cfd3e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 288"
+		}]
+	}]
+}

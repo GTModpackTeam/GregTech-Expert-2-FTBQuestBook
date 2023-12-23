@@ -1,7 +1,7 @@
 {
 	title: "なんか熱くなってきた",
-	x: 8.0d,
-	y: 4.0d,
+	x: 10.0d,
+	y: -4.0d,
 	shape: "diamond",
 	description: "Kanthal Coil Block",
 	text: [
@@ -15,7 +15,7 @@
 		"工業用電気炉が頑張っている間に他のタスクをこなしてしまいましょう。"
 	],
 	dependencies: [
-		"8db0249b"
+		"24ccfafe"
 	],
 	min_width: 300,
 	tasks: [{

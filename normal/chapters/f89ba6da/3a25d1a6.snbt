@@ -4,7 +4,7 @@
 	y: -2.0d,
 	description: "Bulk Blast Chiller",
 	text: [
-		""
+		"並列に動作できる真空冷却機です。"
 	],
 	dependencies: [
 		"d16bd72f"

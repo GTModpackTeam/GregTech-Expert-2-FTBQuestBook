@@ -1,7 +1,7 @@
 {
 	title: "チーズシリコン",
-	x: 10.0d,
-	y: 6.0d,
+	x: 0.0d,
+	y: -8.0d,
 	shape: "diamond",
 	description: "Phosphorus-doped Monocrystalline Silicon Boule",
 	text: [
@@ -13,7 +13,7 @@
 		"余談：ドーピングは人為的に不純物を半導体に入れてその性質を変える作業のことを指す"
 	],
 	dependencies: [
-		"2f9dcb81"
+		"bfdb6d9e"
 	],
 	min_width: 300,
 	tasks: [{

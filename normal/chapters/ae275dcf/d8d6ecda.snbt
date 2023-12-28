@@ -1,7 +1,12 @@
 {
+	title: "あれ？[Optional]じゃないの？",
 	x: 3.5d,
 	y: -7.5d,
 	shape: "hexagon",
+	description: "1x Red Alloy Cable",
+	text: [
+		"ごめんなさい。作成必須の素材です。"
+	],
 	min_width: 300,
 	tasks: [{
 		uid: "9af1d720",

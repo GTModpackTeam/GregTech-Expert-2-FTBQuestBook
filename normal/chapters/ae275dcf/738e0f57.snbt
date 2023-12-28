@@ -1,11 +1,15 @@
 {
+	title: "避けられない道",
 	x: 3.5d,
 	y: 1.5d,
 	shape: "hexagon",
+	description: "1x Indium Tin Barium Titanium Cuprate Wire",
+	text: [
+		"核融合炉Mkak 1の素材です。"
+	],
 	dependencies: [
 		"d25dee51"
 	],
-	optional: true,
 	min_width: 300,
 	tasks: [{
 		uid: "8d9dda3a",

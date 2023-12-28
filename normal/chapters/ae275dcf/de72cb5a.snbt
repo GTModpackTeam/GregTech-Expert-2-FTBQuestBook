@@ -1,6 +1,10 @@
 {
 	x: -6.5d,
 	y: 1.5d,
+	description: "Wetware Processor",
+	text: [
+		""
+	],
 	hide_dependency_lines: true,
 	dependencies: [
 		"84f013ed",

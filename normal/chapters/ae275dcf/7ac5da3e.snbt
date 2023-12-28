@@ -1,6 +1,10 @@
 {
 	x: -8.0d,
 	y: 0.0d,
+	description: "Crystal Processor",
+	text: [
+		""
+	],
 	hide_dependency_lines: true,
 	dependencies: [
 		"b47dcc43",

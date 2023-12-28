@@ -2,6 +2,7 @@
 	title: "LV回路の生産強化",
 	x: -11.0d,
 	y: -6.0d,
+	description: "Microprocessor",
 	text: [
 		"EV機械を用いることでより多く生産できるようになりました。"
 	],

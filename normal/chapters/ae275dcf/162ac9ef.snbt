@@ -1,6 +1,10 @@
 {
 	x: -15.5d,
 	y: -3.0d,
+	description: "Advanced Integrated Circuit",
+	text: [
+		""
+	],
 	dependencies: [
 		"d4a33298"
 	],

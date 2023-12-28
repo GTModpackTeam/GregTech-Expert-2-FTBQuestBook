@@ -1,7 +1,10 @@
 {
 	x: -14.0d,
 	y: -1.5d,
-	description: "クリーンルームの用意はできましたか？",
+	description: "Workstation",
+	text: [
+		"クリーンルームの用意はできましたか？"
+	],
 	dependencies: [
 		"aa0ed183"
 	],

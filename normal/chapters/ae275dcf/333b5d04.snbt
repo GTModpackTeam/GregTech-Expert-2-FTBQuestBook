@@ -1,6 +1,10 @@
 {
 	x: -17.0d,
 	y: -6.0d,
+	description: "Electronic Circuit",
+	text: [
+		""
+	],
 	dependencies: [
 		"019b1dc3"
 	],

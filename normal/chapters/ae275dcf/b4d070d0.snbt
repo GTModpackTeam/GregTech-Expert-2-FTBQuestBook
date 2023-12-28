@@ -1,6 +1,10 @@
 {
 	x: -9.5d,
 	y: -1.5d,
+	description: "Quantumprocessor",
+	text: [
+		""
+	],
 	hide_dependency_lines: true,
 	dependencies: [
 		"42c6adbf",

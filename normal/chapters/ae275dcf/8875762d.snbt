@@ -2,6 +2,7 @@
 	icon: "gregtech:meta_item_1 1 644",
 	x: -5.0d,
 	y: 1.5d,
+	description: "Wetware Processor",
 	text: [
 		"UV機械を用いることでより多く生産できるようになりました。"
 	],

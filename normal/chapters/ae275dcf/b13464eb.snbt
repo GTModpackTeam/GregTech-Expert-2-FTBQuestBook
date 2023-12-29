@@ -3,10 +3,10 @@
 	y: 1.5d,
 	min_width: 300,
 	tasks: [{
-		uid: "41eef168",
+		uid: "4a31ac64",
 		type: "item",
 		items: [{
-			item: "gregtech:cable_single 1 295"
+			item: "gregtech:cable_single 1 296"
 		}]
 	}]
 }

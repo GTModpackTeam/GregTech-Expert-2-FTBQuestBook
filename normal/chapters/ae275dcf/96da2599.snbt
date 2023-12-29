@@ -1,6 +1,10 @@
 {
 	x: -12.5d,
 	y: 0.0d,
+	description: "Mainframe",
+	text: [
+		""
+	],
 	dependencies: [
 		"52be37be"
 	],

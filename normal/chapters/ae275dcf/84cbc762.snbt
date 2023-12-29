@@ -1,6 +1,10 @@
 {
 	x: -11.0d,
 	y: 1.5d,
+	description: "Nanoprocessor Mainframe",
+	text: [
+		""
+	],
 	dependencies: [
 		"0266a168"
 	],

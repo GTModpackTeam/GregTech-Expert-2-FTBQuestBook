@@ -1,6 +1,7 @@
 {
 	x: -6.5d,
 	y: -1.5d,
+	description: "Quantumprocessor",
 	text: [
 		"ZPM機械を用いることでより多く生産できるようになりました。"
 	],

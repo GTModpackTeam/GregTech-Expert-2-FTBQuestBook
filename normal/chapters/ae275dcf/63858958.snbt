@@ -1,6 +1,10 @@
 {
 	x: -6.5d,
 	y: 3.0d,
+	description: "Wetware Assembly",
+	text: [
+		""
+	],
 	dependencies: [
 		"de72cb5a"
 	],

@@ -2,6 +2,7 @@
 	title: "HV回路の生産強化",
 	x: -8.0d,
 	y: -3.0d,
+	description: "Nanoprocessor",
 	text: [
 		"LuV機械を用いることでより多く生産できるようになりました。"
 	],

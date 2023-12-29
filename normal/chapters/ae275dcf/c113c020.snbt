@@ -1,6 +1,10 @@
 {
 	x: -11.0d,
 	y: -3.0d,
+	description: "Nanoprocessor",
+	text: [
+		""
+	],
 	hide_dependency_lines: true,
 	dependencies: [
 		"0098e5e4",

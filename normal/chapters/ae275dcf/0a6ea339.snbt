@@ -1,6 +1,10 @@
 {
 	x: -9.5d,
 	y: 1.5d,
+	description: "Quantum Supercomputer",
+	text: [
+		""
+	],
 	dependencies: [
 		"06633230"
 	],

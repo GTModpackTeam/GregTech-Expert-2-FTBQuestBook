@@ -1,6 +1,10 @@
 {
 	x: -8.0d,
 	y: 1.5d,
+	description: "Crystal Processor Assembly",
+	text: [
+		""
+	],
 	dependencies: [
 		"7ac5da3e"
 	],

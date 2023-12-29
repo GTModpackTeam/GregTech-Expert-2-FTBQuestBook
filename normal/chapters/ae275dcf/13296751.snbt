@@ -1,6 +1,10 @@
 {
 	x: -17.0d,
 	y: -4.5d,
+	description: "Good Electronic Circuit",
+	text: [
+		""
+	],
 	dependencies: [
 		"333b5d04"
 	],

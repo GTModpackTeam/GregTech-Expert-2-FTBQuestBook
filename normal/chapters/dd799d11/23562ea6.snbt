@@ -26,7 +26,6 @@
 	],
 	dependencies: [
 		"1979af9f",
-		"b19db4db",
 		"09d2eb6d"
 	],
 	min_width: 300,

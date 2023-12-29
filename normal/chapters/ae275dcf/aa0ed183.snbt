@@ -1,6 +1,10 @@
 {
 	x: -14.0d,
 	y: -3.0d,
+	description: "Processor Assembly",
+	text: [
+		""
+	],
 	dependencies: [
 		"217eeed6"
 	],

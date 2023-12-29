@@ -1,6 +1,7 @@
 {
 	x: -6.5d,
 	y: 0.0d,
+	description: "Crystal Processor",
 	text: [
 		"ZPM機械を用いることでより多く生産できるようになりました。"
 	],

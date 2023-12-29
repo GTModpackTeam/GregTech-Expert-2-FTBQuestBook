@@ -2,6 +2,7 @@
 	title: "ULV回路 Tier 1",
 	x: -17.0d,
 	y: -7.5d,
+	description: "Vacuum Tube",
 	text: [
 		""
 	],

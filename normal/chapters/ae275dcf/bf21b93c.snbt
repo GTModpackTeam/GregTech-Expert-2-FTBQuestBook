@@ -1,6 +1,10 @@
 {
 	x: -14.0d,
 	y: -7.5d,
+	description: "NAND Chip",
+	text: [
+		""
+	],
 	hide_dependency_lines: true,
 	dependencies: [
 		"bc23c4ab",

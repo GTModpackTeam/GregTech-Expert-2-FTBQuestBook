@@ -2,6 +2,10 @@
 	icon: "gregtech:meta_item_1 1 643",
 	x: -8.0d,
 	y: 4.5d,
+	description: "Crystal Processor Mainframe",
+	text: [
+		""
+	],
 	dependencies: [
 		"ef646e86"
 	],

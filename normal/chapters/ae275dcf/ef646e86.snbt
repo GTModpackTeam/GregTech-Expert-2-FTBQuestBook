@@ -1,6 +1,10 @@
 {
 	x: -8.0d,
 	y: 3.0d,
+	description: "Crystal Supercomputer",
+	text: [
+		""
+	],
 	dependencies: [
 		"4f26bb50"
 	],

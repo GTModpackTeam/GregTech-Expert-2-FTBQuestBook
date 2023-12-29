@@ -1,6 +1,11 @@
 {
 	x: -5.0d,
 	y: 6.0d,
+	description: "Wetware Mainframe",
+	text: [
+		"今のところの最後の回路です。",
+		"お疲れ様でした。"
+	],
 	dependencies: [
 		"29b56f77"
 	],

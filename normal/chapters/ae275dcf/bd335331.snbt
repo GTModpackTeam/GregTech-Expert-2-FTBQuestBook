@@ -2,6 +2,7 @@
 	title: "MV回路の生産強化",
 	x: -9.5d,
 	y: -4.5d,
+	description: "Integrated Processor",
 	text: [
 		"IV機械を用いることでより多く生産できるようになりました。"
 	],

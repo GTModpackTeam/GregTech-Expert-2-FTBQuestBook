@@ -1,11 +1,15 @@
 {
+	title: "LuVロスレスがMark 1の素材ならねぇ",
 	x: 3.5d,
 	y: 3.0d,
 	shape: "hexagon",
+	description: "1x Uranium Rhodium Dinaquadide Wire",
+	text: [
+		"お察しの通り、核融合炉Mkak 2の素材です。"
+	],
 	dependencies: [
 		"74f14ca8"
 	],
-	optional: true,
 	min_width: 300,
 	tasks: [{
 		uid: "a317dd92",

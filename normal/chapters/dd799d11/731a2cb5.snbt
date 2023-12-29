@@ -7,9 +7,11 @@
 	text: [
 		"第二の中間素材である4種類の金型を作っていきましょう。",
 		"",
-		"金型は隕石からではなくレーザー刻印機から入手できます。",
+		"§m金型は隕石からではなくレーザー刻印機から入手できます。",
 		"レンズには先ほど作ったクリスタルを使いましょう。",
-		"100秒*4かかるので面倒かもしれませんが、プログラム回路と同様一度作れば二度と作らなくていいです。"
+		"100秒*4かかるので面倒かもしれませんが、プログラム回路と同様一度作れば二度と作らなくていいです。§r",
+		"",
+		"余談：元々はレーザー刻印機から入手でしたが、GTExpert-Coreの追加要素でGTE2 v2.6.4からMoldに切り替わりました。"
 	],
 	dependencies: [
 		"bfdb6d9e",
@@ -18,31 +20,31 @@
 	min_width: 300,
 	or_tasks: true,
 	tasks: [{
-		uid: "6d72f2ed",
+		uid: "2090eab4",
 		type: "item",
 		items: [{
-			item: "appliedenergistics2:material 1 13"
+			item: "gtexpert:meta_item_1 1 101"
 		}]
 	},
 	{
-		uid: "b9fbb59f",
+		uid: "20798422",
 		type: "item",
 		items: [{
-			item: "appliedenergistics2:material 1 14"
+			item: "gtexpert:meta_item_1 1 102"
 		}]
 	},
 	{
-		uid: "3403bcfb",
+		uid: "b1628684",
 		type: "item",
 		items: [{
-			item: "appliedenergistics2:material 1 15"
+			item: "gtexpert:meta_item_1 1 103"
 		}]
 	},
 	{
-		uid: "45294c78",
+		uid: "e257cfab",
 		type: "item",
 		items: [{
-			item: "appliedenergistics2:material 1 19"
+			item: "gtexpert:meta_item_1 1 104"
 		}]
 	}]
 }

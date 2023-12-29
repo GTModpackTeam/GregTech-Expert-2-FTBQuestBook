@@ -4,8 +4,8 @@
 	dependencies: [
 		"35112b87"
 	],
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "df28e93e",
 		type: "item",

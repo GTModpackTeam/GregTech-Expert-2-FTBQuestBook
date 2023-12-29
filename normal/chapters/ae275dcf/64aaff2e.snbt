@@ -4,8 +4,8 @@
 	dependencies: [
 		"69395631"
 	],
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "feeabddd",
 		type: "item",

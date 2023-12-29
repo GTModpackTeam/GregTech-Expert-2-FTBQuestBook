@@ -1,8 +1,8 @@
 {
 	x: -0.5d,
 	y: -7.5d,
-	or_tasks: true,
 	min_width: 300,
+	or_tasks: true,
 	tasks: [{
 		uid: "e9036c81",
 		type: "item",

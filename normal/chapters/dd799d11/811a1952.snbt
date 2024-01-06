@@ -2,9 +2,11 @@
 	title: "橙レンジャー",
 	x: 20.0d,
 	y: 0.0d,
-	description: "Wireless Pattern Terminal",
+	description: "Wireless Pattern Terminal / Wireless Fluid Pattern Terminal",
 	text: [
-		"無線パターンターミナルはパターンターミナルのワイヤレス版です。"
+		"無線パターンターミナルはパターンターミナルのワイヤレス版です。",
+		"",
+		"余談：Wireless Fluid Pattern TerminalはAE2 Fluid Crafting Reworkで新たに追加されたツールです。"
 	],
 	dependencies: [
 		"f49e45c9"
@@ -13,9 +15,13 @@
 	min_width: 300,
 	or_tasks: true,
 	tasks: [{
-		uid: "7d1aa9c4",
+		uid: "116d6e76",
 		type: "item",
 		items: [{
+			id: "appliedenergistics2:wireless_pattern_terminal",
+			tag: {}
+		},
+		{
 			id: "wpt:wpt",
 			tag: {
 				InfinityEnergy: 0
@@ -25,10 +31,10 @@
 		ignore_nbt: 1b
 	},
 	{
-		uid: "116d6e76",
+		uid: "5d3d26a3",
 		type: "item",
 		items: [{
-			id: "appliedenergistics2:wireless_pattern_terminal",
+			id: "ae2fc:wireless_fluid_pattern_terminal",
 			tag: {}
 		}],
 		ignore_damage: true,

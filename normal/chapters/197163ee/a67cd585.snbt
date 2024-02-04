@@ -1,4 +1,5 @@
 {
+	title: "Tier 3",
 	x: 0.0d,
 	y: 12.0d,
 	text: [
@@ -11,6 +12,6 @@
 	tasks: [{
 		uid: "a6ada2c8",
 		type: "checkmark",
-		title: "Tier 3"
+		title: "達成したら押しましょう"
 	}]
 }

@@ -1,5 +1,6 @@
 {
 	title: "MV回路の生産強化",
+	icon: "gregtech:meta_item_1 1 628",
 	x: -9.5d,
 	y: -4.5d,
 	description: "Integrated Processor",
@@ -15,6 +16,6 @@
 	tasks: [{
 		uid: "b0d15829",
 		type: "checkmark",
-		icon: "gregtech:meta_item_1 1 628"
+		title: "達成したら押しましょう"
 	}]
 }

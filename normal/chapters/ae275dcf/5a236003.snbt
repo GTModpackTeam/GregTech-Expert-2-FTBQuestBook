@@ -1,4 +1,6 @@
 {
+	title: "EV回路の生産強化",
+	icon: "gregtech:meta_item_1 1 636",
 	x: -6.5d,
 	y: -1.5d,
 	description: "Quantumprocessor",
@@ -14,7 +16,6 @@
 	tasks: [{
 		uid: "c91a7809",
 		type: "checkmark",
-		title: "EV回路の生産強化",
-		icon: "gregtech:meta_item_1 1 636"
+		title: "達成したら押しましょう"
 	}]
 }

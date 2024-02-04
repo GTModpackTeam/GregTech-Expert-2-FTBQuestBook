@@ -1,4 +1,6 @@
 {
+	title: "IV回路 Tier 1",
+	icon: "gregtech:meta_item_1 1 631",
 	x: -12.5d,
 	y: 0.0d,
 	description: "Mainframe",
@@ -12,7 +14,6 @@
 	tasks: [{
 		uid: "acf771a4",
 		type: "checkmark",
-		title: "IV回路 Tier 1",
-		icon: "gregtech:meta_item_1 1 631"
+		title: "達成したら押しましょう"
 	}]
 }

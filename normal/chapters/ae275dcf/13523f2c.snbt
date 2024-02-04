@@ -1,4 +1,5 @@
 {
+	title: "ZPM回路 Tier 1",
 	icon: "gregtech:meta_item_1 1 639",
 	x: -9.5d,
 	y: 3.0d,
@@ -13,6 +14,6 @@
 	tasks: [{
 		uid: "17d89344",
 		type: "checkmark",
-		title: "ZPM回路 Tier 1"
+		title: "達成したら押しましょう"
 	}]
 }

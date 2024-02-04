@@ -1,5 +1,6 @@
 {
 	title: "ZPM時代",
+	icon: "gregtech:machine 1 992",
 	x: -6.5d,
 	y: -9.0d,
 	shape: "square",
@@ -14,7 +15,6 @@
 	tasks: [{
 		uid: "e2ba392b",
 		type: "checkmark",
-		title: "到達したら押しましょう",
-		icon: "gregtech:machine 1 992"
+		title: "達成したら押しましょう"
 	}]
 }

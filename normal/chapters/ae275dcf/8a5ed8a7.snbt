@@ -1,5 +1,6 @@
 {
 	title: "集積回路の部品たち",
+	icon: "gregtech:meta_ingot 1 99",
 	x: -18.5d,
 	y: 8.5d,
 	text: [
@@ -9,7 +10,6 @@
 	tasks: [{
 		uid: "1308e360",
 		type: "checkmark",
-		title: "集積回路に部品たち",
-		icon: "gregtech:meta_ingot 1 99"
+		title: "達成したら押しましょう"
 	}]
 }

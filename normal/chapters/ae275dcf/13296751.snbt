@@ -1,4 +1,6 @@
 {
+	title: "MV回路 Tier 1",
+	icon: "gregtech:meta_item_1 1 622",
 	x: -17.0d,
 	y: -4.5d,
 	description: "Good Electronic Circuit",
@@ -12,7 +14,6 @@
 	tasks: [{
 		uid: "d6ca8e3c",
 		type: "checkmark",
-		title: "MV回路 Tier 1",
-		icon: "gregtech:meta_item_1 1 622"
+		title: "達成したら押しましょう"
 	}]
 }

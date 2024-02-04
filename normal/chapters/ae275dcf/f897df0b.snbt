@@ -1,5 +1,6 @@
 {
 	title: "EVの素材",
+	icon: "gregtech:machine 1 989",
 	x: -18.5d,
 	y: -1.5d,
 	shape: "square",
@@ -11,6 +12,6 @@
 	tasks: [{
 		uid: "7e85533f",
 		type: "checkmark",
-		icon: "gregtech:machine 1 989"
+		title: "達成したら押しましょう"
 	}]
 }

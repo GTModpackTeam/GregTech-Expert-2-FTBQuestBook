@@ -1,4 +1,6 @@
 {
+	title: "ZPM回路 Tier 3",
+	icon: "gregtech:meta_item_1 1 645",
 	x: -6.5d,
 	y: 3.0d,
 	description: "Wetware Assembly",
@@ -12,7 +14,6 @@
 	tasks: [{
 		uid: "1b42436e",
 		type: "checkmark",
-		title: "ZPM回路 Tier 3",
-		icon: "gregtech:meta_item_1 1 645"
+		title: "達成したら押しましょう"
 	}]
 }

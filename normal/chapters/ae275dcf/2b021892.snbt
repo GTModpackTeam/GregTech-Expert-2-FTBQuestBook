@@ -1,5 +1,6 @@
 {
 	title: "各電圧の素材たち",
+	icon: "minecraft:iron_ingot",
 	x: -3.0d,
 	y: -9.0d,
 	shape: "square",
@@ -10,6 +11,6 @@
 	tasks: [{
 		uid: "f4172a43",
 		type: "checkmark",
-		icon: "minecraft:iron_ingot"
+		title: "達成したら押しましょう"
 	}]
 }

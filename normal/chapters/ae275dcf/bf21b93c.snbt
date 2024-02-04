@@ -1,4 +1,6 @@
 {
+	title: "ULV回路 Tier 2",
+	icon: "gregtech:meta_item_1 1 626",
 	x: -14.0d,
 	y: -7.5d,
 	description: "NAND Chip",
@@ -14,7 +16,6 @@
 	tasks: [{
 		uid: "5af54eb9",
 		type: "checkmark",
-		title: "ULV回路 Tier 2",
-		icon: "gregtech:meta_item_1 1 626"
+		title: "達成したら押しましょう"
 	}]
 }

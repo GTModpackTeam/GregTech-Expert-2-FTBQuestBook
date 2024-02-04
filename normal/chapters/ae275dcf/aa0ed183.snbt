@@ -1,4 +1,6 @@
 {
+	title: "HV回路 Tier 2",
+	icon: "gregtech:meta_item_1 1 629",
 	x: -14.0d,
 	y: -3.0d,
 	description: "Processor Assembly",
@@ -12,7 +14,6 @@
 	tasks: [{
 		uid: "671d69df",
 		type: "checkmark",
-		title: "HV回路 Tier 2",
-		icon: "gregtech:meta_item_1 1 629"
+		title: "達成したら押しましょう"
 	}]
 }

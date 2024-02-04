@@ -15,7 +15,6 @@
 	tasks: [{
 		uid: "6b8964aa",
 		type: "checkmark",
-		title: "到達したら押しましょう",
-		icon: "gregtech:machine 1 988"
+		title: "達成したら押しましょう"
 	}]
 }

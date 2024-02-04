@@ -1,5 +1,6 @@
 {
 	title: "夢の超伝導",
+	icon: "gregtech:machine 1 620",
 	x: 3.5d,
 	y: -9.0d,
 	shape: "hexagon",
@@ -11,6 +12,6 @@
 	tasks: [{
 		uid: "6672fce4",
 		type: "checkmark",
-		icon: "gregtech:machine 1 620"
+		title: "達成したら押しましょう"
 	}]
 }

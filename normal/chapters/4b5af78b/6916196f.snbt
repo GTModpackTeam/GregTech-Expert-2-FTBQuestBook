@@ -64,6 +64,6 @@
 	tasks: [{
 		uid: "5b63183a",
 		type: "checkmark",
-		title: "読んだら押してください"
+		title: "読んだら押しましょう"
 	}]
 }

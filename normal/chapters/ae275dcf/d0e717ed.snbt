@@ -1,4 +1,6 @@
 {
+	title: "UHV回路 Tier 1",
+	icon: "gregtech:meta_item_1 1 647",
 	x: -5.0d,
 	y: 6.0d,
 	description: "Wetware Mainframe",
@@ -13,7 +15,6 @@
 	tasks: [{
 		uid: "73f41b11",
 		type: "checkmark",
-		title: "UHV回路 Tier 1",
-		icon: "gregtech:meta_item_1 1 647"
+		title: "達成したら押しましょう"
 	}]
 }

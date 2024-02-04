@@ -1,4 +1,6 @@
 {
+	title: "IV回路の生産強化",
+	icon: "gregtech:meta_item_1 1 640",
 	x: -6.5d,
 	y: 0.0d,
 	description: "Crystal Processor",
@@ -14,7 +16,6 @@
 	tasks: [{
 		uid: "36de3fbd",
 		type: "checkmark",
-		title: "IV回路の生産強化",
-		icon: "gregtech:meta_item_1 1 640"
+		title: "達成したら押しましょう"
 	}]
 }

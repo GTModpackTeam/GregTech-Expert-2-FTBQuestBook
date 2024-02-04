@@ -1,5 +1,6 @@
 {
 	title: "ULV回路 Tier 1",
+	icon: "gregtech:meta_item_1 1 516",
 	x: -17.0d,
 	y: -7.5d,
 	description: "Vacuum Tube",
@@ -11,6 +12,6 @@
 	tasks: [{
 		uid: "6568a678",
 		type: "checkmark",
-		icon: "gregtech:meta_item_1 1 516"
+		title: "達成したら押しましょう"
 	}]
 }

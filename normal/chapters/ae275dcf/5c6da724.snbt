@@ -1,5 +1,6 @@
 {
 	title: "LV回路の生産強化",
+	icon: "gregtech:meta_item_1 1 627",
 	x: -11.0d,
 	y: -6.0d,
 	description: "Microprocessor",
@@ -15,7 +16,6 @@
 	tasks: [{
 		uid: "83f6ee6a",
 		type: "checkmark",
-		title: "LV回路のコストダウン",
-		icon: "gregtech:meta_item_1 1 627"
+		title: "達成したら押しましょう"
 	}]
 }

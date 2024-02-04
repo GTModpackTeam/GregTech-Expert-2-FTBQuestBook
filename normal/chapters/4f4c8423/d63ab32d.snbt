@@ -1,0 +1,21 @@
+{
+	title: "組立機無双はまだまだ続く",
+	x: 11.5d,
+	y: 11.0d,
+	description: "Raw Koobideh Kebab",
+	text: [
+		""
+	],
+	dependencies: [
+		"88a1c001",
+		"219c0652"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5d06e9df",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 136"
+		}]
+	}]
+}

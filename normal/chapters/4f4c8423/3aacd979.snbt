@@ -1,0 +1,20 @@
+{
+	title: "熟成",
+	x: 11.5d,
+	y: 18.5d,
+	description: "Fully Cured Gorgonzola Wheel",
+	text: [
+		""
+	],
+	dependencies: [
+		"476c35e1"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0a546ee9",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 113"
+		}]
+	}]
+}

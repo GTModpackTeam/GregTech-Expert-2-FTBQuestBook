@@ -1,0 +1,42 @@
+{
+	title: "レンジでチン！",
+	x: -2.5d,
+	y: -2.0d,
+	description: "Microwave",
+	text: [
+		"この機械でしか作れないレシピは脅威の3レシピしか存在しません。",
+		"余談:この機械はCEや5uではかまどと同じ性能しか持たなかったため、作る必要は0だった。"
+	],
+	dependencies: [
+		"3664deb4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a71a9ae6",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 8531"
+		},
+		{
+			item: "gregtech:machine 1 8532"
+		},
+		{
+			item: "gregtech:machine 1 8533"
+		},
+		{
+			item: "gregtech:machine 1 8534"
+		},
+		{
+			item: "gregtech:machine 1 8535"
+		},
+		{
+			item: "gregtech:machine 1 8536"
+		},
+		{
+			item: "gregtech:machine 1 8537"
+		},
+		{
+			item: "gregtech:machine 1 8538"
+		}]
+	}]
+}

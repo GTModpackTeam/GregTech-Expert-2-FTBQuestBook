@@ -1,0 +1,42 @@
+{
+	title: "これ一つで十分?",
+	x: -1.0d,
+	y: -2.0d,
+	description: "Cuisine Assenbler",
+	text: [
+		"GTFOでの調理には基本的にこの組立機が必要です。",
+		"残念ながらマルチブロック版機械は存在しません。"
+	],
+	dependencies: [
+		"3664deb4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "41f8e56c",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 8518"
+		},
+		{
+			item: "gregtech:machine 1 8519"
+		},
+		{
+			item: "gregtech:machine 1 8520"
+		},
+		{
+			item: "gregtech:machine 1 8521"
+		},
+		{
+			item: "gregtech:machine 1 8522"
+		},
+		{
+			item: "gregtech:machine 1 8523"
+		},
+		{
+			item: "gregtech:machine 1 8524"
+		},
+		{
+			item: "gregtech:machine 1 8525"
+		}]
+	}]
+}

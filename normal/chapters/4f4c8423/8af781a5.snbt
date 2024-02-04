@@ -1,0 +1,17 @@
+{
+	title: "破裂コーン袋",
+	x: 6.0d,
+	y: -29.5d,
+	description: "Popcorn Bag",
+	dependencies: [
+		"7c8eab7e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "cb7e6b60",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item"
+		}]
+	}]
+}

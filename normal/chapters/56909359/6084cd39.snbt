@@ -1,0 +1,23 @@
+{
+	title: "使い道はそこそこある",
+	x: 5.5d,
+	y: -5.0d,
+	description: "Mushroom",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "51b424e6",
+		type: "item",
+		items: [{
+			item: "minecraft:brown_mushroom"
+		},
+		{
+			item: "minecraft:red_mushroom"
+		}]
+	}]
+}

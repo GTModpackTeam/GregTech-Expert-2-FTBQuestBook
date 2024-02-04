@@ -1,0 +1,19 @@
+{
+	title: "油は色んな物から作れるけど、何が違うのかよくわからない",
+	x: -3.0d,
+	y: -1.0d,
+	description: "Raw Soybean Oil",
+	text: [
+		""
+	],
+	dependencies: [
+		"d71aea8d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a485b4ee",
+		type: "fluid",
+		fluid: "gtfo_raw_soybean_oil",
+		amount: 25
+	}]
+}

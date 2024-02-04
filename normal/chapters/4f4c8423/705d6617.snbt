@@ -1,0 +1,19 @@
+{
+	title: "ばったばたー",
+	x: -3.0d,
+	y: 3.5d,
+	description: "Butter",
+	text: [
+		""
+	],
+	dependencies: [
+		"b98f8ad8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "eeb54f8c",
+		type: "fluid",
+		fluid: "gtfo_butter",
+		amount: 900
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "卵白です",
+	x: 0.0d,
+	y: 6.5d,
+	description: "Albumen",
+	text: [
+		""
+	],
+	dependencies: [
+		"5745be04"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "885c5d27",
+		type: "fluid",
+		fluid: "gtfo_albumen"
+	}]
+}

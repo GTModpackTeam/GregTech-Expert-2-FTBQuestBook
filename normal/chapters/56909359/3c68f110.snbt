@@ -1,0 +1,17 @@
+{
+	title: "ポピーはケシ科",
+	x: -3.0d,
+	y: 9.0d,
+	description: "Poppy",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "da13fd97",
+		type: "item",
+		items: [{
+			item: "minecraft:red_flower"
+		}]
+	}]
+}

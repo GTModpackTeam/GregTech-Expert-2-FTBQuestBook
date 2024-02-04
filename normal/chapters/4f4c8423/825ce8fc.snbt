@@ -1,0 +1,19 @@
+{
+	title: "食べ物-その他",
+	x: 0.0d,
+	y: -28.0d,
+	shape: "octagon",
+	description: "とれたて",
+	text: [
+		"上部:ササッと加工",
+		"下部:食材そのままいただきます。"
+	],
+	size: 2.0d,
+	min_width: 300,
+	tasks: [{
+		uid: "533773be",
+		type: "checkmark",
+		title: "食べ物-その他",
+		icon: "minecraft:golden_apple 1 1"
+	}]
+}

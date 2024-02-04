@@ -1,0 +1,21 @@
+{
+	title: "今ホットな商品(物理)",
+	x: -9.0d,
+	y: 5.0d,
+	description: "Hot Mushroom Stew",
+	text: [
+		""
+	],
+	dependencies: [
+		"816c6c8a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "27a03367",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 131"
+		}],
+		ignore_nbt: 1b
+	}]
+}

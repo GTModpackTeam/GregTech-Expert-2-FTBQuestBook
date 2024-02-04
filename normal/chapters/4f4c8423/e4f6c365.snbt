@@ -1,0 +1,20 @@
+{
+	title: "ローストカカオ",
+	x: 16.0d,
+	y: 6.5d,
+	description: "Roasted Cocoa Beans",
+	text: [
+		""
+	],
+	dependencies: [
+		"b7f055a0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0f087e1f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 197"
+		}]
+	}]
+}

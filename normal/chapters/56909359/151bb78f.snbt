@@ -1,0 +1,19 @@
+{
+	title: "爽やか液",
+	x: -10.5d,
+	y: 9.0d,
+	description: "Lime Extract",
+	text: [
+		""
+	],
+	dependencies: [
+		"68cb9a7c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "09a2d735",
+		type: "fluid",
+		fluid: "gtfo_lime_extract",
+		amount: 100
+	}]
+}

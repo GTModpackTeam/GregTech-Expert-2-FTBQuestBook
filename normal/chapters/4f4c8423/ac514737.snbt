@@ -1,0 +1,20 @@
+{
+	title: "オーガニックなケバブ",
+	x: -9.0d,
+	y: 15.5d,
+	description: "Grilled Carrots Kebab",
+	text: [
+		""
+	],
+	dependencies: [
+		"d14d9e66"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d4aef451",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 154"
+		}]
+	}]
+}

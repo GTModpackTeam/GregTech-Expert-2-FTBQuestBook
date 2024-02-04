@@ -1,0 +1,20 @@
+{
+	title: "Ban Bin Bun Ben Bon",
+	x: 8.5d,
+	y: -11.5d,
+	description: "Bun",
+	text: [
+		""
+	],
+	dependencies: [
+		"c2169cb0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b967a0f4",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 87"
+		}]
+	}]
+}

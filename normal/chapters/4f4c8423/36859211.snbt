@@ -1,0 +1,21 @@
+{
+	title: "( ᐛ)ﾊﾞﾅﾅ",
+	x: -9.0d,
+	y: -14.5d,
+	description: "Banana Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"c0523eee",
+		"94752891"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "230976d3",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 167"
+		}]
+	}]
+}

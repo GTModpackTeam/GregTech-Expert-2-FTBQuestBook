@@ -1,0 +1,20 @@
+{
+	title: "チョコ酒",
+	x: 14.5d,
+	y: 9.5d,
+	description: "Chocolate Liquor",
+	text: [
+		""
+	],
+	dependencies: [
+		"d009ac04"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "eff9b53c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1037"
+		}]
+	}]
+}

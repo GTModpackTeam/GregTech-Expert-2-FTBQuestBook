@@ -1,0 +1,15 @@
+{
+	title: "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.",
+	x: -3.0d,
+	y: 9.5d,
+	description: "Italian Buffalo's Milk",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c779cc7f",
+		type: "fluid",
+		fluid: "gtfo_italian_buffalo_milk"
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "実はアイスにしか使わない",
+	x: 7.5d,
+	y: 5.0d,
+	description: "Soybean",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d71aea8d",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 161"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 160"
+		}]
+	}]
+}

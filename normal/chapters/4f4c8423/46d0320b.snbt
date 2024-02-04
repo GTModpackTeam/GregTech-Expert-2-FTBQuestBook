@@ -1,0 +1,20 @@
+{
+	title: "やきひき",
+	x: 5.0d,
+	y: 8.0d,
+	description: "Cooked Mince Meat",
+	text: [
+		""
+	],
+	dependencies: [
+		"d4940b72"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "592cdac4",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1129"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "それBoule切ってたCutting Machineじゃない?",
+	x: 11.5d,
+	y: 2.0d,
+	description: "Hard Candy Sheet",
+	text: [
+		""
+	],
+	dependencies: [
+		"74d56c99"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5720069b",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1099"
+		}]
+	}]
+}

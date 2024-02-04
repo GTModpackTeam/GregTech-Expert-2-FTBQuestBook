@@ -1,0 +1,24 @@
+{
+	title: "理想の朝食",
+	x: 10.0d,
+	y: 12.5d,
+	description: "Full Breakfast",
+	text: [
+		""
+	],
+	dependencies: [
+		"c4e9d289",
+		"7a7de7fc",
+		"6305f08f",
+		"5b575585",
+		"b5070143"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1b42e1ac",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 214"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "透過.png",
+	x: 13.0d,
+	y: 14.0d,
+	description: "Gelatin",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5cccbeb8",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 196"
+		}]
+	}]
+}

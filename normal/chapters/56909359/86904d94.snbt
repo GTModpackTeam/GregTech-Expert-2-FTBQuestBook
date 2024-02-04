@@ -1,0 +1,23 @@
+{
+	title: "オイシイヨ～",
+	x: 0.0d,
+	y: 3.0d,
+	description: "Purple Drink",
+	text: [
+		"とても衰弱します。なんででしょう?",
+		"",
+		"ちなみに麻薬及び向精神薬取締法によるとコデインの量が1%を超過するとドラッグとなるようですね。(別表第一七十六 イ)"
+	],
+	dependencies: [
+		"aa690497",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6ac76a21",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 93"
+		}]
+	}]
+}

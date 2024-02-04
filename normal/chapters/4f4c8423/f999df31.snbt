@@ -1,0 +1,19 @@
+{
+	title: "トマトのソース",
+	x: 4.5d,
+	y: -16.0d,
+	description: "Tomato Sauce",
+	text: [
+		""
+	],
+	dependencies: [
+		"219c0652"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7a452f3e",
+		type: "fluid",
+		fluid: "gtfo_tomato_sauce",
+		amount: 100
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "なんで40本なんだろう",
+	x: -6.0d,
+	y: -4.0d,
+	description: "Fried Potato Strip",
+	text: [
+		""
+	],
+	dependencies: [
+		"989d2f5c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "27b386ef",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 35"
+		}]
+	}]
+}

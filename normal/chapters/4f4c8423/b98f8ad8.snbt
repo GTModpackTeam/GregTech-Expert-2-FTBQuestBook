@@ -1,0 +1,15 @@
+{
+	title: "この後ナクアダを入れられるなんて誰も想像していなかったのである",
+	x: -3.0d,
+	y: 2.0d,
+	description: "Milk",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7022c907",
+		type: "fluid",
+		fluid: "milk"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "2種のお菓子が集まった最強の姿",
+	x: -9.0d,
+	y: -4.0d,
+	description: "Potato Chip Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"b2e85334",
+		"94752891"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8d7113f7",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 174"
+		}]
+	}]
+}

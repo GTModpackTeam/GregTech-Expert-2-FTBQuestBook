@@ -1,0 +1,23 @@
+{
+	title: "スモアの始まり",
+	x: -12.0d,
+	y: 3.5d,
+	description: "Graham Cracker Dough",
+	text: [
+		""
+	],
+	dependencies: [
+		"79905e70",
+		"705d6617",
+		"d2e2bc27",
+		"b98f8ad8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0eeaee31",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1045"
+		}]
+	}]
+}

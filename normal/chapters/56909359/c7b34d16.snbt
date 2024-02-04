@@ -1,0 +1,19 @@
+{
+	title: "GregTech FoodOption!",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "diamond",
+	description: "最高の食事をあなたに",
+	text: [
+		"これはGregTechCEuのアドオン、「GregTech FoodOption」のすべての食料をまとめたクエストになります。",
+		"もしも「絶対に作らねぇ！」という方がいましたら、コマンドを打つか、クリエイティブチェストを使ってJEIから取り出しましょう。",
+		"クエストは一部説明が必要と判断したもの以外はタイトル、サブタイトルのみ設定しています。"
+	],
+	size: 2.0d,
+	min_width: 300,
+	tasks: [{
+		uid: "fd935241",
+		type: "checkmark",
+		title: "GregTech FoodOption!"
+	}]
+}

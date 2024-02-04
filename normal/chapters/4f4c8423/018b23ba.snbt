@@ -1,0 +1,21 @@
+{
+	title: "子供のころめっちゃ好きだったやつ",
+	x: -9.0d,
+	y: 4.0d,
+	description: "Chocolate Coin",
+	text: [
+		""
+	],
+	dependencies: [
+		"7022c907",
+		"897dee70"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "31713a22",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10"
+		}]
+	}]
+}

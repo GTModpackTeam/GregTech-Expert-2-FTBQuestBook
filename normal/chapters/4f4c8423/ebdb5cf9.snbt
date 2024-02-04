@@ -1,0 +1,20 @@
+{
+	title: "ピザに乗せる用なので食べられません(謎)",
+	x: -7.5d,
+	y: 11.0d,
+	description: "Mozzarella Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"94d779b8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a588db67",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 94"
+		}]
+	}]
+}

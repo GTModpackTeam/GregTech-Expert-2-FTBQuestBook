@@ -1,0 +1,42 @@
+{
+	title: "焼き鳥から無限に鶏ガラを取れる",
+	x: -1.0d,
+	y: -3.5d,
+	description: "Multicooker",
+	text: [
+		"この機械は主に液体を扱う料理を作成する機械です。",
+		"モーター1つと非常に低コストで作成できます"
+	],
+	dependencies: [
+		"3664deb4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c331347e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 8566"
+		},
+		{
+			item: "gregtech:machine 1 8567"
+		},
+		{
+			item: "gregtech:machine 1 8568"
+		},
+		{
+			item: "gregtech:machine 1 8569"
+		},
+		{
+			item: "gregtech:machine 1 8570"
+		},
+		{
+			item: "gregtech:machine 1 8571"
+		},
+		{
+			item: "gregtech:machine 1 8572"
+		},
+		{
+			item: "gregtech:machine 1 8573"
+		}]
+	}]
+}

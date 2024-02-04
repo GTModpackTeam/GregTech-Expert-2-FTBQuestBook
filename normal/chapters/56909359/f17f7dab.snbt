@@ -1,0 +1,19 @@
+{
+	title: "酸味+爽やか+炭酸 = スプライト",
+	x: -12.0d,
+	y: 6.0d,
+	description: "Lemon-Lime Soda Syrup",
+	text: [
+		""
+	],
+	dependencies: [
+		"e3639ef1"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "efbdb9e8",
+		type: "fluid",
+		fluid: "gtfo_lemon_lime_soda_syrup",
+		amount: 500
+	}]
+}

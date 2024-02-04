@@ -1,0 +1,20 @@
+{
+	title: "どこで炒ってるねん",
+	x: 10.0d,
+	y: 14.0d,
+	description: "Baked Beans",
+	text: [
+		""
+	],
+	dependencies: [
+		"97193e5d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "de0bef50",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 217"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "貧乳はステータスだ！希少価値だ！",
+	x: 3.0d,
+	y: -16.0d,
+	description: "Flat Dough",
+	text: [
+		""
+	],
+	dependencies: [
+		"5af08276"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "9e70af54",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 99"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "Unbanked Bread",
+	x: 4.5d,
+	y: -7.0d,
+	description: "Unbaked Bread",
+	text: [
+		""
+	],
+	dependencies: [
+		"5af08276"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "610422f4",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 47"
+		}]
+	}]
+}

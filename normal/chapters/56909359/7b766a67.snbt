@@ -1,0 +1,21 @@
+{
+	title: "未知の液体",
+	x: -1.5d,
+	y: 3.0d,
+	description: "Nilk",
+	text: [
+		""
+	],
+	dependencies: [
+		"920a4ed9",
+		"512cf917"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "102d6159",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 226"
+		}]
+	}]
+}

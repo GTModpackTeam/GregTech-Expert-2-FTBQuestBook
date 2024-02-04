@@ -1,0 +1,21 @@
+{
+	title: "英語でも日本語でもないのはわからん",
+	x: -10.5d,
+	y: 21.5d,
+	description: "Carciofi alla Romana",
+	text: [
+		""
+	],
+	dependencies: [
+		"5697438b",
+		"d2365baf"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fb4e5b87",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 275"
+		}]
+	}]
+}

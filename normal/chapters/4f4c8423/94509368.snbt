@@ -1,0 +1,23 @@
+{
+	title: "パスタのノルマ",
+	x: -9.0d,
+	y: 26.0d,
+	description: "Pasta alla Norma",
+	text: [
+		""
+	],
+	dependencies: [
+		"37bade7a",
+		"79da78a0",
+		"7a452f3e",
+		"d7a5e489"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6c34c61c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 279"
+		}]
+	}]
+}

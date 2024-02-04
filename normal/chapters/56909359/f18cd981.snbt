@@ -1,0 +1,19 @@
+{
+	title: "五輪ジュース",
+	x: -7.5d,
+	y: 4.5d,
+	description: "Apple Juice",
+	text: [
+		""
+	],
+	dependencies: [
+		"7255cbae"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "24e8b694",
+		type: "fluid",
+		fluid: "gtfo_apple_extract",
+		amount: 100
+	}]
+}

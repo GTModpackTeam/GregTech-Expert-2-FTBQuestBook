@@ -1,0 +1,21 @@
+{
+	title: "カップ (笑)",
+	x: -16.5d,
+	y: 4.5d,
+	description: "Empty Cup",
+	text: [
+		""
+	],
+	dependencies: [
+		"f566d59b",
+		"79d5f843"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "db809927",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 199"
+		}]
+	}]
+}

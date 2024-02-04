@@ -1,0 +1,20 @@
+{
+	title: "マルチブロックを使おう",
+	x: -10.5d,
+	y: 6.5d,
+	description: "タングステン鋼リンゴ",
+	text: [
+		""
+	],
+	dependencies: [
+		"0bdcc044"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6a253da2",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 54"
+		}]
+	}]
+}

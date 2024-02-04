@@ -1,0 +1,20 @@
+{
+	title: "スモア Tier2",
+	x: -10.5d,
+	y: 2.0d,
+	description: "MoreS'more DoubleS'mingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"1e721cbf"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "517f1cdc",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 193"
+		}]
+	}]
+}

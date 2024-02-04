@@ -1,0 +1,21 @@
+{
+	title: "飲料用白ワイン",
+	x: -4.5d,
+	y: 3.0d,
+	description: "White Wine",
+	text: [
+		""
+	],
+	dependencies: [
+		"d6cd622b",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ff3d4572",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 319"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "飲料用赤ワイン",
+	x: -6.0d,
+	y: 3.0d,
+	description: "Red Wine",
+	text: [
+		""
+	],
+	dependencies: [
+		"05574047",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d48e0c9e",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 324"
+		}]
+	}]
+}

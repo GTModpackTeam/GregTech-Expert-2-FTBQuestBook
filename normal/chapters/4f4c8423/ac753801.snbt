@@ -1,0 +1,20 @@
+{
+	title: "ビーコン",
+	x: -9.0d,
+	y: 0.5d,
+	description: "Bacon",
+	text: [
+		""
+	],
+	dependencies: [
+		"26bab609"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7a7de7fc",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 22"
+		}]
+	}]
+}

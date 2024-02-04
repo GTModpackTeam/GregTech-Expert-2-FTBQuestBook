@@ -1,0 +1,19 @@
+{
+	title: "Coffffeeee",
+	x: -15.0d,
+	y: 4.5d,
+	description: "Energizing Coffee",
+	text: [
+		""
+	],
+	dependencies: [
+		"0343f09c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "278b8e8c",
+		type: "fluid",
+		fluid: "gtfo_energized_coffee",
+		amount: 100
+	}]
+}

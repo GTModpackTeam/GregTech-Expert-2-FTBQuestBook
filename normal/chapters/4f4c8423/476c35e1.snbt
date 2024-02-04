@@ -1,0 +1,20 @@
+{
+	title: "せめて化学反応させてあげようよ",
+	x: 14.5d,
+	y: 18.5d,
+	description: "Slightly Aged Gorgonzola Wheel",
+	text: [
+		""
+	],
+	dependencies: [
+		"0461050c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "69cc5af1",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 111"
+		}]
+	}]
+}

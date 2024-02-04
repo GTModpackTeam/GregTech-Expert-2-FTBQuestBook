@@ -1,0 +1,22 @@
+{
+	title: "トマト要素どこ?",
+	x: 6.0d,
+	y: -17.5d,
+	description: "Raw Cheese Pizza",
+	text: [
+		""
+	],
+	dependencies: [
+		"f999df31",
+		"a588db67",
+		"bfbf14d8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4113751a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 59"
+		}]
+	}]
+}

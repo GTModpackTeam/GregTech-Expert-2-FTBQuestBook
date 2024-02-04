@@ -1,0 +1,22 @@
+{
+	title: "バニラよりキノコの使用量少ないんだが",
+	x: -9.0d,
+	y: 6.5d,
+	description: "Mushroom Stew",
+	text: [
+		""
+	],
+	dependencies: [
+		"6c985540"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "effa37e8",
+		type: "item",
+		items: [{
+			item: "minecraft:mushroom_stew"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

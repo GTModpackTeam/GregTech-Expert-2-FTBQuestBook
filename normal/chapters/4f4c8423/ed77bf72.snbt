@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -20.5d,
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6bed199a",
+		type: "item",
+		items: [{
+			item: "minecraft:rabbit"
+		}]
+	}]
+}

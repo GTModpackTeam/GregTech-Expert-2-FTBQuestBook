@@ -1,0 +1,21 @@
+{
+	title: "Reinforcedな肉",
+	x: 3.5d,
+	y: 9.5d,
+	description: "Toughened Meat",
+	text: [
+		""
+	],
+	dependencies: [
+		"18f7e197",
+		"d4940b72"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "30a4cf21",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1116"
+		}]
+	}]
+}

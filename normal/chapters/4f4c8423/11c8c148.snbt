@@ -1,0 +1,20 @@
+{
+	title: "切りんご",
+	x: -6.0d,
+	y: -32.5d,
+	description: "Apple Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c5322522",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 152"
+		}]
+	}]
+}

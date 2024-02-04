@@ -1,0 +1,17 @@
+{
+	title: "ココアカカオ",
+	x: 16.0d,
+	y: 5.0d,
+	description: "Cocoa Beans",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "744d80d0",
+		type: "item",
+		items: [{
+			item: "minecraft:dye 1 3"
+		}]
+	}]
+}

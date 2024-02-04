@@ -1,0 +1,20 @@
+{
+	title: "Mashed Potato Pickaxe : 1/1 Durability",
+	x: 3.5d,
+	y: 6.5d,
+	description: "Mashed Potato",
+	text: [
+		""
+	],
+	dependencies: [
+		"f354264c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4eae7544",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1115"
+		}]
+	}]
+}

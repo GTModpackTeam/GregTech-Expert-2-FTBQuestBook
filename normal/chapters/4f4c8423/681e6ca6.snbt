@@ -1,0 +1,20 @@
+{
+	title: "ポテチ①",
+	x: -9.0d,
+	y: -8.5d,
+	description: "Bag O' Chips",
+	text: [
+		""
+	],
+	dependencies: [
+		"b2e85334"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1df00956",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 39"
+		}]
+	}]
+}

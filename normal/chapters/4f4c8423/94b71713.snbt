@@ -1,0 +1,20 @@
+{
+	title: "北海道のソウルフードらしい",
+	x: -1.5d,
+	y: -32.5d,
+	description: "Cooked Rabbit",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "df75633d",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_mutton"
+		}]
+	}]
+}

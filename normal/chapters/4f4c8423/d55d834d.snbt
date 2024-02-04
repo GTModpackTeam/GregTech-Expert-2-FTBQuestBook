@@ -1,0 +1,19 @@
+{
+	title: "すっごい甘そう",
+	x: 13.0d,
+	y: 17.0d,
+	description: "Sweetened Diluted Cane Syrup Mixture",
+	text: [
+		""
+	],
+	dependencies: [
+		"0773760f",
+		"79905e70"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4b6d2644",
+		type: "fluid",
+		fluid: "gtfo_sweetened_diluted_cane_syrup_mixture"
+	}]
+}

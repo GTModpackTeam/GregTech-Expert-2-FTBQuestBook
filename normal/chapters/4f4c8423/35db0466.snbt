@@ -1,0 +1,21 @@
+{
+	title: "ゲーミングアイスクリーム",
+	x: -10.5d,
+	y: 20.0d,
+	description: "Rainbow Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"94752891",
+		"0aa57dfe"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "85378e79",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 225"
+		}]
+	}]
+}

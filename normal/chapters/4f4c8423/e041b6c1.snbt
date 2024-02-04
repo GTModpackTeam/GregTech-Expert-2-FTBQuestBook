@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: -20.5d,
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "073f3fdc",
+		type: "item",
+		items: [{
+			item: "minecraft:chicken"
+		}]
+	}]
+}

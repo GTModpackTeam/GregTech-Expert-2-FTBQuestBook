@@ -1,0 +1,23 @@
+{
+	title: "コーヒー豆-乾燥",
+	x: -16.5d,
+	y: 9.0d,
+	description: "Dried Coffee Beans",
+	text: [
+		""
+	],
+	dependencies: [
+		"11bdb773"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2be1bb59",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1025"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1024"
+		}]
+	}]
+}

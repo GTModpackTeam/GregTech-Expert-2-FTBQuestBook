@@ -1,0 +1,22 @@
+{
+	title: "エンダーｴﾛs",
+	x: 10.0d,
+	y: 21.5d,
+	description: "\"Enderios\"",
+	text: [
+		""
+	],
+	dependencies: [
+		"d2e2bc27",
+		"7022c907"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2469ce28",
+		type: "item",
+		items: [{
+			item: "enderio:item_ender_food"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "焼いたケーキの底",
+	x: 8.5d,
+	y: 2.0d,
+	description: "Baked Cake Bottom",
+	text: [
+		""
+	],
+	dependencies: [
+		"4d6bf3c8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d7126dba",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 57"
+		}]
+	}]
+}

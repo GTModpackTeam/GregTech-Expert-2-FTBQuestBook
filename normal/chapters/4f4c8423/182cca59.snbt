@@ -1,0 +1,21 @@
+{
+	title: "牛乳と言えばコロイド溶液",
+	x: -4.5d,
+	y: 0.5d,
+	description: "Milk Colloid",
+	text: [
+		""
+	],
+	dependencies: [
+		"79905e70",
+		"800314aa",
+		"b98f8ad8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "460c3dbd",
+		type: "fluid",
+		fluid: "gtfo_milk_colloid",
+		amount: 500
+	}]
+}

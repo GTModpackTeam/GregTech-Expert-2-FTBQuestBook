@@ -1,0 +1,27 @@
+{
+	title: "マリオカートなら武器",
+	x: -6.0d,
+	y: -31.0d,
+	description: "Peeled Banana",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c0523eee",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 128"
+		}]
+	},
+	{
+		uid: "95ffe741",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 127"
+		}]
+	}]
+}

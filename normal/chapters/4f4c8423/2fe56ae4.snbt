@@ -1,0 +1,18 @@
+{
+	title: "これでスープを作らせろ",
+	x: -12.0d,
+	y: 26.0d,
+	description: "Chicken Broth",
+	text: [
+		""
+	],
+	dependencies: [
+		"e9cbbc0e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "295888d9",
+		type: "fluid",
+		fluid: "gtfo_chicken_broth"
+	}]
+}

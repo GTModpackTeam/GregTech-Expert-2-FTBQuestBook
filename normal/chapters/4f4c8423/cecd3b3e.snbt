@@ -1,0 +1,20 @@
+{
+	title: "マシュってる豆",
+	x: -7.5d,
+	y: -31.0d,
+	description: "Mushy Peas",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2f887805",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 209"
+		}]
+	}]
+}

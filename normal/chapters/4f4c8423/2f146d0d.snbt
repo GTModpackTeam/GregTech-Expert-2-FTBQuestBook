@@ -1,0 +1,21 @@
+{
+	title: "君は完璧で究極のゲッター",
+	x: 10.0d,
+	y: -8.5d,
+	description: "Bacon Sandwich",
+	text: [
+		""
+	],
+	dependencies: [
+		"7a7de7fc",
+		"7511372a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "743014dd",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 67"
+		}]
+	}]
+}

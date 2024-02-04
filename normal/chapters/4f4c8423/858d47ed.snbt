@@ -1,0 +1,21 @@
+{
+	title: "Lenovo Ice Cream",
+	x: -9.0d,
+	y: -13.0d,
+	description: "Lemon Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"94752891",
+		"03a39afe"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ba6744db",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 173"
+		}]
+	}]
+}

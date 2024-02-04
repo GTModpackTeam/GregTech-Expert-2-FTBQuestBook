@@ -1,0 +1,20 @@
+{
+	title: "なぽれたな",
+	x: -9.0d,
+	y: 20.0d,
+	description: "Lasgna Napoletana",
+	text: [
+		""
+	],
+	dependencies: [
+		"b3eb4b6c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1e4fafa7",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 289"
+		}]
+	}]
+}

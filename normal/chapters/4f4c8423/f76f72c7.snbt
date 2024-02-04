@@ -1,0 +1,20 @@
+{
+	title: "スモアに使うんだよね...",
+	x: 10.0d,
+	y: 17.0d,
+	description: "Marshmallow",
+	text: [
+		""
+	],
+	dependencies: [
+		"62e255db"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4e3e9386",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 195"
+		}]
+	}]
+}

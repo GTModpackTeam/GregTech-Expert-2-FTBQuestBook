@@ -1,0 +1,21 @@
+{
+	title: "なんでそんなに切り悪いの...",
+	x: 14.5d,
+	y: 14.0d,
+	description: "Gorgonzola",
+	text: [
+		""
+	],
+	dependencies: [
+		"48d9d495",
+		"28dcff43"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8c1b575a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1110"
+		}]
+	}]
+}

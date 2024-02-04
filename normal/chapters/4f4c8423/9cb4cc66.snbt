@@ -1,0 +1,20 @@
+{
+	title: "肉の原木",
+	x: -10.5d,
+	y: 12.5d,
+	description: "Porchetta Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"7330eca9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5720a04e",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 311"
+		}]
+	}]
+}

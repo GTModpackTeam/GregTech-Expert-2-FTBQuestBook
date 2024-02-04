@@ -1,0 +1,16 @@
+{
+	title: "ナクアダ添加ミルク",
+	x: -1.5d,
+	y: 4.5d,
+	description: "Nilk",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ad668806",
+		type: "fluid",
+		fluid: "gtfo_nilk",
+		amount: 200
+	}]
+}

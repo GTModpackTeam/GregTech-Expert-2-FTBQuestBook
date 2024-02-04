@@ -1,0 +1,27 @@
+{
+	title: "ひき肉は万物を制す",
+	x: 3.5d,
+	y: 8.0d,
+	description: "Mince Meat",
+	text: [
+		""
+	],
+	dependencies: [
+		"b2394689",
+		"a72bb11a",
+		"073f3fdc",
+		"6d5fe79b",
+		"224fee98",
+		"6bed199a",
+		"95928e4d"
+	],
+	dependency_requirement: "one_completed",
+	min_width: 300,
+	tasks: [{
+		uid: "20f41361",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 1616"
+		}]
+	}]
+}

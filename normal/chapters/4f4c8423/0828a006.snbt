@@ -1,0 +1,20 @@
+{
+	title: "Roll-o-Sausage",
+	x: -9.0d,
+	y: 17.0d,
+	description: "Sausage Roll",
+	text: [
+		""
+	],
+	dependencies: [
+		"4a819697"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0d924c00",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 216"
+		}]
+	}]
+}

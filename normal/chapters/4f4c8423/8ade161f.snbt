@@ -1,0 +1,20 @@
+{
+	title: "SourceのAge",
+	x: 8.5d,
+	y: 14.0d,
+	description: "Sausage",
+	text: [
+		""
+	],
+	dependencies: [
+		"e8150814"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "165686f1",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 222"
+		}]
+	}]
+}

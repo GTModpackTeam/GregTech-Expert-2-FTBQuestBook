@@ -1,0 +1,20 @@
+{
+	title: "ちゅもなすてぃっく",
+	x: 8.5d,
+	y: 12.5d,
+	description: "Chum on a Stick",
+	text: [
+		""
+	],
+	dependencies: [
+		"f7169e2a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "9bbedc6a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 120"
+		}]
+	}]
+}

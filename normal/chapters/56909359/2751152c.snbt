@@ -1,0 +1,23 @@
+{
+	title: "皮まで使うから捨てないでね",
+	x: 8.5d,
+	y: 0.0d,
+	description: "Banana",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "25745d57",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_sapling_0"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 122"
+		}]
+	}]
+}

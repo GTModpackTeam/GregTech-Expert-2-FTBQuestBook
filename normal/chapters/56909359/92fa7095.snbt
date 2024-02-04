@@ -1,0 +1,20 @@
+{
+	title: "エティルプス・of・クランベリー",
+	x: -9.0d,
+	y: 4.5d,
+	description: "Etirps Cranberry",
+	text: [
+		""
+	],
+	dependencies: [
+		"d0ec3dc9",
+		"fef4afa6"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4b7961ec",
+		type: "fluid",
+		fluid: "gtfo_etirps_cranberry",
+		amount: 500
+	}]
+}

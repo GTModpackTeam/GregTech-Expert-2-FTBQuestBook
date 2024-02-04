@@ -1,0 +1,19 @@
+{
+	title: "赤ブドウジュース-発酵",
+	x: -6.0d,
+	y: 7.5d,
+	description: "Fermented Red Grapes Must",
+	text: [
+		""
+	],
+	dependencies: [
+		"379038d2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "957b429a",
+		type: "fluid",
+		fluid: "gtfo_fermented_red_grapes_must",
+		amount: 8000
+	}]
+}

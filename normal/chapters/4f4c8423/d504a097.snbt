@@ -1,0 +1,20 @@
+{
+	title: "ペスト・ジェノベーゼ-2",
+	x: -7.5d,
+	y: 23.0d,
+	description: "Baked Pesto Lasagna in Baking Tray",
+	text: [
+		""
+	],
+	dependencies: [
+		"dc20058e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a572e880",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 301"
+		}]
+	}]
+}

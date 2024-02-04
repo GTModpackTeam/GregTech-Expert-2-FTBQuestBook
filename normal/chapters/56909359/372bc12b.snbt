@@ -1,0 +1,17 @@
+{
+	title: "リユースしようね",
+	x: -10.5d,
+	y: 6.0d,
+	description: "Plastic Bottle",
+	dependencies: [
+		"d59b2496"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7518b511",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 15"
+		}]
+	}]
+}

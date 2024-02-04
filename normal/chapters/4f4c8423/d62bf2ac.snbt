@@ -1,0 +1,20 @@
+{
+	title: "Cutting Machineと間違えないでね！",
+	x: 8.5d,
+	y: -5.5d,
+	description: "Bread Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"bd8544e2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c086497c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 210"
+		}]
+	}]
+}

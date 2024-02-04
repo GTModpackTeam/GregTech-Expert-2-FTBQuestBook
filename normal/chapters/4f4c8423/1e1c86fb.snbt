@@ -1,0 +1,20 @@
+{
+	title: "10℃下がる",
+	x: 13.0d,
+	y: 3.5d,
+	description: "Molten Dark Chocolate",
+	text: [
+		""
+	],
+	dependencies: [
+		"471bc1ab",
+		"79905e70",
+		"7c6ffa2b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1915f9e8",
+		type: "fluid",
+		fluid: "gtfo_molten_dark_chocolate"
+	}]
+}

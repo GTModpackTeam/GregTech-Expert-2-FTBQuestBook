@@ -1,0 +1,17 @@
+{
+	title: "いっけなーい遅刻遅刻！",
+	x: 10.0d,
+	y: -5.5d,
+	description: "Toast",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5b575585",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 211"
+		}]
+	}]
+}

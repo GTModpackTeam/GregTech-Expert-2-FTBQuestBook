@@ -1,0 +1,20 @@
+{
+	title: "Preスライスﾊﾟﾝ",
+	x: 8.5d,
+	y: -8.5d,
+	description: "Pre-Sliced Bread",
+	text: [
+		""
+	],
+	dependencies: [
+		"bd8544e2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "31ba543a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 85"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	title: "ミキサーで混ぜられるの?",
+	x: -10.5d,
+	y: 4.5d,
+	description: "Carbonated Water",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d05c74a2",
+		type: "fluid",
+		fluid: "gtfo_carbonated_water",
+		amount: 500
+	}]
+}

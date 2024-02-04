@@ -1,0 +1,21 @@
+{
+	title: "でっかいChooseのサンドイッチ",
+	x: 10.0d,
+	y: -1.0d,
+	description: "Large Cheese Sandwich",
+	text: [
+		""
+	],
+	dependencies: [
+		"193da5b8",
+		"50fe2728"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8075708d",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 70"
+		}]
+	}]
+}

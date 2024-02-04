@@ -1,0 +1,21 @@
+{
+	title: "はいもう最強",
+	x: 10.0d,
+	y: 8.0d,
+	description: "Hot Beetroot Soup",
+	text: [
+		""
+	],
+	dependencies: [
+		"b34aff04"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e78ed0c0",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 132"
+		}],
+		ignore_nbt: 1b
+	}]
+}

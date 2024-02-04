@@ -1,0 +1,20 @@
+{
+	title: "加工には軒並み機械が必要",
+	x: 6.5d,
+	y: -4.0d,
+	description: "Potato",
+	text: [
+		"ジャガイモの派生はかなり多いので、頑張ってください。"
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f354264c",
+		type: "item",
+		items: [{
+			item: "minecraft:potato"
+		}]
+	}]
+}

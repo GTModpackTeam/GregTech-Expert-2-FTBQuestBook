@@ -1,0 +1,21 @@
+{
+	title: "バターつけただけやろ",
+	x: -6.0d,
+	y: 17.0d,
+	description: "Laminated Dough",
+	text: [
+		""
+	],
+	dependencies: [
+		"705d6617",
+		"d2283acb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4574b1c9",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1128"
+		}]
+	}]
+}

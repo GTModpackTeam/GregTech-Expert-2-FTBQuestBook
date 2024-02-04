@@ -1,0 +1,22 @@
+{
+	title: "え？？強くね？？",
+	x: 10.0d,
+	y: 6.5d,
+	description: "Beetroot Soup",
+	text: [
+		""
+	],
+	dependencies: [
+		"def3eee2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8f07cc29",
+		type: "item",
+		items: [{
+			item: "minecraft:beetroot_soup"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

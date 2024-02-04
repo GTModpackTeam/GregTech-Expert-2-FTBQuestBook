@@ -1,0 +1,20 @@
+{
+	title: "タマネギオンリーケバブ",
+	x: 8.5d,
+	y: 17.0d,
+	description: "Onion Kebab",
+	text: [
+		""
+	],
+	dependencies: [
+		"53a42e47"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "eba4f2aa",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 142"
+		}]
+	}]
+}

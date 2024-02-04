@@ -1,0 +1,21 @@
+{
+	title: "捨てるなんてもったいない！",
+	x: -3.0d,
+	y: -2.5d,
+	description: "Used Paper Bag",
+	text: [
+		"ただし使い道がないためoptionalとなります。"
+	],
+	dependencies: [
+		"095041fa"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "c2783462",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 36"
+		}]
+	}]
+}

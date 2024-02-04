@@ -1,0 +1,18 @@
+{
+	title: "加熱(293Kから293K)",
+	x: 13.0d,
+	y: -1.0d,
+	description: "Cane Syrup",
+	text: [
+		""
+	],
+	dependencies: [
+		"728b32b4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0773760f",
+		type: "fluid",
+		fluid: "gtfo_cane_syrup"
+	}]
+}

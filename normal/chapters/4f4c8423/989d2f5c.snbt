@@ -1,0 +1,20 @@
+{
+	title: "ブランチを切っておこう",
+	x: -4.5d,
+	y: -4.0d,
+	description: "Blanched Potato Strip",
+	text: [
+		""
+	],
+	dependencies: [
+		"bbffc8e0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7abac210",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 34"
+		}]
+	}]
+}

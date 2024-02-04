@@ -1,0 +1,23 @@
+{
+	title: "ヴィーガン御用達",
+	x: 10.0d,
+	y: -14.5d,
+	description: "Veggie Burger",
+	text: [
+		""
+	],
+	dependencies: [
+		"07f5f357",
+		"6305f08f",
+		"a32d4479",
+		"98c51163"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a381e2db",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 88"
+		}]
+	}]
+}

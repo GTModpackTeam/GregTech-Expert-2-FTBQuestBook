@@ -1,0 +1,20 @@
+{
+	title: "ゼラチンでカプセル...?",
+	x: 8.5d,
+	y: 18.5d,
+	description: "Plutonium-241 Caplet",
+	text: [
+		""
+	],
+	dependencies: [
+		"5cccbeb8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "88db5e1f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 231"
+		}]
+	}]
+}

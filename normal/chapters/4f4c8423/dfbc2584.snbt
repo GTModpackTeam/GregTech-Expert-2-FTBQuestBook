@@ -1,0 +1,20 @@
+{
+	title: "スモア Tier-3",
+	x: -13.5d,
+	y: 3.5d,
+	description: "Hot Graham Cracker Dough Chunk",
+	text: [
+		""
+	],
+	dependencies: [
+		"3f44ddcd"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "78faa130",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1047"
+		}]
+	}]
+}

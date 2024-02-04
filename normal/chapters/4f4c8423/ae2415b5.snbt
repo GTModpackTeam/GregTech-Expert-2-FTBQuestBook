@@ -1,0 +1,22 @@
+{
+	title: "\"大きな肉\" のサンドイッチ なのか、\"大きな\" 肉のサンドイッチなのか",
+	x: 8.5d,
+	y: -1.0d,
+	description: "Large Meat Sandwich",
+	text: [
+		""
+	],
+	dependencies: [
+		"193da5b8",
+		"50fe2728",
+		"175d2c83"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f1ae34dd",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 72"
+		}]
+	}]
+}

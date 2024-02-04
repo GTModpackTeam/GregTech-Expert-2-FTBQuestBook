@@ -1,0 +1,20 @@
+{
+	title: "加熱して削ぎ落とされてない？",
+	x: 8.5d,
+	y: 9.5d,
+	description: "Chum Kebab",
+	text: [
+		""
+	],
+	dependencies: [
+		"1d2f155f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4bcef6fe",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 146"
+		}]
+	}]
+}

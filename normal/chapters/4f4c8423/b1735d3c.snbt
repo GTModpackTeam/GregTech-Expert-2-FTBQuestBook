@@ -1,0 +1,20 @@
+{
+	title: "しゃぶしゃぶしよう",
+	x: 0.0d,
+	y: -32.5d,
+	description: "Cooked Porkchop",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0636c74a",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_porkchop"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "スモア Tier4",
+	x: -10.5d,
+	y: -1.0d,
+	description: "EightS'more OctoS'mingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"02f48e48"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0f116764",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 100"
+		}]
+	}]
+}

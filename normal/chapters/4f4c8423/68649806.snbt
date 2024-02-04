@@ -1,0 +1,18 @@
+{
+	title: "油にもなる",
+	x: -4.5d,
+	y: -1.0d,
+	description: "Hydrated Soybean Oil",
+	text: [
+		""
+	],
+	dependencies: [
+		"7660696c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "48472e2e",
+		type: "fluid",
+		fluid: "gtfo_hydrated_soybean_oil"
+	}]
+}

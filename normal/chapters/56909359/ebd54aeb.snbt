@@ -1,0 +1,21 @@
+{
+	title: "子供のときしかあんまり飲まないけど久しぶりに飲むと美味しいのよこれが",
+	x: -7.5d,
+	y: 3.0d,
+	description: "Apple Juice",
+	text: [
+		""
+	],
+	dependencies: [
+		"f18cd981",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8fdbc5af",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 153"
+		}]
+	}]
+}

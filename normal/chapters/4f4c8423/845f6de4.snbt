@@ -1,0 +1,20 @@
+{
+	title: "多分皮が食べれるタイプの魚だろう",
+	x: 4.5d,
+	y: -31.0d,
+	description: "Cooked Fish",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "69352eb6",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_fish"
+		}]
+	}]
+}

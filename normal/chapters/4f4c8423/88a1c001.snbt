@@ -1,0 +1,23 @@
+{
+	title: "おいChum使うレシピがあるぞ",
+	x: 13.0d,
+	y: 11.0d,
+	description: "Kobideh Ingredients",
+	text: [
+		""
+	],
+	dependencies: [
+		"3afff92d",
+		"a647e9f4",
+		"20f41361",
+		"219c0652"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "9dd67962",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1117"
+		}]
+	}]
+}

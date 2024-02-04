@@ -1,0 +1,22 @@
+{
+	title: "オランダ式は優秀...?",
+	x: 14.5d,
+	y: 6.5d,
+	description: "Graded Chocolate Press Cake",
+	text: [
+		""
+	],
+	dependencies: [
+		"63bb758f",
+		"d4849bb9"
+	],
+	dependency_requirement: "one_completed",
+	min_width: 300,
+	tasks: [{
+		uid: "6eb74b2e",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1042"
+		}]
+	}]
+}

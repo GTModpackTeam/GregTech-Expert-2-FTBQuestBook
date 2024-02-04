@@ -1,0 +1,20 @@
+{
+	title: "大変なんだしせめて使い道増やして...",
+	x: 10.0d,
+	y: 18.5d,
+	description: "Gorgonzola Triangular Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"3aacd979"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5eabbd4a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 114"
+		}]
+	}]
+}

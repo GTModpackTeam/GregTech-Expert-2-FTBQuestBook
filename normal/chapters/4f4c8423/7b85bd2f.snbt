@@ -1,0 +1,21 @@
+{
+	title: "ルテリーニンブロ",
+	x: -10.5d,
+	y: 24.5d,
+	description: "Tortellini in brodo",
+	text: [
+		""
+	],
+	dependencies: [
+		"2fe56ae4",
+		"3cadb1e7"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "43f0195a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 286"
+		}]
+	}]
+}

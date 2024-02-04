@@ -1,0 +1,19 @@
+{
+	title: "白ブドウジュース-破砕",
+	x: -4.5d,
+	y: 9.0d,
+	description: "Macerated White Grapes",
+	text: [
+		""
+	],
+	dependencies: [
+		"c0489cd7"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "059606f7",
+		type: "fluid",
+		fluid: "gtfo_macerated_white_grapes",
+		amount: 4000
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "なんと10皿分",
+	x: 5.0d,
+	y: 6.5d,
+	description: "Rabbit Stew",
+	text: [
+		""
+	],
+	dependencies: [
+		"18f7e197",
+		"31de66af",
+		"51b424e6"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3c4eae16",
+		type: "fluid",
+		fluid: "gtfo_rabbit_stew",
+		amount: 50
+	}]
+}

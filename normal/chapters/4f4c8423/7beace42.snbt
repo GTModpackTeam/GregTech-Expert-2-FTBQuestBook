@@ -1,0 +1,20 @@
+{
+	title: "おにょんスライス",
+	x: 1.5d,
+	y: -31.0d,
+	description: "Onion Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "98c51163",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 80"
+		}]
+	}]
+}

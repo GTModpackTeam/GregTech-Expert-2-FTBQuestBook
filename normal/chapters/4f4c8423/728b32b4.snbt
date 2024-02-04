@@ -1,0 +1,19 @@
+{
+	title: "めっちゃ甘そう",
+	x: 11.5d,
+	y: -1.0d,
+	description: "Cane Syrup",
+	text: [
+		""
+	],
+	dependencies: [
+		"79905e70"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "82246a31",
+		type: "fluid",
+		fluid: "gtfo_unheated_cane_syrup",
+		amount: 2000
+	}]
+}

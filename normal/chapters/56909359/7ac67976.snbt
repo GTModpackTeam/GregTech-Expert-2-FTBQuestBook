@@ -1,0 +1,22 @@
+{
+	title: "エティルプス™",
+	x: -12.0d,
+	y: 3.0d,
+	description: "Etirps™",
+	text: [
+		""
+	],
+	dependencies: [
+		"372bc12b",
+		"aa24e286",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8372cf63",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 19"
+		}]
+	}]
+}

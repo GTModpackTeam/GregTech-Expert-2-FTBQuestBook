@@ -1,0 +1,13 @@
+{
+	x: -6.75d,
+	y: 0.0d,
+	dependencies: [
+		"c7b34d16"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "35ae7bcc",
+		type: "checkmark",
+		title: "GTFO-飲み物"
+	}]
+}

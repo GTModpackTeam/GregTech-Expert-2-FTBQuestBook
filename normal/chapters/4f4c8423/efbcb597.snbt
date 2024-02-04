@@ -1,0 +1,20 @@
+{
+	title: "ケチャップケバブ",
+	x: -9.0d,
+	y: 14.0d,
+	description: "Kebabed Totamo",
+	text: [
+		""
+	],
+	dependencies: [
+		"8465f848"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6b92f9fe",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 144"
+		}]
+	}]
+}

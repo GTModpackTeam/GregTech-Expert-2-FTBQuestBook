@@ -1,0 +1,18 @@
+{
+	title: "卵黄です",
+	x: -1.5d,
+	y: 5.0d,
+	description: "Yolk",
+	text: [
+		""
+	],
+	dependencies: [
+		"5745be04"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "050961e5",
+		type: "fluid",
+		fluid: "gtfo_yolk"
+	}]
+}

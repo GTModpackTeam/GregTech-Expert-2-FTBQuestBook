@@ -1,0 +1,20 @@
+{
+	title: "チョコに混ぜて冷やす",
+	x: 13.0d,
+	y: 5.0d,
+	description: "Cocoa Butter",
+	text: [
+		""
+	],
+	dependencies: [
+		"2b41e991",
+		"fc9a09b2"
+	],
+	dependency_requirement: "one_completed",
+	min_width: 300,
+	tasks: [{
+		uid: "1a6413af",
+		type: "fluid",
+		fluid: "gtfo_cocoa_butter"
+	}]
+}

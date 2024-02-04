@@ -1,0 +1,20 @@
+{
+	title: "アブナイコデイン",
+	x: -1.5d,
+	y: 7.5d,
+	description: "Codeine",
+	text: [
+		""
+	],
+	dependencies: [
+		"9eabedb0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a923ae49",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1095"
+		}]
+	}]
+}

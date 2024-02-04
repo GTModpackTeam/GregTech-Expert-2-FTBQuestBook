@@ -1,0 +1,19 @@
+{
+	title: "クランベリーソーダシロップ",
+	x: -9.0d,
+	y: 6.0d,
+	description: "Cranberry Soda Syrup",
+	text: [
+		""
+	],
+	dependencies: [
+		"c2b81227"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "996cb224",
+		type: "fluid",
+		fluid: "gtfo_cranberry_soda_syrup",
+		amount: 500
+	}]
+}

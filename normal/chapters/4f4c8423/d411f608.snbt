@@ -1,0 +1,22 @@
+{
+	title: "肉にソースぶっかけただけ？",
+	x: -10.5d,
+	y: 27.5d,
+	description: "Vitello Tonnato",
+	text: [
+		""
+	],
+	dependencies: [
+		"050961e5",
+		"175d2c83",
+		"ba3ee321"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "01d8a217",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 287"
+		}]
+	}]
+}

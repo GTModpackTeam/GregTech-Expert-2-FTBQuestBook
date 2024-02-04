@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -25.0d,
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a8518571",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 17"
+		}]
+	}]
+}

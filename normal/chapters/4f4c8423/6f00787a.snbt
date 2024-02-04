@@ -1,0 +1,24 @@
+{
+	title: "Cape'o'nata",
+	x: -10.5d,
+	y: 33.5d,
+	description: "Caponata",
+	text: [
+		""
+	],
+	dependencies: [
+		"37bade7a",
+		"98b549ef",
+		"a0628b00",
+		"eadb0ab8",
+		"07536c54"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e14f4e61",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 273"
+		}]
+	}]
+}

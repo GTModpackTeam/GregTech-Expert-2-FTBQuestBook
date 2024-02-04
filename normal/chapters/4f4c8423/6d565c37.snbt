@@ -1,0 +1,21 @@
+{
+	title: "組立機は節約のプロ",
+	x: 10.0d,
+	y: -10.0d,
+	description: "Cheese Sandwich",
+	text: [
+		""
+	],
+	dependencies: [
+		"193da5b8",
+		"7511372a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b1353dbf",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 66"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "うへぇ,,,",
+	x: 8.5d,
+	y: 11.0d,
+	description: "Chum",
+	text: [
+		""
+	],
+	dependencies: [
+		"98e0e299",
+		"9c82f76b",
+		"926071f2",
+		"51b424e6"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "349734f8",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 119"
+		}]
+	}]
+}

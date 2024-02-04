@@ -1,0 +1,20 @@
+{
+	title: "切ゅうり",
+	x: -1.5d,
+	y: -31.0d,
+	description: "Cucumber Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "07f5f357",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 81"
+		}]
+	}]
+}

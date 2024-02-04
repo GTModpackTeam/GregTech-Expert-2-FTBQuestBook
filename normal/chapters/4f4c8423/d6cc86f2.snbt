@@ -1,0 +1,20 @@
+{
+	title: "こいつの皮は絶品",
+	x: 4.5d,
+	y: -32.5d,
+	description: "Cooked Salmon",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4b7b6d9e",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_fish 1 1"
+		}]
+	}]
+}

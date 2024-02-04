@@ -1,0 +1,22 @@
+{
+	title: "Be Camel",
+	x: -3.0d,
+	y: 23.0d,
+	description: "Bechamel Sauce",
+	text: [
+		""
+	],
+	dependencies: [
+		"18f7e197",
+		"705d6617",
+		"40ba49c7",
+		"b98f8ad8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "505999f5",
+		type: "fluid",
+		fluid: "gtfo_bechamel_sauce",
+		amount: 250
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "IMPASTA",
+	x: -9.0d,
+	y: 33.5d,
+	description: "Pasta e fagioli",
+	text: [
+		""
+	],
+	dependencies: [
+		"91b30008"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "420b4d96",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 278"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "私はモッツァレラ派だ！",
+	x: 10.0d,
+	y: -13.0d,
+	description: "Cheese Burger",
+	text: [
+		""
+	],
+	dependencies: [
+		"a32d4479",
+		"193da5b8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "eac4a112",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 89"
+		}]
+	}]
+}

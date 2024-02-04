@@ -1,0 +1,22 @@
+{
+	title: "組立機最強伝説",
+	x: 7.0d,
+	y: 17.0d,
+	description: "Nailed Onions Kebab",
+	text: [
+		""
+	],
+	dependencies: [
+		"98c51163",
+		"a647e9f4"
+	],
+	dependency_requirement: "one_completed",
+	min_width: 300,
+	tasks: [{
+		uid: "07c9580a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 141"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "ウサギ肉って食ったことある？",
+	x: -3.0d,
+	y: -32.5d,
+	description: "Cooked Rabbit",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "597c421c",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_rabbit"
+		}]
+	}]
+}

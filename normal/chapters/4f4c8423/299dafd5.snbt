@@ -1,0 +1,22 @@
+{
+	title: "吐き気のする非常食とか食べるやつおらんやろ",
+	x: -9.0d,
+	y: 11.0d,
+	description: "Emergency Rations",
+	text: [
+		""
+	],
+	dependencies: [
+		"2e8c002c",
+		"60535361",
+		"9cb982a2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a7d7881f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 325"
+		}]
+	}]
+}

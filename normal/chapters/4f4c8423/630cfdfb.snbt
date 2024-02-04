@@ -1,0 +1,20 @@
+{
+	title: "ただ長いだけのパンじゃなくて？？",
+	x: 8.5d,
+	y: -4.0d,
+	description: "Baguette",
+	text: [
+		""
+	],
+	dependencies: [
+		"c78cfee5"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "de8a85f5",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 51"
+		}]
+	}]
+}

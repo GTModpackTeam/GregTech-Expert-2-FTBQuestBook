@@ -1,0 +1,17 @@
+{
+	title: "こねたて新品カップ",
+	x: -16.5d,
+	y: 6.0d,
+	description: "Unfired Cup",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1f7fec43",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 205"
+		}]
+	}]
+}

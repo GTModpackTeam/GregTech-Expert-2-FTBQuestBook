@@ -1,0 +1,22 @@
+{
+	title: "スープ系ってもしかして強い？",
+	x: 8.5d,
+	y: 6.5d,
+	description: "Rabbit Stew",
+	text: [
+		""
+	],
+	dependencies: [
+		"7b209369"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b3b2a6fe",
+		type: "item",
+		items: [{
+			item: "minecraft:rabbit_stew"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "爽やか酸味混合液",
+	x: -12.0d,
+	y: 9.0d,
+	description: "Lemon-Lime Solution",
+	text: [
+		""
+	],
+	dependencies: [
+		"151bb78f",
+		"828197d2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "803ebcf4",
+		type: "fluid",
+		fluid: "gtfo_lemon_lime_solution"
+	}]
+}

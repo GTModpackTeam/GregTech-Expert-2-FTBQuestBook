@@ -1,0 +1,20 @@
+{
+	title: "コーンスープ的サムシングだろうね",
+	x: -10.5d,
+	y: 32.0d,
+	description: "Polenta",
+	text: [
+		""
+	],
+	dependencies: [
+		"8335b64f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d91487b8",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 281"
+		}]
+	}]
+}

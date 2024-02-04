@@ -1,0 +1,21 @@
+{
+	title: "リサイクルの精神",
+	x: -1.5d,
+	y: -2.5d,
+	description: "Potato Starch",
+	text: [
+		""
+	],
+	dependencies: [
+		"d97b1f6a"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "772dcc1c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1101"
+		}]
+	}]
+}

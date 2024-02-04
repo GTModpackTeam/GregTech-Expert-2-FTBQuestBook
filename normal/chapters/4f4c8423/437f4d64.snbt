@@ -1,0 +1,23 @@
+{
+	title: "水々しい",
+	x: 8.5d,
+	y: -10.0d,
+	description: "Veggie Sandwich",
+	text: [
+		""
+	],
+	dependencies: [
+		"07f5f357",
+		"6305f08f",
+		"7511372a",
+		"98c51163"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ed886e13",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 65"
+		}]
+	}]
+}

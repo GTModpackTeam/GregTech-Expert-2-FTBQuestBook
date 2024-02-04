@@ -1,0 +1,20 @@
+{
+	title: "スモア Tier6",
+	x: -10.5d,
+	y: -4.0d,
+	description: "Half-stack-o'-S'more TriacontadyoS'mingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"b4ced0c3"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "05a662c6",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 102"
+		}]
+	}]
+}

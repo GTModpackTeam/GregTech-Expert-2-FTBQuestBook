@@ -1,0 +1,20 @@
+{
+	title: "チキンナゲットを作りましょう",
+	x: -4.5d,
+	y: -31.0d,
+	description: "Cooked Chicken",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e9cbbc0e",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_chicken"
+		}]
+	}]
+}

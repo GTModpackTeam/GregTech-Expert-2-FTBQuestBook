@@ -1,0 +1,22 @@
+{
+	title: "まぜまぜ液",
+	x: -6.0d,
+	y: 33.5d,
+	description: "Pasta e fagioli Base",
+	text: [
+		""
+	],
+	dependencies: [
+		"d2365baf",
+		"295888d9",
+		"98b549ef",
+		"eadb0ab8",
+		"98c51163"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "14b456ee",
+		type: "fluid",
+		fluid: "gtfo_pasta_e_fagioli_base"
+	}]
+}

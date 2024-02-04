@@ -1,0 +1,23 @@
+{
+	title: "使い道...どこ...",
+	x: 7.5d,
+	y: -2.0d,
+	description: "Oregano",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f3c35f45",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 303"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 235"
+		}]
+	}]
+}

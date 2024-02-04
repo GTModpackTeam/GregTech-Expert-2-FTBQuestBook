@@ -1,0 +1,19 @@
+{
+	title: "魚ッカ",
+	x: 1.5d,
+	y: 4.5d,
+	description: "Vodka",
+	text: [
+		""
+	],
+	dependencies: [
+		"e92d3e2f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "852e85ce",
+		type: "fluid",
+		fluid: "gtfo_vodka",
+		amount: 2000
+	}]
+}

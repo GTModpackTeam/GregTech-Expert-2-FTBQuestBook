@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: -25.0d,
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6abdd72a",
+		type: "item",
+		items: [{
+			item: "minecraft:apple"
+		}]
+	}]
+}

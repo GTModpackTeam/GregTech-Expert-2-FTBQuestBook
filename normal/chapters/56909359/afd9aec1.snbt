@@ -1,0 +1,22 @@
+{
+	title: "白い粉を混ぜたコーヒー",
+	x: -15.0d,
+	y: 3.0d,
+	description: "Energized Coffee Cup",
+	text: [
+		""
+	],
+	dependencies: [
+		"6e0ea762",
+		"76ec3102",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "775358cb",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 204"
+		}]
+	}]
+}

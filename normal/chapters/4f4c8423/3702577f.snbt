@@ -1,0 +1,21 @@
+{
+	title: "アイスで毒抜き...?",
+	x: 8.5d,
+	y: 21.5d,
+	description: "Chum Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"94752891",
+		"349734f8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d0fbf20f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 166"
+		}]
+	}]
+}

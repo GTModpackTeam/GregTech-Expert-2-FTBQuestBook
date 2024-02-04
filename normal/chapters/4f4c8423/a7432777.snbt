@@ -1,0 +1,20 @@
+{
+	title: "生はダメだぞ",
+	x: -6.0d,
+	y: -22.0d,
+	description: "Raw Porkchop",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "224fee98",
+		type: "item",
+		items: [{
+			item: "minecraft:porkchop"
+		}]
+	}]
+}

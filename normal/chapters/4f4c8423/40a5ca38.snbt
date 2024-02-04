@@ -1,0 +1,20 @@
+{
+	title: "なんでアップルパイがないんですか",
+	x: -6.0d,
+	y: 11.0d,
+	description: "Pie Curst",
+	text: [
+		""
+	],
+	dependencies: [
+		"d40719d1"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "15823290",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 58"
+		}]
+	}]
+}

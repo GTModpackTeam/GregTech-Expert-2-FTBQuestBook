@@ -1,0 +1,20 @@
+{
+	title: "やっぱこれスプライトだよね",
+	x: -12.0d,
+	y: 4.0d,
+	description: "Etirps™",
+	text: [
+		""
+	],
+	dependencies: [
+		"f17f7dab",
+		"fef4afa6"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a83cf160",
+		type: "fluid",
+		fluid: "gtfo_etirps",
+		amount: 500
+	}]
+}

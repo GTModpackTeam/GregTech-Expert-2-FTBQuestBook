@@ -1,0 +1,20 @@
+{
+	title: "～サワークリームを添えて～",
+	x: -10.5d,
+	y: 17.0d,
+	description: "Seasoned Pelmeni",
+	text: [
+		""
+	],
+	dependencies: [
+		"b1adcfe3"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c174db0b",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 341"
+		}]
+	}]
+}

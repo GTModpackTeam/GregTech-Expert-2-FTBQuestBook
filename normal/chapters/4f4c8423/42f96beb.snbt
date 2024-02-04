@@ -1,0 +1,19 @@
+{
+	title: "何がどう活性なんです？",
+	x: -5.0d,
+	y: 9.5d,
+	description: "Activated Buffalo Milk",
+	text: [
+		""
+	],
+	dependencies: [
+		"a6a41074",
+		"911893e0"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "28dcff43",
+		type: "fluid",
+		fluid: "gtfo_activated_buffalo_milk"
+	}]
+}

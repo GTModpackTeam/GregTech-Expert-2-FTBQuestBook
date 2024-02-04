@@ -1,0 +1,20 @@
+{
+	title: "チョコケーキならそのまま食べさせろ",
+	x: 14.5d,
+	y: 8.0d,
+	description: "Chocolate Press Cake",
+	text: [
+		""
+	],
+	dependencies: [
+		"fc9a09b2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0628ee35",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1041"
+		}]
+	}]
+}

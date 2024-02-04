@@ -1,0 +1,19 @@
+{
+	title: "オリーブまぜまぜ",
+	x: -12.0d,
+	y: 27.5d,
+	description: "Vitello Tonnato Sauce",
+	text: [
+		""
+	],
+	dependencies: [
+		"98b549ef",
+		"0684698b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b305b0ae",
+		type: "fluid",
+		fluid: "gtfo_vitello_tonnato_sauce"
+	}]
+}

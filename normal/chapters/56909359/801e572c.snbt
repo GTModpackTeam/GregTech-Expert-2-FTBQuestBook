@@ -1,0 +1,19 @@
+{
+	title: "日本語でこれを解説してるサイトが1個しかなかった件",
+	x: 3.0d,
+	y: 4.5d,
+	description: "Leninade",
+	text: [
+		""
+	],
+	dependencies: [
+		"949f10f4",
+		"828197d2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c8286596",
+		type: "fluid",
+		fluid: "gtfo_leninade"
+	}]
+}

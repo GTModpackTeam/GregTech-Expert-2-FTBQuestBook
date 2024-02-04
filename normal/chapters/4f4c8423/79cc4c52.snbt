@@ -1,0 +1,21 @@
+{
+	title: "美味しい気がしない",
+	x: -10.5d,
+	y: -16.0d,
+	description: "Bacon Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"94752891",
+		"7a7de7fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "26fbe825",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 168"
+		}]
+	}]
+}

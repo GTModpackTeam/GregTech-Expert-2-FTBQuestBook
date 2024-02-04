@@ -1,0 +1,17 @@
+{
+	title: "GTFO-食べ物",
+	x: 0.0d,
+	y: 0.5d,
+	shape: "octagon",
+	text: [
+		"上部:作物",
+		"下部:動物"
+	],
+	size: 4.0d,
+	min_width: 300,
+	tasks: [{
+		uid: "3071e6ec",
+		type: "checkmark",
+		title: "GTFO-食べ物"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "進化先2通り",
+	x: -12.0d,
+	y: 18.5d,
+	description: "Uncooked Pelmeni",
+	text: [
+		""
+	],
+	dependencies: [
+		"20f41361",
+		"d2283acb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b27325ca",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 338"
+		}]
+	}]
+}

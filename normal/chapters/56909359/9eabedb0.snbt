@@ -1,0 +1,20 @@
+{
+	title: "アブナクナイヨ",
+	x: -3.0d,
+	y: 7.5d,
+	description: "Crushed Poppy",
+	text: [
+		""
+	],
+	dependencies: [
+		"3c68f110"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1435d860",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1098"
+		}]
+	}]
+}

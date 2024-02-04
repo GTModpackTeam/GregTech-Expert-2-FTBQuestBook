@@ -1,0 +1,22 @@
+{
+	title: "実際スプライトのクランベリー味もある",
+	x: -9.0d,
+	y: 3.0d,
+	description: "Etirps Cranberry",
+	text: [
+		""
+	],
+	dependencies: [
+		"372bc12b",
+		"920a4ed9",
+		"92fa7095"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "872126f9",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 337"
+		}]
+	}]
+}

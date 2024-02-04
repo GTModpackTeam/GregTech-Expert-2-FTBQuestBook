@@ -1,0 +1,23 @@
+{
+	title: "ｽｯｯｯｯｯﾊﾟｲｲｲｲ",
+	x: 8.5d,
+	y: 3.0d,
+	description: "Lemon",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "44c5dba9",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_sapling_0 1 8"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 17"
+		}]
+	}]
+}

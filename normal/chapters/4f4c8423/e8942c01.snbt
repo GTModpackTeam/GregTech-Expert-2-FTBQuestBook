@@ -1,0 +1,20 @@
+{
+	title: "快適な探検をアシスト",
+	x: 8.5d,
+	y: -16.0d,
+	description: "Olive and Mushroom Pizza",
+	text: [
+		""
+	],
+	dependencies: [
+		"24cb9d8a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2724a827",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 63"
+		}]
+	}]
+}

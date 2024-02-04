@@ -1,0 +1,31 @@
+{
+	title: "この三匹から好きなポケモンを選ぶのじゃ",
+	x: 4.5d,
+	y: -28.0d,
+	description: "Heart of the S'mogus",
+	text: [
+		"このクエストは作成不可能なアイテムへの救済措置として作成されたものです。",
+		"Heart of the S'mogusを消費することで3種類のアイテムと交換することができます。"
+	],
+	can_repeat: true,
+	dependencies: [
+		"9cc5add5",
+		"825ce8fc"
+	],
+	tasks: [{
+		uid: "4053bd39",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 107"
+		}],
+		consume_items: true
+	}],
+	min_width: 300,
+	rewards: [{
+		uid: "904a93bd",
+		type: "choice",
+		title: "報酬の選択",
+		icon: "gregtechfoodoption:gtfo_meta_item 1 107",
+		table: 0
+	}]
+}

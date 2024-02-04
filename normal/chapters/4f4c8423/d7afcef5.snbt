@@ -1,0 +1,28 @@
+{
+	title: "♪♫♪♬♫♪",
+	x: -9.0d,
+	y: 18.5d,
+	description: "Berry Medley",
+	text: [
+		""
+	],
+	min_required_dependencies: 3,
+	dependencies: [
+		"622cdc39",
+		"d3e942af",
+		"19a0c227",
+		"ca5f41e8",
+		"4b31e98b",
+		"b139d442",
+		"87a1001e"
+	],
+	dependency_requirement: "one_completed",
+	min_width: 300,
+	tasks: [{
+		uid: "c0b30b58",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 336"
+		}]
+	}]
+}

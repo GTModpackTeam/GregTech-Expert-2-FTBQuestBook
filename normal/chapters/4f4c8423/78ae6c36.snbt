@@ -1,0 +1,20 @@
+{
+	title: "ケバブってでっかい肉の塊のイメージがでっかいよね",
+	x: -10.5d,
+	y: 15.5d,
+	description: "Kebab Meat",
+	text: [
+		""
+	],
+	dependencies: [
+		"1d13e060"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "168cbde1",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 157"
+		}]
+	}]
+}

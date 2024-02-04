@@ -1,0 +1,20 @@
+{
+	title: "炭酸ナトリウムにくぐらせろ！",
+	x: 11.5d,
+	y: 9.5d,
+	description: "Dutched Chocolate Liquor",
+	text: [
+		""
+	],
+	dependencies: [
+		"5bc71e16"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4a9ebcec",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1039"
+		}]
+	}]
+}

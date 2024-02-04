@@ -1,0 +1,27 @@
+{
+	title: "カードってなんなの",
+	x: -4.5d,
+	y: 5.0d,
+	description: "Coagulated Milk Curd",
+	text: [
+		""
+	],
+	dependencies: [
+		"b98f8ad8",
+		"50b22959"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3df97faa",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1106"
+		}]
+	},
+	{
+		uid: "7ba083d5",
+		type: "fluid",
+		fluid: "gtfo_whey",
+		amount: 600
+	}]
+}

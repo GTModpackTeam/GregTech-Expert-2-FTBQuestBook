@@ -1,0 +1,20 @@
+{
+	title: "小麦3つでできるはずがない",
+	x: 8.5d,
+	y: -7.0d,
+	description: "Bread",
+	text: [
+		""
+	],
+	dependencies: [
+		"32a6e958"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e193ba17",
+		type: "item",
+		items: [{
+			item: "minecraft:bread"
+		}]
+	}]
+}

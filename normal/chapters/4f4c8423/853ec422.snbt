@@ -1,0 +1,21 @@
+{
+	title: "ｸﾏｰ!?",
+	x: -10.5d,
+	y: -14.5d,
+	description: "Bear Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"2e8c002c",
+		"94752891"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "350a70a0",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 170"
+		}]
+	}]
+}

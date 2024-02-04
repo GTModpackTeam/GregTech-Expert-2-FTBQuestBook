@@ -1,0 +1,26 @@
+{
+	title: "ケバブづくし",
+	x: -9.0d,
+	y: 12.5d,
+	description: "Kebab e Soltani",
+	text: [
+		""
+	],
+	dependencies: [
+		"a647e9f4",
+		"80b2ddc7",
+		"0fef5495",
+		"44c5dba9",
+		"34c5b318",
+		"03a39afe",
+		"219c0652"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8e7c2329",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 140"
+		}]
+	}]
+}

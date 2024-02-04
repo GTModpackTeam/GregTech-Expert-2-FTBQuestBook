@@ -1,0 +1,20 @@
+{
+	title: "ただ長いだけのパン生地じゃなくて？",
+	x: 3.0d,
+	y: -4.0d,
+	description: "Unbaked Baguette",
+	text: [
+		""
+	],
+	dependencies: [
+		"5af08276"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "687ec398",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 48"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "やはりVanillaはModだった",
+	x: -9.0d,
+	y: -16.0d,
+	description: "Vanilla Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"94752891",
+		"01cc4539"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "161581b3",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 169"
+		}]
+	}]
+}

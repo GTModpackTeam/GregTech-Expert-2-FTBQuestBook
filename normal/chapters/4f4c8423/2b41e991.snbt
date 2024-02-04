@@ -1,0 +1,20 @@
+{
+	title: "オランダ式圧搾チョコ酒",
+	x: 11.5d,
+	y: 8.0d,
+	description: "Dutched Pressed Chocolate Liquor",
+	text: [
+		""
+	],
+	dependencies: [
+		"b7c8ecf9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "bcfe10dd",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1051"
+		}]
+	}]
+}

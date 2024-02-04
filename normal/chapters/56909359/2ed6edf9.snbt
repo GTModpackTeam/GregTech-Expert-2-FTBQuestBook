@@ -1,0 +1,17 @@
+{
+	title: "(RS)-N,N-dimethyl-1-(10H-phenothiazin-10-yl)propan-2-amine",
+	x: 0.0d,
+	y: 7.5d,
+	description: "Promethazine",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "99be12dc",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1094"
+		}]
+	}]
+}

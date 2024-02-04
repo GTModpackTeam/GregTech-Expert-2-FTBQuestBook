@@ -1,0 +1,23 @@
+{
+	title: "パルメザーン",
+	x: -9.0d,
+	y: 24.5d,
+	description: "Parmigiana",
+	text: [
+		""
+	],
+	dependencies: [
+		"74625872",
+		"37bade7a",
+		"7a452f3e",
+		"a588db67"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "9b73483b",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 277"
+		}]
+	}]
+}

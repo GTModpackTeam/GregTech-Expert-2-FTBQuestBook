@@ -1,0 +1,20 @@
+{
+	title: "ぢたりに",
+	x: -7.5d,
+	y: 32.0d,
+	description: "Raw Ditalini",
+	text: [
+		""
+	],
+	dependencies: [
+		"b5a31004"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "bac9f7d3",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 255"
+		}]
+	}]
+}

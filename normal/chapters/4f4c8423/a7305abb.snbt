@@ -1,0 +1,19 @@
+{
+	title: "すっぱクリーム",
+	x: -13.5d,
+	y: 17.0d,
+	description: "Sour Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"08ea404f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e98a1d1c",
+		type: "fluid",
+		fluid: "gtfo_sour_cream",
+		amount: 8000
+	}]
+}

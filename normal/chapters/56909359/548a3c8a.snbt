@@ -1,0 +1,42 @@
+{
+	title: "吸血装置",
+	x: 2.5d,
+	y: -3.5d,
+	description: "Mob Extractor",
+	text: [
+		"モブから牛乳などを搾り取る機械です。",
+		"余談:この機械の最上位の英名は何故か「Ultimate」ではなく「Elite IV」である。"
+	],
+	dependencies: [
+		"3664deb4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d7bdf6f8",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 8553"
+		},
+		{
+			item: "gregtech:machine 1 8554"
+		},
+		{
+			item: "gregtech:machine 1 8555"
+		},
+		{
+			item: "gregtech:machine 1 8556"
+		},
+		{
+			item: "gregtech:machine 1 8557"
+		},
+		{
+			item: "gregtech:machine 1 8558"
+		},
+		{
+			item: "gregtech:machine 1 8559"
+		},
+		{
+			item: "gregtech:machine 1 8560"
+		}]
+	}]
+}

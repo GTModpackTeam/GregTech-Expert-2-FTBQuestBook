@@ -1,0 +1,20 @@
+{
+	title: "スモアにいっぱい使うぞ",
+	x: 10.0d,
+	y: 3.5d,
+	description: "Milk Chocolate",
+	text: [
+		""
+	],
+	dependencies: [
+		"a358fcc8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3fe67805",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 190"
+		}]
+	}]
+}

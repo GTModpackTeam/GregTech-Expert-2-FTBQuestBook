@@ -1,0 +1,20 @@
+{
+	title: "ピーラーで皮むき",
+	x: -1.5d,
+	y: -4.0d,
+	description: "Peeled Potato",
+	text: [
+		""
+	],
+	dependencies: [
+		"f354264c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "99de5d6a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 25"
+		}]
+	}]
+}

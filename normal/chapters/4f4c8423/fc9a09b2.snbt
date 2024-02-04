@@ -1,0 +1,20 @@
+{
+	title: "圧搾チョコ酒",
+	x: 13.0d,
+	y: 8.0d,
+	description: "Pressed Chocolate Liquor",
+	text: [
+		""
+	],
+	dependencies: [
+		"5bc71e16"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1f90c19f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1050"
+		}]
+	}]
+}

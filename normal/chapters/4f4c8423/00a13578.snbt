@@ -1,0 +1,20 @@
+{
+	title: "串刺しポテト",
+	x: -9.0d,
+	y: -11.5d,
+	description: "Roasted Potato on a Stick",
+	text: [
+		"簡単・素早い・序盤に優秀"
+	],
+	dependencies: [
+		"61bb4b85"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b8ad4b4f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 42"
+		}]
+	}]
+}

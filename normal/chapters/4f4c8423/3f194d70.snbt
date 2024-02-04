@@ -1,0 +1,26 @@
+{
+	title: "Chum Bucketと言えば釣り",
+	x: 10.0d,
+	y: 9.5d,
+	description: "Chum Bucket Kebab Mix",
+	text: [
+		""
+	],
+	dependencies: [
+		"cf913a60",
+		"e92d3e2f",
+		"3c4eae16",
+		"ca0f1b37",
+		"7b209369",
+		"d7cfdd12",
+		"d73e6301"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e3c483b5",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 147"
+		}]
+	}]
+}

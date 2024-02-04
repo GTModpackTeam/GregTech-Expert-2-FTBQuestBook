@@ -1,0 +1,19 @@
+{
+	title: "無殺菌でした",
+	x: -6.0d,
+	y: 18.5d,
+	description: "Unpasteurized Skimmed Milk",
+	text: [
+		""
+	],
+	dependencies: [
+		"7022c907"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c9be6d04",
+		type: "fluid",
+		fluid: "gtfo_unpasteurized_skimmed_milk",
+		amount: 800
+	}]
+}

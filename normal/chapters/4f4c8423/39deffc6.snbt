@@ -1,0 +1,19 @@
+{
+	title: "舐めてもうまい",
+	x: -4.5d,
+	y: 2.0d,
+	description: "Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"08ea404f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2afa90ee",
+		type: "fluid",
+		fluid: "gtfo_cream",
+		amount: 200
+	}]
+}

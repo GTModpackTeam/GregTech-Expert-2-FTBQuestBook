@@ -1,0 +1,19 @@
+{
+	title: "ゴミ品質ビール",
+	x: -6.0d,
+	y: -17.5d,
+	description: "Poor-Quality Beer",
+	text: [
+		""
+	],
+	dependencies: [
+		"25792d8d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b4f96e2c",
+		type: "fluid",
+		fluid: "gtfo_poor_quality_beer",
+		amount: 2000
+	}]
+}

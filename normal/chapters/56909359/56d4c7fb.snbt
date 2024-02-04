@@ -1,0 +1,19 @@
+{
+	title: "白ブドウジュース-清澄",
+	x: -4.5d,
+	y: 6.0d,
+	description: "Clarified Whit Wort",
+	text: [
+		""
+	],
+	dependencies: [
+		"ad777329"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "611c059b",
+		type: "fluid",
+		fluid: "gtfo_clarified_white_wort",
+		amount: 800
+	}]
+}

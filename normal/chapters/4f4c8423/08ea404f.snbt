@@ -1,0 +1,19 @@
+{
+	title: "つまりバニラの牛乳は無殺菌牛乳",
+	x: -3.0d,
+	y: 0.5d,
+	description: "Pasteurized Milk",
+	text: [
+		""
+	],
+	dependencies: [
+		"b98f8ad8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "904c04e5",
+		type: "fluid",
+		fluid: "gtfo_pasteurized_milk",
+		amount: 4000
+	}]
+}

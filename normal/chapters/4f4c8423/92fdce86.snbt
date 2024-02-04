@@ -1,0 +1,18 @@
+{
+	title: "何が加熱器だ",
+	x: 11.5d,
+	y: 15.5d,
+	description: "Marshmallow Foam",
+	text: [
+		""
+	],
+	dependencies: [
+		"4577fa3f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a6aef715",
+		type: "fluid",
+		fluid: "gtfo_marshmallow_foam"
+	}]
+}

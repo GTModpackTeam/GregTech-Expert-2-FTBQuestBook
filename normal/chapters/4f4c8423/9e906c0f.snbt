@@ -1,0 +1,20 @@
+{
+	title: "蒸気で調理してるし実質燻製",
+	x: -3.0d,
+	y: 6.5d,
+	description: "Cooked Curd",
+	text: [
+		""
+	],
+	dependencies: [
+		"2e50e44b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b0d3599a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1108"
+		}]
+	}]
+}

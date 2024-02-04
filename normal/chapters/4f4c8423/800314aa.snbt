@@ -1,0 +1,19 @@
+{
+	title: "大豆とかいう万能食材",
+	x: -6.0d,
+	y: -1.0d,
+	description: "Soy Lecithin",
+	text: [
+		""
+	],
+	dependencies: [
+		"68649806"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "14cca511",
+		type: "fluid",
+		fluid: "gtfo_soy_lecithin",
+		amount: 50
+	}]
+}

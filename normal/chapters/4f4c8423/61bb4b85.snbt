@@ -1,0 +1,20 @@
+{
+	title: "串刺し推奨",
+	x: -6.0d,
+	y: -11.5d,
+	description: "Baked Potato",
+	text: [
+		""
+	],
+	dependencies: [
+		"037b2365"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "afbb97de",
+		type: "item",
+		items: [{
+			item: "minecraft:baked_potato"
+		}]
+	}]
+}

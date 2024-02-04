@@ -1,0 +1,7 @@
+{
+	title: "Gregtech Food Option",
+	icon: "gregtechfoodoption:gtfo_meta_item 1 107",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

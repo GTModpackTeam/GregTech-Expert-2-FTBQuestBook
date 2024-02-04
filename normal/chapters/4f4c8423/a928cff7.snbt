@@ -1,0 +1,20 @@
+{
+	title: "カロリー爆弾",
+	x: 7.0d,
+	y: 15.5d,
+	description: "TailFat Kebab Raw",
+	text: [
+		""
+	],
+	dependencies: [
+		"84899018"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "37c2a50e",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 150"
+		}]
+	}]
+}

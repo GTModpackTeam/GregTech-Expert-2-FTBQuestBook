@@ -1,0 +1,19 @@
+{
+	title: "コーフィー",
+	x: -13.5d,
+	y: 4.5d,
+	description: "Coffee",
+	text: [
+		""
+	],
+	dependencies: [
+		"bc620a01"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "73f3d466",
+		type: "fluid",
+		fluid: "gtfo_coffee",
+		amount: 100
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "パルミじゃぁの～",
+	x: -4.5d,
+	y: 18.5d,
+	description: "Parmigiano-Reggiano Starter",
+	text: [
+		""
+	],
+	dependencies: [
+		"dc7a7d5e",
+		"7ba083d5"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7806b6ee",
+		type: "fluid",
+		fluid: "gtfo_parmigiano_reggiano_starter"
+	}]
+}

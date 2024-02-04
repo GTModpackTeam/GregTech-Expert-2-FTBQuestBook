@@ -1,0 +1,18 @@
+{
+	title: "Enriched レモンライム溶液",
+	x: -12.0d,
+	y: 7.5d,
+	description: "Lemon-Lime Sludge",
+	text: [
+		""
+	],
+	dependencies: [
+		"df2c8a0a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ce84cf9f",
+		type: "fluid",
+		fluid: "gtfo_lemon_lime_sludge"
+	}]
+}

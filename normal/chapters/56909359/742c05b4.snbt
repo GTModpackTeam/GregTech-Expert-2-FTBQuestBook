@@ -1,0 +1,23 @@
+{
+	title: "処理が面倒だけどかなり強いぞ",
+	x: 6.5d,
+	y: 0.0d,
+	description: "Coffee",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3dfe2cd2",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 202"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 201"
+		}]
+	}]
+}

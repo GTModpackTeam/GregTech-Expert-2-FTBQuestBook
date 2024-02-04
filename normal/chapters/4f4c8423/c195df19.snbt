@@ -1,0 +1,21 @@
+{
+	title: "(´∀｀∩)↑age↑FISH",
+	x: -9.0d,
+	y: -17.5d,
+	description: "Fried Fish",
+	text: [
+		""
+	],
+	dependencies: [
+		"97af35ed",
+		"95928e4d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "43ddfe51",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 219"
+		}]
+	}]
+}

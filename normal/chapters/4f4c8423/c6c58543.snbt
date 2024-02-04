@@ -1,0 +1,21 @@
+{
+	title: "こんなピンクになることある？？？",
+	x: -10.5d,
+	y: -13.0d,
+	description: "Melon Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"94752891",
+		"edd7e2ce"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a089a0a4",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 171"
+		}]
+	}]
+}

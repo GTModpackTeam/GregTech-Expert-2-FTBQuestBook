@@ -1,0 +1,22 @@
+{
+	title: "口の中パッサパサ",
+	x: 10.0d,
+	y: -7.0d,
+	description: "Toast Sandwich",
+	text: [
+		""
+	],
+	dependencies: [
+		"d62bf2ac",
+		"2c55b1fa",
+		"7511372a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "adc64e92",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 212"
+		}]
+	}]
+}

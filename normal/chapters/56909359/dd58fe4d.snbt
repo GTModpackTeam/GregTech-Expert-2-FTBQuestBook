@@ -1,0 +1,23 @@
+{
+	title: "重曹につけたり挟んだり...",
+	x: 6.5d,
+	y: 1.0d,
+	description: "Peas",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "359ec619",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 206"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 207"
+		}]
+	}]
+}

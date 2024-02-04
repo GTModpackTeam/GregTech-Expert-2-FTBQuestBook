@@ -1,0 +1,19 @@
+{
+	title: "調理用白ワイン",
+	x: -4.5d,
+	y: 4.5d,
+	description: "White Wine",
+	text: [
+		""
+	],
+	dependencies: [
+		"56d4c7fb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0c9549a1",
+		type: "fluid",
+		fluid: "gtfo_white_wine",
+		amount: 200
+	}]
+}

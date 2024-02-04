@@ -1,0 +1,22 @@
+{
+	title: "ボロネッリネッアッネッネッレ",
+	x: -10.5d,
+	y: 29.0d,
+	description: "Tagliatelle al ragu",
+	text: [
+		""
+	],
+	dependencies: [
+		"3dff1bc1",
+		"b98f8ad8",
+		"85066825"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a1aae964",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 285"
+		}]
+	}]
+}

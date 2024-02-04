@@ -1,0 +1,20 @@
+{
+	title: "Ball-o-Mozzarella",
+	x: -9.0d,
+	y: 8.0d,
+	description: "Mozzarella Ball",
+	text: [
+		""
+	],
+	dependencies: [
+		"f59f88a7"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "202ea376",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 98"
+		}]
+	}]
+}

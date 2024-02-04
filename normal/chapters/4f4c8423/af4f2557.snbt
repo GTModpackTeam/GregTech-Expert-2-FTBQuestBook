@@ -1,0 +1,20 @@
+{
+	title: "カルボナァラ",
+	x: -7.5d,
+	y: 29.0d,
+	description: "Carbonara Sauce",
+	text: [
+		""
+	],
+	dependencies: [
+		"74625872",
+		"5745be04"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a9e9874c",
+		type: "fluid",
+		fluid: "gtfo_carbonara_sauce",
+		amount: 500
+	}]
+}

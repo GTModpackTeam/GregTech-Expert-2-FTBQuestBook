@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: -2.75d,
+	text: [
+		""
+	],
+	dependencies: [
+		"c7b34d16"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "31e6d5ca",
+		type: "checkmark",
+		title: "GTFO-機械"
+	}]
+}

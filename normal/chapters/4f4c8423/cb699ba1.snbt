@@ -1,0 +1,20 @@
+{
+	title: "抹茶味にしか見えなかった",
+	x: -9.0d,
+	y: 23.0d,
+	description: "Lasagna al pesto",
+	text: [
+		""
+	],
+	dependencies: [
+		"d504a097"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "543f8b0e",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 290"
+		}]
+	}]
+}

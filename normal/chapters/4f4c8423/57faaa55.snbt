@@ -1,0 +1,20 @@
+{
+	title: "なんか君浮いてない?",
+	x: -9.0d,
+	y: -10.0d,
+	description: "Syals",
+	text: [
+		""
+	],
+	dependencies: [
+		"f49a927d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f4ae6b30",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 38"
+		}]
+	}]
+}

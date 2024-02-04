@@ -1,0 +1,21 @@
+{
+	title: "トマトSouth",
+	x: -12.0d,
+	y: 29.0d,
+	description: "Tomato Bolognese Sauce",
+	text: [
+		""
+	],
+	dependencies: [
+		"868fc00e",
+		"d80623ed",
+		"7a452f3e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6563af91",
+		type: "fluid",
+		fluid: "gtfo_tomato_bolognese_sauce",
+		amount: 200
+	}]
+}

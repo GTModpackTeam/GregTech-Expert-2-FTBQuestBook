@@ -1,0 +1,18 @@
+{
+	title: "ブドウジュースと間違えたら死ぬ",
+	x: 0.0d,
+	y: 4.0d,
+	description: "Purple Drink",
+	dependencies: [
+		"aa24e286",
+		"d4ae0f69",
+		"1f209daf"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2897a136",
+		type: "fluid",
+		fluid: "gtfo_purple_drink",
+		amount: 500
+	}]
+}

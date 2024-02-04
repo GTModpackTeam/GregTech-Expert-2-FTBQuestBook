@@ -1,0 +1,21 @@
+{
+	title: "ソースの前段階的な",
+	x: -13.5d,
+	y: 27.5d,
+	description: "Vitello Tonnato Flavorant",
+	text: [
+		""
+	],
+	dependencies: [
+		"d2365baf",
+		"0c9549a1",
+		"98c51163",
+		"95928e4d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "631d4a39",
+		type: "fluid",
+		fluid: "gtfo_vitello_tonnato_flavorant"
+	}]
+}

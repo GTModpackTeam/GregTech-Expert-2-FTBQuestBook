@@ -1,0 +1,20 @@
+{
+	title: "粉砕でかなりロストしてそう",
+	x: 16.0d,
+	y: 9.5d,
+	description: "Ground Cocoa Nibs",
+	text: [
+		""
+	],
+	dependencies: [
+		"ed133028"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "edb747bc",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 198"
+		}]
+	}]
+}

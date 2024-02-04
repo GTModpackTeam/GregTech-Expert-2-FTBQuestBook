@@ -1,0 +1,25 @@
+{
+	title: "バナナの皮そのままか...",
+	x: 5.0d,
+	y: 9.5d,
+	description: "Chum on Skewel Kebab",
+	text: [
+		""
+	],
+	dependencies: [
+		"31de66af",
+		"5ffdc5bc",
+		"a647e9f4",
+		"25745d57",
+		"050961e5",
+		"f7169e2a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3efb3ad1",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 145"
+		}]
+	}]
+}

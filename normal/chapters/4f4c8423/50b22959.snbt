@@ -1,0 +1,19 @@
+{
+	title: "酢酸入りの危険物質",
+	x: -6.0d,
+	y: 8.0d,
+	description: "Crude Rennet Solution",
+	text: [
+		""
+	],
+	dependencies: [
+		"d5bd6a8c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "11fc898f",
+		type: "fluid",
+		fluid: "gtfo_crude_rennet_solution",
+		amount: 500
+	}]
+}

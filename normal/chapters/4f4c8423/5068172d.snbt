@@ -1,0 +1,20 @@
+{
+	title: "ひき肉の塊",
+	x: -12.0d,
+	y: 14.0d,
+	description: "Raw Barg Kebab",
+	text: [
+		""
+	],
+	dependencies: [
+		"a7992331"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b9c1e41e",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 138"
+		}]
+	}]
+}

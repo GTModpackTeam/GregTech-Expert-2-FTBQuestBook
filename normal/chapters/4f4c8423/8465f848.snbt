@@ -1,0 +1,20 @@
+{
+	title: "組立機で作るだけで超コスト減るの何？",
+	x: -7.5d,
+	y: 14.0d,
+	description: "Nailed Tomatos Kebab",
+	text: [
+		""
+	],
+	dependencies: [
+		"219c0652"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c4f6086b",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 143"
+		}]
+	}]
+}

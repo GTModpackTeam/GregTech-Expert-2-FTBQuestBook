@@ -1,0 +1,21 @@
+{
+	title: "え?使わなくてもいいの?",
+	x: 5.5d,
+	y: -2.0d,
+	description: "Elderberry",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "19a0c227",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 334"
+		}]
+	}]
+}

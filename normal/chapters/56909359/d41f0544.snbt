@@ -1,0 +1,23 @@
+{
+	title: "コッチヲ見ロォ～！",
+	x: 8.5d,
+	y: 5.0d,
+	description: "Coconut",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f8f806c8",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_sapling_1 1 2"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 342"
+		}]
+	}]
+}

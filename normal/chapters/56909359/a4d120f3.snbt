@@ -1,0 +1,22 @@
+{
+	title: "これキメないとやってられないよね",
+	x: -13.5d,
+	y: 3.0d,
+	description: "Coffee Cup",
+	text: [
+		""
+	],
+	dependencies: [
+		"6e0ea762",
+		"920a4ed9",
+		"0343f09c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d6a18f88",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 203"
+		}]
+	}]
+}

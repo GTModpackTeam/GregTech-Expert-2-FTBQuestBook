@@ -1,0 +1,21 @@
+{
+	title: "卵黄を分けましょう",
+	x: 13.0d,
+	y: 15.5d,
+	description: "Marshmallow Syrup Mixture",
+	text: [
+		""
+	],
+	dependencies: [
+		"d55d834d",
+		"06ae06ff",
+		"885c5d27"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0017c9fd",
+		type: "fluid",
+		fluid: "gtfo_marshmallow_syrup_mixture",
+		amount: 500
+	}]
+}

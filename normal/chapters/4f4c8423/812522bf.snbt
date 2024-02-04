@@ -1,0 +1,22 @@
+{
+	title: "パイプキンパイ",
+	x: -9.0d,
+	y: 9.5d,
+	description: "Pumpkin Pie",
+	text: [
+		""
+	],
+	dependencies: [
+		"385a638a",
+		"79905e70",
+		"40a5ca38"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "16ee9f7d",
+		type: "item",
+		items: [{
+			item: "minecraft:pumpkin_pie"
+		}]
+	}]
+}

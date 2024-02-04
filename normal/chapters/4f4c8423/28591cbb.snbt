@@ -1,0 +1,20 @@
+{
+	title: "ブロックの金型にはめるなんて誰が思いついたんだ",
+	x: -6.0d,
+	y: 6.5d,
+	description: "Cheddar Curd Mold",
+	text: [
+		""
+	],
+	dependencies: [
+		"82a44b14"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ab73ae9d",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 92"
+		}]
+	}]
+}

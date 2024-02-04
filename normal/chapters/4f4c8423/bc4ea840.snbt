@@ -1,0 +1,21 @@
+{
+	title: "クリックすればクッキーが2枚、もう1回クリックすればクッキーが3枚",
+	x: -10.5d,
+	y: 9.5d,
+	description: "Cookie",
+	text: [
+		""
+	],
+	dependencies: [
+		"897dee70",
+		"d40719d1"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e576c2aa",
+		type: "item",
+		items: [{
+			item: "minecraft:cookie"
+		}]
+	}]
+}

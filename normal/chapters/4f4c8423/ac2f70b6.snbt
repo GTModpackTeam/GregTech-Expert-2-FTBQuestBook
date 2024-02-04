@@ -1,0 +1,20 @@
+{
+	title: "べとべとになりそう",
+	x: -4.5d,
+	y: -7.0d,
+	description: "Oily Potato Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"2e096c98"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c6482e87",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 30"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Bruhすちぇった",
+	x: -10.5d,
+	y: 26.0d,
+	description: "Bruschetta",
+	text: [
+		""
+	],
+	dependencies: [
+		"d2365baf",
+		"6305f08f",
+		"b967a0f4",
+		"5564853f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1dfd223d",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 272"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "ハンバーガーセットで",
+	x: -3.0d,
+	y: -4.0d,
+	description: "Potato Strip",
+	text: [
+		""
+	],
+	dependencies: [
+		"f218504f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "111b493e",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 26"
+		}]
+	}]
+}

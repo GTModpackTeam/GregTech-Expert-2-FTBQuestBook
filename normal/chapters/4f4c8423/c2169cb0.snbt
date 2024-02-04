@@ -1,0 +1,20 @@
+{
+	title: "BANされちゃう！",
+	x: 3.0d,
+	y: -11.5d,
+	description: "Unbaked Bun",
+	text: [
+		""
+	],
+	dependencies: [
+		"5af08276"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a08195aa",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 83"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "いっぱい食べれば関係ない！",
+	x: -6.0d,
+	y: -5.5d,
+	description: "Reduced Fat Potato Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"9f9bc854"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fc6df559",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 32"
+		}]
+	}]
+}

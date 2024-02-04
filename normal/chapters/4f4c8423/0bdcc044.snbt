@@ -1,0 +1,20 @@
+{
+	title: "メッシュって何さ",
+	x: -12.0d,
+	y: 6.5d,
+	description: "Apple Structural Mesh",
+	text: [
+		""
+	],
+	dependencies: [
+		"7255cbae"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5c5a9fc6",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 53"
+		}]
+	}]
+}

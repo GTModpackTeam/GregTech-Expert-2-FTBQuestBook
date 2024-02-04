@@ -1,0 +1,20 @@
+{
+	title: "64本のポテト",
+	x: -9.0d,
+	y: -2.5d,
+	description: "French Fries",
+	text: [
+		""
+	],
+	dependencies: [
+		"a314989d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7940dc5c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 37"
+		}]
+	}]
+}

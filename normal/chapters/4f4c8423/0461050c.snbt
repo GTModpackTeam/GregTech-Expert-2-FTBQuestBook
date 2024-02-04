@@ -1,0 +1,20 @@
+{
+	title: "しょっぱそう",
+	x: 14.5d,
+	y: 17.0d,
+	description: "Salted Gorgonzola Wheel",
+	text: [
+		""
+	],
+	dependencies: [
+		"e7429db9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3f7e509c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 110"
+		}]
+	}]
+}

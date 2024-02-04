@@ -1,0 +1,24 @@
+{
+	title: "スライスとスライスとスライスと。",
+	x: 6.0d,
+	y: -16.0d,
+	description: "Raw Olive and Mushroom Pizza",
+	text: [
+		""
+	],
+	dependencies: [
+		"c4e9d289",
+		"f999df31",
+		"bfbf14d8",
+		"a588db67",
+		"e674cabb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e69b7813",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 60"
+		}]
+	}]
+}

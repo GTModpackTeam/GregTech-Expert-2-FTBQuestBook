@@ -1,0 +1,22 @@
+{
+	title: "チャムで作ると作成数が2倍",
+	x: -12.0d,
+	y: 12.5d,
+	description: "Barg Ingredients",
+	text: [
+		""
+	],
+	dependencies: [
+		"20f41361",
+		"e674cabb",
+		"a647e9f4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8ae68c39",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1118"
+		}]
+	}]
+}

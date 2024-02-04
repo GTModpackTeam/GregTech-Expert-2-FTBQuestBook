@@ -1,0 +1,20 @@
+{
+	title: "トウモコロシ",
+	x: -12.0d,
+	y: 30.5d,
+	description: "Corn Kernel",
+	text: [
+		""
+	],
+	dependencies: [
+		"12f4d15b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ee73868e",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1001"
+		}]
+	}]
+}

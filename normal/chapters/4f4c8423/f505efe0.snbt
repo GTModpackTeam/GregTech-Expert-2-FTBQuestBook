@@ -1,0 +1,21 @@
+{
+	title: "フェットゥッチッ",
+	x: -10.5d,
+	y: 23.0d,
+	description: "Fettuccine Alfredo",
+	text: [
+		""
+	],
+	dependencies: [
+		"74625872",
+		"3dff1bc1"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8abf05f0",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 276"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "溶けてる(固体)",
+	x: -12.0d,
+	y: 2.0d,
+	description: "Melting Milk Chocolate",
+	text: [
+		""
+	],
+	dependencies: [
+		"3fe67805"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "774d4485",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1043"
+		}]
+	}]
+}

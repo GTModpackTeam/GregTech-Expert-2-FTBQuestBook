@@ -1,0 +1,18 @@
+{
+	title: "まずそう",
+	x: 1.5d,
+	y: 6.0d,
+	description: "Potato Juice",
+	text: [
+		""
+	],
+	dependencies: [
+		"f354264c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d4c937ae",
+		type: "fluid",
+		fluid: "gtfo_potato_juice"
+	}]
+}

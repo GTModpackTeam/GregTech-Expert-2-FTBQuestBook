@@ -1,0 +1,18 @@
+{
+	title: "麦ュース",
+	x: -3.0d,
+	y: 6.0d,
+	description: "Wheaty Juice",
+	text: [
+		""
+	],
+	dependencies: [
+		"d2e2bc27"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "25792d8d",
+		type: "fluid",
+		fluid: "gtfo_wheaty_juice"
+	}]
+}

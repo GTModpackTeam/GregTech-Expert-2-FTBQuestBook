@@ -1,0 +1,23 @@
+{
+	title: "コーヒー豆-焙煎",
+	x: -13.5d,
+	y: 7.5d,
+	description: "Roasted Coffee Beans",
+	text: [
+		""
+	],
+	dependencies: [
+		"d8058619"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "500ea1fc",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1019"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1018"
+		}]
+	}]
+}

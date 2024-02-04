@@ -1,0 +1,21 @@
+{
+	title: "腹持ちがすごくいい",
+	x: 10.0d,
+	y: 15.5d,
+	description: "Beans on Toast",
+	text: [
+		""
+	],
+	dependencies: [
+		"b5070143",
+		"5b575585"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c98e9a03",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 218"
+		}]
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "ペスト・ジェノベーゼ-1",
+	x: -6.0d,
+	y: 23.0d,
+	description: "Unbaked Pesto Lasagna in Baking Tray",
+	text: [
+		""
+	],
+	dependencies: [
+		"202ea376",
+		"ab328702",
+		"20f41361",
+		"021b38b4",
+		"3aa30cfc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c453b6a3",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 298"
+		}]
+	}]
+}

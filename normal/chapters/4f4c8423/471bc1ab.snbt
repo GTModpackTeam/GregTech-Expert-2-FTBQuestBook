@@ -1,0 +1,18 @@
+{
+	title: "あっっっつ",
+	x: 14.5d,
+	y: 3.5d,
+	description: "Molten Unsweetened Chocolate",
+	text: [
+		""
+	],
+	dependencies: [
+		"860515f4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c748cfc2",
+		type: "fluid",
+		fluid: "gtfo_molten_unsweetened_chocolate"
+	}]
+}

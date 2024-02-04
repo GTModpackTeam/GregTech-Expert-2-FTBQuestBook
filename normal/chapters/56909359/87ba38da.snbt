@@ -1,0 +1,32 @@
+{
+	title: "...いる?",
+	x: -2.5d,
+	y: -3.5d,
+	description: "Mob Age Sorter",
+	text: [
+		"名前の通り、モブを年齢を仕分ける装置です。",
+		"その電圧のひとつ下の電圧で稼働させることができます。",
+		"tips:稼働にはレッドストーン信号が必要。"
+	],
+	dependencies: [
+		"3664deb4"
+	],
+	optional: true,
+	min_width: 300,
+	tasks: [{
+		uid: "2ae60876",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 8545"
+		},
+		{
+			item: "gregtech:machine 1 8546"
+		},
+		{
+			item: "gregtech:machine 1 8547"
+		},
+		{
+			item: "gregtech:machine 1 8548"
+		}]
+	}]
+}

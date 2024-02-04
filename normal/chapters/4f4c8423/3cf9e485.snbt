@@ -1,0 +1,20 @@
+{
+	title: "スモア Tier-2",
+	x: -13.5d,
+	y: 5.0d,
+	description: "Hot Graham Cracker",
+	text: [
+		""
+	],
+	dependencies: [
+		"dfbc2584"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c10ae0d0",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1048"
+		}]
+	}]
+}

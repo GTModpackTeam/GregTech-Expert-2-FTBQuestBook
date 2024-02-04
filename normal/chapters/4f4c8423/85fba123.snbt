@@ -1,0 +1,20 @@
+{
+	title: "ポテチ②",
+	x: -9.0d,
+	y: -7.0d,
+	description: "Kettle Chips",
+	text: [
+		""
+	],
+	dependencies: [
+		"ac2f70b6"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fb08fd94",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 40"
+		}]
+	}]
+}

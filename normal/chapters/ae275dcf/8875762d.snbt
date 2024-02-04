@@ -1,4 +1,5 @@
 {
+	title: "LuV回路の生産強化",
 	icon: "gregtech:meta_item_1 1 644",
 	x: -5.0d,
 	y: 1.5d,
@@ -15,7 +16,6 @@
 	tasks: [{
 		uid: "9abf34ee",
 		type: "checkmark",
-		title: "LuV回路の生産強化",
-		icon: "gregtech:meta_item_1 2 644"
+		title: "達成したら押しましょう"
 	}]
 }

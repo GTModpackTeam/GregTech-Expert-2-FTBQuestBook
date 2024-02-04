@@ -1,0 +1,20 @@
+{
+	title: "ジャンプ力がハイになる",
+	x: 8.5d,
+	y: 3.5d,
+	description: "Rafanata",
+	text: [
+		""
+	],
+	dependencies: [
+		"51615d78"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3903785f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 282"
+		}]
+	}]
+}

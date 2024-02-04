@@ -1,0 +1,20 @@
+{
+	title: "なんか色変わってない？",
+	x: -9.0d,
+	y: 2.0d,
+	description: "Cheddar Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"246c249c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "193da5b8",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 97"
+		}]
+	}]
+}

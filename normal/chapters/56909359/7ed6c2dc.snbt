@@ -1,0 +1,23 @@
+{
+	title: "使い道は2通り",
+	x: 7.5d,
+	y: 0.0d,
+	description: "Horoseradish",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8e5b67c9",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 306"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 233"
+		}]
+	}]
+}

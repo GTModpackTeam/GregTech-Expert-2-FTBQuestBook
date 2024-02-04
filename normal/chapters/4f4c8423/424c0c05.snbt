@@ -1,0 +1,20 @@
+{
+	title: "リガトニ生",
+	x: -4.5d,
+	y: 26.0d,
+	description: "Raw Rigatoni",
+	text: [
+		""
+	],
+	dependencies: [
+		"b5a31004"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "90a860c9",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 256"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "ソーセージは加熱済み、そして生地は生",
+	x: -7.5d,
+	y: 17.0d,
+	description: "Uncooked Sausage Roll",
+	text: [
+		""
+	],
+	dependencies: [
+		"49e1da40",
+		"165686f1"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "23ad4819",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 223"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "日本語でok",
+	x: -4.5d,
+	y: 20.0d,
+	description: "Shredded Parmigiano-Reggiano Cheese",
+	text: [
+		""
+	],
+	dependencies: [
+		"d7f29261"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1bf34673",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1133"
+		}]
+	}]
+}

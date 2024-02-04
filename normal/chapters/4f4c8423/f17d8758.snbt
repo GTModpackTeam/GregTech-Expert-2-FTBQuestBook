@@ -1,0 +1,20 @@
+{
+	title: "スモア Tier-1",
+	x: -12.0d,
+	y: 5.0d,
+	description: "Ungraded Graham Cracker",
+	text: [
+		""
+	],
+	dependencies: [
+		"3cf9e485"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f3b7489a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1049"
+		}]
+	}]
+}

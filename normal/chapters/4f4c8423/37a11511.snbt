@@ -1,0 +1,20 @@
+{
+	title: "腐ってるのと発酵してるのを同じにしちゃあかんよ",
+	x: 1.5d,
+	y: -32.5d,
+	description: "Rotten Meat",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "28069905",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 118"
+		}]
+	}]
+}

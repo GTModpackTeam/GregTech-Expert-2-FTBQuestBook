@@ -1,0 +1,20 @@
+{
+	title: "あなたの採掘をアシスト",
+	x: 8.5d,
+	y: -17.5d,
+	description: "Cheese Pizza",
+	text: [
+		""
+	],
+	dependencies: [
+		"d57b904d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "12e066c2",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 62"
+		}]
+	}]
+}

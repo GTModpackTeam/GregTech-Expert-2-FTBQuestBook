@@ -1,0 +1,25 @@
+{
+	title: "食中毒菌の塊",
+	x: -12.0d,
+	y: 15.5d,
+	description: "Kebab Meat Raw",
+	text: [
+		""
+	],
+	dependencies: [
+		"b2394689",
+		"a72bb11a",
+		"073f3fdc",
+		"224fee98",
+		"6bed199a"
+	],
+	dependency_requirement: "one_completed",
+	min_width: 300,
+	tasks: [{
+		uid: "c0c83048",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 156"
+		}]
+	}]
+}

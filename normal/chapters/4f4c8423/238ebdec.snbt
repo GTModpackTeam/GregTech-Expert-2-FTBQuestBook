@@ -1,0 +1,21 @@
+{
+	title: "アッラッサッシッ",
+	x: -10.5d,
+	y: 30.5d,
+	description: "Spaghetti all'assassina",
+	text: [
+		""
+	],
+	dependencies: [
+		"17e4447d",
+		"7a452f3e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "895f1a94",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 284"
+		}]
+	}]
+}

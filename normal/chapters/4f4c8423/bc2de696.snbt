@@ -1,0 +1,20 @@
+{
+	title: "スモア Tier0",
+	x: -10.5d,
+	y: 5.0d,
+	description: "Graham Cracker",
+	text: [
+		""
+	],
+	dependencies: [
+		"f17d8758"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "be886e46",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 191"
+		}]
+	}]
+}

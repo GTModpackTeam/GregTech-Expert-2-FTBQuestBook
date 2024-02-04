@@ -1,0 +1,23 @@
+{
+	title: "実質赤ワイン",
+	x: 6.5d,
+	y: -1.0d,
+	description: "Grapes",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "08ce4a08",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 163"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 124"
+		}]
+	}]
+}

@@ -1,5 +1,6 @@
 {
 	title: "MVの素材",
+	icon: "gregtech:machine_casing 1 2",
 	x: -18.5d,
 	y: -4.5d,
 	shape: "square",
@@ -11,6 +12,6 @@
 	tasks: [{
 		uid: "0f01f399",
 		type: "checkmark",
-		icon: "gregtech:machine_casing 1 2"
+		title: "達成したら押しましょう"
 	}]
 }

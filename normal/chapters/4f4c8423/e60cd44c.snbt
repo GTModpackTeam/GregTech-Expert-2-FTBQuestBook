@@ -1,0 +1,21 @@
+{
+	title: "あぁ強い",
+	x: 8.5d,
+	y: 5.0d,
+	description: "Hot Rabbit Stew",
+	text: [
+		""
+	],
+	dependencies: [
+		"83d0812f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8bd70c9c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 133"
+		}],
+		ignore_nbt: 1b
+	}]
+}

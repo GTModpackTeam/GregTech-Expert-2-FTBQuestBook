@@ -1,0 +1,19 @@
+{
+	title: "1mb当たり10億個の生きた乳酸菌",
+	x: 16.0d,
+	y: 12.5d,
+	description: "Lactic Acid Bacteria",
+	text: [
+		""
+	],
+	dependencies: [
+		"7022c907"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "dfbb063b",
+		type: "fluid",
+		fluid: "gtfo_lactic_acid_bacteria",
+		amount: 1
+	}]
+}

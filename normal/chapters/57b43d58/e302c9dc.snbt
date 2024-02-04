@@ -44,6 +44,7 @@
 	min_width: 300,
 	tasks: [{
 		uid: "246720b4",
-		type: "checkmark"
+		type: "checkmark",
+		title: "読んだら押しましょう"
 	}]
 }

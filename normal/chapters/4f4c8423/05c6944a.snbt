@@ -1,0 +1,20 @@
+{
+	title: "切っシュルーム",
+	x: 3.0d,
+	y: -31.0d,
+	description: "Mushroom Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c4e9d289",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 75"
+		}]
+	}]
+}

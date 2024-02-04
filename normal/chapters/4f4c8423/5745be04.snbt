@@ -1,0 +1,23 @@
+{
+	title: "エッグい",
+	x: -1.5d,
+	y: 6.5d,
+	description: "Egg",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "01c5000d",
+		type: "item",
+		items: [{
+			item: "minecraft:egg"
+		}]
+	},
+	{
+		uid: "3a658e91",
+		type: "fluid",
+		fluid: "gtfo_egg",
+		amount: 200
+	}]
+}

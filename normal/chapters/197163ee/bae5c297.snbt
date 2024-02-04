@@ -1,4 +1,5 @@
 {
+	title: "Tier 4",
 	x: 0.0d,
 	y: 16.0d,
 	dependencies: [
@@ -8,6 +9,6 @@
 	tasks: [{
 		uid: "179d3957",
 		type: "checkmark",
-		title: "Tier 4"
+		title: "達成したら押しましょう"
 	}]
 }

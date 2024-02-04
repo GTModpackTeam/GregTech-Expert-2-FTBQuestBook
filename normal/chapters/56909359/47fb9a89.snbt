@@ -1,0 +1,23 @@
+{
+	title: "使い道は...3つだけ?",
+	x: 6.5d,
+	y: -3.0d,
+	description: "Black Pepper",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5b4c52e3",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 269"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1134"
+		}]
+	}]
+}

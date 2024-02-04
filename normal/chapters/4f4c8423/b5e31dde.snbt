@@ -1,0 +1,20 @@
+{
+	title: "せめてレアまで焼いてから食べようね",
+	x: -7.5d,
+	y: -22.0d,
+	description: "Raw Beef",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b2394689",
+		type: "item",
+		items: [{
+			item: "minecraft:beef"
+		}]
+	}]
+}

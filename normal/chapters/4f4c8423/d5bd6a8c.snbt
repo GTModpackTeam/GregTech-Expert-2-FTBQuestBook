@@ -1,0 +1,20 @@
+{
+	title: "こまこまギレギレ",
+	x: -4.5d,
+	y: 8.0d,
+	description: "Beef Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"b2394689"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5481655b",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 91"
+		}]
+	}]
+}

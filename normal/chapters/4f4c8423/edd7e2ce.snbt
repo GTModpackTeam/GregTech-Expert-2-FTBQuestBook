@@ -1,0 +1,16 @@
+{
+	title: "スイカちゅーちゅー",
+	x: -12.0d,
+	y: -13.0d,
+	description: "Melon Extract",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2a4163af",
+		type: "fluid",
+		fluid: "gtfo_melon_extract",
+		amount: 100
+	}]
+}

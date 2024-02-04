@@ -1,0 +1,20 @@
+{
+	title: "今までは固形じゃなかったの...?",
+	x: -7.5d,
+	y: 6.5d,
+	description: "Solidified Curd",
+	text: [
+		""
+	],
+	dependencies: [
+		"fe18b7d8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fa904853",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1105"
+		}]
+	}]
+}

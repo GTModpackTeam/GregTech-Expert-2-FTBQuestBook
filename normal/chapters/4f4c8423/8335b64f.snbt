@@ -1,0 +1,18 @@
+{
+	title: "これ料理らしい",
+	x: -12.0d,
+	y: 32.0d,
+	description: "Polenta",
+	text: [
+		""
+	],
+	dependencies: [
+		"5cfb8373"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "46dcc179",
+		type: "fluid",
+		fluid: "gtfo_polenta"
+	}]
+}

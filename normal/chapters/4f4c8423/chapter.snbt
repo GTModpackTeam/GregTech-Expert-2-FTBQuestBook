@@ -1,0 +1,7 @@
+{
+	title: "GTFO-食料",
+	icon: "minecraft:bread",
+	always_invisible: false,
+	group: 1452315481,
+	default_quest_shape: ""
+}

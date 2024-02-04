@@ -1,0 +1,20 @@
+{
+	title: "マターで複製",
+	x: 11.5d,
+	y: 17.0d,
+	description: "Marshmallow Matter",
+	text: [
+		""
+	],
+	dependencies: [
+		"92fdce86"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0cebd03c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1044"
+		}]
+	}]
+}

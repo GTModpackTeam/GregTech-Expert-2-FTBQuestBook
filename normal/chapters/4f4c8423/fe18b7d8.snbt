@@ -1,0 +1,20 @@
+{
+	title: "死んだモッツァレラ",
+	x: -7.5d,
+	y: 8.0d,
+	description: "Dried Mozzarella Curd",
+	text: [
+		""
+	],
+	dependencies: [
+		"f776890e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7b3bec8f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1104"
+		}]
+	}]
+}

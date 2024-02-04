@@ -1,5 +1,6 @@
 {
 	title: "UHVの素材",
+	icon: "gregtech:machine_casing 1 9",
 	x: -18.5d,
 	y: 6.0d,
 	shape: "square",
@@ -12,6 +13,6 @@
 	tasks: [{
 		uid: "13729438",
 		type: "checkmark",
-		icon: "gregtech:machine_casing 1 9"
+		title: "達成したら押しましょう"
 	}]
 }

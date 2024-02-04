@@ -1,0 +1,20 @@
+{
+	title: "アイスクリームの素",
+	x: -6.0d,
+	y: 0.5d,
+	description: "Ice Cream Mixture",
+	text: [
+		""
+	],
+	dependencies: [
+		"39deffc6",
+		"182cca59"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "09c03a7b",
+		type: "fluid",
+		fluid: "gtfo_ice_cream_mixture",
+		amount: 144
+	}]
+}

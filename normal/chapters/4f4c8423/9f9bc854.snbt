@@ -1,0 +1,20 @@
+{
+	title: "熱...遠心分離...?",
+	x: -4.5d,
+	y: -5.5d,
+	description: "Hot Potato Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"2e096c98"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "eb178f49",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 31"
+		}]
+	}]
+}

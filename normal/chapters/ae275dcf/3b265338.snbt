@@ -1,5 +1,6 @@
 {
 	title: "蒸気時代",
+	icon: "gregtech:steam_casing",
 	x: -17.0d,
 	y: -9.0d,
 	shape: "square",
@@ -10,7 +11,6 @@
 	tasks: [{
 		uid: "89e2d1b7",
 		type: "checkmark",
-		title: "到達したら押しましょう",
-		icon: "gregtech:steam_casing"
+		title: "達成したら押しましょう"
 	}]
 }

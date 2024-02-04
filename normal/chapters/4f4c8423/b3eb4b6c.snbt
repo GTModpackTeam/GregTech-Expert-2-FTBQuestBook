@@ -1,0 +1,20 @@
+{
+	title: "ナポリ風-2",
+	x: -7.5d,
+	y: 20.0d,
+	description: "Baked Napoletana Lasagna in Baking Tray",
+	text: [
+		""
+	],
+	dependencies: [
+		"a6d1790e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "bc0110d6",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 300"
+		}]
+	}]
+}

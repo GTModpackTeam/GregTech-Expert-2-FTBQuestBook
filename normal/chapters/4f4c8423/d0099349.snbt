@@ -1,0 +1,16 @@
+{
+	title: "ごくごく普通のミネラルウォーター",
+	x: 6.0d,
+	y: -28.0d,
+	dependencies: [
+		"7c8eab7e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8700eecd",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 12"
+		}]
+	}]
+}

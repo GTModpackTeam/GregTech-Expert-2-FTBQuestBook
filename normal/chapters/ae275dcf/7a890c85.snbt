@@ -1,4 +1,5 @@
 {
+	title: "UV回路 Tier 1",
 	icon: "gregtech:meta_item_1 1 643",
 	x: -8.0d,
 	y: 4.5d,
@@ -13,6 +14,6 @@
 	tasks: [{
 		uid: "f917e01f",
 		type: "checkmark",
-		title: "UV回路 Tier 1"
+		title: "達成したら押しましょう"
 	}]
 }

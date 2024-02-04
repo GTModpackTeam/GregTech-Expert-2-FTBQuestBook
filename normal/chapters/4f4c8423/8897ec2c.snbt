@@ -1,0 +1,21 @@
+{
+	title: "おじいちゃーんこれ食べてー",
+	x: 3.0d,
+	y: 0.5d,
+	description: "Sugary Dough",
+	text: [
+		""
+	],
+	dependencies: [
+		"79905e70",
+		"5af08276"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d40719d1",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 55"
+		}]
+	}]
+}

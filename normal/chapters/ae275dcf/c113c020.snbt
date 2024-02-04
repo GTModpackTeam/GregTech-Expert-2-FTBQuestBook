@@ -1,4 +1,6 @@
 {
+	title: "HV回路 Tier 3",
+	icon: "gregtech:meta_item_1 1 632",
 	x: -11.0d,
 	y: -3.0d,
 	description: "Nanoprocessor",
@@ -14,7 +16,6 @@
 	tasks: [{
 		uid: "af1ea5f5",
 		type: "checkmark",
-		title: "HV回路 Tier 3",
-		icon: "gregtech:meta_item_1 1 632"
+		title: "達成したら押しましょう"
 	}]
 }

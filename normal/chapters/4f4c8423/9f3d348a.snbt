@@ -1,0 +1,22 @@
+{
+	title: "シェー",
+	x: 8.5d,
+	y: 8.0d,
+	description: "Shepherd's Pie",
+	text: [
+		""
+	],
+	dependencies: [
+		"31de66af",
+		"46d0320b",
+		"359ec619"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e9e86b5b",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 215"
+		}]
+	}]
+}

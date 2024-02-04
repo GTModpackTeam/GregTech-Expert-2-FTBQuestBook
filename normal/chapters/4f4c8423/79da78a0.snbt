@@ -1,0 +1,20 @@
+{
+	title: "リガトニ完",
+	x: -7.5d,
+	y: 26.0d,
+	description: "Rigatoni",
+	text: [
+		""
+	],
+	dependencies: [
+		"b2f645b5"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0c88adbe",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 265"
+		}]
+	}]
+}

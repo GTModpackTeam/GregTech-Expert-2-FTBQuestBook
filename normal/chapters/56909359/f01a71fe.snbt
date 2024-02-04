@@ -1,0 +1,21 @@
+{
+	title: "用は酔うだけ",
+	x: -3.0d,
+	y: 3.0d,
+	description: "Beer",
+	text: [
+		""
+	],
+	dependencies: [
+		"a1805eea",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ce0bca19",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 220"
+		}]
+	}]
+}

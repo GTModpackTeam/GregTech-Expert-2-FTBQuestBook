@@ -1,0 +1,25 @@
+{
+	title: "リゾート",
+	x: -9.0d,
+	y: 32.0d,
+	description: "Risotto",
+	text: [
+		""
+	],
+	dependencies: [
+		"74625872",
+		"295888d9",
+		"eeb54f8c",
+		"32bc94a7",
+		"0c9549a1",
+		"98c51163"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e557317d",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 283"
+		}]
+	}]
+}

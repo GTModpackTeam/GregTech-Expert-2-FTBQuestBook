@@ -1,0 +1,15 @@
+{
+	x: -6.0d,
+	y: -23.5d,
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "95928e4d",
+		type: "item",
+		items: [{
+			item: "minecraft:fish"
+		}]
+	}]
+}

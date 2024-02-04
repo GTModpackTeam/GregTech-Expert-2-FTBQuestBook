@@ -1,0 +1,21 @@
+{
+	title: "マメなソース",
+	x: 11.5d,
+	y: 14.0d,
+	description: "Beans with Sauce",
+	text: [
+		""
+	],
+	dependencies: [
+		"60535361",
+		"7a452f3e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3cf93e52",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 221"
+		}]
+	}]
+}

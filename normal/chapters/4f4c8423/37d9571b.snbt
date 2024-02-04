@@ -1,0 +1,20 @@
+{
+	title: "オリーブの欠片",
+	x: -7.5d,
+	y: -32.5d,
+	description: "Olive Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "07536c54",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 74"
+		}]
+	}]
+}

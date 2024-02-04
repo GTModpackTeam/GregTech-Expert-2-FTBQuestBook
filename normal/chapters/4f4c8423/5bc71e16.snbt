@@ -1,0 +1,20 @@
+{
+	title: "精製チョコ酒",
+	x: 13.0d,
+	y: 9.5d,
+	description: "Refined Chocolate Liquor",
+	text: [
+		""
+	],
+	dependencies: [
+		"c6e04311"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1b019d24",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1038"
+		}]
+	}]
+}

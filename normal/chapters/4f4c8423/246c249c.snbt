@@ -1,0 +1,20 @@
+{
+	title: "storage_block_cheddar",
+	x: -6.0d,
+	y: 4.0d,
+	description: "Cheddar Block",
+	text: [
+		""
+	],
+	dependencies: [
+		"e75f2119"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "bcdb9938",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 96"
+		}]
+	}]
+}

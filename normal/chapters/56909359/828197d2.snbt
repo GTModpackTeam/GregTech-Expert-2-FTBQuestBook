@@ -1,0 +1,19 @@
+{
+	title: "酸味液",
+	x: -10.5d,
+	y: 7.5d,
+	description: "Lemon Extract",
+	text: [
+		""
+	],
+	dependencies: [
+		"44c5dba9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "03a39afe",
+		type: "fluid",
+		fluid: "gtfo_lemon_extract",
+		amount: 100
+	}]
+}

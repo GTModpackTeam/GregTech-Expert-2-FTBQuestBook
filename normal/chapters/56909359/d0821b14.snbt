@@ -1,0 +1,21 @@
+{
+	title: "レーニンレモナード",
+	x: 3.0d,
+	y: 3.0d,
+	description: "Leninade",
+	text: [
+		""
+	],
+	dependencies: [
+		"801e572c",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7dae8ca2",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 130"
+		}]
+	}]
+}

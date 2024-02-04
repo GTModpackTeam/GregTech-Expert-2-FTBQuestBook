@@ -1,4 +1,5 @@
 {
+	title: "IV回路 Tier 3",
 	icon: "gregtech:meta_item_1 1 637",
 	x: -9.5d,
 	y: 0.0d,
@@ -13,6 +14,6 @@
 	tasks: [{
 		uid: "38e06379",
 		type: "checkmark",
-		title: "IV回路 Tier 3"
+		title: "達成したら押しましょう"
 	}]
 }

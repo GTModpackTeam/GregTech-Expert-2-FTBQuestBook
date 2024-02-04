@@ -1,0 +1,20 @@
+{
+	title: "スモア Tier7",
+	x: -10.5d,
+	y: -5.5d,
+	description: "Stack-o'-S'more HexecontatessaraS'mingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"c08dc8f8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a1e7cc6e",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 103"
+		}]
+	}]
+}

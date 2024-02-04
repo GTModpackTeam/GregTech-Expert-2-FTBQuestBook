@@ -1,0 +1,20 @@
+{
+	title: "コーラセットで",
+	x: -1.5d,
+	y: -5.5d,
+	description: "Potato Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"f218504f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "542ef612",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 27"
+		}]
+	}]
+}

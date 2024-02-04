@@ -1,0 +1,22 @@
+{
+	title: "ペーストジェノベズ",
+	x: -4.5d,
+	y: 24.5d,
+	description: "Pesto",
+	text: [
+		""
+	],
+	dependencies: [
+		"74625872",
+		"d2365baf",
+		"5564853f",
+		"d7a5e489"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fae7318b",
+		type: "fluid",
+		fluid: "gtfo_pesto",
+		amount: 250
+	}]
+}

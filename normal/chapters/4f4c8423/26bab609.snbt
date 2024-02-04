@@ -1,0 +1,20 @@
+{
+	title: "未焼成のビーコン",
+	x: -6.0d,
+	y: 2.0d,
+	description: "Uncooked Bacon",
+	text: [
+		""
+	],
+	dependencies: [
+		"224fee98"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7dae4d18",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 108"
+		}]
+	}]
+}

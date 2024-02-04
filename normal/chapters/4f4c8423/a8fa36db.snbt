@@ -1,0 +1,20 @@
+{
+	title: "チャムは万能食材(錯乱)",
+	x: -9.0d,
+	y: 21.5d,
+	description: "Chum Lasagna",
+	text: [
+		""
+	],
+	dependencies: [
+		"029e1e9e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4c219bd3",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 288"
+		}]
+	}]
+}

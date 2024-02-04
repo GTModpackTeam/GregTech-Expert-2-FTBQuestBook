@@ -1,0 +1,21 @@
+{
+	title: "5 Bacons per Sandwich",
+	x: 10.0d,
+	y: -2.5d,
+	description: "Large Bacon Sandwich",
+	text: [
+		""
+	],
+	dependencies: [
+		"7a7de7fc",
+		"50fe2728"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b7b46c89",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 71"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "リンゴハードモード",
+	x: 10.0d,
+	y: 0.5d,
+	description: "Apple Hard Candy",
+	text: [
+		""
+	],
+	dependencies: [
+		"7cb7b983"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "9a5e051a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 14"
+		}]
+	}]
+}

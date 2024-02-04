@@ -1,0 +1,23 @@
+{
+	title: "トルテリタリトリーニ",
+	x: -12.0d,
+	y: 24.5d,
+	description: "Tortelini",
+	text: [
+		""
+	],
+	dependencies: [
+		"74625872",
+		"40ba49c7",
+		"224fee98",
+		"021b38b4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "70476d94",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 266"
+		}]
+	}]
+}

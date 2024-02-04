@@ -1,0 +1,24 @@
+{
+	title: "ナポリ風-1",
+	x: -6.0d,
+	y: 20.0d,
+	description: "Unbaked Napoletana Lasagna in Baking Tray",
+	text: [
+		""
+	],
+	dependencies: [
+		"74625872",
+		"7a452f3e",
+		"20f41361",
+		"021b38b4",
+		"5b4c52e3"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "9e77a557",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 297"
+		}]
+	}]
+}

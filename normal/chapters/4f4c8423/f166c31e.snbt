@@ -1,0 +1,20 @@
+{
+	title: "やっぱ腐ってるよね",
+	x: 3.0d,
+	y: -32.5d,
+	description: "Rotten Fish",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "98e0e299",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 117"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "コーヒー豆-発酵",
+	x: -16.5d,
+	y: 7.5d,
+	description: "Fermented Coffee Beans",
+	text: [
+		""
+	],
+	dependencies: [
+		"cce79f89"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "de6f6127",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1027"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1026"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "端数のキリが悪い...",
+	x: 11.5d,
+	y: 3.5d,
+	description: "Molten Milk Chocolate",
+	text: [
+		""
+	],
+	dependencies: [
+		"7022c907",
+		"1e1c86fb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c3645c57",
+		type: "fluid",
+		fluid: "gtfo_molten_milk_chocolate"
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "スプリンクラーと使えば最強",
+	x: 1.0d,
+	y: -3.5d,
+	description: "Farmer",
+	text: [
+		"この機械は名前の通り自動で作物の栽培を行ってくれる機械です。",
+		"食糧生産のためだけでなく、種油を作りバイオディーゼルを作るために使うのも良いでしょう。"
+	],
+	dependencies: [
+		"3664deb4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f7fc3c40",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 8561"
+		},
+		{
+			item: "gregtech:machine 1 8562"
+		},
+		{
+			item: "gregtech:machine 1 8563"
+		},
+		{
+			item: "gregtech:machine 1 8564"
+		}]
+	}]
+}

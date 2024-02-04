@@ -1,0 +1,20 @@
+{
+	title: "切っトメイトゥ",
+	x: -3.0d,
+	y: -31.0d,
+	description: "Totamo Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6305f08f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 79"
+		}]
+	}]
+}

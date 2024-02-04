@@ -1,0 +1,20 @@
+{
+	title: "豆を砕くだけで入手させてくれ",
+	x: 14.5d,
+	y: 5.0d,
+	description: "Cocoa Dust",
+	text: [
+		""
+	],
+	dependencies: [
+		"8ee2566e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "897dee70",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 1614"
+		}]
+	}]
+}

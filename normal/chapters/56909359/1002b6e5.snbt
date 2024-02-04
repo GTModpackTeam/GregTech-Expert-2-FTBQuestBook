@@ -1,0 +1,22 @@
+{
+	title: "味...",
+	x: -10.5d,
+	y: 3.0d,
+	description: "Sparkling Water",
+	text: [
+		""
+	],
+	dependencies: [
+		"372bc12b",
+		"fef4afa6",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "612cbdb1",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 16"
+		}]
+	}]
+}

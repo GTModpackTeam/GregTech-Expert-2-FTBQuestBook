@@ -1,0 +1,20 @@
+{
+	title: "チャム-2",
+	x: -7.5d,
+	y: 21.5d,
+	description: "Baked Chum Lasagna in Baking Tray",
+	text: [
+		""
+	],
+	dependencies: [
+		"e566ad69"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "844f8343",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 299"
+		}]
+	}]
+}

@@ -1,4 +1,6 @@
 {
+	title: "LuV回路 Tier 2",
+	icon: "gregtech:meta_item_1 1 638",
 	x: -9.5d,
 	y: 1.5d,
 	description: "Quantum Supercomputer",
@@ -12,7 +14,6 @@
 	tasks: [{
 		uid: "6442c4e2",
 		type: "checkmark",
-		title: "LuV回路 Tier 2",
-		icon: "gregtech:meta_item_1 1 638"
+		title: "達成したら押しましょう"
 	}]
 }

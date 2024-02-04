@@ -1,0 +1,18 @@
+{
+	title: "定期休暇ビール",
+	x: -3.0d,
+	y: 4.5d,
+	description: "Poor-Quality Beer",
+	text: [
+		""
+	],
+	dependencies: [
+		"fccebb08"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "9ee224b3",
+		type: "fluid",
+		fluid: "gtfo_poor_quality_beer"
+	}]
+}

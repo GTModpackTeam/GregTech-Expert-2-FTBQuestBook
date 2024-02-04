@@ -1,0 +1,23 @@
+{
+	title: "コーヒー豆-焙煎中",
+	x: -13.5d,
+	y: 9.0d,
+	description: "Graded Coffee Beans",
+	text: [
+		""
+	],
+	dependencies: [
+		"e3291eac"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2090f86a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1021"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1020"
+		}]
+	}]
+}

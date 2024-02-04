@@ -1,4 +1,6 @@
 {
+	title: "LuV回路 Tier 4",
+	icon: "gregtech:meta_item_1 1 644",
 	x: -6.5d,
 	y: 1.5d,
 	description: "Wetware Processor",
@@ -14,7 +16,6 @@
 	tasks: [{
 		uid: "d4b01bb9",
 		type: "checkmark",
-		title: "LuV回路 Tier 4",
-		icon: "gregtech:meta_item_1 1 644"
+		title: "達成したら押しましょう"
 	}]
 }

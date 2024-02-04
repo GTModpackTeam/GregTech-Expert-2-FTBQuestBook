@@ -1,0 +1,20 @@
+{
+	title: "スモア...? Tier9",
+	x: -10.5d,
+	y: -8.5d,
+	description: "MultiS'mogus GrandS'mingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"7e75f276"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "86cf76b0",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 105"
+		}]
+	}]
+}

@@ -1,4 +1,6 @@
 {
+	title: "IV回路 Tier 4",
+	icon: "gregtech:meta_item_1 1 640",
 	x: -8.0d,
 	y: 0.0d,
 	description: "Crystal Processor",
@@ -14,7 +16,6 @@
 	tasks: [{
 		uid: "88db319f",
 		type: "checkmark",
-		title: "IV回路 Tier 4",
-		icon: "gregtech:meta_item_1 1 640"
+		title: "達成したら押しましょう"
 	}]
 }

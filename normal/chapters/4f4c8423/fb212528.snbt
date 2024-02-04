@@ -1,0 +1,21 @@
+{
+	title: "あなたは1%を引けるかな?",
+	x: 10.0d,
+	y: -16.0d,
+	description: "Chumburger",
+	text: [
+		""
+	],
+	dependencies: [
+		"a32d4479",
+		"349734f8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "ca0f1b37",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 121"
+		}]
+	}]
+}

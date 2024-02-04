@@ -1,0 +1,20 @@
+{
+	title: "組立機君お腹空いてたのかな",
+	x: 14.5d,
+	y: -1.0d,
+	description: "Cored Apple",
+	text: [
+		""
+	],
+	dependencies: [
+		"7255cbae"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "dcfb01c2",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 13"
+		}]
+	}]
+}

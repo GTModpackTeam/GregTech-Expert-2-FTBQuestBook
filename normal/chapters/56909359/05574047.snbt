@@ -1,0 +1,19 @@
+{
+	title: "調理用赤ワイン",
+	x: -6.0d,
+	y: 4.5d,
+	description: "Red Wine",
+	text: [
+		""
+	],
+	dependencies: [
+		"68bfc00f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d80623ed",
+		type: "fluid",
+		fluid: "gtfo_red_wine",
+		amount: 200
+	}]
+}

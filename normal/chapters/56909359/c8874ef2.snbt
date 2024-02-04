@@ -1,0 +1,21 @@
+{
+	title: "オランゲジュース",
+	x: -16.5d,
+	y: 3.0d,
+	description: "Orange Juice",
+	text: [
+		""
+	],
+	dependencies: [
+		"0b159b6c",
+		"920a4ed9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b12687c9",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 155"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "染料で染色してない...?",
+	x: 13.0d,
+	y: 0.5d,
+	description: "Apple Candy Syrup",
+	text: [
+		""
+	],
+	dependencies: [
+		"665f815d",
+		"34987a2b"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "cb43e26f",
+		type: "fluid",
+		fluid: "gtfo_apple_candy_syrup",
+		amount: 2000
+	}]
+}

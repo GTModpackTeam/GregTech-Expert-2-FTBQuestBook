@@ -1,0 +1,22 @@
+{
+	title: "スモア Tier1",
+	x: -10.5d,
+	y: 4.0d,
+	description: "S'more S'mingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"4e3e9386",
+		"8573b3cd",
+		"bc2de696"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f0c647a0",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 192"
+		}]
+	}]
+}

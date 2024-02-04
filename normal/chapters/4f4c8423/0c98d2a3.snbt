@@ -1,0 +1,18 @@
+{
+	title: "凝固しようとしているなうな牛乳",
+	x: -1.5d,
+	y: 18.5d,
+	description: "Curdling Parmigiano-Reggiano",
+	text: [
+		""
+	],
+	dependencies: [
+		"d2fa61cd"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2e5b6f69",
+		type: "fluid",
+		fluid: "gtfo_curdling_parmigiano_reggiano"
+	}]
+}

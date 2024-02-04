@@ -1,0 +1,21 @@
+{
+	title: "うまいうまい",
+	x: 10.0d,
+	y: 5.0d,
+	description: "Chocolate Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"94752891",
+		"a358fcc8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "fa89a1e6",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 172"
+		}]
+	}]
+}

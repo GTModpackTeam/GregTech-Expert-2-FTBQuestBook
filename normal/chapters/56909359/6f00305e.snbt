@@ -1,0 +1,20 @@
+{
+	title: "使わないと思った?実は一つだけ使い道が",
+	x: 8.5d,
+	y: -4.0d,
+	description: "Rainbowwood Sapling",
+	text: [
+		"虹色の樹液は虹色のアイスに使います。"
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0aa57dfe",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_sapling_0 1 14"
+		}]
+	}]
+}

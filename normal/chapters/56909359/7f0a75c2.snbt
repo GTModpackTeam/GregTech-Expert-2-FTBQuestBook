@@ -1,0 +1,13 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"c7b34d16"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8927ab13",
+		type: "checkmark",
+		title: "GTFO-作物"
+	}]
+}

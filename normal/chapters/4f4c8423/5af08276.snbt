@@ -1,0 +1,20 @@
+{
+	title: "現ﾅﾏともいう",
+	x: 3.0d,
+	y: -7.0d,
+	description: "Dough",
+	text: [
+		""
+	],
+	dependencies: [
+		"c99efcd5"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d2283acb",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 50"
+		}]
+	}]
+}

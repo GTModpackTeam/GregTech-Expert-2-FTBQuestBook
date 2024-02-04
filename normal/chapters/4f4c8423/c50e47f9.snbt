@@ -1,0 +1,22 @@
+{
+	title: "あなたと会うためのサンドイッチ",
+	x: 10.0d,
+	y: -11.5d,
+	description: "Meat Sandwich",
+	text: [
+		""
+	],
+	dependencies: [
+		"193da5b8",
+		"175d2c83",
+		"7511372a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "7657b3fc",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 68"
+		}]
+	}]
+}

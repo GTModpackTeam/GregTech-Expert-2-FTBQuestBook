@@ -1,0 +1,20 @@
+{
+	title: "リガトニ乾",
+	x: -6.0d,
+	y: 26.0d,
+	description: "Dried Rigatoni",
+	text: [
+		""
+	],
+	dependencies: [
+		"424c0c05"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "054e6126",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 261"
+		}]
+	}]
+}

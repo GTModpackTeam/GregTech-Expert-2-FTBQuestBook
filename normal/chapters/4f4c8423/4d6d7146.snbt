@@ -1,0 +1,20 @@
+{
+	title: "ステーク！",
+	x: 6.0d,
+	y: -32.5d,
+	description: "Steak",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "175d2c83",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_beef"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "小は大を兼ねない",
+	x: -7.5d,
+	y: 9.5d,
+	description: "Small Mozzarella Curd",
+	text: [
+		""
+	],
+	dependencies: [
+		"85654d02"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "03429cb4",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1103"
+		}]
+	}]
+}

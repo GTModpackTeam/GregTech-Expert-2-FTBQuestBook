@@ -1,0 +1,20 @@
+{
+	title: "凝乳モッツァレラ",
+	x: -6.0d,
+	y: 9.5d,
+	description: "Large Mozzarella Curd",
+	text: [
+		""
+	],
+	dependencies: [
+		"42f96beb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "a484488a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1102"
+		}]
+	}]
+}

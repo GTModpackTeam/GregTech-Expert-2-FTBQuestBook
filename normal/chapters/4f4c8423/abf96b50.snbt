@@ -1,0 +1,23 @@
+{
+	title: "ラージだろうがなんだろうが三角形じゃなかろうがサンドイッチ",
+	x: 10.0d,
+	y: -4.0d,
+	description: "Large Veggie Sandwich",
+	text: [
+		""
+	],
+	dependencies: [
+		"07f5f357",
+		"6305f08f",
+		"50fe2728",
+		"98c51163"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0da92f1f",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 69"
+		}]
+	}]
+}

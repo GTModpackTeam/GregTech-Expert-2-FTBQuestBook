@@ -1,0 +1,21 @@
+{
+	title: "液化卵をInfusedしたパスタ生地",
+	x: -1.5d,
+	y: 21.5d,
+	description: "Egg Pasta Dough",
+	text: [
+		""
+	],
+	dependencies: [
+		"3a658e91",
+		"dfdaba12"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2cf1bf19",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 244"
+		}]
+	}]
+}

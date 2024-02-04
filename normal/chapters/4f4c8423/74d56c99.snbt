@@ -1,0 +1,20 @@
+{
+	title: "meta的に言うとdense plate",
+	x: 13.0d,
+	y: 2.0d,
+	description: "Hard Candy Resin",
+	text: [
+		""
+	],
+	dependencies: [
+		"36b52ba8"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "80ef5d4c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1100"
+		}]
+	}]
+}

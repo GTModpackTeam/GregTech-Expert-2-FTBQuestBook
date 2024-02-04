@@ -1,0 +1,20 @@
+{
+	title: "Preスライス版",
+	x: 8.5d,
+	y: -13.0d,
+	description: "Pre-Sliced Bun",
+	text: [
+		""
+	],
+	dependencies: [
+		"b7e07603"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "0cc3f126",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 84"
+		}]
+	}]
+}

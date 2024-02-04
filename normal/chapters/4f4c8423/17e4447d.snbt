@@ -1,0 +1,20 @@
+{
+	title: "スパゲティ完",
+	x: -7.5d,
+	y: 27.5d,
+	description: "Spaghetti",
+	text: [
+		""
+	],
+	dependencies: [
+		"45a30934"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "35116f25",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 263"
+		}]
+	}]
+}

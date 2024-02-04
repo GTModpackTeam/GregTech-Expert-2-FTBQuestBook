@@ -1,0 +1,18 @@
+{
+	title: "白ブドウジュース-圧搾",
+	x: -4.5d,
+	y: 7.5d,
+	description: "Pressed White Wort",
+	text: [
+		""
+	],
+	dependencies: [
+		"49551d5f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "e1e8b90a",
+		type: "fluid",
+		fluid: "gtfo_pressed_white_wort"
+	}]
+}

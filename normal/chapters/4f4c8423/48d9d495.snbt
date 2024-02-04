@@ -1,0 +1,21 @@
+{
+	title: "滅菌クリーンルームに入れよう",
+	x: 14.5d,
+	y: 12.5d,
+	description: "Fungal Rennet Solution",
+	text: [
+		""
+	],
+	dependencies: [
+		"3d056f4c",
+		"9c5874c5",
+		"11fc898f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "9484ed28",
+		type: "fluid",
+		fluid: "gtfo_fungal_rennet_solution",
+		amount: 250
+	}]
+}

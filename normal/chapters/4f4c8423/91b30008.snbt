@@ -1,0 +1,20 @@
+{
+	title: "全て液体になった",
+	x: -7.5d,
+	y: 33.5d,
+	description: "Mixed Pasta e fagioli",
+	text: [
+		""
+	],
+	dependencies: [
+		"465905a5",
+		"2d81bca5",
+		"60535361"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "bf25302b",
+		type: "fluid",
+		fluid: "gtfo_mixed_pasta_e_fagioli"
+	}]
+}

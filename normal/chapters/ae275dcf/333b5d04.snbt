@@ -1,4 +1,6 @@
 {
+	title: "LV回路 Tier 1",
+	icon: "gregtech:meta_item_1 1 621",
 	x: -17.0d,
 	y: -6.0d,
 	description: "Electronic Circuit",
@@ -12,7 +14,6 @@
 	tasks: [{
 		uid: "b78b18dc",
 		type: "checkmark",
-		title: "LV回路 Tier 1",
-		icon: "gregtech:meta_item_1 1 621"
+		title: "達成したら押しましょう"
 	}]
 }

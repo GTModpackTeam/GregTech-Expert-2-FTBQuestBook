@@ -1,0 +1,11 @@
+{
+	title: "食べ物-完成品-2",
+	x: 9.25d,
+	y: -19.5d,
+	size: 3.0d,
+	min_width: 300,
+	tasks: [{
+		uid: "1dd4f107",
+		type: "checkmark"
+	}]
+}

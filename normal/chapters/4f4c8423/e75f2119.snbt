@@ -1,0 +1,20 @@
+{
+	title: "安心しろ、熟成だ",
+	x: -6.0d,
+	y: 5.0d,
+	description: "Aged Cheddar Mold",
+	text: [
+		""
+	],
+	dependencies: [
+		"28591cbb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4d83a4f4",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 93"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "チーズの青カビ",
+	x: 13.0d,
+	y: 12.5d,
+	description: "Penicillium Roqueforti",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6ac964c3",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1111"
+		}]
+	}]
+}

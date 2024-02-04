@@ -1,0 +1,20 @@
+{
+	title: "砕いたハードキャンディ",
+	x: -1.5d,
+	y: 6.0d,
+	description: "Crushed Hard Candy",
+	text: [
+		""
+	],
+	dependencies: [
+		"ca998ccb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2e761f37",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1093"
+		}]
+	}]
+}

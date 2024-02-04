@@ -1,0 +1,41 @@
+{
+	title: "カッティングではなくスライス",
+	x: 1.0d,
+	y: -2.0d,
+	description: "Slicing Machine",
+	text: [
+		"この機械はナイフを使うクラフトレシピを効率的に行うだけでなく、チーズの作成やポテトの切断に使えます。"
+	],
+	dependencies: [
+		"3664deb4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "cee18034",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 8503"
+		},
+		{
+			item: "gregtech:machine 1 8504"
+		},
+		{
+			item: "gregtech:machine 1 8505"
+		},
+		{
+			item: "gregtech:machine 1 8506"
+		},
+		{
+			item: "gregtech:machine 1 8507"
+		},
+		{
+			item: "gregtech:machine 1 8508"
+		},
+		{
+			item: "gregtech:machine 1 8509"
+		},
+		{
+			item: "gregtech:machine 1 8510"
+		}]
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "太るのには気をつけよう",
+	x: 2.0d,
+	y: 15.5d,
+	description: "Animal Fat",
+	text: [
+		""
+	],
+	dependencies: [
+		"b2394689",
+		"0fef5495"
+	],
+	dependency_requirement: "one_completed",
+	min_width: 300,
+	tasks: [{
+		uid: "3afff92d",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1119"
+		}]
+	}]
+}

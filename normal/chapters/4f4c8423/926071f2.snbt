@@ -1,0 +1,19 @@
+{
+	title: "IndustrialForeGoingのあれ",
+	x: 5.0d,
+	y: 11.0d,
+	description: "Sludge",
+	text: [
+		""
+	],
+	dependencies: [
+		"b2394689"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2abceb2a",
+		type: "fluid",
+		fluid: "gtfo_sludge",
+		amount: 100
+	}]
+}

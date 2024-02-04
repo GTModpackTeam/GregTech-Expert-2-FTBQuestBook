@@ -1,0 +1,20 @@
+{
+	title: "塩カード",
+	x: -4.5d,
+	y: 6.5d,
+	description: "Salted Curd",
+	text: [
+		""
+	],
+	dependencies: [
+		"9e906c0f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "980272c7",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1109"
+		}]
+	}]
+}

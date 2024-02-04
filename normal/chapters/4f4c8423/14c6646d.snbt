@@ -1,0 +1,20 @@
+{
+	title: "冬でもうまい(諸説あり)",
+	x: -9.0d,
+	y: -1.0d,
+	description: "Plain Ice Cream",
+	text: [
+		""
+	],
+	dependencies: [
+		"8cbd6b2a"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "94752891",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 165"
+		}]
+	}]
+}

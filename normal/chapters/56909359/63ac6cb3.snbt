@@ -1,0 +1,23 @@
+{
+	title: "ピザに乗せるとおいしい",
+	x: 7.5d,
+	y: 2.0d,
+	description: "Basil",
+	text: [
+		""
+	],
+	dependencies: [
+		"7f0a75c2"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d7a5e489",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 304"
+		},
+		{
+			item: "gregtechfoodoption:gtfo_meta_item 1 234"
+		}]
+	}]
+}

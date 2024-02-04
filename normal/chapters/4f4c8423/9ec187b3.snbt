@@ -1,0 +1,17 @@
+{
+	title: "前バージョンだとUEV電圧を使って作れたはず(それでも不可能)",
+	x: 6.0d,
+	y: -26.5d,
+	description: "Enchanted Golden Apple",
+	dependencies: [
+		"7c8eab7e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "6053082e",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_apple 1 1"
+		}]
+	}]
+}

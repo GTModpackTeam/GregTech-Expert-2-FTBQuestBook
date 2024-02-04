@@ -1,0 +1,21 @@
+{
+	title: "Slice'n'Chips",
+	x: -10.5d,
+	y: -17.5d,
+	description: "Fish'n'Chips",
+	text: [
+		""
+	],
+	dependencies: [
+		"7940dc5c",
+		"c195df19"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4bcba776",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 213"
+		}]
+	}]
+}

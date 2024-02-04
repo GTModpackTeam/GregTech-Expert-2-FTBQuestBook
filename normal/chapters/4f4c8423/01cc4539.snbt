@@ -1,0 +1,17 @@
+{
+	title: "Vallin'",
+	x: -7.5d,
+	y: -16.0d,
+	description: "Vanillin",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d3274f16",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1125"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "MiCo'sキッチン",
+	x: -3.0d,
+	y: 24.5d,
+	description: "Olive Oil",
+	text: [
+		""
+	],
+	dependencies: [
+		"e674cabb"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "98b549ef",
+		type: "fluid",
+		fluid: "gtfo_olive_oil",
+		amount: 100
+	}]
+}

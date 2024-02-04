@@ -1,0 +1,20 @@
+{
+	title: "切ロット",
+	x: 6.0d,
+	y: -31.0d,
+	description: "Carrot Slice",
+	text: [
+		""
+	],
+	dependencies: [
+		"825ce8fc"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "eadb0ab8",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 148"
+		}]
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "カーボンara",
+	x: -9.0d,
+	y: 29.0d,
+	description: "Carbonara",
+	text: [
+		""
+	],
+	dependencies: [
+		"af4f2557",
+		"7a7de7fc",
+		"17e4447d"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "abbf41f7",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 274"
+		}]
+	}]
+}

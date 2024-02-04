@@ -1,0 +1,16 @@
+{
+	title: "オオミツルコケモモ抽出物",
+	x: -9.0d,
+	y: 9.0d,
+	description: "Cranberry Extract",
+	text: [
+		""
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "8061c05b",
+		type: "fluid",
+		fluid: "gtfo_cranberry_extract",
+		amount: 25
+	}]
+}

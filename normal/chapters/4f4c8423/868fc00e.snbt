@@ -1,0 +1,22 @@
+{
+	title: "ボロネーゼサウス",
+	x: -13.5d,
+	y: 29.0d,
+	description: "Bolognese Sauce",
+	text: [
+		""
+	],
+	dependencies: [
+		"295888d9",
+		"98b549ef",
+		"eadb0ab8",
+		"20f41361",
+		"98c51163"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "c6d97a3a",
+		type: "fluid",
+		fluid: "gtfo_bolognese_sauce"
+	}]
+}

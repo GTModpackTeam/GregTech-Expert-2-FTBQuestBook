@@ -1,0 +1,19 @@
+{
+	title: "これ自体は危なくない",
+	x: 0.0d,
+	y: 6.0d,
+	description: "Cough Syrup",
+	text: [
+		""
+	],
+	dependencies: [
+		"ade1d2aa",
+		"2ed6edf9"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "01fa98eb",
+		type: "fluid",
+		fluid: "gtfo_cough_syrup"
+	}]
+}

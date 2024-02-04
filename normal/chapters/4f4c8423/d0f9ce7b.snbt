@@ -1,0 +1,22 @@
+{
+	title: "フィルターMogus",
+	x: -9.0d,
+	y: 27.5d,
+	description: "Pasta all'Amogus",
+	text: [
+		""
+	],
+	dependencies: [
+		"79da78a0",
+		"50d6d544",
+		"5b4c52e3"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "f4caedfd",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 295"
+		}]
+	}]
+}

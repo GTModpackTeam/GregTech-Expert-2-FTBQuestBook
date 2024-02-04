@@ -1,0 +1,20 @@
+{
+	title: "凝乳って意味らしい",
+	x: -3.0d,
+	y: 5.0d,
+	description: "Cut Curd",
+	text: [
+		""
+	],
+	dependencies: [
+		"a6a41074"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "73f340fd",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1107"
+		}]
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "やはり組立機は偉大",
+	x: 10.0d,
+	y: 2.0d,
+	description: "Cake",
+	text: [
+		""
+	],
+	dependencies: [
+		"01c5000d",
+		"7022c907",
+		"0ddcd63f"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "d26a7d90",
+		type: "item",
+		items: [{
+			item: "minecraft:cake"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

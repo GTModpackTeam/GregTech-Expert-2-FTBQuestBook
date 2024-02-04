@@ -1,0 +1,23 @@
+{
+	title: "真っ赤っ赤",
+	x: 6.0d,
+	y: -14.5d,
+	description: "Raw Mince Meat Pizza",
+	text: [
+		""
+	],
+	dependencies: [
+		"f999df31",
+		"20f41361",
+		"bfbf14d8",
+		"a588db67"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "30662873",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 61"
+		}]
+	}]
+}

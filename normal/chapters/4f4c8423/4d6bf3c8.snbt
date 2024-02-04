@@ -1,0 +1,20 @@
+{
+	title: "Forming Pressは節約のプロではないようだ...",
+	x: 8.5d,
+	y: 0.5d,
+	description: "Cake Bottom",
+	text: [
+		""
+	],
+	dependencies: [
+		"8897ec2c"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1f367a2a",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 56"
+		}]
+	}]
+}

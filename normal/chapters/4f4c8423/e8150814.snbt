@@ -1,0 +1,20 @@
+{
+	title: "インゴット...?",
+	x: 3.5d,
+	y: 14.0d,
+	description: "Cooked Meat Ingot",
+	text: [
+		""
+	],
+	dependencies: [
+		"1419196e"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "2e8c002c",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_oredict_item 1 1120"
+		}]
+	}]
+}

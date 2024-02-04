@@ -1,5 +1,6 @@
 {
 	title: "EV時代",
+	icon: "gregtech:machine 1 989",
 	x: -11.0d,
 	y: -9.0d,
 	shape: "square",
@@ -14,7 +15,6 @@
 	tasks: [{
 		uid: "93bc96bc",
 		type: "checkmark",
-		title: "到達したら押しましょう",
-		icon: "gregtech:machine 1 989"
+		title: "達成したら押しましょう"
 	}]
 }

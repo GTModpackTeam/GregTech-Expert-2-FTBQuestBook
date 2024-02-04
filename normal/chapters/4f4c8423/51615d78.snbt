@@ -1,0 +1,18 @@
+{
+	title: "1回で4皿分",
+	x: 3.5d,
+	y: 3.5d,
+	description: "Rafanata Mixture",
+	text: [
+		""
+	],
+	dependencies: [
+		"31de66af"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "b4209273",
+		type: "fluid",
+		fluid: "gtfo_rafanata_mixture"
+	}]
+}

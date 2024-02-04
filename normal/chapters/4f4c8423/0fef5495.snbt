@@ -1,0 +1,18 @@
+{
+	title: "油は食いすぎると普通に吐く",
+	x: 2.0d,
+	y: 9.5d,
+	description: "Liquid Fat (Stearin)",
+	text: [
+		""
+	],
+	dependencies: [
+		"d4940b72"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "5ffdc5bc",
+		type: "fluid",
+		fluid: "gtfo_stearin"
+	}]
+}

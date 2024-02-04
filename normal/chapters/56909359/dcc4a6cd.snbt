@@ -1,0 +1,31 @@
+{
+	title: "QuarkTech以外の装備で近づくと死ぬ",
+	x: 2.5d,
+	y: -2.0d,
+	description: "Mob Exterminator",
+	text: [
+		"この装置は名前の通りモブを自動で倒してくれる機械です。",
+		"この装置を用いて幹細胞を自動化すると良いでしょう。",
+		"tips:レッドストーン信号が必要。"
+	],
+	dependencies: [
+		"3664deb4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "4496cc9c",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 8549"
+		},
+		{
+			item: "gregtech:machine 1 8550"
+		},
+		{
+			item: "gregtech:machine 1 8551"
+		},
+		{
+			item: "gregtech:machine 1 8552"
+		}]
+	}]
+}

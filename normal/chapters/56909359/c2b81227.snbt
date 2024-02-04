@@ -1,0 +1,18 @@
+{
+	title: "Enriched クランベリー",
+	x: -9.0d,
+	y: 7.5d,
+	description: "Cranberry Sludge",
+	text: [
+		""
+	],
+	dependencies: [
+		"b58431ff"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "95b64af6",
+		type: "fluid",
+		fluid: "gtfo_cranberry_sludge"
+	}]
+}

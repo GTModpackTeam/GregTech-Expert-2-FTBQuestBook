@@ -1,0 +1,19 @@
+{
+	title: "赤ブドウマスト",
+	x: -6.0d,
+	y: 9.0d,
+	description: "Red Grapes Must",
+	text: [
+		""
+	],
+	dependencies: [
+		"08ce4a08"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "38fd22ba",
+		type: "fluid",
+		fluid: "gtfo_red_grapes_must",
+		amount: 4000
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "ロシアに業務委託",
+	x: 1.5d,
+	y: 3.0d,
+	description: "Vodka",
+	text: [
+		""
+	],
+	dependencies: [
+		"920a4ed9",
+		"949f10f4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "3cb79b89",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 129"
+		}]
+	}]
+}

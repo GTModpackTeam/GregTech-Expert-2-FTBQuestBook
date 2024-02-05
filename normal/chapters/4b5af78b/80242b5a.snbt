@@ -1,7 +1,7 @@
 {
 	title: "地盤沈下不可避",
-	x: 20.0d,
-	y: 1.5d,
+	x: 22.0d,
+	y: 2.0d,
 	description: "Primitive Water Pump",
 	text: [
 		"(地下)水を汲み上げる初歩的なウォーターポンプを作りましょう。",

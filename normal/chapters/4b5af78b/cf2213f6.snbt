@@ -1,7 +1,7 @@
 {
 	title: "顔色悪そうだよ大丈夫？",
 	icon: "gregtech:meta_ingot 1 2037",
-	x: 20.0d,
+	x: 22.0d,
 	y: -2.0d,
 	description: "Potin Ingot",
 	text: [

@@ -1,6 +1,6 @@
 {
 	title: "壊すとアイテムが出てくる",
-	x: 12.0d,
+	x: 16.0d,
 	y: 2.0d,
 	description: "Wooden Crate",
 	text: [

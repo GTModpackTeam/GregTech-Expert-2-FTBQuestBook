@@ -14,11 +14,12 @@ Gregtech Expert 2の進行を助ける解説メイン・報酬なしの日本語
 |  超高圧時代  |  〇  |  〇  |
 |  IV時代  |  〇  |  △  |
 |  LuV時代  |  △  |  ×  |
-|  ZPM時代  |  △  |  ×  |
-|  UV時代  |  △  |  ×  |
-|  UHV時代  |  △  |  ×  |
 |  DE/DA  |  △  |  ×  |
+|  ZPM時代  |  △  |  ×  |
+|  UV/UHV時代  |  △  |  ×  |
 |  エンドコンテンツ  |  〇  |  ×  |
+|  Gregtech Food Option  |  〇  |  △  |
+|  GTFO-食料  |  〇  |  ×  |
 
 # Credits
 [Gregtech Expert 2](https://github.com/GTModpackTeam/gregtech-expert-2)

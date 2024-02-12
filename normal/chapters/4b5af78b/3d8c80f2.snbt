@@ -1,0 +1,25 @@
+{
+	title: "鉄分も取れそう",
+	x: 12.0d,
+	y: 2.0d,
+	description: "Lunch Box",
+	text: [
+		"ランチボックスはランチバックより詰める食べ物が3種類増えて、最大6種類まで持てるようになります。",
+		"",
+		"ちなみに両方とも複数持つことが出来るので、2つ持って全部違う食べ物を詰めるだけで飽きには困らなくなります。"
+	],
+	dependencies: [
+		"3ac887a1",
+		"41a73fe4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "aed920fe",
+		type: "item",
+		items: [{
+			item: "spiceoflife:lunchbox"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -4,8 +4,10 @@
 	y: -29.5d,
 	description: "Popcorn Bag",
 	dependencies: [
-		"7c8eab7e"
+		"533773be",
+		"f03e1540"
 	],
+	dependency_requirement: "one_completed",
 	min_width: 300,
 	tasks: [{
 		uid: "cb7e6b60",

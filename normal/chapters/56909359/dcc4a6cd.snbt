@@ -1,7 +1,7 @@
 {
 	title: "QuarkTech以外の装備で近づくと死ぬ",
-	x: 2.5d,
-	y: -2.0d,
+	x: 3.0d,
+	y: -1.5d,
 	description: "Mob Exterminator",
 	text: [
 		"この装置は名前の通りモブを自動で倒してくれる機械です。",

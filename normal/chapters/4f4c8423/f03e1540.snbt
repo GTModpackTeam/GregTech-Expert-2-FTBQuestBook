@@ -12,6 +12,7 @@
 		"9cc5add5",
 		"825ce8fc"
 	],
+	min_width: 300,
 	tasks: [{
 		uid: "4053bd39",
 		type: "item",
@@ -20,7 +21,6 @@
 		}],
 		consume_items: true
 	}],
-	min_width: 300,
 	rewards: [{
 		uid: "904a93bd",
 		type: "choice",

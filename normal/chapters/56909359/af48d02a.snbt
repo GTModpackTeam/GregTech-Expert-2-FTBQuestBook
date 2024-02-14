@@ -1,7 +1,7 @@
 {
 	title: "これ一つで十分?",
-	x: -1.0d,
-	y: -2.0d,
+	x: -1.5d,
+	y: -1.5d,
 	description: "Cuisine Assenbler",
 	text: [
 		"GTFOでの調理には基本的にこの組立機が必要です。",

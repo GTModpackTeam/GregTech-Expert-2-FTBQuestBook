@@ -1,0 +1,24 @@
+{
+	title: "グラファイトで印刷",
+	x: -3.0d,
+	y: -3.0d,
+	description: "Kitchen Recipe",
+	text: [
+		"・キッチンレシピの使い方",
+		"まずレシピを登録したい食料を一度「作成」しておかなければいけません。",
+		"カカオなどの一部の素材は意図的に無効化されているようです。",
+		"プログラム回路などの消費しないアイテムはInput busに入れておけば自動で使用されます。",
+		"(ツールチップに書いてありますが)GTCEuのシングルブロック以外のレシピは登録できません。"
+	],
+	dependencies: [
+		"3664deb4"
+	],
+	min_width: 300,
+	tasks: [{
+		uid: "1c304c17",
+		type: "item",
+		items: [{
+			item: "gregtechfoodoption:gtfo_meta_item 1 343"
+		}]
+	}]
+}

@@ -11,14 +11,16 @@
 		"",
 		"このクエストとLVモーターのクエストを終わらせることでLV時代が始まります。",
 		"",
-		"余談：Community_Packでは3つ目の回路がクエスト報酬として支給される",
+		"",
+		"余談その1",
+		"Community Packでは3つ目の回路がクエスト報酬として支給される",
 		"羨ましい",
 		"",
-		"余談：Modern_Industrialization_modでも同じ名前の回路がLV機械の素材として要求されるが、",
-		"こちらはインダクタ、キャパシタ、レジスタを全て使ったLCR回路である",
+		"余談その2",
+		"Modern Industrialization modでも同じ名前の回路がLV機械の素材として要求されるが、こちらはインダクタ、キャパシタ、レジスタを全て使ったLCR回路である",
 		"",
-		"余談：Gregicality-Legacyではsupracausal_Circuit(超因果回路)という名前の回路があったので、",
-		"Community_Packでは昔この回路はsupracasual_Circuit(超カジュアル回路)とネタにされていた"
+		"余談その3",
+		"Gregicality Legacyではsupracausal Circuit(超因果回路)という名前の回路があったので、Community Packでは昔この回路はsupracasual Circuit(超カジュアル回路)とネタにされていた"
 	],
 	dependencies: [
 		"7c0bcaab",

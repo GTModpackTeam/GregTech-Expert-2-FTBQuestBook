@@ -4,17 +4,18 @@
 	y: 6.0d,
 	description: "Crafting Box",
 	text: [
-		"Crafting_BoxをStorage_CoreもしくはStorage_Boxに繋ぐことで",
-		"Storage_CoreのUIにクラフティンググリッドが追加されます。",
+		"Crafting BoxをStorage CoreもしくはStorage Boxに繋ぐことで",
+		"Storage CoreのUIにクラフティンググリッドが追加されます。",
 		"",
 		"§mしかし、このグリッドにJEIで検索したレシピを展開した時",
 		"Gregtechのツールが展開されません。",
 		"更にバグでシフトクリックでまとめてクラフトすることができません。§r",
-		"Crafting_StationならGregtechのツールが展開されたりまとめてクラフトができたりしますが、",
-		"StationはStorage_Coreをインベントリとして認識しません。",
+		"Crafting StationならGregtechのツールが展開されたりまとめてクラフトができたりしますが、StationはStorage Coreをインベントリとして認識しません。",
 		"どちらの作業台をメインで使うかはプレイヤーの好みに委ねられます。",
 		"",
-		"余談：直近の更新で上記の煩わしさがかなり解消した"
+		"",
+		"余談その1",
+		"直近の更新で上記の煩わしさがかなり解消した"
 	],
 	dependencies: [
 		"b4a568df"

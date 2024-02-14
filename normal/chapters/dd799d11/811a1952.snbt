@@ -6,7 +6,9 @@
 	text: [
 		"無線パターンターミナルはパターンターミナルのワイヤレス版です。",
 		"",
-		"余談：Wireless Fluid Pattern TerminalはAE2 Fluid Crafting Reworkで新たに追加されたツールです。"
+		"",
+		"余談その1",
+		"Wireless Fluid Pattern TerminalはAE2 Fluid Crafting Reworkで新たに追加されたツールです。"
 	],
 	dependencies: [
 		"f49e45c9"

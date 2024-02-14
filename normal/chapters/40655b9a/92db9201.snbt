@@ -9,7 +9,9 @@
 		"",
 		"この回路はEV時代で使います。",
 		"",
-		"余談：メインフレームのテクスチャはIBM zEnterpriseのメインフレームの画像が元ネタである。",
+		"",
+		"余談その1",
+		"メインフレームのテクスチャはIBM zEnterpriseのメインフレームの画像が元ネタである。",
 		"https://www.datacenterknowledge.com/archives/2010/07/22/roundup-ibms-new-zenterprise-mainframe"
 	],
 	dependencies: [

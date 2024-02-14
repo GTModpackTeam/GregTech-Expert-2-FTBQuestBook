@@ -7,9 +7,7 @@
 	text: [
 		"IV組立機とIV裁断機はIVのエネルギーとダイナモハッチを解禁します。",
 		"",
-		"ついでにGregicality Multiblocksの大型版も解禁したり、",
-		"最上位の/dank/nullも解禁したり、",
-		"AE2の自動化に必要な安いレシピも解禁します。"
+		"ついでにGregicality Multiblocksの大型版も解禁したり、最上位の/dank/nullも解禁したり、AE2の自動化に必要な安いレシピも解禁します。"
 	],
 	dependencies: [
 		"7a014b0b"

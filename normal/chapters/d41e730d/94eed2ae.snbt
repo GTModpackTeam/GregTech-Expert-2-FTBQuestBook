@@ -6,7 +6,7 @@
 	description: "RTM Alloy Ingot",
 	text: [
 		"この合金はRuthenium、Tungsten、Molybdenumの3つの金属から成り、それぞれの頭文字をとってRTM合金と呼ばれています。",
-		"CEu-2.8.0より4番目のコイル素材がタングステンスチールからRTM合金に変更になったため、白金族処理機構の需要が高まりました。"
+		"CEu v2.8.0より4番目のコイル素材がタングステンスチールからRTM合金に変更になったため、白金族処理機構の需要が高まりました。"
 	],
 	dependencies: [
 		"0d6c4f78",

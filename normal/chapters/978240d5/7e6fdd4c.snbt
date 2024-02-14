@@ -4,7 +4,7 @@
 	y: 8.0d,
 	description: "Block of Awakened Draconium",
 	text: [
-		"ドラゴンハートはエンダードラゴンを倒すだけで手に入るので本当はStem_Cells経由で作る必要はありません"
+		"ドラゴンハートはエンダードラゴンを倒すだけで手に入るので本当はStem Cells経由で作る必要はありません"
 	],
 	dependencies: [
 		"2ab277de"

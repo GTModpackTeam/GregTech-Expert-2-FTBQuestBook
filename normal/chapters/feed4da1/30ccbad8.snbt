@@ -4,11 +4,10 @@
 	y: 4.0d,
 	description: "Search Box",
 	text: [
-		"検索ボックスをStorage_CoreもしくはStorage_Boxに繋ぐことで",
-		"Storage_Coreの中身を検索することができるようになります。",
+		"検索ボックスをStorage CoreもしくはStorage Boxに繋ぐことで",
+		"Storage Coreの中身を検索することができるようになります。",
 		"",
-		"実はこの段階でStorage_Coreの中身をソートできるSorting_Boxを作ることができるようになりますが、",
-		"Storage_CoreのUIを占領してJEIのブックマークを圧迫するので作成は推奨されません。"
+		"実はこの段階でStorage Coreの中身をソートできるSorting Boxを作ることができるようになりますが、Storage CoreのUIを占領してJEIのブックマークを圧迫するので作成は推奨されません。"
 	],
 	dependencies: [
 		"b4a568df"

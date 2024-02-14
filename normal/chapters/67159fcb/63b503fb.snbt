@@ -7,7 +7,7 @@
 	text: [
 		"LuV電圧へようこそ！",
 		"核融合炉が解禁されます。",
-		"またGregicality_Multiblocksのマルチブロックを本格的に使うのもこの時代からになるでしょう。"
+		"またGregicality Multiblocksのマルチブロックを本格的に使うのもこの時代からになるでしょう。"
 	],
 	min_width: 300,
 	tasks: [{

@@ -1,7 +1,7 @@
 {
 	title: "GTNHのぶっ壊れ要員",
-	x: 8.0d,
-	y: -4.0d,
+	x: 10.0d,
+	y: -6.0d,
 	shape: "diamond",
 	description: "Large Chemical Reactor",
 	text: [

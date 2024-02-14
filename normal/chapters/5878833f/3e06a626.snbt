@@ -23,9 +23,9 @@
 		"現在は液体で自動化している硫酸は元は液体セルが機械から機械へと移動してぐるぐるすることで自動化できていた",
 		"面白かったが面倒でもあった"
 	],
-	hide_dependency_lines: true,
 	dependencies: [
-		"4ca7718b"
+		"4ca7718b",
+		"558bdfac"
 	],
 	min_width: 300,
 	tasks: [{

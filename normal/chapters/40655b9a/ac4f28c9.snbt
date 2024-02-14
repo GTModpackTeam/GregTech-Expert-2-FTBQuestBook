@@ -1,7 +1,7 @@
 {
 	title: "酸酸たいそう",
-	x: 12.0d,
-	y: -6.0d,
+	x: 10.0d,
+	y: -4.5d,
 	shape: "diamond",
 	description: "Nitric Acid",
 	text: [

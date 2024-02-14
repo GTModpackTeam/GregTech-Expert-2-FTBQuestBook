@@ -1,7 +1,7 @@
 {
 	title: "砕いたポテト",
 	x: 8.0d,
-	y: -2.0d,
+	y: -4.0d,
 	description: "Artificial Blaze Powder",
 	text: [
 		"ブレイズを殺すことでブレイズパウダーを入手できますが、他の手段で入手したい場合もあると思います。",

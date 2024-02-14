@@ -4,8 +4,7 @@
 	y: -4.0d,
 	description: "Crafting Calculator",
 	text: [
-		"Crafting Calculatorは任意のアイテムを複数個作成するときに必要な",
-		"中間素材の合計数を表示してくれる計算機です。",
+		"Crafting Calculatorは任意のアイテムを複数個作成するときに必要な中間素材の合計数を表示してくれる計算機です。",
 		"Gregtechの機械加工にも対応しており、主にマルチブロックの建設で活躍します。",
 		"",
 		"簡単な使い方は以下の通りです。",

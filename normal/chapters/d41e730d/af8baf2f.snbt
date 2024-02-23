@@ -5,7 +5,7 @@
 	shape: "diamond",
 	description: "Extreme Voltage Coil",
 	text: [
-		"Extreme_Voltage_コイルはエネルギーハッチとダイナモハッチの中間素材です。"
+		"Extreme Voltage Coilはエネルギーハッチとダイナモハッチの中間素材です。"
 	],
 	dependencies: [
 		"027279df",

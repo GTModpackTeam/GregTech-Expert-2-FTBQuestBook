@@ -4,7 +4,7 @@
 	y: 10.0d,
 	description: "Hyper Storage Box",
 	text: [
-		"Hyper_Storage_BoxはStorage_Coreの容量を320,000増加させます。"
+		"Hyper Storage BoxはStorage Coreの容量を320,000増加させます。"
 	],
 	dependencies: [
 		"390f03f3"

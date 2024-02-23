@@ -4,7 +4,7 @@
 	y: -11.5d,
 	description: "Roasted Potato on a Stick",
 	text: [
-		"簡単・素早い・序盤に優秀"
+		"簡単 / 素早い / 序盤に優秀"
 	],
 	dependencies: [
 		"61bb4b85"

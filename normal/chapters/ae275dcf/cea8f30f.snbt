@@ -1,6 +1,6 @@
 {
-	title: "各電圧の主要ケーブルたち",
-	id: "gregtech:wire_cutter",
+	title: "各電圧の主要ケーブルたち 1",
+	icon: "gregtech:wire_cutter",
 	x: -0.5d,
 	y: -9.0d,
 	shape: "square",

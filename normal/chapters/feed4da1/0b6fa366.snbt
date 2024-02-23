@@ -4,7 +4,7 @@
 	y: 6.0d,
 	description: "Storage Box",
 	text: [
-		"Storage_BoxはStorage_Coreの容量を400増加させます。"
+		"Storage BoxはStorage Coreの容量を400増加させます。"
 	],
 	dependencies: [
 		"b4a568df"

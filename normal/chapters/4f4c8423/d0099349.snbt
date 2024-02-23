@@ -3,8 +3,10 @@
 	x: 6.0d,
 	y: -28.0d,
 	dependencies: [
-		"7c8eab7e"
+		"533773be",
+		"f03e1540"
 	],
+	dependency_requirement: "one_completed",
 	min_width: 300,
 	tasks: [{
 		uid: "8700eecd",

@@ -5,7 +5,7 @@
 	y: -1.5d,
 	description: "Workstation",
 	text: [
-		"クリーンルームの用意はできましたか？"
+		"クリーンルームの用意はできましたか?"
 	],
 	dependencies: [
 		"aa0ed183"
